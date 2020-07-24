@@ -1,0 +1,14 @@
+# Lancet Data Extractions
+
+## Data
+
+The full database can be found in the `/data` folder.
+
+## Testing
+
+To test the extractions, run `pytest`. It invokes tests defined in the
+`/tests` folder.
+
+## Caveats
+
+Only countries are retained. Diamond Princess, for example, is not.
