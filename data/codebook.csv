@@ -1,2 +1,6 @@
-indicator,label,description,source,link,last_extracted
-jhu_cases,"Confirmed cases of Covid-19","Lorem ipsum","John Hopkins University",http://xyz.com,2020-07-24
+﻿indicator,label,description,source,reference,notes,link_to_data_repository,link_to_dataset
+jhu_cases,Confirmed cases of Covid-19,"Confirmed cases include presumptive positive cases and probable cases, in accordance with CDC guidelines as of April 14.",John Hopkins University,"Dong, E., Du, H., & Gardner, L. (2020). An interactive web-based dashboard to track COVID-19 in real time. The Lancet, 20(5), 533–534. https://doi.org/10.1016/S1473-3099(20)30120-1","- China includes Hong Kong
+- Denmark includes Greenland
+- France includes overseas territories
+- Netherlands includes overseas territories
+- United Kingdom includes overseas territories",https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
