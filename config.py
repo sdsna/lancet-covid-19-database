@@ -10,20 +10,20 @@ CODEBOOK_PATH = os.path.join(DATA_FOLDER, 'codebook.csv')
 # The format for the date column in the indicator CSV files
 DATE_FORMAT = '%Y-%m-%d'
 
-# The pipelines
-PIPELINES = [
+# The indicators and pipelines
+INDICATORS = [
     {
-        'indicator': 'jhu_cases',
+        'id': 'jhu_cases',
         'pipeline': 'jhu',
         'dataset': 'time_series_covid19_confirmed_global.csv'
     },
     {
-        'indicator': 'jhu_deaths',
+        'id': 'jhu_deaths',
         'pipeline': 'jhu',
         'dataset': 'time_series_covid19_deaths_global.csv'
     },
     {
-        'indicator': 'jhu_recoveries',
+        'id': 'jhu_recoveries',
         'pipeline': 'jhu',
         'dataset': 'time_series_covid19_recovered_global.csv'
     },

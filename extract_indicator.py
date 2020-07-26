@@ -1,29 +1,40 @@
 import importlib
 import argparse
 
-from config import PIPELINES
+from config import INDICATORS
+from helpers.glob_match import glob_match
 
 # Set up program arguments
-program = argparse.ArgumentParser(description='Extract a single indicator.')
+program = argparse.ArgumentParser(description = 'Extract one or more indicators.')
 
-program.add_argument('indicator', help='the indicator to extract')
+program.add_argument(
+    'indicator',
+    nargs = '+',
+    help = 'the indicator to extract (you can use wildcards, like * and ?)'
+)
 
 # Get the arguments
 args = program.parse_args()
-indicator = args.indicator
+indicator_globs = args.indicator
 
-# TODO: Add support for regex pipelines: jhu*
-#       and multiple pipelines: jhu_cases jhu_deaths
+# Identify the indicators to extract
+indicators = []
+for item in INDICATORS:
+    if any([glob_match(glob, item['id']) for glob in indicator_globs]):
+        indicators.append(item)
 
-# Find the pipeline to run
-pipeline = next(item for item in PIPELINES if item['indicator'] == indicator)
-print('Extracting indicator', indicator, 'via pipeline', pipeline['pipeline'], end=' ... ')
+# Run the pipeline for each indicator
+for indicator in indicators:
+    id = indicator['id']
+    pipeline = indicator['pipeline']
+    arguments = {k:v for k,v in indicator.items() if k not in ['id', 'pipeline']}
 
-# Load the pipeline
-module = importlib.import_module('.' + pipeline['pipeline'], 'pipelines')
-run_pipeline = getattr(module, 'run_pipeline')
+    print('Extracting indicator', id, 'via pipeline', pipeline, '...')
 
-# Run the pipeline
-pipeline_args = {k:v for k,v in pipeline.items() if k not in ['indicator', 'pipeline']}
-run_pipeline(pipeline['indicator'], **pipeline_args)
-print("Done!")
+    # Load the pipeline
+    module = importlib.import_module('.' + pipeline, 'pipelines')
+    run_pipeline = getattr(module, 'run_pipeline')
+
+    # Run the pipeline
+    run_pipeline(id, **arguments)
+    print('Extracting indicator', id, 'via pipeline', pipeline, '...', 'Done! :)')
