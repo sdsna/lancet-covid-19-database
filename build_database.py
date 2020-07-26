@@ -1,11 +1,12 @@
 import pandas as pd
 
-from config import INDICATORS, DATABASE_PATH
+from config import DATABASE_PATH
 from helpers.load_indicator import load_indicator
+from helpers.get_indicator_ids import get_indicator_ids
 
 def build_database():
     # Collect indicator IDs
-    indicator_ids = [x['id'] for x in INDICATORS]
+    indicator_ids = get_indicator_ids()
 
     # Load first indicator
     database = load_indicator(indicator_ids[0])

@@ -19,7 +19,10 @@ dataset = dataset.drop(dataset[dataset.iso_code.isin(['OWID_KOS', 'OWID_WRL'])].
 dataset['date'] = dataset['date'].apply(lambda date: normalize_date(date, '%Y-%m-%d'))
 
 
-def run_pipeline(indicator, column):
+def run_pipeline(indicator):
+    # Get the column name for this indicator
+    column = indicator.replace('owid_', '', 1)
+
     # Create slice of data with country ID, date, and indicator
     frame = dataset[['iso_code', 'date', column]]
 

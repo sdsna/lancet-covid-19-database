@@ -1,6 +1,6 @@
 import pandas
 
-from config import CODEBOOK_PATH, DATABASE_PATH, INDICATORS
+from config import CODEBOOK_PATH, DATABASE_PATH
 
 database = pandas.read_csv(DATABASE_PATH)
 indicator_ids_in_db = list(set(database.columns) - set(['iso_code', 'country', 'date']))
@@ -9,10 +9,6 @@ def test_that_database_contains_all_indicators_defined_in_codebook():
     codebook = pandas.read_csv(CODEBOOK_PATH)
     indicators_defined_in_codebook = codebook['indicator'].tolist()
     assert indicator_ids_in_db.sort() == indicators_defined_in_codebook.sort()
-
-def test_that_database_contains_all_indicators_defined_in_config():
-    indicators_defined_in_config = [x['id'] for x in INDICATORS]
-    assert indicator_ids_in_db.sort() == indicators_defined_in_config.sort()
 
 def test_that_there_are_no_empty_rows():
     df = database.loc[:, ~database.columns.isin(['iso_code', 'country', 'date'])]

@@ -6,11 +6,17 @@ from helpers.normalize_date import normalize_date
 from helpers.save_indicator import save_indicator
 from helpers.normalize_country import normalize_country
 
+file_map = {
+    'jhu_confirmed':    'time_series_covid19_confirmed_global.csv',
+    'jhu_deaths':       'time_series_covid19_deaths_global.csv',
+    'jhu_recovered':    'time_series_covid19_recovered_global.csv'
+}
+
 repository_url = "https://github.com/CSSEGISandData/COVID-19/raw/master/csse_covid_19_data/csse_covid_19_time_series/"
 
-def run_pipeline(indicator, dataset):
+def run_pipeline(indicator):
     # Parse into dataframe
-    url = repository_url + dataset
+    url = repository_url + file_map[indicator]
     data = pd.read_csv(url)
 
     # Relabel country and state column

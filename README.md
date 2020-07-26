@@ -30,6 +30,10 @@ You can use wildcards (`*` and `?`) to extract several indicators at once:
 python extract_indicator.py owid*
 ```
 
+### Pipelines
+
+Pipelines are defined in `/pipelines`. The first segment of each indicator ID defines the pipeline to run. For example, requesting to update `jhu_confirmed` will trigger `/pipelines/jhu.py`.
+
 ### Testing
 
 To test the extractions, run `pytest`. It invokes tests defined in the
