@@ -14,7 +14,7 @@ def build_database():
     for id in indicator_ids[1:]:
         dataset = load_indicator(id)
         database = pd.merge(database, dataset,
-                            how = 'outer', on = ['country', 'date'])
+                            how = 'outer', on = ['iso_code', 'country', 'date'])
 
     # Save database
     database.to_csv(DATABASE_PATH, index = False)

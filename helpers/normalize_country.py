@@ -1,7 +1,7 @@
 import pandas
 import re
 
-codelist = pandas.read_csv('codelist.csv')
+codelist = pandas.read_csv('helpers/codelist.csv')
 
 # Normalize the country string into ISO 3166 alpha-3 country code
 # See: https://en.wikipedia.org/wiki/ISO_3166

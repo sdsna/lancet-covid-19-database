@@ -4,8 +4,7 @@
 
 ### [database.csv](https://sdsna.github.io/lancet-data/data/database.csv)
 
-This is the full database including all indicators. Each row in the database consists of a country ID and a date. The row contains all
-available observations for the country on that date.
+This is the full database including all indicators. Each row in the database consists of a country and a date. The row contains all available observations for the country on that date.
 
 To open the database in Stata, run:
 ```stata
@@ -16,11 +15,6 @@ import delimited using database.csv, varnames(1) encoding("utf-8")
 
 This file lists the indicator IDs used in the database and indicator files.
 You will find the indicator label, description, notes, source, reference, and dataset links.
-
-### [countries.csv](https://sdsna.github.io/lancet-data/data/countries.csv)
-
-This file lists the country IDs used in the database and indicator files.
-The IDs used are the ISO 3166 3-letter codes.
 
 ### [Indicator CSV Files](https://github.com/sdsna/lancet-data/tree/master/data/indicators/)
 

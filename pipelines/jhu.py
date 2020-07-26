@@ -25,21 +25,23 @@ def run_pipeline(indicator, dataset):
     # * Fix Taiwan: It is not clear why there is a star next to the name
     data['country'] = data['country'].replace({'Taiwan*': 'Taiwan'})
     # * Perform conversion
-    data['country'] = data['country'].apply(lambda country: normalize_country(country))
+    data['iso_code'] = data['country'].apply(lambda country: normalize_country(country))
+    # * Drop country name
+    data = data.drop(columns = ['country'])
 
     # Reshape into list
-    data = data.melt(id_vars = ['country', 'state'])
+    data = data.melt(id_vars = ['iso_code', 'state'])
     data = data.rename(columns = {'variable': 'date', 'value': indicator})
 
     # Normalize date format
     data['date'] = data['date'].apply(lambda date: normalize_date(date, '%m/%d/%y'))
 
     # Verify uniqueness
-    if data.duplicated(['country', 'state', 'date']).any(axis=None):
+    if data.duplicated(['iso_code', 'state', 'date']).any(axis=None):
         raise Exception('Duplicates in data detected')
 
     # Collapse states into country
-    data = data.groupby(["country", "date"], as_index=False).agg('sum')
+    data = data.groupby(["iso_code", "date"], as_index=False).agg('sum')
 
     # Save as CSV file
     save_indicator(indicator, dataset=data)
