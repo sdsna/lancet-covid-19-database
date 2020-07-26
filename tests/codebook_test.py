@@ -3,7 +3,10 @@ import codecs
 from os import listdir
 from os.path import isfile, join, splitext
 
-from config import CODEBOOK_PATH, INDICATOR_FOLDER
+from config import CODEBOOK_PATH, DATABASE_PATH, INDICATOR_FOLDER
+
+codebook = pandas.read_csv(CODEBOOK_PATH)
+indicators_defined_in_codebook = codebook['indicator'].tolist()
 
 def test_that_codebook_is_utf8():
     try:
@@ -16,7 +19,10 @@ def test_that_codebook_is_utf8():
 
 def test_that_codebook_contains_exactly_one_entry_for_each_indicator():
     indicator_files = [splitext(f)[0] for f in listdir(INDICATOR_FOLDER) if isfile(join(INDICATOR_FOLDER, f))]
-    codebook = pandas.read_csv(CODEBOOK_PATH)
-    indicators = codebook['indicator'].tolist()
+    assert indicators_defined_in_codebook.sort() == indicator_files.sort()
 
-    assert indicators.sort() == indicator_files.sort()
+def test_that_codebook_contains_all_indicators_used_in_database():
+    database = pandas.read_csv(DATABASE_PATH)
+    indicator_ids_used = database.indicator.unique()
+    undefined_ids = list(set(indicator_ids_used) - set(indicators_defined_in_codebook))
+    assert len(undefined_ids) == 0

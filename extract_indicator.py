@@ -2,6 +2,7 @@ import importlib
 import argparse
 
 from config import INDICATORS
+from build_database import build_database
 from helpers.glob_match import glob_match
 
 # Set up program arguments
@@ -38,3 +39,8 @@ for indicator in indicators:
     # Run the pipeline
     run_pipeline(id, **arguments)
     print('Extracting indicator', id, 'via pipeline', pipeline, '...', 'Done! :)')
+
+# Rebuild the database
+print('Rebuilding database', '...')
+build_database()
+print('Rebuilding database', '...', 'Done! :)')
