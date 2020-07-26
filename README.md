@@ -13,6 +13,19 @@ To open the database in Stata, run:
 import delimited using database.csv, varnames(1) encoding("utf-8")
 ```
 
+Prefer a table over a list? You can transpose the data in Stata using reshape:
+
+```stata
+// Convert indicator IDs into valid variable names: Replace dashes with
+// underscores and retain only the first 26 characters
+replace indicator = substr(strtoname(indicator), 1, 26) + "_"
+
+// Transpose into table format using reshape
+reshape wide @value, i(country date) j(indicator) string
+```
+
+![A picture of the database transposed in Stata](/transposed-database.png?raw=true)
+
 ### codebook.csv
 
 This file lists the indicator IDs used in the database and indicator files.
