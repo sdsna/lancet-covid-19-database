@@ -12,11 +12,8 @@ def save_indicator(name, dataset):
     if dataset.duplicated(['country', 'date']).any(axis=None):
         raise Exception('Duplicate country-data in data detected')
 
-    # Add column with indicator name
-    dataset['indicator'] = name
-
     # Re-order columns
-    dataset = dataset[['country', 'indicator', 'date', 'value']]
+    dataset = dataset[['country', 'date', name]]
 
     # Sort by country ID, then date
     dataset = dataset.sort_values(by=['country', 'date'])

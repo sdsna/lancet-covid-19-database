@@ -28,8 +28,8 @@ def run_pipeline(indicator, dataset):
     data['country'] = data['country'].apply(lambda country: normalize_country(country))
 
     # Reshape into list
-    data = data.melt(id_vars=['country', 'state'])
-    data = data.rename(columns={'variable': 'date'})
+    data = data.melt(id_vars = ['country', 'state'])
+    data = data.rename(columns = {'variable': 'date', 'value': indicator})
 
     # Normalize date format
     data['date'] = data['date'].apply(lambda date: normalize_date(date, '%m/%d/%y'))

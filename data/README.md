@@ -4,25 +4,13 @@
 
 ### [database.csv](https://sdsna.github.io/lancet-data/data/database.csv)
 
-This is the full database including all indicators. Each row in the database represents one observation. Each observation consists of a country ID, and indicator ID, a date, and a value.
+This is the full database including all indicators. Each row in the database consists of a country ID and a date. The row contains all
+available observations for the country on that date.
 
 To open the database in Stata, run:
 ```stata
 import delimited using database.csv, varnames(1) encoding("utf-8")
 ```
-
-Prefer a table over a list? You can transpose the data in Stata using reshape:
-
-```stata
-// Convert indicator IDs into valid variable names: Replace dashes with
-// underscores and retain only the first 26 characters
-replace indicator = substr(strtoname(indicator), 1, 26) + "_"
-
-// Transpose into table format using reshape
-reshape wide @value, i(country date) j(indicator) string
-```
-
-![A picture of the database transposed in Stata](https://raw.githubusercontent.com/sdsna/lancet-data/master/transposed-database.png)
 
 ### [codebook.csv](https://sdsna.github.io/lancet-data/data/codebook.csv)
 

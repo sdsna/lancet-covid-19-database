@@ -26,8 +26,8 @@ def run_pipeline(indicator, column):
     # Create slice of data with country, date, and indicator
     frame = dataset[['country', 'date', column]]
 
-    # Rename column to value
-    frame = frame.rename(columns = { column: 'value' })
+    # Rename column to indicator
+    frame = frame.rename(columns = { column: indicator })
 
     # Save as CSV file
     save_indicator(indicator, dataset=frame)

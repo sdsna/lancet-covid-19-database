@@ -24,7 +24,7 @@ def test_that_codebook_contains_exactly_one_entry_for_each_indicator():
 
 def test_that_codebook_contains_all_indicators_used_in_database():
     database = pandas.read_csv(DATABASE_PATH)
-    indicator_ids_used = database.indicator.unique()
+    indicator_ids_used = list(set(database.columns) - set(['country', 'date']))
     undefined_ids = list(set(indicator_ids_used) - set(indicators_defined_in_codebook))
     assert len(undefined_ids) == 0
 
