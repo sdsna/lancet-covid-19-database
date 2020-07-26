@@ -1,4 +1,4 @@
-iso_code,country,date,jhu-cases,jhu-deaths,jhu-recoveries,owid-total_cases,owid-new_cases,owid-total_deaths,owid-new_deaths,owid-total_cases_per_million,owid-new_cases_per_million,owid-total_deaths_per_million,owid-new_deaths_per_million,owid-total_tests,owid-new_tests,owid-new_tests_smoothed,owid-total_tests_per_thousand,owid-new_tests_per_thousand,owid-new_tests_smoothed_per_thousand,owid-stringency_index
+iso_code,country,date,jhu_cases,jhu_deaths,jhu_recoveries,owid_total_cases,owid_new_cases,owid_total_deaths,owid_new_deaths,owid_total_cases_per_million,owid_new_cases_per_million,owid_total_deaths_per_million,owid_new_deaths_per_million,owid_total_tests,owid_new_tests,owid_new_tests_smoothed,owid_total_tests_per_thousand,owid_new_tests_per_thousand,owid_new_tests_smoothed_per_thousand,owid_stringency_index
 AFG,Afghanistan,2020-01-22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,0.0
 AFG,Afghanistan,2020-01-23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,0.0
 AFG,Afghanistan,2020-01-24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,0.0
