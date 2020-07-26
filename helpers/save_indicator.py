@@ -3,6 +3,15 @@ from config import INDICATOR_FOLDER
 
 # Save the dataframe under the given name
 def save_indicator(name, dataset):
+    # Verify there are no empty countries or dates
+    nulls = dataset[['country', 'date']].isnull()
+    if nulls.any(axis=None):
+        raise Exception('Null values for country/date detected')
+
+    # Verify that there are no duplicate entries for country and date
+    if dataset.duplicated(['country', 'date']).any(axis=None):
+        raise Exception('Duplicate country-data in data detected')
+
     # Add column with indicator name
     dataset['indicator'] = name
 

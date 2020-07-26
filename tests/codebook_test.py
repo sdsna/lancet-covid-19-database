@@ -19,4 +19,4 @@ def test_that_codebook_contains_exactly_one_entry_for_each_indicator():
     codebook = pandas.read_csv(CODEBOOK_PATH)
     indicators = codebook['indicator'].tolist()
 
-    assert indicators == indicator_files
+    assert indicators.sort() == indicator_files.sort()
