@@ -26,6 +26,11 @@ download data for specific indicators only. In the `indicators/` folder, you wil
 1. Only countries (with 3166 ISO-3 code) have been retained. Observations for Kosovo and the Diamond Princess cruise ship, for example, have been removed.
 1. Units for tests conducted vary between countries: tests performed vs people tested vs samples tested.
 
+## Changelog
+
+All additions, modifications, and deletions of indicators are tracked and logged
+in [CHANGELOG.md](https://github.com/sdsna/lancet-data/blob/master/data/CHANGELOG.md).
+
 ## Questions? Comments? Concerns?
 
 We would love to hear from you! If you have a GitHub account, feel free to [just post an issue](https://github.com/sdsna/lancet-data/issues).
