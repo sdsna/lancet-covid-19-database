@@ -13,17 +13,17 @@ DATE_FORMAT = '%Y-%m-%d'
 # The indicators and pipelines
 INDICATORS = [
     {
-        'id': 'jhu_cases',
+        'id': 'jhu-cases',
         'pipeline': 'jhu',
         'dataset': 'time_series_covid19_confirmed_global.csv'
     },
     {
-        'id': 'jhu_deaths',
+        'id': 'jhu-deaths',
         'pipeline': 'jhu',
         'dataset': 'time_series_covid19_deaths_global.csv'
     },
     {
-        'id': 'jhu_recoveries',
+        'id': 'jhu-recoveries',
         'pipeline': 'jhu',
         'dataset': 'time_series_covid19_recovered_global.csv'
     },
