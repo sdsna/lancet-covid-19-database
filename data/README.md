@@ -1,5 +1,6 @@
 # Lancet Data Extractions
 
+![Last extraction](https://img.shields.io/endpoint?color=blue&label=Last%20extraction&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsdsna%2Flancet-data%2Fmaster%2Fbadges%2Flast-extraction.json)
 ![Countries covered](https://img.shields.io/endpoint?color=blue&label=Countries%20covered&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsdsna%2Flancet-data%2Fmaster%2Fbadges%2Fcountry-coverage.json)
 ![Days covered](https://img.shields.io/endpoint?color=blue&label=Days%20covered&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsdsna%2Flancet-data%2Fmaster%2Fbadges%2Fday-coverage.json)
 ![Total indicators](https://img.shields.io/endpoint?color=blue&label=Total%20indicators&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsdsna%2Flancet-data%2Fmaster%2Fbadges%2Ftotal-indicators.json)
