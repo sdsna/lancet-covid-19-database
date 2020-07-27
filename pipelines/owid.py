@@ -29,5 +29,8 @@ def run_pipeline(indicator):
     # Rename column to indicator
     frame = frame.rename(columns = { column: indicator })
 
+    # Drop rows without observation
+    frame = frame.dropna(subset = [indicator], axis = 'index')
+
     # Save as CSV file
     save_indicator(indicator, dataset=frame)

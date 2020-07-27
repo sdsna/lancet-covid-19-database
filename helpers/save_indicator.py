@@ -17,6 +17,10 @@ def save_indicator(name, dataset):
     if dataset.duplicated(['iso_code', 'date']).any(axis=None):
         raise Exception('Duplicate country-date in data detected')
 
+    # Verify that there are no empty observations
+    if dataset[name].isnull().any(axis=None):
+        raise Exception('Empty observations in data detected')
+
     # Add country name
     dataset = pandas.merge(dataset, codelist, how = 'left', on = ['iso_code'])
 
