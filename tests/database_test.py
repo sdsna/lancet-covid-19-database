@@ -2,7 +2,7 @@ import pandas
 
 from config import CODEBOOK_PATH, DATABASE_PATH
 
-database = pandas.read_csv(DATABASE_PATH)
+database = pandas.read_csv(DATABASE_PATH, low_memory = False)
 indicator_ids_in_db = list(set(database.columns) - set(['iso_code', 'country', 'date']))
 
 def test_that_database_contains_all_indicators_defined_in_codebook():

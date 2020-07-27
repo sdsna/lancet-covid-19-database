@@ -1,5 +1,48 @@
 # Changelog
 
+## July 27, 2020
+
+- Add ox_c1_school_closing (Record closings of schools and universities)
+- Add ox_c1_flag (Geographical scope of: Record closings of schools and universities)
+- Add ox_c2_workplace_closing (Record closings of workplaces)
+- Add ox_c2_flag (Geographical scope of: Record closings of workplaces)
+- Add ox_c3_cancel_public_events (Record cancelling public events)
+- Add ox_c3_flag (Geographical scope of: Record cancelling public events)
+- Add ox_c4_restrictions_on_gatherings (Record limits on private gatherings)
+- Add ox_c4_flag (Geographical scope of: Record limits on private gatherings)
+- Add ox_c5_close_public_transport (Record closing of public transport)
+- Add ox_c5_flag (Geographical scope of: Record closing of public transport)
+- Add ox_c6_stay_at_home_requirements (Record orders to "shelter-in-place" and otherwise confine to the home)
+- Add ox_c6_flag (Geographical scope of: Record orders to "shelter-in-place" and otherwise confine to the home)
+- Add ox_c7_restrictions_on_internal_movement (Record restrictions on internal movement between cities/regions)
+- Add ox_c7_flag (Geographical scope of: Record restrictions on internal movement between cities/regions)
+- Add ox_c8_international_travel_controls (Record restrictions on international travel. Note: this records policy for foreign travellers, not citizens)
+- Add ox_e1_income_support (Record if the government is providing direct cash payments to people who lose their jobs or cannot work. Note: only includes payments to firms if explicitly linked to payroll/salaries)
+- Add ox_e1_flag (Sectoral scope of: Record if the government is providing direct cash payments to people who lose their jobs or cannot work. Note: only includes payments to firms if explicitly linked to payroll/salaries)
+- Add ox_e2_debt_or_contract_relief (Record if the government is freezing financial obligations for households (eg stopping loan repayments, preventing services like water from stopping, or banning evictions))
+- Add ox_e3_fiscal_measures (Announced economic stimulus spending. Note: only record amount additional to previously announced spending)
+- Add ox_e4_international_support (Announced offers of Covid-19 related aid spending to other countries. Note: only record amount additional to previously announced spending)
+- Add ox_h1_public_information_campaigns (Record presence of public info campaigns)
+- Add ox_h1_flag (Geographical scope of: Record presence of public info campaigns)
+- Add ox_h2_testing_policy (Record government policy on who has access to testing. Note: this records policies about testing for current infection (PCR tests) not testing for immunity (antibody test))
+- Add ox_h3_contact_tracing (Record government policy on contact tracing after a positive diagnosis. Note: we are looking for policies that would identify all people potentially exposed to Covid-19; voluntary bluetooth apps are unlikely to achieve this)
+- Add ox_h4_emergency_investment_in_healthcare (Announced short term spending on healthcare system, eg hospitals, masks, etc. Note: only record amount additional to previously announced spending)
+- Add ox_h5_investment_in_vaccines (Announced public spending on Covid-19 vaccine development. Note: only record amount additional to previously announced spending)
+- Add ox_m1_wildcard (Record policy announcements that do not fit anywhere else)
+- Add ox_confirmed_cases (The cumulative total of confirmed Covid-19 cases.)
+- Add ox_confirmed_deaths (The cumulative total of deaths from Covid-19.)
+- Add ox_stringency_index (A number between 1 and 100 to reflect the level of the strictness of 'lockdown style' policies that primarily restrict people's behavior)
+- Add ox_stringency_index_for_display (A number between 1 and 100 to reflect the level of the strictness of 'lockdown style' policies that primarily restrict people's behavior (smoothed over the last seven days))
+- Add ox_stringency_legacy_index (A number between 1 and 100 to reflect the level of the strictness of 'lockdown style' policies that primarily restrict people's behavior)
+- Add ox_stringency_legacy_index_for_display (A number between 1 and 100 to reflect the level of the strictness of 'lockdown style' policies that primarily restrict people's behavior (smoothed over the last seven days))
+- Add ox_government_response_index (A number between 1 and 100 to reflect the overall response of government to Covid-19)
+- Add ox_government_response_index_for_display (A number between 1 and 100 to reflect the overall response of government to Covid-20 (smoothed over the last seven days))
+- Add ox_containment_health_index (A number between 1 and 100 to reflect government action related to 'lockdown' restrictions and closures, measures such as testing policy and contract tracing, and short term investment in healthcare and vaccine development)
+- Add ox_containment_health_index_for_display (A number between 1 and 100 to reflect government action related to 'lockdown' restrictions and closures, measures such as testing policy and contract tracing, and short term investment in healthcare and vaccine development (smoothed over the last seven days))
+- Add ox_economic_support_index (A number between 1 and 100 to reflect government action related to income support and debt relief)
+- Add ox_economic_support_index_for_display (A number between 1 and 100 to reflect government action related to income support and debt relief (smoothed over the last seven days))
+
+
 ## July 26, 2020
 
 - Add owid_total_cases (Total confirmed cases of COVID-19)
