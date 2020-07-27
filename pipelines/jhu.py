@@ -27,7 +27,7 @@ def run_pipeline(indicator):
 
     # Normalize country names:
     # * Drop non-countries
-    data = data.drop(data[data.country.isin(["Diamond Princess", "MS Zaandam"])].index)
+    data = data[~data.country.isin(["Diamond Princess", "MS Zaandam", "Kosovo"])]
     # * Fix Taiwan: It is not clear why there is a star next to the name
     data['country'] = data['country'].replace({'Taiwan*': 'Taiwan'})
     # * Perform conversion
