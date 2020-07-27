@@ -3,6 +3,7 @@
 
 import os
 import json
+from time import gmtime, strftime
 import pandas
 from millify import millify
 
@@ -14,16 +15,18 @@ BADGE_TEMPLATE = {
   "message": None
 }
 
-# Set full_update = True, if the full dataset has been updated.
-# This will regenerate the last_update badge with a timestamp of now
-def make_badges(full_update = False):
+# Set full_extraction = True, if the full dataset has been extracted.
+# This will regenerate the last-extraction badge with a timestamp of now
+def make_badges(full_extraction = False):
     badges = {}
 
     # Load the database and codebook
     database = pandas.read_csv(DATABASE_PATH, low_memory = False)
     codebook = pandas.read_csv(CODEBOOK_PATH)
 
-    # TODO: Last update badge
+    # Last update badge
+    if full_extraction:
+        badges['last-extraction'] = strftime("%b %d, %Y %H:%M GMT", gmtime())
 
     # Countries covered
     badges['country-coverage'] = database['iso_code'].nunique()

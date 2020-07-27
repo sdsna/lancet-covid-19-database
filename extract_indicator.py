@@ -21,7 +21,8 @@ indicator_globs = args.indicator
 
 # Identify the indicators to extract
 indicators = []
-for indicator_id in get_indicator_ids():
+all_indicator_ids = get_indicator_ids()
+for indicator_id in all_indicator_ids:
     if any([glob_match(glob, indicator_id) for glob in indicator_globs]):
         indicators.append(indicator_id)
 
@@ -46,5 +47,6 @@ print('Rebuilding database', '...', 'Done! :)')
 
 # Rebuild badges
 print('Remaking badges', '...')
-make_badges()
+is_full_extraction = len(indicators) == len(all_indicator_ids)
+make_badges(full_extraction = is_full_extraction)
 print('Remaking badges', '...', 'Done! :)')
