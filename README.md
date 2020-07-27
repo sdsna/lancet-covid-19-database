@@ -79,6 +79,8 @@ At the very end, should see this in the terminal:
 ```bash
 Rebuilding database ...
 Rebuilding database ... Done! :)
+Remaking badges ...
+Remaking badges ... Done! :)
 ```
 
 ### Publishing to GitHub
@@ -86,7 +88,7 @@ Rebuilding database ... Done! :)
 To publish updated datasets to GitHub, create a new commit with the updated indicator files and the overall database.
 
 ```bash
-git add ./data/
+git add ./data/ ./badges/
 git commit -m "Update indicators (YYYY-MM-DD)"
 git push
 ```

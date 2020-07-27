@@ -2,6 +2,7 @@ import importlib
 import argparse
 
 from build_database import build_database
+from make_badges import make_badges
 from helpers.glob_match import glob_match
 from helpers.get_indicator_ids import get_indicator_ids
 
@@ -42,3 +43,8 @@ for indicator in indicators:
 print('Rebuilding database', '...')
 build_database()
 print('Rebuilding database', '...', 'Done! :)')
+
+# Rebuild badges
+print('Remaking badges', '...')
+make_badges()
+print('Remaking badges', '...', 'Done! :)')
