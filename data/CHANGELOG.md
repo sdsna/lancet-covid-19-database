@@ -2,6 +2,7 @@
 
 ## July 27, 2020
 
+- Add marioli_effective_reproduction_rate (Real-time estimate of the effective reproduction rate (R) of Covid-19)
 - Add ox_c1_school_closing (Record closings of schools and universities)
 - Add ox_c1_flag (Geographical scope of: Record closings of schools and universities)
 - Add ox_c2_workplace_closing (Record closings of workplaces)
