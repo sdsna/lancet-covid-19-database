@@ -11,6 +11,7 @@ pandas = "*"
 argparse = "*"
 requests = "*"
 millify = "*"
+demjson = "*"
 
 [requires]
 python_version = "3.8"
