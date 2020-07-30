@@ -2,7 +2,7 @@
 
 ## Data
 
-You can find the full database, codebook, and indicator files in [the `/data/` folder](https://github.com/sdsna/lancet-data/tree/master/data).
+You can find the full database, codebook, and indicator files in [the `/data/` folder](https://github.com/sdsna/lancet-covid-19-database/tree/master/data).
 
 ---
 
@@ -28,8 +28,8 @@ First, clone this GitHub repository to your computer:
 
 ```bash
 cd ~/whatever/folder/you/want/to/use
-git clone https://github.com/sdsna/lancet-data.git
-cd ./lancet-data/
+git clone https://github.com/sdsna/lancet-covid-19-database.git
+cd ./lancet-covid-19-database/
 ```
 
 Then, set up the python environment:
