@@ -1,5 +1,13 @@
 # Changelog
 
+## July 30, 2020
+
+- Add marioli_ci_65_u (Upper 65% credible interval for the real-time estimate of the effective reproduction rate (R) of Covid-19)
+- Add marioli_ci_65_l (Lower 65% credible interval for the real-time estimate of the effective reproduction rate (R) of Covid-19)
+- Add marioli_ci_95_u (Upper 95% credible interval for the real-time estimate of the effective reproduction rate (R) of Covid-19)
+- Add marioli_ci_95_l (Lower 95% credible interval for the real-time estimate of the effective reproduction rate (R) of Covid-19)
+
+
 ## July 27, 2020
 
 - Add marioli_effective_reproduction_rate (Real-time estimate of the effective reproduction rate (R) of Covid-19)

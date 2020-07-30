@@ -27,25 +27,35 @@ csv = unquote(csv)
 csv_buffer = io.StringIO(csv)
 dataset = pandas.read_csv(csv_buffer)
 
+# Keep rows with average serial interval of 7 only
+dataset = dataset[dataset['days_infectious'] == 7]
+
+# Rename columns
+dataset = dataset.rename(columns = {
+    'Country/Region': 'country',
+    'R': 'effective_reproduction_rate'
+})
+
+# Convert countries to iso_code:
+# * Remove non-ISO countries
+dataset = dataset[~dataset['country'].isin(['World', 'Kosovo'])]
+# * Perform conversion
+dataset['iso_code'] = dataset['country'].apply(lambda country: normalize_country(country))
+
+# Normalize date format
+dataset['date'] = dataset['Date'].apply(lambda date: normalize_date(date, '%Y-%m-%d'))
+
 def run_pipeline(indicator):
-    global dataset
+    # Set column name from indicator
+    column = indicator.replace('marioli_', '')
 
-    # Keep rows with average serial interval of 7 only
-    dataset = dataset[dataset['days_infectious'] == 7]
+    # Create slice of data with country ID, date, and indicator
+    frame = dataset[['iso_code', 'date', column]]
 
-    # Rename columns
-    dataset = dataset.rename(columns = {'Country/Region': 'country', 'R': indicator})
+    # Rename column to indicator
+    frame = frame.rename(columns = { column: indicator })
 
-    # Convert countries to iso_code:
-    # * Remove non-ISO countries
-    dataset = dataset[~dataset['country'].isin(['World', 'Kosovo'])]
-    # * Perform conversion
-    dataset['iso_code'] = dataset['country'].apply(lambda country: normalize_country(country))
+    # Drop rows without observation
+    frame = frame.dropna(subset = [indicator], axis = 'index')
 
-    # Normalize date format
-    dataset['date'] = dataset['Date'].apply(lambda date: normalize_date(date, '%Y-%m-%d'))
-
-    # Keep iso_code, date, and indicator only
-    dataset = dataset[['iso_code', 'date', indicator]]
-
-    save_indicator(indicator, dataset=dataset)
+    save_indicator(indicator, dataset=frame)
