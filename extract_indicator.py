@@ -4,7 +4,7 @@ import argparse
 from build_database import build_database
 from make_badges import make_badges
 from helpers.glob_match import glob_match
-from helpers.get_indicator_ids import get_indicator_ids
+from helpers.get_indicator_ids import get_active_indicator_ids, get_inactive_indicator_ids
 
 # Set up program arguments
 program = argparse.ArgumentParser(description = 'Extract one or more indicators.')
@@ -19,9 +19,14 @@ program.add_argument(
 args = program.parse_args()
 indicator_globs = args.indicator
 
+# List inactive indicators, if any
+inactive_indicators = get_inactive_indicator_ids()
+if inactive_indicators:
+    print('Inactive indicators:', inactive_indicators)
+
 # Identify the indicators to extract
 indicators = []
-all_indicator_ids = get_indicator_ids()
+all_indicator_ids = get_active_indicator_ids()
 for indicator_id in all_indicator_ids:
     if any([glob_match(glob, indicator_id) for glob in indicator_globs]):
         indicators.append(indicator_id)
