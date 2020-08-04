@@ -130,6 +130,10 @@ ABW,Aruba,2020-07-28,0.0
 ABW,Aruba,2020-07-29,0.0
 ABW,Aruba,2020-07-30,0.0
 ABW,Aruba,2020-07-31,1.0
+ABW,Aruba,2020-08-01,1.0
+ABW,Aruba,2020-08-02,0.0
+ABW,Aruba,2020-08-03,1.0
+ABW,Aruba,2020-08-04,2.0
 AFG,Afghanistan,2019-12-31,0.0
 AFG,Afghanistan,2020-01-01,0.0
 AFG,Afghanistan,2020-01-02,0.0
@@ -334,6 +338,10 @@ AFG,Afghanistan,2020-07-28,105.0
 AFG,Afghanistan,2020-07-29,103.0
 AFG,Afghanistan,2020-07-30,0.0
 AFG,Afghanistan,2020-07-31,71.0
+AFG,Afghanistan,2020-08-01,168.0
+AFG,Afghanistan,2020-08-02,0.0
+AFG,Afghanistan,2020-08-03,0.0
+AFG,Afghanistan,2020-08-04,37.0
 AGO,Angola,2020-03-22,2.0
 AGO,Angola,2020-03-23,0.0
 AGO,Angola,2020-03-24,0.0
@@ -466,6 +474,10 @@ AGO,Angola,2020-07-28,2.0
 AGO,Angola,2020-07-29,18.0
 AGO,Angola,2020-07-30,50.0
 AGO,Angola,2020-07-31,78.0
+AGO,Angola,2020-08-01,31.0
+AGO,Angola,2020-08-02,5.0
+AGO,Angola,2020-08-03,34.0
+AGO,Angola,2020-08-04,16.0
 AIA,Anguilla,2020-03-27,2.0
 AIA,Anguilla,2020-03-28,0.0
 AIA,Anguilla,2020-03-29,0.0
@@ -593,6 +605,10 @@ AIA,Anguilla,2020-07-28,0.0
 AIA,Anguilla,2020-07-29,0.0
 AIA,Anguilla,2020-07-30,0.0
 AIA,Anguilla,2020-07-31,0.0
+AIA,Anguilla,2020-08-01,0.0
+AIA,Anguilla,2020-08-02,0.0
+AIA,Anguilla,2020-08-03,0.0
+AIA,Anguilla,2020-08-04,0.0
 ALB,Albania,2020-03-09,2.0
 ALB,Albania,2020-03-10,4.0
 ALB,Albania,2020-03-11,4.0
@@ -738,6 +754,10 @@ ALB,Albania,2020-07-28,117.0
 ALB,Albania,2020-07-29,117.0
 ALB,Albania,2020-07-30,108.0
 ALB,Albania,2020-07-31,92.0
+ALB,Albania,2020-08-01,79.0
+ALB,Albania,2020-08-02,120.0
+ALB,Albania,2020-08-03,123.0
+ALB,Albania,2020-08-04,101.0
 AND,Andorra,2020-03-03,1.0
 AND,Andorra,2020-03-14,1.0
 AND,Andorra,2020-03-16,3.0
@@ -878,6 +898,10 @@ AND,Andorra,2020-07-28,10.0
 AND,Andorra,2020-07-29,0.0
 AND,Andorra,2020-07-30,11.0
 AND,Andorra,2020-07-31,4.0
+AND,Andorra,2020-08-01,3.0
+AND,Andorra,2020-08-02,0.0
+AND,Andorra,2020-08-03,0.0
+AND,Andorra,2020-08-04,12.0
 ARE,United Arab Emirates,2019-12-31,0.0
 ARE,United Arab Emirates,2020-01-01,0.0
 ARE,United Arab Emirates,2020-01-02,0.0
@@ -1085,7 +1109,11 @@ ARE,United Arab Emirates,2020-07-27,351.0
 ARE,United Arab Emirates,2020-07-28,264.0
 ARE,United Arab Emirates,2020-07-29,369.0
 ARE,United Arab Emirates,2020-07-30,375.0
-ARE,United Arab Emirates,2020-07-31,604.0
+ARE,United Arab Emirates,2020-07-31,585.0
+ARE,United Arab Emirates,2020-08-01,0.0
+ARE,United Arab Emirates,2020-08-02,254.0
+ARE,United Arab Emirates,2020-08-03,239.0
+ARE,United Arab Emirates,2020-08-04,164.0
 ARG,Argentina,2020-03-04,1.0
 ARG,Argentina,2020-03-06,1.0
 ARG,Argentina,2020-03-07,6.0
@@ -1233,6 +1261,10 @@ ARG,Argentina,2020-07-28,0.0
 ARG,Argentina,2020-07-29,4890.0
 ARG,Argentina,2020-07-30,5939.0
 ARG,Argentina,2020-07-31,5641.0
+ARG,Argentina,2020-08-01,6377.0
+ARG,Argentina,2020-08-02,5929.0
+ARG,Argentina,2020-08-03,5241.0
+ARG,Argentina,2020-08-04,5376.0
 ARM,Armenia,2019-12-31,0.0
 ARM,Armenia,2020-01-01,0.0
 ARM,Armenia,2020-01-02,0.0
@@ -1300,37 +1332,37 @@ ARM,Armenia,2020-03-12,3.0
 ARM,Armenia,2020-03-13,2.0
 ARM,Armenia,2020-03-14,7.0
 ARM,Armenia,2020-03-15,7.0
-ARM,Armenia,2020-03-16,10.0
-ARM,Armenia,2020-03-17,22.0
-ARM,Armenia,2020-03-18,26.0
-ARM,Armenia,2020-03-19,37.0
-ARM,Armenia,2020-03-20,7.0
-ARM,Armenia,2020-03-21,14.0
-ARM,Armenia,2020-03-22,24.0
-ARM,Armenia,2020-03-23,30.0
-ARM,Armenia,2020-03-24,4.0
-ARM,Armenia,2020-03-25,71.0
+ARM,Armenia,2020-03-16,8.0
+ARM,Armenia,2020-03-17,17.0
+ARM,Armenia,2020-03-18,33.0
+ARM,Armenia,2020-03-19,32.0
+ARM,Armenia,2020-03-20,26.0
+ARM,Armenia,2020-03-21,24.0
+ARM,Armenia,2020-03-22,30.0
+ARM,Armenia,2020-03-23,4.0
+ARM,Armenia,2020-03-24,41.0
+ARM,Armenia,2020-03-25,30.0
 ARM,Armenia,2020-03-26,25.0
 ARM,Armenia,2020-03-27,39.0
 ARM,Armenia,2020-03-28,43.0
 ARM,Armenia,2020-03-29,52.0
-ARM,Armenia,2020-03-30,0.0
-ARM,Armenia,2020-03-31,58.0
-ARM,Armenia,2020-04-01,50.0
-ARM,Armenia,2020-04-02,39.0
-ARM,Armenia,2020-04-03,92.0
-ARM,Armenia,2020-04-04,73.0
-ARM,Armenia,2020-04-05,34.0
-ARM,Armenia,2020-04-06,52.0
-ARM,Armenia,2020-04-07,11.0
-ARM,Armenia,2020-04-08,20.0
-ARM,Armenia,2020-04-09,28.0
-ARM,Armenia,2020-04-10,40.0
-ARM,Armenia,2020-04-11,16.0
-ARM,Armenia,2020-04-12,30.0
-ARM,Armenia,2020-04-13,46.0
-ARM,Armenia,2020-04-14,26.0
-ARM,Armenia,2020-04-15,72.0
+ARM,Armenia,2020-03-30,58.0
+ARM,Armenia,2020-03-31,50.0
+ARM,Armenia,2020-04-01,39.0
+ARM,Armenia,2020-04-02,92.0
+ARM,Armenia,2020-04-03,73.0
+ARM,Armenia,2020-04-04,34.0
+ARM,Armenia,2020-04-05,52.0
+ARM,Armenia,2020-04-06,11.0
+ARM,Armenia,2020-04-07,20.0
+ARM,Armenia,2020-04-08,28.0
+ARM,Armenia,2020-04-09,40.0
+ARM,Armenia,2020-04-10,16.0
+ARM,Armenia,2020-04-11,30.0
+ARM,Armenia,2020-04-12,46.0
+ARM,Armenia,2020-04-13,26.0
+ARM,Armenia,2020-04-14,28.0
+ARM,Armenia,2020-04-15,44.0
 ARM,Armenia,2020-04-16,48.0
 ARM,Armenia,2020-04-17,42.0
 ARM,Armenia,2020-04-18,47.0
@@ -1345,90 +1377,90 @@ ARM,Armenia,2020-04-26,69.0
 ARM,Armenia,2020-04-27,62.0
 ARM,Armenia,2020-04-28,59.0
 ARM,Armenia,2020-04-29,65.0
-ARM,Armenia,2020-04-30,0.0
-ARM,Armenia,2020-05-01,134.0
-ARM,Armenia,2020-05-02,82.0
-ARM,Armenia,2020-05-03,125.0
-ARM,Armenia,2020-05-04,113.0
-ARM,Armenia,2020-05-05,121.0
-ARM,Armenia,2020-05-06,112.0
-ARM,Armenia,2020-05-07,163.0
-ARM,Armenia,2020-05-08,102.0
-ARM,Armenia,2020-05-09,145.0
-ARM,Armenia,2020-05-10,146.0
-ARM,Armenia,2020-05-11,138.0
-ARM,Armenia,2020-05-12,79.0
-ARM,Armenia,2020-05-13,146.0
-ARM,Armenia,2020-05-14,180.0
-ARM,Armenia,2020-05-15,142.0
-ARM,Armenia,2020-05-16,184.0
-ARM,Armenia,2020-05-17,239.0
-ARM,Armenia,2020-05-18,189.0
-ARM,Armenia,2020-05-19,351.0
-ARM,Armenia,2020-05-20,218.0
-ARM,Armenia,2020-05-21,230.0
-ARM,Armenia,2020-05-22,335.0
-ARM,Armenia,2020-05-23,322.0
-ARM,Armenia,2020-05-24,374.0
-ARM,Armenia,2020-05-25,359.0
-ARM,Armenia,2020-05-26,452.0
-ARM,Armenia,2020-05-27,289.0
-ARM,Armenia,2020-05-28,372.0
-ARM,Armenia,2020-05-29,442.0
-ARM,Armenia,2020-05-30,460.0
-ARM,Armenia,2020-05-31,251.0
-ARM,Armenia,2020-06-01,355.0
-ARM,Armenia,2020-06-02,210.0
-ARM,Armenia,2020-06-03,517.0
-ARM,Armenia,2020-06-04,515.0
-ARM,Armenia,2020-06-05,697.0
-ARM,Armenia,2020-06-06,596.0
-ARM,Armenia,2020-06-07,547.0
-ARM,Armenia,2020-06-08,766.0
-ARM,Armenia,2020-06-09,195.0
-ARM,Armenia,2020-06-10,350.0
-ARM,Armenia,2020-06-11,428.0
-ARM,Armenia,2020-06-12,566.0
-ARM,Armenia,2020-06-13,612.0
-ARM,Armenia,2020-06-14,723.0
-ARM,Armenia,2020-06-15,663.0
-ARM,Armenia,2020-06-16,397.0
-ARM,Armenia,2020-06-17,425.0
-ARM,Armenia,2020-06-18,544.0
-ARM,Armenia,2020-06-19,665.0
-ARM,Armenia,2020-06-20,459.0
-ARM,Armenia,2020-06-21,551.0
-ARM,Armenia,2020-06-22,880.0
-ARM,Armenia,2020-06-23,0.0
-ARM,Armenia,2020-06-24,1129.0
-ARM,Armenia,2020-06-25,0.0
-ARM,Armenia,2020-06-26,1530.0
+ARM,Armenia,2020-04-30,134.0
+ARM,Armenia,2020-05-01,82.0
+ARM,Armenia,2020-05-02,125.0
+ARM,Armenia,2020-05-03,113.0
+ARM,Armenia,2020-05-04,121.0
+ARM,Armenia,2020-05-05,112.0
+ARM,Armenia,2020-05-06,163.0
+ARM,Armenia,2020-05-07,102.0
+ARM,Armenia,2020-05-08,145.0
+ARM,Armenia,2020-05-09,146.0
+ARM,Armenia,2020-05-10,138.0
+ARM,Armenia,2020-05-11,79.0
+ARM,Armenia,2020-05-12,146.0
+ARM,Armenia,2020-05-13,180.0
+ARM,Armenia,2020-05-14,142.0
+ARM,Armenia,2020-05-15,184.0
+ARM,Armenia,2020-05-16,239.0
+ARM,Armenia,2020-05-17,189.0
+ARM,Armenia,2020-05-18,351.0
+ARM,Armenia,2020-05-19,218.0
+ARM,Armenia,2020-05-20,230.0
+ARM,Armenia,2020-05-21,335.0
+ARM,Armenia,2020-05-22,322.0
+ARM,Armenia,2020-05-23,374.0
+ARM,Armenia,2020-05-24,359.0
+ARM,Armenia,2020-05-25,452.0
+ARM,Armenia,2020-05-26,289.0
+ARM,Armenia,2020-05-27,372.0
+ARM,Armenia,2020-05-28,442.0
+ARM,Armenia,2020-05-29,460.0
+ARM,Armenia,2020-05-30,251.0
+ARM,Armenia,2020-05-31,355.0
+ARM,Armenia,2020-06-01,210.0
+ARM,Armenia,2020-06-02,517.0
+ARM,Armenia,2020-06-03,515.0
+ARM,Armenia,2020-06-04,697.0
+ARM,Armenia,2020-06-05,596.0
+ARM,Armenia,2020-06-06,547.0
+ARM,Armenia,2020-06-07,766.0
+ARM,Armenia,2020-06-08,195.0
+ARM,Armenia,2020-06-09,350.0
+ARM,Armenia,2020-06-10,428.0
+ARM,Armenia,2020-06-11,566.0
+ARM,Armenia,2020-06-12,612.0
+ARM,Armenia,2020-06-13,723.0
+ARM,Armenia,2020-06-14,663.0
+ARM,Armenia,2020-06-15,397.0
+ARM,Armenia,2020-06-16,425.0
+ARM,Armenia,2020-06-17,544.0
+ARM,Armenia,2020-06-18,665.0
+ARM,Armenia,2020-06-19,459.0
+ARM,Armenia,2020-06-20,551.0
+ARM,Armenia,2020-06-21,560.0
+ARM,Armenia,2020-06-22,320.0
+ARM,Armenia,2020-06-23,418.0
+ARM,Armenia,2020-06-24,711.0
+ARM,Armenia,2020-06-25,771.0
+ARM,Armenia,2020-06-26,759.0
 ARM,Armenia,2020-06-27,662.0
 ARM,Armenia,2020-06-28,736.0
 ARM,Armenia,2020-06-29,482.0
-ARM,Armenia,2020-06-30,0.0
-ARM,Armenia,2020-07-01,415.0
-ARM,Armenia,2020-07-02,523.0
-ARM,Armenia,2020-07-03,593.0
-ARM,Armenia,2020-07-04,662.0
-ARM,Armenia,2020-07-05,580.0
-ARM,Armenia,2020-07-06,706.0
-ARM,Armenia,2020-07-07,330.0
-ARM,Armenia,2020-07-08,349.0
-ARM,Armenia,2020-07-09,535.0
-ARM,Armenia,2020-07-10,526.0
-ARM,Armenia,2020-07-11,557.0
-ARM,Armenia,2020-07-12,489.0
-ARM,Armenia,2020-07-13,577.0
-ARM,Armenia,2020-07-14,182.0
-ARM,Armenia,2020-07-15,339.0
-ARM,Armenia,2020-07-16,515.0
-ARM,Armenia,2020-07-17,554.0
-ARM,Armenia,2020-07-18,442.0
-ARM,Armenia,2020-07-19,461.0
-ARM,Armenia,2020-07-20,415.0
-ARM,Armenia,2020-07-21,104.0
-ARM,Armenia,2020-07-22,712.0
+ARM,Armenia,2020-06-30,415.0
+ARM,Armenia,2020-07-01,523.0
+ARM,Armenia,2020-07-02,593.0
+ARM,Armenia,2020-07-03,662.0
+ARM,Armenia,2020-07-04,580.0
+ARM,Armenia,2020-07-05,706.0
+ARM,Armenia,2020-07-06,330.0
+ARM,Armenia,2020-07-07,349.0
+ARM,Armenia,2020-07-08,535.0
+ARM,Armenia,2020-07-09,526.0
+ARM,Armenia,2020-07-10,557.0
+ARM,Armenia,2020-07-11,489.0
+ARM,Armenia,2020-07-12,577.0
+ARM,Armenia,2020-07-13,182.0
+ARM,Armenia,2020-07-14,339.0
+ARM,Armenia,2020-07-15,515.0
+ARM,Armenia,2020-07-16,554.0
+ARM,Armenia,2020-07-17,442.0
+ARM,Armenia,2020-07-18,461.0
+ARM,Armenia,2020-07-19,415.0
+ARM,Armenia,2020-07-20,104.0
+ARM,Armenia,2020-07-21,273.0
+ARM,Armenia,2020-07-22,439.0
 ARM,Armenia,2020-07-23,469.0
 ARM,Armenia,2020-07-24,451.0
 ARM,Armenia,2020-07-25,383.0
@@ -1438,6 +1470,10 @@ ARM,Armenia,2020-07-28,239.0
 ARM,Armenia,2020-07-29,308.0
 ARM,Armenia,2020-07-30,259.0
 ARM,Armenia,2020-07-31,354.0
+ARM,Armenia,2020-08-01,291.0
+ARM,Armenia,2020-08-02,209.0
+ARM,Armenia,2020-08-03,52.0
+ARM,Armenia,2020-08-04,0.0
 ATG,Antigua & Barbuda,2020-03-15,1.0
 ATG,Antigua & Barbuda,2020-03-21,0.0
 ATG,Antigua & Barbuda,2020-03-22,0.0
@@ -1572,6 +1608,10 @@ ATG,Antigua & Barbuda,2020-07-28,4.0
 ATG,Antigua & Barbuda,2020-07-29,0.0
 ATG,Antigua & Barbuda,2020-07-30,5.0
 ATG,Antigua & Barbuda,2020-07-31,0.0
+ATG,Antigua & Barbuda,2020-08-01,0.0
+ATG,Antigua & Barbuda,2020-08-02,0.0
+ATG,Antigua & Barbuda,2020-08-03,0.0
+ATG,Antigua & Barbuda,2020-08-04,1.0
 AUS,Australia,2019-12-31,0.0
 AUS,Australia,2020-01-01,0.0
 AUS,Australia,2020-01-02,0.0
@@ -1786,6 +1826,10 @@ AUS,Australia,2020-07-28,532.0
 AUS,Australia,2020-07-29,369.0
 AUS,Australia,2020-07-30,278.0
 AUS,Australia,2020-07-31,721.0
+AUS,Australia,2020-08-01,602.0
+AUS,Australia,2020-08-02,377.0
+AUS,Australia,2020-08-03,641.0
+AUS,Australia,2020-08-04,395.0
 AUT,Austria,2019-12-31,0.0
 AUT,Austria,2020-01-01,0.0
 AUT,Austria,2020-01-02,0.0
@@ -1990,16 +2034,20 @@ AUT,Austria,2020-07-18,138.0
 AUT,Austria,2020-07-19,102.0
 AUT,Austria,2020-07-20,63.0
 AUT,Austria,2020-07-21,108.0
-AUT,Austria,2020-07-22,0.0
-AUT,Austria,2020-07-23,359.0
-AUT,Austria,2020-07-24,110.0
-AUT,Austria,2020-07-25,81.0
+AUT,Austria,2020-07-22,139.0
+AUT,Austria,2020-07-23,140.0
+AUT,Austria,2020-07-24,164.0
+AUT,Austria,2020-07-25,107.0
 AUT,Austria,2020-07-26,120.0
 AUT,Austria,2020-07-27,137.0
 AUT,Austria,2020-07-28,64.0
 AUT,Austria,2020-07-29,132.0
 AUT,Austria,2020-07-30,164.0
 AUT,Austria,2020-07-31,163.0
+AUT,Austria,2020-08-01,89.0
+AUT,Austria,2020-08-02,126.0
+AUT,Austria,2020-08-03,85.0
+AUT,Austria,2020-08-04,32.0
 AZE,Azerbaijan,2019-12-31,0.0
 AZE,Azerbaijan,2020-01-01,0.0
 AZE,Azerbaijan,2020-01-02,0.0
@@ -2165,8 +2213,8 @@ AZE,Azerbaijan,2020-06-16,367.0
 AZE,Azerbaijan,2020-06-17,338.0
 AZE,Azerbaijan,2020-06-18,329.0
 AZE,Azerbaijan,2020-06-19,338.0
-AZE,Azerbaijan,2020-06-20,0.0
-AZE,Azerbaijan,2020-06-21,909.0
+AZE,Azerbaijan,2020-06-20,438.0
+AZE,Azerbaijan,2020-06-21,471.0
 AZE,Azerbaijan,2020-06-22,491.0
 AZE,Azerbaijan,2020-06-23,478.0
 AZE,Azerbaijan,2020-06-24,508.0
@@ -2207,6 +2255,10 @@ AZE,Azerbaijan,2020-07-28,396.0
 AZE,Azerbaijan,2020-07-29,412.0
 AZE,Azerbaijan,2020-07-30,363.0
 AZE,Azerbaijan,2020-07-31,339.0
+AZE,Azerbaijan,2020-08-01,318.0
+AZE,Azerbaijan,2020-08-02,279.0
+AZE,Azerbaijan,2020-08-03,286.0
+AZE,Azerbaijan,2020-08-04,241.0
 BDI,Burundi,2020-04-01,2.0
 BDI,Burundi,2020-04-02,0.0
 BDI,Burundi,2020-04-03,1.0
@@ -2329,6 +2381,10 @@ BDI,Burundi,2020-07-28,17.0
 BDI,Burundi,2020-07-29,0.0
 BDI,Burundi,2020-07-30,9.0
 BDI,Burundi,2020-07-31,0.0
+BDI,Burundi,2020-08-01,4.0
+BDI,Burundi,2020-08-02,4.0
+BDI,Burundi,2020-08-03,0.0
+BDI,Burundi,2020-08-04,0.0
 BEL,Belgium,2019-12-31,0.0
 BEL,Belgium,2020-01-01,0.0
 BEL,Belgium,2020-01-02,0.0
@@ -2513,7 +2569,7 @@ BEL,Belgium,2020-06-28,40.0
 BEL,Belgium,2020-06-29,23.0
 BEL,Belgium,2020-06-30,127.0
 BEL,Belgium,2020-07-01,100.0
-BEL,Belgium,2020-07-02,130.0
+BEL,Belgium,2020-07-02,133.0
 BEL,Belgium,2020-07-03,92.0
 BEL,Belgium,2020-07-04,92.0
 BEL,Belgium,2020-07-05,62.0
@@ -2529,20 +2585,24 @@ BEL,Belgium,2020-07-14,225.0
 BEL,Belgium,2020-07-15,207.0
 BEL,Belgium,2020-07-16,259.0
 BEL,Belgium,2020-07-17,220.0
-BEL,Belgium,2020-07-18,275.0
+BEL,Belgium,2020-07-18,276.0
 BEL,Belgium,2020-07-19,125.0
-BEL,Belgium,2020-07-20,70.0
+BEL,Belgium,2020-07-20,69.0
 BEL,Belgium,2020-07-21,442.0
 BEL,Belgium,2020-07-22,145.0
 BEL,Belgium,2020-07-23,552.0
-BEL,Belgium,2020-07-24,435.0
-BEL,Belgium,2020-07-25,493.0
-BEL,Belgium,2020-07-26,225.0
-BEL,Belgium,2020-07-27,178.0
-BEL,Belgium,2020-07-28,566.0
-BEL,Belgium,2020-07-29,511.0
-BEL,Belgium,2020-07-30,80.0
-BEL,Belgium,2020-07-31,0.0
+BEL,Belgium,2020-07-24,438.0
+BEL,Belgium,2020-07-25,494.0
+BEL,Belgium,2020-07-26,226.0
+BEL,Belgium,2020-07-27,182.0
+BEL,Belgium,2020-07-28,593.0
+BEL,Belgium,2020-07-29,686.0
+BEL,Belgium,2020-07-30,687.0
+BEL,Belgium,2020-07-31,622.0
+BEL,Belgium,2020-08-01,624.0
+BEL,Belgium,2020-08-02,216.0
+BEL,Belgium,2020-08-03,25.0
+BEL,Belgium,2020-08-04,0.0
 BEN,Benin,2020-03-17,1.0
 BEN,Benin,2020-03-18,0.0
 BEN,Benin,2020-03-19,0.0
@@ -2680,6 +2740,10 @@ BEN,Benin,2020-07-28,0.0
 BEN,Benin,2020-07-29,0.0
 BEN,Benin,2020-07-30,0.0
 BEN,Benin,2020-07-31,0.0
+BEN,Benin,2020-08-01,35.0
+BEN,Benin,2020-08-02,0.0
+BEN,Benin,2020-08-03,0.0
+BEN,Benin,2020-08-04,0.0
 BES,Caribbean Netherlands,2020-04-02,2.0
 BES,Caribbean Netherlands,2020-04-03,0.0
 BES,Caribbean Netherlands,2020-04-04,0.0
@@ -2801,6 +2865,10 @@ BES,Caribbean Netherlands,2020-07-28,0.0
 BES,Caribbean Netherlands,2020-07-29,0.0
 BES,Caribbean Netherlands,2020-07-30,0.0
 BES,Caribbean Netherlands,2020-07-31,0.0
+BES,Caribbean Netherlands,2020-08-01,0.0
+BES,Caribbean Netherlands,2020-08-02,0.0
+BES,Caribbean Netherlands,2020-08-03,0.0
+BES,Caribbean Netherlands,2020-08-04,2.0
 BFA,Burkina Faso,2020-03-11,2.0
 BFA,Burkina Faso,2020-03-12,0.0
 BFA,Burkina Faso,2020-03-15,1.0
@@ -2942,6 +3010,10 @@ BFA,Burkina Faso,2020-07-28,0.0
 BFA,Burkina Faso,2020-07-29,6.0
 BFA,Burkina Faso,2020-07-30,11.0
 BFA,Burkina Faso,2020-07-31,0.0
+BFA,Burkina Faso,2020-08-01,26.0
+BFA,Burkina Faso,2020-08-02,6.0
+BFA,Burkina Faso,2020-08-03,1.0
+BFA,Burkina Faso,2020-08-04,3.0
 BGD,Bangladesh,2020-03-09,3.0
 BGD,Bangladesh,2020-03-15,0.0
 BGD,Bangladesh,2020-03-17,2.0
@@ -3081,6 +3153,10 @@ BGD,Bangladesh,2020-07-28,2772.0
 BGD,Bangladesh,2020-07-29,2960.0
 BGD,Bangladesh,2020-07-30,3009.0
 BGD,Bangladesh,2020-07-31,2695.0
+BGD,Bangladesh,2020-08-01,2772.0
+BGD,Bangladesh,2020-08-02,2199.0
+BGD,Bangladesh,2020-08-03,886.0
+BGD,Bangladesh,2020-08-04,1356.0
 BGR,Bulgaria,2020-03-08,2.0
 BGR,Bulgaria,2020-03-09,2.0
 BGR,Bulgaria,2020-03-12,3.0
@@ -3174,8 +3250,8 @@ BGR,Bulgaria,2020-06-07,43.0
 BGR,Bulgaria,2020-06-08,16.0
 BGR,Bulgaria,2020-06-09,83.0
 BGR,Bulgaria,2020-06-10,79.0
-BGR,Bulgaria,2020-06-11,0.0
-BGR,Bulgaria,2020-06-12,197.0
+BGR,Bulgaria,2020-06-11,104.0
+BGR,Bulgaria,2020-06-12,93.0
 BGR,Bulgaria,2020-06-13,105.0
 BGR,Bulgaria,2020-06-14,75.0
 BGR,Bulgaria,2020-06-15,24.0
@@ -3225,6 +3301,10 @@ BGR,Bulgaria,2020-07-28,194.0
 BGR,Bulgaria,2020-07-29,250.0
 BGR,Bulgaria,2020-07-30,284.0
 BGR,Bulgaria,2020-07-31,265.0
+BGR,Bulgaria,2020-08-01,270.0
+BGR,Bulgaria,2020-08-02,146.0
+BGR,Bulgaria,2020-08-03,119.0
+BGR,Bulgaria,2020-08-04,0.0
 BHR,Bahrain,2019-12-31,0.0
 BHR,Bahrain,2020-01-01,0.0
 BHR,Bahrain,2020-01-02,0.0
@@ -3387,12 +3467,12 @@ BHR,Bahrain,2020-06-07,548.0
 BHR,Bahrain,2020-06-08,380.0
 BHR,Bahrain,2020-06-09,654.0
 BHR,Bahrain,2020-06-10,783.0
-BHR,Bahrain,2020-06-11,0.0
-BHR,Bahrain,2020-06-12,1069.0
-BHR,Bahrain,2020-06-13,444.0
+BHR,Bahrain,2020-06-11,467.0
+BHR,Bahrain,2020-06-12,0.0
+BHR,Bahrain,2020-06-13,1046.0
 BHR,Bahrain,2020-06-14,514.0
-BHR,Bahrain,2020-06-15,0.0
-BHR,Bahrain,2020-06-16,786.0
+BHR,Bahrain,2020-06-15,317.0
+BHR,Bahrain,2020-06-16,469.0
 BHR,Bahrain,2020-06-17,540.0
 BHR,Bahrain,2020-06-18,408.0
 BHR,Bahrain,2020-06-19,469.0
@@ -3438,6 +3518,10 @@ BHR,Bahrain,2020-07-28,351.0
 BHR,Bahrain,2020-07-29,439.0
 BHR,Bahrain,2020-07-30,390.0
 BHR,Bahrain,2020-07-31,444.0
+BHR,Bahrain,2020-08-01,227.0
+BHR,Bahrain,2020-08-02,208.0
+BHR,Bahrain,2020-08-03,346.0
+BHR,Bahrain,2020-08-04,299.0
 BHS,Bahamas,2020-03-16,1.0
 BHS,Bahamas,2020-03-17,0.0
 BHS,Bahamas,2020-03-20,2.0
@@ -3574,6 +3658,10 @@ BHS,Bahamas,2020-07-28,40.0
 BHS,Bahamas,2020-07-29,65.0
 BHS,Bahamas,2020-07-30,37.0
 BHS,Bahamas,2020-07-31,24.0
+BHS,Bahamas,2020-08-01,66.0
+BHS,Bahamas,2020-08-02,25.0
+BHS,Bahamas,2020-08-03,49.0
+BHS,Bahamas,2020-08-04,31.0
 BIH,Bosnia & Herzegovina,2020-03-06,2.0
 BIH,Bosnia & Herzegovina,2020-03-12,1.0
 BIH,Bosnia & Herzegovina,2020-03-13,0.0
@@ -3622,9 +3710,9 @@ BIH,Bosnia & Herzegovina,2020-04-26,65.0
 BIH,Bosnia & Herzegovina,2020-04-27,31.0
 BIH,Bosnia & Herzegovina,2020-04-28,48.0
 BIH,Bosnia & Herzegovina,2020-04-29,24.0
-BIH,Bosnia & Herzegovina,2020-04-30,1.0
-BIH,Bosnia & Herzegovina,2020-05-01,100.0
-BIH,Bosnia & Herzegovina,2020-05-02,93.0
+BIH,Bosnia & Herzegovina,2020-04-30,101.0
+BIH,Bosnia & Herzegovina,2020-05-01,68.0
+BIH,Bosnia & Herzegovina,2020-05-02,25.0
 BIH,Bosnia & Herzegovina,2020-05-03,58.0
 BIH,Bosnia & Herzegovina,2020-05-04,17.0
 BIH,Bosnia & Herzegovina,2020-05-05,69.0
@@ -3702,12 +3790,12 @@ BIH,Bosnia & Herzegovina,2020-07-15,197.0
 BIH,Bosnia & Herzegovina,2020-07-16,231.0
 BIH,Bosnia & Herzegovina,2020-07-17,274.0
 BIH,Bosnia & Herzegovina,2020-07-18,227.0
-BIH,Bosnia & Herzegovina,2020-07-19,0.0
-BIH,Bosnia & Herzegovina,2020-07-20,256.0
-BIH,Bosnia & Herzegovina,2020-07-21,427.0
+BIH,Bosnia & Herzegovina,2020-07-19,256.0
+BIH,Bosnia & Herzegovina,2020-07-20,288.0
+BIH,Bosnia & Herzegovina,2020-07-21,139.0
 BIH,Bosnia & Herzegovina,2020-07-22,195.0
-BIH,Bosnia & Herzegovina,2020-07-23,0.0
-BIH,Bosnia & Herzegovina,2020-07-24,674.0
+BIH,Bosnia & Herzegovina,2020-07-23,330.0
+BIH,Bosnia & Herzegovina,2020-07-24,344.0
 BIH,Bosnia & Herzegovina,2020-07-25,2.0
 BIH,Bosnia & Herzegovina,2020-07-26,302.0
 BIH,Bosnia & Herzegovina,2020-07-27,305.0
@@ -3715,6 +3803,10 @@ BIH,Bosnia & Herzegovina,2020-07-28,429.0
 BIH,Bosnia & Herzegovina,2020-07-29,268.0
 BIH,Bosnia & Herzegovina,2020-07-30,0.0
 BIH,Bosnia & Herzegovina,2020-07-31,678.0
+BIH,Bosnia & Herzegovina,2020-08-01,0.0
+BIH,Bosnia & Herzegovina,2020-08-02,431.0
+BIH,Bosnia & Herzegovina,2020-08-03,233.0
+BIH,Bosnia & Herzegovina,2020-08-04,188.0
 BLR,Belarus,2019-12-31,0.0
 BLR,Belarus,2020-01-01,0.0
 BLR,Belarus,2020-01-02,0.0
@@ -3817,9 +3909,9 @@ BLR,Belarus,2020-04-15,362.0
 BLR,Belarus,2020-04-16,447.0
 BLR,Belarus,2020-04-17,476.0
 BLR,Belarus,2020-04-18,575.0
-BLR,Belarus,2020-04-19,0.0
-BLR,Belarus,2020-04-20,0.0
-BLR,Belarus,2020-04-21,1485.0
+BLR,Belarus,2020-04-19,518.0
+BLR,Belarus,2020-04-20,510.0
+BLR,Belarus,2020-04-21,457.0
 BLR,Belarus,2020-04-22,459.0
 BLR,Belarus,2020-04-23,558.0
 BLR,Belarus,2020-04-24,741.0
@@ -3921,6 +4013,10 @@ BLR,Belarus,2020-07-28,119.0
 BLR,Belarus,2020-07-29,115.0
 BLR,Belarus,2020-07-30,152.0
 BLR,Belarus,2020-07-31,147.0
+BLR,Belarus,2020-08-01,143.0
+BLR,Belarus,2020-08-02,138.0
+BLR,Belarus,2020-08-03,121.0
+BLR,Belarus,2020-08-04,99.0
 BLZ,Belize,2020-03-24,1.0
 BLZ,Belize,2020-03-25,0.0
 BLZ,Belize,2020-03-26,1.0
@@ -4051,6 +4147,10 @@ BLZ,Belize,2020-07-28,0.0
 BLZ,Belize,2020-07-29,0.0
 BLZ,Belize,2020-07-30,0.0
 BLZ,Belize,2020-07-31,0.0
+BLZ,Belize,2020-08-01,0.0
+BLZ,Belize,2020-08-02,8.0
+BLZ,Belize,2020-08-03,1.0
+BLZ,Belize,2020-08-04,0.0
 BMU,Bermuda,2020-03-20,2.0
 BMU,Bermuda,2020-03-21,0.0
 BMU,Bermuda,2020-03-22,0.0
@@ -4185,6 +4285,10 @@ BMU,Bermuda,2020-07-28,0.0
 BMU,Bermuda,2020-07-29,2.0
 BMU,Bermuda,2020-07-30,0.0
 BMU,Bermuda,2020-07-31,0.0
+BMU,Bermuda,2020-08-01,0.0
+BMU,Bermuda,2020-08-02,0.0
+BMU,Bermuda,2020-08-03,0.0
+BMU,Bermuda,2020-08-04,1.0
 BOL,Bolivia,2020-03-12,2.0
 BOL,Bolivia,2020-03-13,1.0
 BOL,Bolivia,2020-03-14,7.0
@@ -4326,6 +4430,10 @@ BOL,Bolivia,2020-07-28,2382.0
 BOL,Bolivia,2020-07-29,516.0
 BOL,Bolivia,2020-07-30,1207.0
 BOL,Bolivia,2020-07-31,1700.0
+BOL,Bolivia,2020-08-01,1555.0
+BOL,Bolivia,2020-08-02,2004.0
+BOL,Bolivia,2020-08-03,1360.0
+BOL,Bolivia,2020-08-04,1693.0
 BRA,Brazil,2019-12-31,0.0
 BRA,Brazil,2020-01-01,0.0
 BRA,Brazil,2020-01-02,0.0
@@ -4540,6 +4648,10 @@ BRA,Brazil,2020-07-28,23284.0
 BRA,Brazil,2020-07-29,40816.0
 BRA,Brazil,2020-07-30,69074.0
 BRA,Brazil,2020-07-31,57837.0
+BRA,Brazil,2020-08-01,52383.0
+BRA,Brazil,2020-08-02,45392.0
+BRA,Brazil,2020-08-03,25800.0
+BRA,Brazil,2020-08-04,16641.0
 BRB,Barbados,2020-03-18,1.0
 BRB,Barbados,2020-03-19,0.0
 BRB,Barbados,2020-03-20,1.0
@@ -4676,6 +4788,10 @@ BRB,Barbados,2020-07-28,0.0
 BRB,Barbados,2020-07-29,0.0
 BRB,Barbados,2020-07-30,0.0
 BRB,Barbados,2020-07-31,0.0
+BRB,Barbados,2020-08-01,0.0
+BRB,Barbados,2020-08-02,12.0
+BRB,Barbados,2020-08-03,10.0
+BRB,Barbados,2020-08-04,0.0
 BRN,Brunei,2020-03-10,1.0
 BRN,Brunei,2020-03-12,10.0
 BRN,Brunei,2020-03-13,14.0
@@ -4819,6 +4935,10 @@ BRN,Brunei,2020-07-28,0.0
 BRN,Brunei,2020-07-29,0.0
 BRN,Brunei,2020-07-30,0.0
 BRN,Brunei,2020-07-31,0.0
+BRN,Brunei,2020-08-01,0.0
+BRN,Brunei,2020-08-02,0.0
+BRN,Brunei,2020-08-03,0.0
+BRN,Brunei,2020-08-04,0.0
 BTN,Bhutan,2020-03-06,1.0
 BTN,Bhutan,2020-03-13,0.0
 BTN,Bhutan,2020-03-15,0.0
@@ -4959,6 +5079,10 @@ BTN,Bhutan,2020-07-28,4.0
 BTN,Bhutan,2020-07-29,0.0
 BTN,Bhutan,2020-07-30,2.0
 BTN,Bhutan,2020-07-31,0.0
+BTN,Bhutan,2020-08-01,0.0
+BTN,Bhutan,2020-08-02,1.0
+BTN,Bhutan,2020-08-03,1.0
+BTN,Bhutan,2020-08-04,0.0
 BWA,Botswana,2020-04-01,3.0
 BWA,Botswana,2020-04-02,1.0
 BWA,Botswana,2020-04-03,0.0
@@ -5081,6 +5205,10 @@ BWA,Botswana,2020-07-28,53.0
 BWA,Botswana,2020-07-29,0.0
 BWA,Botswana,2020-07-30,65.0
 BWA,Botswana,2020-07-31,0.0
+BWA,Botswana,2020-08-01,0.0
+BWA,Botswana,2020-08-02,0.0
+BWA,Botswana,2020-08-03,0.0
+BWA,Botswana,2020-08-04,0.0
 CAF,Central African Republic,2020-03-16,1.0
 CAF,Central African Republic,2020-03-17,0.0
 CAF,Central African Republic,2020-03-18,0.0
@@ -5219,6 +5347,10 @@ CAF,Central African Republic,2020-07-28,0.0
 CAF,Central African Republic,2020-07-29,0.0
 CAF,Central African Republic,2020-07-30,6.0
 CAF,Central African Republic,2020-07-31,0.0
+CAF,Central African Republic,2020-08-01,3.0
+CAF,Central African Republic,2020-08-02,6.0
+CAF,Central African Republic,2020-08-03,0.0
+CAF,Central African Republic,2020-08-04,0.0
 CAN,Canada,2019-12-31,0.0
 CAN,Canada,2020-01-01,0.0
 CAN,Canada,2020-01-02,0.0
@@ -5433,6 +5565,10 @@ CAN,Canada,2020-07-28,699.0
 CAN,Canada,2020-07-29,383.0
 CAN,Canada,2020-07-30,476.0
 CAN,Canada,2020-07-31,329.0
+CAN,Canada,2020-08-01,513.0
+CAN,Canada,2020-08-02,287.0
+CAN,Canada,2020-08-03,285.0
+CAN,Canada,2020-08-04,147.0
 CHE,Switzerland,2019-12-31,0.0
 CHE,Switzerland,2020-01-01,0.0
 CHE,Switzerland,2020-01-02,0.0
@@ -5512,10 +5648,10 @@ CHE,Switzerland,2020-03-15,238.0
 CHE,Switzerland,2020-03-16,841.0
 CHE,Switzerland,2020-03-17,0.0
 CHE,Switzerland,2020-03-18,450.0
-CHE,Switzerland,2020-03-19,360.0
-CHE,Switzerland,2020-03-20,878.0
-CHE,Switzerland,2020-03-21,952.0
-CHE,Switzerland,2020-03-22,1237.0
+CHE,Switzerland,2020-03-19,353.0
+CHE,Switzerland,2020-03-20,860.0
+CHE,Switzerland,2020-03-21,943.0
+CHE,Switzerland,2020-03-22,1271.0
 CHE,Switzerland,2020-03-23,894.0
 CHE,Switzerland,2020-03-24,1044.0
 CHE,Switzerland,2020-03-25,774.0
@@ -5647,6 +5783,10 @@ CHE,Switzerland,2020-07-28,65.0
 CHE,Switzerland,2020-07-29,132.0
 CHE,Switzerland,2020-07-30,192.0
 CHE,Switzerland,2020-07-31,219.0
+CHE,Switzerland,2020-08-01,137.0
+CHE,Switzerland,2020-08-02,342.0
+CHE,Switzerland,2020-08-03,49.0
+CHE,Switzerland,2020-08-04,66.0
 CHL,Chile,2020-03-04,1.0
 CHL,Chile,2020-03-05,2.0
 CHL,Chile,2020-03-06,1.0
@@ -5783,8 +5923,8 @@ CHL,Chile,2020-07-15,1836.0
 CHL,Chile,2020-07-16,1712.0
 CHL,Chile,2020-07-17,2493.0
 CHL,Chile,2020-07-18,2841.0
-CHL,Chile,2020-07-19,0.0
-CHL,Chile,2020-07-20,4391.0
+CHL,Chile,2020-07-19,2307.0
+CHL,Chile,2020-07-20,2084.0
 CHL,Chile,2020-07-21,2099.0
 CHL,Chile,2020-07-22,1654.0
 CHL,Chile,2020-07-23,1719.0
@@ -5796,6 +5936,10 @@ CHL,Chile,2020-07-28,2133.0
 CHL,Chile,2020-07-29,1877.0
 CHL,Chile,2020-07-30,1775.0
 CHL,Chile,2020-07-31,1961.0
+CHL,Chile,2020-08-01,2131.0
+CHL,Chile,2020-08-02,1991.0
+CHL,Chile,2020-08-03,2073.0
+CHL,Chile,2020-08-04,1762.0
 CHN,China,2019-12-31,27.0
 CHN,China,2020-01-01,0.0
 CHN,China,2020-01-02,0.0
@@ -6010,6 +6154,10 @@ CHN,China,2020-07-28,213.0
 CHN,China,2020-07-29,207.0
 CHN,China,2020-07-30,223.0
 CHN,China,2020-07-31,276.0
+CHN,China,2020-08-01,166.0
+CHN,China,2020-08-02,172.0
+CHN,China,2020-08-03,158.0
+CHN,China,2020-08-04,114.0
 CIV,Côte d’Ivoire,2020-03-12,1.0
 CIV,Côte d’Ivoire,2020-03-15,3.0
 CIV,Côte d’Ivoire,2020-03-16,0.0
@@ -6150,6 +6298,10 @@ CIV,Côte d’Ivoire,2020-07-28,59.0
 CIV,Côte d’Ivoire,2020-07-29,58.0
 CIV,Côte d’Ivoire,2020-07-30,100.0
 CIV,Côte d’Ivoire,2020-07-31,165.0
+CIV,Côte d’Ivoire,2020-08-01,69.0
+CIV,Côte d’Ivoire,2020-08-02,62.0
+CIV,Côte d’Ivoire,2020-08-03,73.0
+CIV,Côte d’Ivoire,2020-08-04,38.0
 CMR,Cameroon,2020-03-07,1.0
 CMR,Cameroon,2020-03-09,1.0
 CMR,Cameroon,2020-03-15,1.0
@@ -6291,6 +6443,10 @@ CMR,Cameroon,2020-07-28,0.0
 CMR,Cameroon,2020-07-29,0.0
 CMR,Cameroon,2020-07-30,547.0
 CMR,Cameroon,2020-07-31,0.0
+CMR,Cameroon,2020-08-01,0.0
+CMR,Cameroon,2020-08-02,0.0
+CMR,Cameroon,2020-08-03,0.0
+CMR,Cameroon,2020-08-04,0.0
 COD,Congo - Kinshasa,2020-03-11,1.0
 COD,Congo - Kinshasa,2020-03-14,1.0
 COD,Congo - Kinshasa,2020-03-15,0.0
@@ -6432,6 +6588,10 @@ COD,Congo - Kinshasa,2020-07-28,13.0
 COD,Congo - Kinshasa,2020-07-29,29.0
 COD,Congo - Kinshasa,2020-07-30,58.0
 COD,Congo - Kinshasa,2020-07-31,79.0
+COD,Congo - Kinshasa,2020-08-01,60.0
+COD,Congo - Kinshasa,2020-08-02,13.0
+COD,Congo - Kinshasa,2020-08-03,31.0
+COD,Congo - Kinshasa,2020-08-04,18.0
 COG,Congo - Brazzaville,2020-03-16,1.0
 COG,Congo - Brazzaville,2020-03-17,0.0
 COG,Congo - Brazzaville,2020-03-18,0.0
@@ -6570,6 +6730,10 @@ COG,Congo - Brazzaville,2020-07-28,162.0
 COG,Congo - Brazzaville,2020-07-29,0.0
 COG,Congo - Brazzaville,2020-07-30,0.0
 COG,Congo - Brazzaville,2020-07-31,176.0
+COG,Congo - Brazzaville,2020-08-01,0.0
+COG,Congo - Brazzaville,2020-08-02,11.0
+COG,Congo - Brazzaville,2020-08-03,0.0
+COG,Congo - Brazzaville,2020-08-04,159.0
 COL,Colombia,2020-03-07,1.0
 COL,Colombia,2020-03-10,2.0
 COL,Colombia,2020-03-12,6.0
@@ -6713,6 +6877,10 @@ COL,Colombia,2020-07-28,8125.0
 COL,Colombia,2020-07-29,10284.0
 COL,Colombia,2020-07-30,8670.0
 COL,Colombia,2020-07-31,9965.0
+COL,Colombia,2020-08-01,9488.0
+COL,Colombia,2020-08-02,10673.0
+COL,Colombia,2020-08-03,11470.0
+COL,Colombia,2020-08-04,10199.0
 COM,Comoros,2020-05-02,1.0
 COM,Comoros,2020-05-03,0.0
 COM,Comoros,2020-05-04,2.0
@@ -6804,6 +6972,10 @@ COM,Comoros,2020-07-28,0.0
 COM,Comoros,2020-07-29,0.0
 COM,Comoros,2020-07-30,38.0
 COM,Comoros,2020-07-31,0.0
+COM,Comoros,2020-08-01,4.0
+COM,Comoros,2020-08-02,4.0
+COM,Comoros,2020-08-03,0.0
+COM,Comoros,2020-08-04,0.0
 CPV,Cape Verde,2020-03-21,2.0
 CPV,Cape Verde,2020-03-22,1.0
 CPV,Cape Verde,2020-03-23,0.0
@@ -6937,6 +7109,10 @@ CPV,Cape Verde,2020-07-28,21.0
 CPV,Cape Verde,2020-07-29,26.0
 CPV,Cape Verde,2020-07-30,19.0
 CPV,Cape Verde,2020-07-31,0.0
+CPV,Cape Verde,2020-08-01,78.0
+CPV,Cape Verde,2020-08-02,29.0
+CPV,Cape Verde,2020-08-03,67.0
+CPV,Cape Verde,2020-08-04,36.0
 CRI,Costa Rica,2020-03-07,1.0
 CRI,Costa Rica,2020-03-09,4.0
 CRI,Costa Rica,2020-03-10,4.0
@@ -7040,8 +7216,8 @@ CRI,Costa Rica,2020-06-15,53.0
 CRI,Costa Rica,2020-06-16,29.0
 CRI,Costa Rica,2020-06-17,25.0
 CRI,Costa Rica,2020-06-18,102.0
-CRI,Costa Rica,2020-06-19,0.0
-CRI,Costa Rica,2020-06-20,187.0
+CRI,Costa Rica,2020-06-19,68.0
+CRI,Costa Rica,2020-06-20,119.0
 CRI,Costa Rica,2020-06-21,69.0
 CRI,Costa Rica,2020-06-22,86.0
 CRI,Costa Rica,2020-06-23,64.0
@@ -7083,6 +7259,10 @@ CRI,Costa Rica,2020-07-28,612.0
 CRI,Costa Rica,2020-07-29,503.0
 CRI,Costa Rica,2020-07-30,456.0
 CRI,Costa Rica,2020-07-31,490.0
+CRI,Costa Rica,2020-08-01,530.0
+CRI,Costa Rica,2020-08-02,367.0
+CRI,Costa Rica,2020-08-03,788.0
+CRI,Costa Rica,2020-08-04,427.0
 CUB,Cuba,2020-03-12,3.0
 CUB,Cuba,2020-03-14,1.0
 CUB,Cuba,2020-03-15,0.0
@@ -7222,6 +7402,10 @@ CUB,Cuba,2020-07-28,37.0
 CUB,Cuba,2020-07-29,23.0
 CUB,Cuba,2020-07-30,33.0
 CUB,Cuba,2020-07-31,9.0
+CUB,Cuba,2020-08-01,11.0
+CUB,Cuba,2020-08-02,25.0
+CUB,Cuba,2020-08-03,13.0
+CUB,Cuba,2020-08-04,24.0
 CUW,Curaçao,2020-03-13,1.0
 CUW,Curaçao,2020-03-20,2.0
 CUW,Curaçao,2020-03-24,3.0
@@ -7352,6 +7536,10 @@ CUW,Curaçao,2020-07-28,0.0
 CUW,Curaçao,2020-07-29,0.0
 CUW,Curaçao,2020-07-30,0.0
 CUW,Curaçao,2020-07-31,0.0
+CUW,Curaçao,2020-08-01,0.0
+CUW,Curaçao,2020-08-02,0.0
+CUW,Curaçao,2020-08-03,0.0
+CUW,Curaçao,2020-08-04,0.0
 CYM,Cayman Islands,2020-03-20,1.0
 CYM,Cayman Islands,2020-03-21,2.0
 CYM,Cayman Islands,2020-03-22,0.0
@@ -7486,6 +7674,10 @@ CYM,Cayman Islands,2020-07-28,0.0
 CYM,Cayman Islands,2020-07-29,0.0
 CYM,Cayman Islands,2020-07-30,0.0
 CYM,Cayman Islands,2020-07-31,0.0
+CYM,Cayman Islands,2020-08-01,0.0
+CYM,Cayman Islands,2020-08-02,0.0
+CYM,Cayman Islands,2020-08-03,0.0
+CYM,Cayman Islands,2020-08-04,0.0
 CYP,Cyprus,2020-03-10,2.0
 CYP,Cyprus,2020-03-12,4.0
 CYP,Cyprus,2020-03-14,8.0
@@ -7628,6 +7820,10 @@ CYP,Cyprus,2020-07-28,3.0
 CYP,Cyprus,2020-07-29,7.0
 CYP,Cyprus,2020-07-30,13.0
 CYP,Cyprus,2020-07-31,4.0
+CYP,Cyprus,2020-08-01,30.0
+CYP,Cyprus,2020-08-02,10.0
+CYP,Cyprus,2020-08-03,26.0
+CYP,Cyprus,2020-08-04,5.0
 CZE,Czechia,2019-12-31,0.0
 CZE,Czechia,2020-01-01,0.0
 CZE,Czechia,2020-01-02,0.0
@@ -7842,6 +8038,10 @@ CZE,Czechia,2020-07-28,192.0
 CZE,Czechia,2020-07-29,283.0
 CZE,Czechia,2020-07-30,294.0
 CZE,Czechia,2020-07-31,249.0
+CZE,Czechia,2020-08-01,232.0
+CZE,Czechia,2020-08-02,125.0
+CZE,Czechia,2020-08-03,101.0
+CZE,Czechia,2020-08-04,208.0
 DEU,Germany,2019-12-31,0.0
 DEU,Germany,2020-01-01,0.0
 DEU,Germany,2020-01-02,0.0
@@ -7964,8 +8164,8 @@ DEU,Germany,2020-04-27,1018.0
 DEU,Germany,2020-04-28,1144.0
 DEU,Germany,2020-04-29,1304.0
 DEU,Germany,2020-04-30,1478.0
-DEU,Germany,2020-05-01,0.0
-DEU,Germany,2020-05-02,2584.0
+DEU,Germany,2020-05-01,1639.0
+DEU,Germany,2020-05-02,945.0
 DEU,Germany,2020-05-03,793.0
 DEU,Germany,2020-05-04,679.0
 DEU,Germany,2020-05-05,685.0
@@ -8038,8 +8238,8 @@ DEU,Germany,2020-07-10,395.0
 DEU,Germany,2020-07-11,378.0
 DEU,Germany,2020-07-12,248.0
 DEU,Germany,2020-07-13,159.0
-DEU,Germany,2020-07-14,0.0
-DEU,Germany,2020-07-15,763.0
+DEU,Germany,2020-07-14,412.0
+DEU,Germany,2020-07-15,351.0
 DEU,Germany,2020-07-16,534.0
 DEU,Germany,2020-07-17,583.0
 DEU,Germany,2020-07-18,529.0
@@ -8054,8 +8254,12 @@ DEU,Germany,2020-07-26,305.0
 DEU,Germany,2020-07-27,340.0
 DEU,Germany,2020-07-28,633.0
 DEU,Germany,2020-07-29,684.0
-DEU,Germany,2020-07-30,0.0
-DEU,Germany,2020-07-31,902.0
+DEU,Germany,2020-07-30,902.0
+DEU,Germany,2020-07-31,870.0
+DEU,Germany,2020-08-01,955.0
+DEU,Germany,2020-08-02,240.0
+DEU,Germany,2020-08-03,509.0
+DEU,Germany,2020-08-04,879.0
 DJI,Djibouti,2020-03-19,1.0
 DJI,Djibouti,2020-03-20,0.0
 DJI,Djibouti,2020-03-21,0.0
@@ -8191,6 +8395,10 @@ DJI,Djibouti,2020-07-28,9.0
 DJI,Djibouti,2020-07-29,9.0
 DJI,Djibouti,2020-07-30,13.0
 DJI,Djibouti,2020-07-31,0.0
+DJI,Djibouti,2020-08-01,0.0
+DJI,Djibouti,2020-08-02,0.0
+DJI,Djibouti,2020-08-03,80.0
+DJI,Djibouti,2020-08-04,79.0
 DMA,Dominica,2020-03-23,1.0
 DMA,Dominica,2020-03-24,0.0
 DMA,Dominica,2020-03-25,1.0
@@ -8322,6 +8530,10 @@ DMA,Dominica,2020-07-28,0.0
 DMA,Dominica,2020-07-29,0.0
 DMA,Dominica,2020-07-30,0.0
 DMA,Dominica,2020-07-31,0.0
+DMA,Dominica,2020-08-01,0.0
+DMA,Dominica,2020-08-02,0.0
+DMA,Dominica,2020-08-03,0.0
+DMA,Dominica,2020-08-04,0.0
 DNK,Denmark,2019-12-31,0.0
 DNK,Denmark,2020-01-01,0.0
 DNK,Denmark,2020-01-02,0.0
@@ -8536,6 +8748,10 @@ DNK,Denmark,2020-07-28,109.0
 DNK,Denmark,2020-07-29,30.0
 DNK,Denmark,2020-07-30,57.0
 DNK,Denmark,2020-07-31,91.0
+DNK,Denmark,2020-08-01,64.0
+DNK,Denmark,2020-08-02,0.0
+DNK,Denmark,2020-08-03,0.0
+DNK,Denmark,2020-08-04,207.0
 DOM,Dominican Republic,2019-12-31,0.0
 DOM,Dominican Republic,2020-01-01,0.0
 DOM,Dominican Republic,2020-01-02,0.0
@@ -8741,6 +8957,10 @@ DOM,Dominican Republic,2020-07-28,1248.0
 DOM,Dominican Republic,2020-07-29,534.0
 DOM,Dominican Republic,2020-07-30,1492.0
 DOM,Dominican Republic,2020-07-31,1733.0
+DOM,Dominican Republic,2020-08-01,1734.0
+DOM,Dominican Republic,2020-08-02,1766.0
+DOM,Dominican Republic,2020-08-03,828.0
+DOM,Dominican Republic,2020-08-04,874.0
 DZA,Algeria,2019-12-31,0.0
 DZA,Algeria,2020-01-01,0.0
 DZA,Algeria,2020-01-02,0.0
@@ -8929,8 +9149,8 @@ DZA,Algeria,2020-07-07,463.0
 DZA,Algeria,2020-07-08,475.0
 DZA,Algeria,2020-07-09,469.0
 DZA,Algeria,2020-07-10,460.0
-DZA,Algeria,2020-07-11,0.0
-DZA,Algeria,2020-07-12,904.0
+DZA,Algeria,2020-07-11,434.0
+DZA,Algeria,2020-07-12,470.0
 DZA,Algeria,2020-07-13,483.0
 DZA,Algeria,2020-07-14,494.0
 DZA,Algeria,2020-07-15,527.0
@@ -8950,6 +9170,10 @@ DZA,Algeria,2020-07-28,616.0
 DZA,Algeria,2020-07-29,642.0
 DZA,Algeria,2020-07-30,614.0
 DZA,Algeria,2020-07-31,602.0
+DZA,Algeria,2020-08-01,563.0
+DZA,Algeria,2020-08-02,556.0
+DZA,Algeria,2020-08-03,515.0
+DZA,Algeria,2020-08-04,507.0
 ECU,Ecuador,2019-12-31,0.0
 ECU,Ecuador,2020-01-01,0.0
 ECU,Ecuador,2020-01-02,0.0
@@ -9159,6 +9383,10 @@ ECU,Ecuador,2020-07-28,467.0
 ECU,Ecuador,2020-07-29,1118.0
 ECU,Ecuador,2020-07-30,914.0
 ECU,Ecuador,2020-07-31,1177.0
+ECU,Ecuador,2020-08-01,985.0
+ECU,Ecuador,2020-08-02,877.0
+ECU,Ecuador,2020-08-03,292.0
+ECU,Ecuador,2020-08-04,517.0
 EGY,Egypt,2019-12-31,0.0
 EGY,Egypt,2020-01-01,0.0
 EGY,Egypt,2020-01-02,0.0
@@ -9332,8 +9560,8 @@ EGY,Egypt,2020-06-21,1547.0
 EGY,Egypt,2020-06-22,1475.0
 EGY,Egypt,2020-06-23,1576.0
 EGY,Egypt,2020-06-24,1332.0
-EGY,Egypt,2020-06-25,0.0
-EGY,Egypt,2020-06-26,2989.0
+EGY,Egypt,2020-06-25,1420.0
+EGY,Egypt,2020-06-26,1569.0
 EGY,Egypt,2020-06-27,1625.0
 EGY,Egypt,2020-06-28,1168.0
 EGY,Egypt,2020-06-29,1265.0
@@ -9350,8 +9578,8 @@ EGY,Egypt,2020-07-09,1025.0
 EGY,Egypt,2020-07-10,950.0
 EGY,Egypt,2020-07-11,981.0
 EGY,Egypt,2020-07-12,923.0
-EGY,Egypt,2020-07-13,0.0
-EGY,Egypt,2020-07-14,1843.0
+EGY,Egypt,2020-07-13,912.0
+EGY,Egypt,2020-07-14,931.0
 EGY,Egypt,2020-07-15,929.0
 EGY,Egypt,2020-07-16,913.0
 EGY,Egypt,2020-07-17,928.0
@@ -9369,6 +9597,10 @@ EGY,Egypt,2020-07-28,420.0
 EGY,Egypt,2020-07-29,465.0
 EGY,Egypt,2020-07-30,409.0
 EGY,Egypt,2020-07-31,401.0
+EGY,Egypt,2020-08-01,321.0
+EGY,Egypt,2020-08-02,238.0
+EGY,Egypt,2020-08-03,167.0
+EGY,Egypt,2020-08-04,157.0
 ERI,Eritrea,2020-03-22,1.0
 ERI,Eritrea,2020-03-23,0.0
 ERI,Eritrea,2020-03-24,0.0
@@ -9501,6 +9733,10 @@ ERI,Eritrea,2020-07-28,2.0
 ERI,Eritrea,2020-07-29,0.0
 ERI,Eritrea,2020-07-30,0.0
 ERI,Eritrea,2020-07-31,14.0
+ERI,Eritrea,2020-08-01,0.0
+ERI,Eritrea,2020-08-02,0.0
+ERI,Eritrea,2020-08-03,0.0
+ERI,Eritrea,2020-08-04,3.0
 ESH,Western Sahara,2020-04-26,6.0
 ESH,Western Sahara,2020-04-27,0.0
 ESH,Western Sahara,2020-04-28,0.0
@@ -9598,6 +9834,10 @@ ESH,Western Sahara,2020-07-28,0.0
 ESH,Western Sahara,2020-07-29,0.0
 ESH,Western Sahara,2020-07-30,0.0
 ESH,Western Sahara,2020-07-31,0.0
+ESH,Western Sahara,2020-08-01,0.0
+ESH,Western Sahara,2020-08-02,0.0
+ESH,Western Sahara,2020-08-03,0.0
+ESH,Western Sahara,2020-08-04,0.0
 ESP,Spain,2019-12-31,0.0
 ESP,Spain,2020-01-01,0.0
 ESP,Spain,2020-01-02,0.0
@@ -9811,6 +10051,10 @@ ESP,Spain,2020-07-27,6361.0
 ESP,Spain,2020-07-28,1828.0
 ESP,Spain,2020-07-29,2031.0
 ESP,Spain,2020-07-30,2789.0
+ESP,Spain,2020-07-31,3092.0
+ESP,Spain,2020-08-01,0.0
+ESP,Spain,2020-08-02,0.0
+ESP,Spain,2020-08-03,8532.0
 EST,Estonia,2019-12-31,0.0
 EST,Estonia,2020-01-01,0.0
 EST,Estonia,2020-01-02,0.0
@@ -10020,6 +10264,10 @@ EST,Estonia,2020-07-28,4.0
 EST,Estonia,2020-07-29,0.0
 EST,Estonia,2020-07-30,4.0
 EST,Estonia,2020-07-31,9.0
+EST,Estonia,2020-08-01,13.0
+EST,Estonia,2020-08-02,8.0
+EST,Estonia,2020-08-03,7.0
+EST,Estonia,2020-08-04,1.0
 ETH,Ethiopia,2020-03-14,1.0
 ETH,Ethiopia,2020-03-15,0.0
 ETH,Ethiopia,2020-03-16,3.0
@@ -10160,6 +10408,10 @@ ETH,Ethiopia,2020-07-28,579.0
 ETH,Ethiopia,2020-07-29,653.0
 ETH,Ethiopia,2020-07-30,610.0
 ETH,Ethiopia,2020-07-31,805.0
+ETH,Ethiopia,2020-08-01,915.0
+ETH,Ethiopia,2020-08-02,469.0
+ETH,Ethiopia,2020-08-03,0.0
+ETH,Ethiopia,2020-08-04,1290.0
 FIN,Finland,2019-12-31,0.0
 FIN,Finland,2020-01-01,0.0
 FIN,Finland,2020-01-02,0.0
@@ -10370,6 +10622,10 @@ FIN,Finland,2020-07-28,5.0
 FIN,Finland,2020-07-29,6.0
 FIN,Finland,2020-07-30,10.0
 FIN,Finland,2020-07-31,9.0
+FIN,Finland,2020-08-01,9.0
+FIN,Finland,2020-08-02,11.0
+FIN,Finland,2020-08-03,10.0
+FIN,Finland,2020-08-04,13.0
 FJI,Fiji,2020-03-20,1.0
 FJI,Fiji,2020-03-21,0.0
 FJI,Fiji,2020-03-22,1.0
@@ -10504,6 +10760,10 @@ FJI,Fiji,2020-07-28,0.0
 FJI,Fiji,2020-07-29,0.0
 FJI,Fiji,2020-07-30,0.0
 FJI,Fiji,2020-07-31,0.0
+FJI,Fiji,2020-08-01,0.0
+FJI,Fiji,2020-08-02,0.0
+FJI,Fiji,2020-08-03,0.0
+FJI,Fiji,2020-08-04,0.0
 FLK,Falkland Islands,2020-04-04,1.0
 FLK,Falkland Islands,2020-04-05,0.0
 FLK,Falkland Islands,2020-04-06,1.0
@@ -10623,6 +10883,10 @@ FLK,Falkland Islands,2020-07-28,0.0
 FLK,Falkland Islands,2020-07-29,0.0
 FLK,Falkland Islands,2020-07-30,0.0
 FLK,Falkland Islands,2020-07-31,0.0
+FLK,Falkland Islands,2020-08-01,0.0
+FLK,Falkland Islands,2020-08-02,0.0
+FLK,Falkland Islands,2020-08-03,0.0
+FLK,Falkland Islands,2020-08-04,0.0
 FRA,France,2019-12-31,0.0
 FRA,France,2020-01-01,0.0
 FRA,France,2020-01-02,0.0
@@ -10837,6 +11101,10 @@ FRA,France,2020-07-28,2551.0
 FRA,France,2020-07-29,725.0
 FRA,France,2020-07-30,1392.0
 FRA,France,2020-07-31,1377.0
+FRA,France,2020-08-01,1346.0
+FRA,France,2020-08-02,0.0
+FRA,France,2020-08-03,0.0
+FRA,France,2020-08-04,3376.0
 FRO,Faroe Islands,2020-03-06,1.0
 FRO,Faroe Islands,2020-03-07,1.0
 FRO,Faroe Islands,2020-03-08,1.0
@@ -10985,6 +11253,10 @@ FRO,Faroe Islands,2020-07-28,23.0
 FRO,Faroe Islands,2020-07-29,6.0
 FRO,Faroe Islands,2020-07-30,0.0
 FRO,Faroe Islands,2020-07-31,0.0
+FRO,Faroe Islands,2020-08-01,5.0
+FRO,Faroe Islands,2020-08-02,0.0
+FRO,Faroe Islands,2020-08-03,0.0
+FRO,Faroe Islands,2020-08-04,0.0
 GAB,Gabon,2020-03-13,1.0
 GAB,Gabon,2020-03-15,0.0
 GAB,Gabon,2020-03-16,0.0
@@ -11125,6 +11397,10 @@ GAB,Gabon,2020-07-28,205.0
 GAB,Gabon,2020-07-29,0.0
 GAB,Gabon,2020-07-30,163.0
 GAB,Gabon,2020-07-31,0.0
+GAB,Gabon,2020-08-01,0.0
+GAB,Gabon,2020-08-02,179.0
+GAB,Gabon,2020-08-03,0.0
+GAB,Gabon,2020-08-04,115.0
 GBR,United Kingdom,2019-12-31,0.0
 GBR,United Kingdom,2020-01-01,0.0
 GBR,United Kingdom,2020-01-02,0.0
@@ -11339,6 +11615,10 @@ GBR,United Kingdom,2020-07-28,371.0
 GBR,United Kingdom,2020-07-29,70.0
 GBR,United Kingdom,2020-07-30,763.0
 GBR,United Kingdom,2020-07-31,846.0
+GBR,United Kingdom,2020-08-01,880.0
+GBR,United Kingdom,2020-08-02,771.0
+GBR,United Kingdom,2020-08-03,743.0
+GBR,United Kingdom,2020-08-04,928.0
 GEO,Georgia,2019-12-31,0.0
 GEO,Georgia,2020-01-01,0.0
 GEO,Georgia,2020-01-02,0.0
@@ -11550,6 +11830,10 @@ GEO,Georgia,2020-07-28,8.0
 GEO,Georgia,2020-07-29,10.0
 GEO,Georgia,2020-07-30,0.0
 GEO,Georgia,2020-07-31,5.0
+GEO,Georgia,2020-08-01,8.0
+GEO,Georgia,2020-08-02,3.0
+GEO,Georgia,2020-08-03,6.0
+GEO,Georgia,2020-08-04,5.0
 GGY,Guernsey,2020-03-20,1.0
 GGY,Guernsey,2020-03-21,0.0
 GGY,Guernsey,2020-03-22,0.0
@@ -11684,6 +11968,10 @@ GGY,Guernsey,2020-07-28,0.0
 GGY,Guernsey,2020-07-29,0.0
 GGY,Guernsey,2020-07-30,0.0
 GGY,Guernsey,2020-07-31,0.0
+GGY,Guernsey,2020-08-01,0.0
+GGY,Guernsey,2020-08-02,0.0
+GGY,Guernsey,2020-08-03,0.0
+GGY,Guernsey,2020-08-04,0.0
 GHA,Ghana,2020-03-13,2.0
 GHA,Ghana,2020-03-15,0.0
 GHA,Ghana,2020-03-16,0.0
@@ -11816,14 +12104,18 @@ GHA,Ghana,2020-07-20,607.0
 GHA,Ghana,2020-07-21,763.0
 GHA,Ghana,2020-07-22,559.0
 GHA,Ghana,2020-07-23,683.0
-GHA,Ghana,2020-07-24,0.0
-GHA,Ghana,2020-07-25,1385.0
+GHA,Ghana,2020-07-24,694.0
+GHA,Ghana,2020-07-25,691.0
 GHA,Ghana,2020-07-26,794.0
 GHA,Ghana,2020-07-27,1118.0
 GHA,Ghana,2020-07-28,655.0
 GHA,Ghana,2020-07-29,782.0
 GHA,Ghana,2020-07-30,736.0
 GHA,Ghana,2020-07-31,0.0
+GHA,Ghana,2020-08-01,359.0
+GHA,Ghana,2020-08-02,1513.0
+GHA,Ghana,2020-08-03,0.0
+GHA,Ghana,2020-08-04,798.0
 GIB,Gibraltar,2020-03-20,10.0
 GIB,Gibraltar,2020-03-21,0.0
 GIB,Gibraltar,2020-03-22,0.0
@@ -11958,6 +12250,10 @@ GIB,Gibraltar,2020-07-28,0.0
 GIB,Gibraltar,2020-07-29,1.0
 GIB,Gibraltar,2020-07-30,0.0
 GIB,Gibraltar,2020-07-31,1.0
+GIB,Gibraltar,2020-08-01,0.0
+GIB,Gibraltar,2020-08-02,1.0
+GIB,Gibraltar,2020-08-03,0.0
+GIB,Gibraltar,2020-08-04,0.0
 GIN,Guinea,2020-03-14,1.0
 GIN,Guinea,2020-03-15,0.0
 GIN,Guinea,2020-03-17,0.0
@@ -12097,6 +12393,10 @@ GIN,Guinea,2020-07-28,47.0
 GIN,Guinea,2020-07-29,71.0
 GIN,Guinea,2020-07-30,57.0
 GIN,Guinea,2020-07-31,59.0
+GIN,Guinea,2020-08-01,66.0
+GIN,Guinea,2020-08-02,9.0
+GIN,Guinea,2020-08-03,47.0
+GIN,Guinea,2020-08-04,0.0
 GMB,Gambia,2020-03-18,1.0
 GMB,Gambia,2020-03-19,0.0
 GMB,Gambia,2020-03-20,0.0
@@ -12233,6 +12533,10 @@ GMB,Gambia,2020-07-28,49.0
 GMB,Gambia,2020-07-29,0.0
 GMB,Gambia,2020-07-30,0.0
 GMB,Gambia,2020-07-31,77.0
+GMB,Gambia,2020-08-01,95.0
+GMB,Gambia,2020-08-02,0.0
+GMB,Gambia,2020-08-03,0.0
+GMB,Gambia,2020-08-04,0.0
 GNB,Guinea-Bissau,2020-03-27,2.0
 GNB,Guinea-Bissau,2020-03-28,0.0
 GNB,Guinea-Bissau,2020-03-29,0.0
@@ -12360,6 +12664,10 @@ GNB,Guinea-Bissau,2020-07-28,0.0
 GNB,Guinea-Bissau,2020-07-29,0.0
 GNB,Guinea-Bissau,2020-07-30,0.0
 GNB,Guinea-Bissau,2020-07-31,27.0
+GNB,Guinea-Bissau,2020-08-01,0.0
+GNB,Guinea-Bissau,2020-08-02,0.0
+GNB,Guinea-Bissau,2020-08-03,0.0
+GNB,Guinea-Bissau,2020-08-04,0.0
 GNQ,Equatorial Guinea,2020-03-15,1.0
 GNQ,Equatorial Guinea,2020-03-16,0.0
 GNQ,Equatorial Guinea,2020-03-17,0.0
@@ -12499,6 +12807,10 @@ GNQ,Equatorial Guinea,2020-07-28,0.0
 GNQ,Equatorial Guinea,2020-07-29,0.0
 GNQ,Equatorial Guinea,2020-07-30,0.0
 GNQ,Equatorial Guinea,2020-07-31,0.0
+GNQ,Equatorial Guinea,2020-08-01,0.0
+GNQ,Equatorial Guinea,2020-08-02,1750.0
+GNQ,Equatorial Guinea,2020-08-03,0.0
+GNQ,Equatorial Guinea,2020-08-04,0.0
 GRC,Greece,2019-12-31,0.0
 GRC,Greece,2020-01-01,0.0
 GRC,Greece,2020-01-02,0.0
@@ -12651,14 +12963,14 @@ GRC,Greece,2020-05-29,3.0
 GRC,Greece,2020-05-30,3.0
 GRC,Greece,2020-05-31,6.0
 GRC,Greece,2020-06-01,2.0
-GRC,Greece,2020-06-02,0.0
-GRC,Greece,2020-06-03,1.0
-GRC,Greece,2020-06-04,19.0
-GRC,Greece,2020-06-05,0.0
-GRC,Greece,2020-06-06,0.0
-GRC,Greece,2020-06-07,15.0
-GRC,Greece,2020-06-08,0.0
-GRC,Greece,2020-06-09,97.0
+GRC,Greece,2020-06-02,1.0
+GRC,Greece,2020-06-03,19.0
+GRC,Greece,2020-06-04,0.0
+GRC,Greece,2020-06-05,15.0
+GRC,Greece,2020-06-06,15.0
+GRC,Greece,2020-06-07,13.0
+GRC,Greece,2020-06-08,17.0
+GRC,Greece,2020-06-09,52.0
 GRC,Greece,2020-06-10,9.0
 GRC,Greece,2020-06-11,10.0
 GRC,Greece,2020-06-12,20.0
@@ -12711,6 +13023,10 @@ GRC,Greece,2020-07-28,34.0
 GRC,Greece,2020-07-29,52.0
 GRC,Greece,2020-07-30,57.0
 GRC,Greece,2020-07-31,65.0
+GRC,Greece,2020-08-01,76.0
+GRC,Greece,2020-08-02,110.0
+GRC,Greece,2020-08-03,75.0
+GRC,Greece,2020-08-04,75.0
 GRD,Grenada,2020-03-23,1.0
 GRD,Grenada,2020-03-24,0.0
 GRD,Grenada,2020-03-25,0.0
@@ -12842,6 +13158,10 @@ GRD,Grenada,2020-07-28,0.0
 GRD,Grenada,2020-07-29,0.0
 GRD,Grenada,2020-07-30,1.0
 GRD,Grenada,2020-07-31,0.0
+GRD,Grenada,2020-08-01,0.0
+GRD,Grenada,2020-08-02,0.0
+GRD,Grenada,2020-08-03,0.0
+GRD,Grenada,2020-08-04,0.0
 GRL,Greenland,2020-03-20,2.0
 GRL,Greenland,2020-03-21,0.0
 GRL,Greenland,2020-03-22,0.0
@@ -12976,6 +13296,10 @@ GRL,Greenland,2020-07-28,0.0
 GRL,Greenland,2020-07-29,1.0
 GRL,Greenland,2020-07-30,0.0
 GRL,Greenland,2020-07-31,0.0
+GRL,Greenland,2020-08-01,0.0
+GRL,Greenland,2020-08-02,0.0
+GRL,Greenland,2020-08-03,0.0
+GRL,Greenland,2020-08-04,0.0
 GTM,Guatemala,2020-03-15,1.0
 GTM,Guatemala,2020-03-16,0.0
 GTM,Guatemala,2020-03-17,5.0
@@ -13115,6 +13439,10 @@ GTM,Guatemala,2020-07-28,0.0
 GTM,Guatemala,2020-07-29,6.0
 GTM,Guatemala,2020-07-30,2546.0
 GTM,Guatemala,2020-07-31,1221.0
+GTM,Guatemala,2020-08-01,963.0
+GTM,Guatemala,2020-08-02,1190.0
+GTM,Guatemala,2020-08-03,327.0
+GTM,Guatemala,2020-08-04,236.0
 GUM,Guam,2020-03-19,3.0
 GUM,Guam,2020-03-20,9.0
 GUM,Guam,2020-03-21,2.0
@@ -13250,6 +13578,10 @@ GUM,Guam,2020-07-28,3.0
 GUM,Guam,2020-07-29,2.0
 GUM,Guam,2020-07-30,3.0
 GUM,Guam,2020-07-31,2.0
+GUM,Guam,2020-08-01,3.0
+GUM,Guam,2020-08-02,0.0
+GUM,Guam,2020-08-03,9.0
+GUM,Guam,2020-08-04,7.0
 GUY,Guyana,2020-03-13,1.0
 GUY,Guyana,2020-03-16,3.0
 GUY,Guyana,2020-03-17,0.0
@@ -13389,6 +13721,10 @@ GUY,Guyana,2020-07-28,19.0
 GUY,Guyana,2020-07-29,7.0
 GUY,Guyana,2020-07-30,2.0
 GUY,Guyana,2020-07-31,3.0
+GUY,Guyana,2020-08-01,12.0
+GUY,Guyana,2020-08-02,17.0
+GUY,Guyana,2020-08-03,44.0
+GUY,Guyana,2020-08-04,0.0
 HND,Honduras,2020-03-12,2.0
 HND,Honduras,2020-03-14,1.0
 HND,Honduras,2020-03-16,3.0
@@ -13515,8 +13851,8 @@ HND,Honduras,2020-07-14,489.0
 HND,Honduras,2020-07-15,527.0
 HND,Honduras,2020-07-16,930.0
 HND,Honduras,2020-07-17,831.0
-HND,Honduras,2020-07-18,0.0
-HND,Honduras,2020-07-19,1926.0
+HND,Honduras,2020-07-18,878.0
+HND,Honduras,2020-07-19,1048.0
 HND,Honduras,2020-07-20,1042.0
 HND,Honduras,2020-07-21,776.0
 HND,Honduras,2020-07-22,734.0
@@ -13529,6 +13865,10 @@ HND,Honduras,2020-07-28,465.0
 HND,Honduras,2020-07-29,719.0
 HND,Honduras,2020-07-30,484.0
 HND,Honduras,2020-07-31,482.0
+HND,Honduras,2020-08-01,976.0
+HND,Honduras,2020-08-02,283.0
+HND,Honduras,2020-08-03,512.0
+HND,Honduras,2020-08-04,597.0
 HRV,Croatia,2019-12-31,0.0
 HRV,Croatia,2020-01-01,0.0
 HRV,Croatia,2020-01-02,0.0
@@ -13738,8 +14078,12 @@ HRV,Croatia,2020-07-26,77.0
 HRV,Croatia,2020-07-27,65.0
 HRV,Croatia,2020-07-28,24.0
 HRV,Croatia,2020-07-29,42.0
-HRV,Croatia,2020-07-30,0.0
-HRV,Croatia,2020-07-31,148.0
+HRV,Croatia,2020-07-30,70.0
+HRV,Croatia,2020-07-31,78.0
+HRV,Croatia,2020-08-01,67.0
+HRV,Croatia,2020-08-02,86.0
+HRV,Croatia,2020-08-03,36.0
+HRV,Croatia,2020-08-04,36.0
 HTI,Haiti,2020-03-20,2.0
 HTI,Haiti,2020-03-21,0.0
 HTI,Haiti,2020-03-22,0.0
@@ -13874,6 +14218,10 @@ HTI,Haiti,2020-07-28,25.0
 HTI,Haiti,2020-07-29,31.0
 HTI,Haiti,2020-07-30,7.0
 HTI,Haiti,2020-07-31,34.0
+HTI,Haiti,2020-08-01,12.0
+HTI,Haiti,2020-08-02,44.0
+HTI,Haiti,2020-08-03,8.0
+HTI,Haiti,2020-08-04,35.0
 HUN,Hungary,2020-03-05,2.0
 HUN,Hungary,2020-03-07,2.0
 HUN,Hungary,2020-03-08,3.0
@@ -13998,8 +14346,8 @@ HUN,Hungary,2020-07-04,6.0
 HUN,Hungary,2020-07-05,11.0
 HUN,Hungary,2020-07-06,0.0
 HUN,Hungary,2020-07-07,6.0
-HUN,Hungary,2020-07-08,21.0
-HUN,Hungary,2020-07-09,0.0
+HUN,Hungary,2020-07-08,16.0
+HUN,Hungary,2020-07-09,5.0
 HUN,Hungary,2020-07-10,10.0
 HUN,Hungary,2020-07-11,3.0
 HUN,Hungary,2020-07-12,6.0
@@ -14022,6 +14370,10 @@ HUN,Hungary,2020-07-28,8.0
 HUN,Hungary,2020-07-29,9.0
 HUN,Hungary,2020-07-30,19.0
 HUN,Hungary,2020-07-31,21.0
+HUN,Hungary,2020-08-01,0.0
+HUN,Hungary,2020-08-02,21.0
+HUN,Hungary,2020-08-03,9.0
+HUN,Hungary,2020-08-04,9.0
 IDN,Indonesia,2019-12-31,0.0
 IDN,Indonesia,2020-01-01,0.0
 IDN,Indonesia,2020-01-02,0.0
@@ -14229,6 +14581,10 @@ IDN,Indonesia,2020-07-28,1525.0
 IDN,Indonesia,2020-07-29,1748.0
 IDN,Indonesia,2020-07-30,2381.0
 IDN,Indonesia,2020-07-31,1904.0
+IDN,Indonesia,2020-08-01,2040.0
+IDN,Indonesia,2020-08-02,1560.0
+IDN,Indonesia,2020-08-03,1519.0
+IDN,Indonesia,2020-08-04,1679.0
 IMN,Isle of Man,2020-03-21,1.0
 IMN,Isle of Man,2020-03-22,1.0
 IMN,Isle of Man,2020-03-23,0.0
@@ -14362,6 +14718,10 @@ IMN,Isle of Man,2020-07-28,0.0
 IMN,Isle of Man,2020-07-29,0.0
 IMN,Isle of Man,2020-07-30,0.0
 IMN,Isle of Man,2020-07-31,0.0
+IMN,Isle of Man,2020-08-01,0.0
+IMN,Isle of Man,2020-08-02,0.0
+IMN,Isle of Man,2020-08-03,0.0
+IMN,Isle of Man,2020-08-04,0.0
 IND,India,2019-12-31,0.0
 IND,India,2020-01-01,0.0
 IND,India,2020-01-02,0.0
@@ -14575,6 +14935,10 @@ IND,India,2020-07-28,47703.0
 IND,India,2020-07-29,48513.0
 IND,India,2020-07-30,52123.0
 IND,India,2020-07-31,55078.0
+IND,India,2020-08-01,57118.0
+IND,India,2020-08-02,54735.0
+IND,India,2020-08-03,52972.0
+IND,India,2020-08-04,52050.0
 IRL,Ireland,2019-12-31,0.0
 IRL,Ireland,2020-01-01,0.0
 IRL,Ireland,2020-01-02,0.0
@@ -14787,6 +15151,10 @@ IRL,Ireland,2020-07-28,11.0
 IRL,Ireland,2020-07-29,37.0
 IRL,Ireland,2020-07-30,13.0
 IRL,Ireland,2020-07-31,85.0
+IRL,Ireland,2020-08-01,38.0
+IRL,Ireland,2020-08-02,44.0
+IRL,Ireland,2020-08-03,53.0
+IRL,Ireland,2020-08-04,46.0
 IRN,Iran,2019-12-31,0.0
 IRN,Iran,2020-01-01,0.0
 IRN,Iran,2020-01-02,0.0
@@ -15001,6 +15369,10 @@ IRN,Iran,2020-07-28,2434.0
 IRN,Iran,2020-07-29,2667.0
 IRN,Iran,2020-07-30,2636.0
 IRN,Iran,2020-07-31,2621.0
+IRN,Iran,2020-08-01,2674.0
+IRN,Iran,2020-08-02,2548.0
+IRN,Iran,2020-08-03,2685.0
+IRN,Iran,2020-08-04,2598.0
 IRQ,Iraq,2019-12-31,0.0
 IRQ,Iraq,2020-01-01,0.0
 IRQ,Iraq,2020-01-02,0.0
@@ -15171,8 +15543,8 @@ IRQ,Iraq,2020-06-16,1106.0
 IRQ,Iraq,2020-06-17,1385.0
 IRQ,Iraq,2020-06-18,1554.0
 IRQ,Iraq,2020-06-19,1463.0
-IRQ,Iraq,2020-06-20,0.0
-IRQ,Iraq,2020-06-21,3505.0
+IRQ,Iraq,2020-06-20,1635.0
+IRQ,Iraq,2020-06-21,1870.0
 IRQ,Iraq,2020-06-22,1646.0
 IRQ,Iraq,2020-06-23,1808.0
 IRQ,Iraq,2020-06-24,1826.0
@@ -15213,6 +15585,10 @@ IRQ,Iraq,2020-07-28,2553.0
 IRQ,Iraq,2020-07-29,2747.0
 IRQ,Iraq,2020-07-30,2968.0
 IRQ,Iraq,2020-07-31,2963.0
+IRQ,Iraq,2020-08-01,3346.0
+IRQ,Iraq,2020-08-02,2095.0
+IRQ,Iraq,2020-08-03,2447.0
+IRQ,Iraq,2020-08-04,2735.0
 ISL,Iceland,2019-12-31,0.0
 ISL,Iceland,2020-01-01,0.0
 ISL,Iceland,2020-01-02,0.0
@@ -15427,6 +15803,10 @@ ISL,Iceland,2020-07-28,7.0
 ISL,Iceland,2020-07-29,3.0
 ISL,Iceland,2020-07-30,4.0
 ISL,Iceland,2020-07-31,11.0
+ISL,Iceland,2020-08-01,13.0
+ISL,Iceland,2020-08-02,8.0
+ISL,Iceland,2020-08-03,14.0
+ISL,Iceland,2020-08-04,8.0
 ISR,Israel,2019-12-31,0.0
 ISR,Israel,2020-01-01,0.0
 ISR,Israel,2020-01-02,0.0
@@ -15638,6 +16018,10 @@ ISR,Israel,2020-07-28,2502.0
 ISR,Israel,2020-07-29,2097.0
 ISR,Israel,2020-07-30,2001.0
 ISR,Israel,2020-07-31,1823.0
+ISR,Israel,2020-08-01,591.0
+ISR,Israel,2020-08-02,1313.0
+ISR,Israel,2020-08-03,742.0
+ISR,Israel,2020-08-04,1878.0
 ITA,Italy,2019-12-31,0.0
 ITA,Italy,2020-01-01,0.0
 ITA,Italy,2020-01-02,0.0
@@ -15852,6 +16236,10 @@ ITA,Italy,2020-07-28,168.0
 ITA,Italy,2020-07-29,202.0
 ITA,Italy,2020-07-30,288.0
 ITA,Italy,2020-07-31,382.0
+ITA,Italy,2020-08-01,379.0
+ITA,Italy,2020-08-02,295.0
+ITA,Italy,2020-08-03,238.0
+ITA,Italy,2020-08-04,159.0
 JAM,Jamaica,2020-03-12,2.0
 JAM,Jamaica,2020-03-13,4.0
 JAM,Jamaica,2020-03-14,2.0
@@ -15993,6 +16381,10 @@ JAM,Jamaica,2020-07-28,11.0
 JAM,Jamaica,2020-07-29,2.0
 JAM,Jamaica,2020-07-30,1.0
 JAM,Jamaica,2020-07-31,8.0
+JAM,Jamaica,2020-08-01,0.0
+JAM,Jamaica,2020-08-02,19.0
+JAM,Jamaica,2020-08-03,11.0
+JAM,Jamaica,2020-08-04,11.0
 JEY,Jersey,2020-03-20,5.0
 JEY,Jersey,2020-03-21,7.0
 JEY,Jersey,2020-03-22,0.0
@@ -16127,6 +16519,10 @@ JEY,Jersey,2020-07-28,2.0
 JEY,Jersey,2020-07-29,1.0
 JEY,Jersey,2020-07-30,0.0
 JEY,Jersey,2020-07-31,0.0
+JEY,Jersey,2020-08-01,0.0
+JEY,Jersey,2020-08-02,0.0
+JEY,Jersey,2020-08-03,0.0
+JEY,Jersey,2020-08-04,4.0
 JOR,Jordan,2020-03-03,1.0
 JOR,Jordan,2020-03-08,0.0
 JOR,Jordan,2020-03-15,0.0
@@ -16268,6 +16664,10 @@ JOR,Jordan,2020-07-28,8.0
 JOR,Jordan,2020-07-29,6.0
 JOR,Jordan,2020-07-30,5.0
 JOR,Jordan,2020-07-31,4.0
+JOR,Jordan,2020-08-01,2.0
+JOR,Jordan,2020-08-02,1.0
+JOR,Jordan,2020-08-03,19.0
+JOR,Jordan,2020-08-04,5.0
 JPN,Japan,2019-12-31,0.0
 JPN,Japan,2020-01-01,0.0
 JPN,Japan,2020-01-02,0.0
@@ -16482,6 +16882,10 @@ JPN,Japan,2020-07-28,0.0
 JPN,Japan,2020-07-29,1344.0
 JPN,Japan,2020-07-30,1126.0
 JPN,Japan,2020-07-31,1315.0
+JPN,Japan,2020-08-01,598.0
+JPN,Japan,2020-08-02,1709.0
+JPN,Japan,2020-08-03,1991.0
+JPN,Japan,2020-08-04,1786.0
 KAZ,Kazakhstan,2020-03-15,6.0
 KAZ,Kazakhstan,2020-03-16,3.0
 KAZ,Kazakhstan,2020-03-17,2.0
@@ -16621,6 +17025,10 @@ KAZ,Kazakhstan,2020-07-28,1526.0
 KAZ,Kazakhstan,2020-07-29,1544.0
 KAZ,Kazakhstan,2020-07-30,1472.0
 KAZ,Kazakhstan,2020-07-31,1414.0
+KAZ,Kazakhstan,2020-08-01,1289.0
+KAZ,Kazakhstan,2020-08-02,1226.0
+KAZ,Kazakhstan,2020-08-03,1069.0
+KAZ,Kazakhstan,2020-08-04,1158.0
 KEN,Kenya,2020-03-14,1.0
 KEN,Kenya,2020-03-15,0.0
 KEN,Kenya,2020-03-16,2.0
@@ -16761,6 +17169,10 @@ KEN,Kenya,2020-07-28,372.0
 KEN,Kenya,2020-07-29,606.0
 KEN,Kenya,2020-07-30,544.0
 KEN,Kenya,2020-07-31,788.0
+KEN,Kenya,2020-08-01,723.0
+KEN,Kenya,2020-08-02,727.0
+KEN,Kenya,2020-08-03,690.0
+KEN,Kenya,2020-08-04,544.0
 KGZ,Kyrgyzstan,2020-03-19,3.0
 KGZ,Kyrgyzstan,2020-03-20,3.0
 KGZ,Kyrgyzstan,2020-03-21,0.0
@@ -16896,6 +17308,10 @@ KGZ,Kyrgyzstan,2020-07-28,548.0
 KGZ,Kyrgyzstan,2020-07-29,748.0
 KGZ,Kyrgyzstan,2020-07-30,631.0
 KGZ,Kyrgyzstan,2020-07-31,582.0
+KGZ,Kyrgyzstan,2020-08-01,494.0
+KGZ,Kyrgyzstan,2020-08-02,420.0
+KGZ,Kyrgyzstan,2020-08-03,410.0
+KGZ,Kyrgyzstan,2020-08-04,412.0
 KHM,Cambodia,2019-12-31,0.0
 KHM,Cambodia,2020-01-01,0.0
 KHM,Cambodia,2020-01-02,0.0
@@ -17101,6 +17517,10 @@ KHM,Cambodia,2020-07-28,0.0
 KHM,Cambodia,2020-07-29,1.0
 KHM,Cambodia,2020-07-30,8.0
 KHM,Cambodia,2020-07-31,0.0
+KHM,Cambodia,2020-08-01,5.0
+KHM,Cambodia,2020-08-02,1.0
+KHM,Cambodia,2020-08-03,0.0
+KHM,Cambodia,2020-08-04,0.0
 KNA,St. Kitts & Nevis,2020-03-26,2.0
 KNA,St. Kitts & Nevis,2020-03-27,0.0
 KNA,St. Kitts & Nevis,2020-03-28,0.0
@@ -17229,6 +17649,10 @@ KNA,St. Kitts & Nevis,2020-07-28,0.0
 KNA,St. Kitts & Nevis,2020-07-29,0.0
 KNA,St. Kitts & Nevis,2020-07-30,0.0
 KNA,St. Kitts & Nevis,2020-07-31,0.0
+KNA,St. Kitts & Nevis,2020-08-01,0.0
+KNA,St. Kitts & Nevis,2020-08-02,0.0
+KNA,St. Kitts & Nevis,2020-08-03,0.0
+KNA,St. Kitts & Nevis,2020-08-04,0.0
 KOR,South Korea,2019-12-31,0.0
 KOR,South Korea,2020-01-01,0.0
 KOR,South Korea,2020-01-02,0.0
@@ -17443,6 +17867,10 @@ KOR,South Korea,2020-07-28,28.0
 KOR,South Korea,2020-07-29,48.0
 KOR,South Korea,2020-07-30,18.0
 KOR,South Korea,2020-07-31,36.0
+KOR,South Korea,2020-08-01,31.0
+KOR,South Korea,2020-08-02,0.0
+KOR,South Korea,2020-08-03,53.0
+KOR,South Korea,2020-08-04,34.0
 KWT,Kuwait,2019-12-31,0.0
 KWT,Kuwait,2020-01-01,0.0
 KWT,Kuwait,2020-01-02,0.0
@@ -17654,6 +18082,10 @@ KWT,Kuwait,2020-07-28,606.0
 KWT,Kuwait,2020-07-29,770.0
 KWT,Kuwait,2020-07-30,754.0
 KWT,Kuwait,2020-07-31,626.0
+KWT,Kuwait,2020-08-01,428.0
+KWT,Kuwait,2020-08-02,491.0
+KWT,Kuwait,2020-08-03,463.0
+KWT,Kuwait,2020-08-04,388.0
 LAO,Laos,2020-03-25,2.0
 LAO,Laos,2020-03-26,0.0
 LAO,Laos,2020-03-27,4.0
@@ -17783,6 +18215,10 @@ LAO,Laos,2020-07-28,0.0
 LAO,Laos,2020-07-29,0.0
 LAO,Laos,2020-07-30,0.0
 LAO,Laos,2020-07-31,0.0
+LAO,Laos,2020-08-01,0.0
+LAO,Laos,2020-08-02,0.0
+LAO,Laos,2020-08-03,0.0
+LAO,Laos,2020-08-04,0.0
 LBN,Lebanon,2019-12-31,0.0
 LBN,Lebanon,2020-01-01,0.0
 LBN,Lebanon,2020-01-02,0.0
@@ -17993,6 +18429,10 @@ LBN,Lebanon,2020-07-28,132.0
 LBN,Lebanon,2020-07-29,141.0
 LBN,Lebanon,2020-07-30,182.0
 LBN,Lebanon,2020-07-31,129.0
+LBN,Lebanon,2020-08-01,221.0
+LBN,Lebanon,2020-08-02,175.0
+LBN,Lebanon,2020-08-03,155.0
+LBN,Lebanon,2020-08-04,177.0
 LBR,Liberia,2020-03-17,1.0
 LBR,Liberia,2020-03-18,1.0
 LBR,Liberia,2020-03-19,0.0
@@ -18130,6 +18570,10 @@ LBR,Liberia,2020-07-28,5.0
 LBR,Liberia,2020-07-29,10.0
 LBR,Liberia,2020-07-30,2.0
 LBR,Liberia,2020-07-31,2.0
+LBR,Liberia,2020-08-01,5.0
+LBR,Liberia,2020-08-02,3.0
+LBR,Liberia,2020-08-03,18.0
+LBR,Liberia,2020-08-04,7.0
 LBY,Libya,2020-03-25,1.0
 LBY,Libya,2020-03-26,0.0
 LBY,Libya,2020-03-27,0.0
@@ -18259,6 +18703,10 @@ LBY,Libya,2020-07-28,280.0
 LBY,Libya,2020-07-29,0.0
 LBY,Libya,2020-07-30,190.0
 LBY,Libya,2020-07-31,205.0
+LBY,Libya,2020-08-01,0.0
+LBY,Libya,2020-08-02,399.0
+LBY,Libya,2020-08-03,70.0
+LBY,Libya,2020-08-04,372.0
 LCA,St. Lucia,2020-03-15,2.0
 LCA,St. Lucia,2020-03-16,0.0
 LCA,St. Lucia,2020-03-17,0.0
@@ -18398,6 +18846,10 @@ LCA,St. Lucia,2020-07-28,0.0
 LCA,St. Lucia,2020-07-29,0.0
 LCA,St. Lucia,2020-07-30,0.0
 LCA,St. Lucia,2020-07-31,1.0
+LCA,St. Lucia,2020-08-01,0.0
+LCA,St. Lucia,2020-08-02,0.0
+LCA,St. Lucia,2020-08-03,0.0
+LCA,St. Lucia,2020-08-04,0.0
 LIE,Liechtenstein,2020-03-05,1.0
 LIE,Liechtenstein,2020-03-12,2.0
 LIE,Liechtenstein,2020-03-13,1.0
@@ -18541,6 +18993,10 @@ LIE,Liechtenstein,2020-07-28,0.0
 LIE,Liechtenstein,2020-07-29,0.0
 LIE,Liechtenstein,2020-07-30,1.0
 LIE,Liechtenstein,2020-07-31,1.0
+LIE,Liechtenstein,2020-08-01,0.0
+LIE,Liechtenstein,2020-08-02,0.0
+LIE,Liechtenstein,2020-08-03,0.0
+LIE,Liechtenstein,2020-08-04,0.0
 LKA,Sri Lanka,2019-12-31,0.0
 LKA,Sri Lanka,2020-01-01,0.0
 LKA,Sri Lanka,2020-01-02,0.0
@@ -18746,6 +19202,10 @@ LKA,Sri Lanka,2020-07-28,23.0
 LKA,Sri Lanka,2020-07-29,5.0
 LKA,Sri Lanka,2020-07-30,1.0
 LKA,Sri Lanka,2020-07-31,3.0
+LKA,Sri Lanka,2020-08-01,1.0
+LKA,Sri Lanka,2020-08-02,0.0
+LKA,Sri Lanka,2020-08-03,8.0
+LKA,Sri Lanka,2020-08-04,5.0
 LSO,Lesotho,2020-05-15,1.0
 LSO,Lesotho,2020-05-16,0.0
 LSO,Lesotho,2020-05-17,0.0
@@ -18824,6 +19284,10 @@ LSO,Lesotho,2020-07-28,59.0
 LSO,Lesotho,2020-07-29,0.0
 LSO,Lesotho,2020-07-30,71.0
 LSO,Lesotho,2020-07-31,28.0
+LSO,Lesotho,2020-08-01,0.0
+LSO,Lesotho,2020-08-02,98.0
+LSO,Lesotho,2020-08-03,16.0
+LSO,Lesotho,2020-08-04,0.0
 LTU,Lithuania,2019-12-31,0.0
 LTU,Lithuania,2020-01-01,0.0
 LTU,Lithuania,2020-01-02,0.0
@@ -19029,6 +19493,10 @@ LTU,Lithuania,2020-07-28,11.0
 LTU,Lithuania,2020-07-29,8.0
 LTU,Lithuania,2020-07-30,16.0
 LTU,Lithuania,2020-07-31,19.0
+LTU,Lithuania,2020-08-01,13.0
+LTU,Lithuania,2020-08-02,18.0
+LTU,Lithuania,2020-08-03,17.0
+LTU,Lithuania,2020-08-04,10.0
 LUX,Luxembourg,2019-12-31,0.0
 LUX,Luxembourg,2020-01-01,0.0
 LUX,Luxembourg,2020-01-02,0.0
@@ -19236,6 +19704,10 @@ LUX,Luxembourg,2020-07-28,49.0
 LUX,Luxembourg,2020-07-29,54.0
 LUX,Luxembourg,2020-07-30,158.0
 LUX,Luxembourg,2020-07-31,83.0
+LUX,Luxembourg,2020-08-01,79.0
+LUX,Luxembourg,2020-08-02,0.0
+LUX,Luxembourg,2020-08-03,0.0
+LUX,Luxembourg,2020-08-04,169.0
 LVA,Latvia,2020-03-03,1.0
 LVA,Latvia,2020-03-08,1.0
 LVA,Latvia,2020-03-09,1.0
@@ -19383,6 +19855,10 @@ LVA,Latvia,2020-07-28,1.0
 LVA,Latvia,2020-07-29,0.0
 LVA,Latvia,2020-07-30,4.0
 LVA,Latvia,2020-07-31,4.0
+LVA,Latvia,2020-08-01,3.0
+LVA,Latvia,2020-08-02,7.0
+LVA,Latvia,2020-08-03,5.0
+LVA,Latvia,2020-08-04,3.0
 MAR,Morocco,2020-03-03,1.0
 MAR,Morocco,2020-03-06,1.0
 MAR,Morocco,2020-03-12,3.0
@@ -19527,6 +20003,10 @@ MAR,Morocco,2020-07-28,609.0
 MAR,Morocco,2020-07-29,500.0
 MAR,Morocco,2020-07-30,826.0
 MAR,Morocco,2020-07-31,1046.0
+MAR,Morocco,2020-08-01,1063.0
+MAR,Morocco,2020-08-02,693.0
+MAR,Morocco,2020-08-03,522.0
+MAR,Morocco,2020-08-04,659.0
 MCO,Monaco,2019-12-31,0.0
 MCO,Monaco,2020-01-01,0.0
 MCO,Monaco,2020-01-02,0.0
@@ -19729,6 +20209,10 @@ MCO,Monaco,2020-07-28,1.0
 MCO,Monaco,2020-07-29,1.0
 MCO,Monaco,2020-07-30,2.0
 MCO,Monaco,2020-07-31,0.0
+MCO,Monaco,2020-08-01,0.0
+MCO,Monaco,2020-08-02,0.0
+MCO,Monaco,2020-08-03,0.0
+MCO,Monaco,2020-08-04,1.0
 MDA,Moldova,2020-03-08,1.0
 MDA,Moldova,2020-03-11,2.0
 MDA,Moldova,2020-03-12,1.0
@@ -19873,6 +20357,10 @@ MDA,Moldova,2020-07-28,120.0
 MDA,Moldova,2020-07-29,367.0
 MDA,Moldova,2020-07-30,426.0
 MDA,Moldova,2020-07-31,0.0
+MDA,Moldova,2020-08-01,786.0
+MDA,Moldova,2020-08-02,380.0
+MDA,Moldova,2020-08-03,249.0
+MDA,Moldova,2020-08-04,120.0
 MDG,Madagascar,2020-03-21,3.0
 MDG,Madagascar,2020-03-22,0.0
 MDG,Madagascar,2020-03-23,0.0
@@ -20006,6 +20494,10 @@ MDG,Madagascar,2020-07-28,395.0
 MDG,Madagascar,2020-07-29,414.0
 MDG,Madagascar,2020-07-30,213.0
 MDG,Madagascar,2020-07-31,431.0
+MDG,Madagascar,2020-08-01,120.0
+MDG,Madagascar,2020-08-02,405.0
+MDG,Madagascar,2020-08-03,255.0
+MDG,Madagascar,2020-08-04,132.0
 MDV,Maldives,2020-03-08,2.0
 MDV,Maldives,2020-03-09,2.0
 MDV,Maldives,2020-03-11,2.0
@@ -20150,6 +20642,10 @@ MDV,Maldives,2020-07-28,67.0
 MDV,Maldives,2020-07-29,137.0
 MDV,Maldives,2020-07-30,61.0
 MDV,Maldives,2020-07-31,152.0
+MDV,Maldives,2020-08-01,74.0
+MDV,Maldives,2020-08-02,156.0
+MDV,Maldives,2020-08-03,215.0
+MDV,Maldives,2020-08-04,129.0
 MEX,Mexico,2019-12-31,0.0
 MEX,Mexico,2020-01-01,0.0
 MEX,Mexico,2020-01-02,0.0
@@ -20356,6 +20852,10 @@ MEX,Mexico,2020-07-28,4973.0
 MEX,Mexico,2020-07-29,7208.0
 MEX,Mexico,2020-07-30,5752.0
 MEX,Mexico,2020-07-31,7730.0
+MEX,Mexico,2020-08-01,8458.0
+MEX,Mexico,2020-08-02,9556.0
+MEX,Mexico,2020-08-03,4853.0
+MEX,Mexico,2020-08-04,4767.0
 MKD,North Macedonia,2019-12-31,0.0
 MKD,North Macedonia,2020-01-01,0.0
 MKD,North Macedonia,2020-01-02,0.0
@@ -20561,6 +21061,10 @@ MKD,North Macedonia,2020-07-28,128.0
 MKD,North Macedonia,2020-07-29,102.0
 MKD,North Macedonia,2020-07-30,188.0
 MKD,North Macedonia,2020-07-31,119.0
+MKD,North Macedonia,2020-08-01,139.0
+MKD,North Macedonia,2020-08-02,138.0
+MKD,North Macedonia,2020-08-03,154.0
+MKD,North Macedonia,2020-08-04,86.0
 MLI,Mali,2020-03-26,2.0
 MLI,Mali,2020-03-27,2.0
 MLI,Mali,2020-03-28,0.0
@@ -20689,6 +21193,10 @@ MLI,Mali,2020-07-28,3.0
 MLI,Mali,2020-07-29,7.0
 MLI,Mali,2020-07-30,1.0
 MLI,Mali,2020-07-31,1.0
+MLI,Mali,2020-08-01,13.0
+MLI,Mali,2020-08-02,0.0
+MLI,Mali,2020-08-03,6.0
+MLI,Mali,2020-08-04,2.0
 MLT,Malta,2020-03-07,1.0
 MLT,Malta,2020-03-08,2.0
 MLT,Malta,2020-03-09,0.0
@@ -20834,8 +21342,12 @@ MLT,Malta,2020-07-26,0.0
 MLT,Malta,2020-07-27,14.0
 MLT,Malta,2020-07-28,1.0
 MLT,Malta,2020-07-29,7.0
-MLT,Malta,2020-07-30,78.0
+MLT,Malta,2020-07-30,13.0
 MLT,Malta,2020-07-31,28.0
+MLT,Malta,2020-08-01,10.0
+MLT,Malta,2020-08-02,21.0
+MLT,Malta,2020-08-03,15.0
+MLT,Malta,2020-08-04,14.0
 MMR,Myanmar (Burma),2020-03-17,0.0
 MMR,Myanmar (Burma),2020-03-24,2.0
 MMR,Myanmar (Burma),2020-03-25,1.0
@@ -20967,6 +21479,10 @@ MMR,Myanmar (Burma),2020-07-28,0.0
 MMR,Myanmar (Burma),2020-07-29,1.0
 MMR,Myanmar (Burma),2020-07-30,2.0
 MMR,Myanmar (Burma),2020-07-31,0.0
+MMR,Myanmar (Burma),2020-08-01,0.0
+MMR,Myanmar (Burma),2020-08-02,0.0
+MMR,Myanmar (Burma),2020-08-03,0.0
+MMR,Myanmar (Burma),2020-08-04,2.0
 MNE,Montenegro,2020-03-18,2.0
 MNE,Montenegro,2020-03-19,6.0
 MNE,Montenegro,2020-03-20,5.0
@@ -21103,6 +21619,10 @@ MNE,Montenegro,2020-07-28,324.0
 MNE,Montenegro,2020-07-29,56.0
 MNE,Montenegro,2020-07-30,67.0
 MNE,Montenegro,2020-07-31,57.0
+MNE,Montenegro,2020-08-01,39.0
+MNE,Montenegro,2020-08-02,86.0
+MNE,Montenegro,2020-08-03,60.0
+MNE,Montenegro,2020-08-04,43.0
 MNG,Mongolia,2020-03-10,1.0
 MNG,Mongolia,2020-03-15,0.0
 MNG,Mongolia,2020-03-18,3.0
@@ -21241,6 +21761,10 @@ MNG,Mongolia,2020-07-28,1.0
 MNG,Mongolia,2020-07-29,2.0
 MNG,Mongolia,2020-07-30,0.0
 MNG,Mongolia,2020-07-31,0.0
+MNG,Mongolia,2020-08-01,0.0
+MNG,Mongolia,2020-08-02,2.0
+MNG,Mongolia,2020-08-03,0.0
+MNG,Mongolia,2020-08-04,0.0
 MNP,Northern Mariana Islands,2020-03-31,2.0
 MNP,Northern Mariana Islands,2020-04-01,4.0
 MNP,Northern Mariana Islands,2020-04-02,0.0
@@ -21364,6 +21888,10 @@ MNP,Northern Mariana Islands,2020-07-28,0.0
 MNP,Northern Mariana Islands,2020-07-29,0.0
 MNP,Northern Mariana Islands,2020-07-30,2.0
 MNP,Northern Mariana Islands,2020-07-31,0.0
+MNP,Northern Mariana Islands,2020-08-01,0.0
+MNP,Northern Mariana Islands,2020-08-02,3.0
+MNP,Northern Mariana Islands,2020-08-03,1.0
+MNP,Northern Mariana Islands,2020-08-04,0.0
 MOZ,Mozambique,2020-03-23,1.0
 MOZ,Mozambique,2020-03-24,0.0
 MOZ,Mozambique,2020-03-25,0.0
@@ -21495,6 +22023,10 @@ MOZ,Mozambique,2020-07-28,32.0
 MOZ,Mozambique,2020-07-29,19.0
 MOZ,Mozambique,2020-07-30,28.0
 MOZ,Mozambique,2020-07-31,60.0
+MOZ,Mozambique,2020-08-01,56.0
+MOZ,Mozambique,2020-08-02,43.0
+MOZ,Mozambique,2020-08-03,39.0
+MOZ,Mozambique,2020-08-04,27.0
 MRT,Mauritania,2020-03-15,1.0
 MRT,Mauritania,2020-03-16,0.0
 MRT,Mauritania,2020-03-17,0.0
@@ -21634,6 +22166,10 @@ MRT,Mauritania,2020-07-28,0.0
 MRT,Mauritania,2020-07-29,0.0
 MRT,Mauritania,2020-07-30,78.0
 MRT,Mauritania,2020-07-31,21.0
+MRT,Mauritania,2020-08-01,25.0
+MRT,Mauritania,2020-08-02,15.0
+MRT,Mauritania,2020-08-03,0.0
+MRT,Mauritania,2020-08-04,13.0
 MSR,Montserrat,2020-03-21,1.0
 MSR,Montserrat,2020-03-22,0.0
 MSR,Montserrat,2020-03-23,0.0
@@ -21766,6 +22302,10 @@ MSR,Montserrat,2020-07-28,0.0
 MSR,Montserrat,2020-07-29,0.0
 MSR,Montserrat,2020-07-30,0.0
 MSR,Montserrat,2020-07-31,0.0
+MSR,Montserrat,2020-08-01,0.0
+MSR,Montserrat,2020-08-02,0.0
+MSR,Montserrat,2020-08-03,0.0
+MSR,Montserrat,2020-08-04,0.0
 MUS,Mauritius,2020-03-20,3.0
 MUS,Mauritius,2020-03-21,9.0
 MUS,Mauritius,2020-03-22,2.0
@@ -21900,6 +22440,10 @@ MUS,Mauritius,2020-07-28,0.0
 MUS,Mauritius,2020-07-29,0.0
 MUS,Mauritius,2020-07-30,0.0
 MUS,Mauritius,2020-07-31,0.0
+MUS,Mauritius,2020-08-01,0.0
+MUS,Mauritius,2020-08-02,0.0
+MUS,Mauritius,2020-08-03,0.0
+MUS,Mauritius,2020-08-04,0.0
 MWI,Malawi,2020-04-03,3.0
 MWI,Malawi,2020-04-04,0.0
 MWI,Malawi,2020-04-05,1.0
@@ -22020,6 +22564,10 @@ MWI,Malawi,2020-07-28,69.0
 MWI,Malawi,2020-07-29,0.0
 MWI,Malawi,2020-07-30,149.0
 MWI,Malawi,2020-07-31,123.0
+MWI,Malawi,2020-08-01,97.0
+MWI,Malawi,2020-08-02,108.0
+MWI,Malawi,2020-08-03,45.0
+MWI,Malawi,2020-08-04,42.0
 MYS,Malaysia,2019-12-31,0.0
 MYS,Malaysia,2020-01-01,0.0
 MYS,Malaysia,2020-01-02,0.0
@@ -22233,6 +22781,10 @@ MYS,Malaysia,2020-07-28,7.0
 MYS,Malaysia,2020-07-29,39.0
 MYS,Malaysia,2020-07-30,13.0
 MYS,Malaysia,2020-07-31,8.0
+MYS,Malaysia,2020-08-01,12.0
+MYS,Malaysia,2020-08-02,9.0
+MYS,Malaysia,2020-08-03,14.0
+MYS,Malaysia,2020-08-04,2.0
 NAM,Namibia,2020-03-15,2.0
 NAM,Namibia,2020-03-16,0.0
 NAM,Namibia,2020-03-17,0.0
@@ -22372,6 +22924,10 @@ NAM,Namibia,2020-07-28,68.0
 NAM,Namibia,2020-07-29,74.0
 NAM,Namibia,2020-07-30,69.0
 NAM,Namibia,2020-07-31,66.0
+NAM,Namibia,2020-08-01,77.0
+NAM,Namibia,2020-08-02,95.0
+NAM,Namibia,2020-08-03,70.0
+NAM,Namibia,2020-08-04,112.0
 NCL,New Caledonia,2020-03-21,2.0
 NCL,New Caledonia,2020-03-22,2.0
 NCL,New Caledonia,2020-03-23,1.0
@@ -22505,6 +23061,10 @@ NCL,New Caledonia,2020-07-28,0.0
 NCL,New Caledonia,2020-07-29,0.0
 NCL,New Caledonia,2020-07-30,0.0
 NCL,New Caledonia,2020-07-31,0.0
+NCL,New Caledonia,2020-08-01,0.0
+NCL,New Caledonia,2020-08-02,0.0
+NCL,New Caledonia,2020-08-03,0.0
+NCL,New Caledonia,2020-08-04,0.0
 NER,Niger,2020-03-21,1.0
 NER,Niger,2020-03-22,0.0
 NER,Niger,2020-03-23,0.0
@@ -22638,6 +23198,10 @@ NER,Niger,2020-07-28,0.0
 NER,Niger,2020-07-29,0.0
 NER,Niger,2020-07-30,2.0
 NER,Niger,2020-07-31,0.0
+NER,Niger,2020-08-01,0.0
+NER,Niger,2020-08-02,2.0
+NER,Niger,2020-08-03,11.0
+NER,Niger,2020-08-04,5.0
 NGA,Nigeria,2019-12-31,0.0
 NGA,Nigeria,2020-01-01,0.0
 NGA,Nigeria,2020-01-02,0.0
@@ -22841,6 +23405,10 @@ NGA,Nigeria,2020-07-28,648.0
 NGA,Nigeria,2020-07-29,624.0
 NGA,Nigeria,2020-07-30,404.0
 NGA,Nigeria,2020-07-31,481.0
+NGA,Nigeria,2020-08-01,462.0
+NGA,Nigeria,2020-08-02,386.0
+NGA,Nigeria,2020-08-03,304.0
+NGA,Nigeria,2020-08-04,288.0
 NIC,Nicaragua,2020-03-19,1.0
 NIC,Nicaragua,2020-03-20,0.0
 NIC,Nicaragua,2020-03-21,1.0
@@ -22976,6 +23544,10 @@ NIC,Nicaragua,2020-07-28,0.0
 NIC,Nicaragua,2020-07-29,233.0
 NIC,Nicaragua,2020-07-30,0.0
 NIC,Nicaragua,2020-07-31,0.0
+NIC,Nicaragua,2020-08-01,0.0
+NIC,Nicaragua,2020-08-02,0.0
+NIC,Nicaragua,2020-08-03,0.0
+NIC,Nicaragua,2020-08-04,0.0
 NLD,Netherlands,2019-12-31,0.0
 NLD,Netherlands,2020-01-01,0.0
 NLD,Netherlands,2020-01-02,0.0
@@ -23144,8 +23716,8 @@ NLD,Netherlands,2020-06-12,164.0
 NLD,Netherlands,2020-06-13,210.0
 NLD,Netherlands,2020-06-14,179.0
 NLD,Netherlands,2020-06-15,143.0
-NLD,Netherlands,2020-06-16,0.0
-NLD,Netherlands,2020-06-17,304.0
+NLD,Netherlands,2020-06-16,165.0
+NLD,Netherlands,2020-06-17,139.0
 NLD,Netherlands,2020-06-18,117.0
 NLD,Netherlands,2020-06-19,115.0
 NLD,Netherlands,2020-06-20,107.0
@@ -23190,6 +23762,10 @@ NLD,Netherlands,2020-07-28,205.0
 NLD,Netherlands,2020-07-29,223.0
 NLD,Netherlands,2020-07-30,247.0
 NLD,Netherlands,2020-07-31,342.0
+NLD,Netherlands,2020-08-01,338.0
+NLD,Netherlands,2020-08-02,431.0
+NLD,Netherlands,2020-08-03,311.0
+NLD,Netherlands,2020-08-04,372.0
 NOR,Norway,2019-12-31,0.0
 NOR,Norway,2020-01-01,0.0
 NOR,Norway,2020-01-02,0.0
@@ -23404,6 +23980,10 @@ NOR,Norway,2020-07-28,32.0
 NOR,Norway,2020-07-29,15.0
 NOR,Norway,2020-07-30,18.0
 NOR,Norway,2020-07-31,22.0
+NOR,Norway,2020-08-01,36.0
+NOR,Norway,2020-08-02,0.0
+NOR,Norway,2020-08-03,0.0
+NOR,Norway,2020-08-04,60.0
 NPL,Nepal,2019-12-31,0.0
 NPL,Nepal,2020-01-01,0.0
 NPL,Nepal,2020-01-02,0.0
@@ -23605,6 +24185,10 @@ NPL,Nepal,2020-07-28,139.0
 NPL,Nepal,2020-07-29,311.0
 NPL,Nepal,2020-07-30,210.0
 NPL,Nepal,2020-07-31,274.0
+NPL,Nepal,2020-08-01,224.0
+NPL,Nepal,2020-08-02,315.0
+NPL,Nepal,2020-08-03,246.0
+NPL,Nepal,2020-08-04,418.0
 NZL,New Zealand,2019-12-31,0.0
 NZL,New Zealand,2020-01-01,0.0
 NZL,New Zealand,2020-01-02,0.0
@@ -23810,6 +24394,10 @@ NZL,New Zealand,2020-07-28,1.0
 NZL,New Zealand,2020-07-29,2.0
 NZL,New Zealand,2020-07-30,1.0
 NZL,New Zealand,2020-07-31,0.0
+NZL,New Zealand,2020-08-01,2.0
+NZL,New Zealand,2020-08-02,3.0
+NZL,New Zealand,2020-08-03,2.0
+NZL,New Zealand,2020-08-04,0.0
 OMN,Oman,2019-12-31,0.0
 OMN,Oman,2020-01-01,0.0
 OMN,Oman,2020-01-02,0.0
@@ -24018,6 +24606,10 @@ OMN,Oman,2020-07-28,1053.0
 OMN,Oman,2020-07-29,846.0
 OMN,Oman,2020-07-30,665.0
 OMN,Oman,2020-07-31,590.0
+OMN,Oman,2020-08-01,0.0
+OMN,Oman,2020-08-02,0.0
+OMN,Oman,2020-08-03,0.0
+OMN,Oman,2020-08-04,0.0
 PAK,Pakistan,2019-12-31,0.0
 PAK,Pakistan,2020-01-01,0.0
 PAK,Pakistan,2020-01-02,0.0
@@ -24227,6 +24819,10 @@ PAK,Pakistan,2020-07-28,936.0
 PAK,Pakistan,2020-07-29,1063.0
 PAK,Pakistan,2020-07-30,1114.0
 PAK,Pakistan,2020-07-31,903.0
+PAK,Pakistan,2020-08-01,0.0
+PAK,Pakistan,2020-08-02,0.0
+PAK,Pakistan,2020-08-03,1724.0
+PAK,Pakistan,2020-08-04,432.0
 PAN,Panama,2020-03-10,1.0
 PAN,Panama,2020-03-11,6.0
 PAN,Panama,2020-03-12,7.0
@@ -24371,6 +24967,10 @@ PAN,Panama,2020-07-28,1146.0
 PAN,Panama,2020-07-29,781.0
 PAN,Panama,2020-07-30,1046.0
 PAN,Panama,2020-07-31,922.0
+PAN,Panama,2020-08-01,1065.0
+PAN,Panama,2020-08-02,1127.0
+PAN,Panama,2020-08-03,1070.0
+PAN,Panama,2020-08-04,1003.0
 PER,Peru,2020-03-07,1.0
 PER,Peru,2020-03-09,6.0
 PER,Peru,2020-03-10,2.0
@@ -24517,6 +25117,10 @@ PER,Peru,2020-07-28,4920.0
 PER,Peru,2020-07-29,5288.0
 PER,Peru,2020-07-30,5678.0
 PER,Peru,2020-07-31,6809.0
+PER,Peru,2020-08-01,7243.0
+PER,Peru,2020-08-02,7448.0
+PER,Peru,2020-08-03,6667.0
+PER,Peru,2020-08-04,4250.0
 PHL,Philippines,2019-12-31,0.0
 PHL,Philippines,2020-01-01,0.0
 PHL,Philippines,2020-01-02,0.0
@@ -24727,6 +25331,10 @@ PHL,Philippines,2020-07-28,1592.0
 PHL,Philippines,2020-07-29,1633.0
 PHL,Philippines,2020-07-30,1813.0
 PHL,Philippines,2020-07-31,3888.0
+PHL,Philippines,2020-08-01,3980.0
+PHL,Philippines,2020-08-02,4878.0
+PHL,Philippines,2020-08-03,4953.0
+PHL,Philippines,2020-08-04,3145.0
 PNG,Papua New Guinea,2020-03-21,1.0
 PNG,Papua New Guinea,2020-03-22,0.0
 PNG,Papua New Guinea,2020-03-23,0.0
@@ -24860,6 +25468,10 @@ PNG,Papua New Guinea,2020-07-28,0.0
 PNG,Papua New Guinea,2020-07-29,1.0
 PNG,Papua New Guinea,2020-07-30,0.0
 PNG,Papua New Guinea,2020-07-31,9.0
+PNG,Papua New Guinea,2020-08-01,0.0
+PNG,Papua New Guinea,2020-08-02,19.0
+PNG,Papua New Guinea,2020-08-03,19.0
+PNG,Papua New Guinea,2020-08-04,1.0
 POL,Poland,2020-03-04,1.0
 POL,Poland,2020-03-07,4.0
 POL,Poland,2020-03-08,1.0
@@ -24950,8 +25562,8 @@ POL,Poland,2020-05-31,416.0
 POL,Poland,2020-06-01,215.0
 POL,Poland,2020-06-02,379.0
 POL,Poland,2020-06-03,230.0
-POL,Poland,2020-06-04,0.0
-POL,Poland,2020-06-05,653.0
+POL,Poland,2020-06-04,292.0
+POL,Poland,2020-06-05,361.0
 POL,Poland,2020-06-06,371.0
 POL,Poland,2020-06-07,567.0
 POL,Poland,2020-06-08,575.0
@@ -25008,6 +25620,10 @@ POL,Poland,2020-07-28,337.0
 POL,Poland,2020-07-29,502.0
 POL,Poland,2020-07-30,512.0
 POL,Poland,2020-07-31,615.0
+POL,Poland,2020-08-01,657.0
+POL,Poland,2020-08-02,658.0
+POL,Poland,2020-08-03,548.0
+POL,Poland,2020-08-04,575.0
 PRI,Puerto Rico,2020-03-28,64.0
 PRI,Puerto Rico,2020-03-29,36.0
 PRI,Puerto Rico,2020-03-30,27.0
@@ -25134,6 +25750,10 @@ PRI,Puerto Rico,2020-07-28,298.0
 PRI,Puerto Rico,2020-07-29,399.0
 PRI,Puerto Rico,2020-07-30,221.0
 PRI,Puerto Rico,2020-07-31,511.0
+PRI,Puerto Rico,2020-08-01,209.0
+PRI,Puerto Rico,2020-08-02,1091.0
+PRI,Puerto Rico,2020-08-03,539.0
+PRI,Puerto Rico,2020-08-04,380.0
 PRT,Portugal,2020-03-03,2.0
 PRT,Portugal,2020-03-04,2.0
 PRT,Portugal,2020-03-05,1.0
@@ -25285,6 +25905,10 @@ PRT,Portugal,2020-07-28,135.0
 PRT,Portugal,2020-07-29,111.0
 PRT,Portugal,2020-07-30,203.0
 PRT,Portugal,2020-07-31,255.0
+PRT,Portugal,2020-08-01,204.0
+PRT,Portugal,2020-08-02,238.0
+PRT,Portugal,2020-08-03,153.0
+PRT,Portugal,2020-08-04,106.0
 PRY,Paraguay,2020-03-08,1.0
 PRY,Paraguay,2020-03-11,4.0
 PRY,Paraguay,2020-03-13,1.0
@@ -25427,6 +26051,10 @@ PRY,Paraguay,2020-07-28,104.0
 PRY,Paraguay,2020-07-29,126.0
 PRY,Paraguay,2020-07-30,192.0
 PRY,Paraguay,2020-07-31,341.0
+PRY,Paraguay,2020-08-01,131.0
+PRY,Paraguay,2020-08-02,147.0
+PRY,Paraguay,2020-08-03,159.0
+PRY,Paraguay,2020-08-04,80.0
 PSE,Palestinian Territories,2020-03-06,7.0
 PSE,Palestinian Territories,2020-03-07,9.0
 PSE,Palestinian Territories,2020-03-08,3.0
@@ -25572,6 +26200,10 @@ PSE,Palestinian Territories,2020-07-28,328.0
 PSE,Palestinian Territories,2020-07-29,481.0
 PSE,Palestinian Territories,2020-07-30,520.0
 PSE,Palestinian Territories,2020-07-31,380.0
+PSE,Palestinian Territories,2020-08-01,394.0
+PSE,Palestinian Territories,2020-08-02,323.0
+PSE,Palestinian Territories,2020-08-03,225.0
+PSE,Palestinian Territories,2020-08-04,244.0
 PYF,French Polynesia,2020-03-19,3.0
 PYF,French Polynesia,2020-03-20,0.0
 PYF,French Polynesia,2020-03-21,12.0
@@ -25707,6 +26339,10 @@ PYF,French Polynesia,2020-07-28,0.0
 PYF,French Polynesia,2020-07-29,0.0
 PYF,French Polynesia,2020-07-30,0.0
 PYF,French Polynesia,2020-07-31,0.0
+PYF,French Polynesia,2020-08-01,0.0
+PYF,French Polynesia,2020-08-02,0.0
+PYF,French Polynesia,2020-08-03,0.0
+PYF,French Polynesia,2020-08-04,0.0
 QAT,Qatar,2019-12-31,0.0
 QAT,Qatar,2020-01-01,0.0
 QAT,Qatar,2020-01-02,0.0
@@ -25917,6 +26553,10 @@ QAT,Qatar,2020-07-28,292.0
 QAT,Qatar,2020-07-29,283.0
 QAT,Qatar,2020-07-30,273.0
 QAT,Qatar,2020-07-31,307.0
+QAT,Qatar,2020-08-01,235.0
+QAT,Qatar,2020-08-02,216.0
+QAT,Qatar,2020-08-03,196.0
+QAT,Qatar,2020-08-04,215.0
 ROU,Romania,2019-12-31,0.0
 ROU,Romania,2020-01-01,0.0
 ROU,Romania,2020-01-02,0.0
@@ -26129,6 +26769,10 @@ ROU,Romania,2020-07-28,1104.0
 ROU,Romania,2020-07-29,1151.0
 ROU,Romania,2020-07-30,1182.0
 ROU,Romania,2020-07-31,1356.0
+ROU,Romania,2020-08-01,1295.0
+ROU,Romania,2020-08-02,1225.0
+ROU,Romania,2020-08-03,1075.0
+ROU,Romania,2020-08-04,823.0
 RUS,Russia,2019-12-31,0.0
 RUS,Russia,2020-01-01,0.0
 RUS,Russia,2020-01-02,0.0
@@ -26343,6 +26987,10 @@ RUS,Russia,2020-07-28,5635.0
 RUS,Russia,2020-07-29,5395.0
 RUS,Russia,2020-07-30,5475.0
 RUS,Russia,2020-07-31,5509.0
+RUS,Russia,2020-08-01,5482.0
+RUS,Russia,2020-08-02,5462.0
+RUS,Russia,2020-08-03,5427.0
+RUS,Russia,2020-08-04,5394.0
 RWA,Rwanda,2020-03-15,1.0
 RWA,Rwanda,2020-03-16,4.0
 RWA,Rwanda,2020-03-17,0.0
@@ -26482,6 +27130,10 @@ RWA,Rwanda,2020-07-28,58.0
 RWA,Rwanda,2020-07-29,47.0
 RWA,Rwanda,2020-07-30,10.0
 RWA,Rwanda,2020-07-31,58.0
+RWA,Rwanda,2020-08-01,28.0
+RWA,Rwanda,2020-08-02,20.0
+RWA,Rwanda,2020-08-03,20.0
+RWA,Rwanda,2020-08-04,30.0
 SAU,Saudi Arabia,2020-03-03,1.0
 SAU,Saudi Arabia,2020-03-06,4.0
 SAU,Saudi Arabia,2020-03-08,2.0
@@ -26630,6 +27282,10 @@ SAU,Saudi Arabia,2020-07-28,1993.0
 SAU,Saudi Arabia,2020-07-29,1897.0
 SAU,Saudi Arabia,2020-07-30,1759.0
 SAU,Saudi Arabia,2020-07-31,1629.0
+SAU,Saudi Arabia,2020-08-01,1686.0
+SAU,Saudi Arabia,2020-08-02,1573.0
+SAU,Saudi Arabia,2020-08-03,1357.0
+SAU,Saudi Arabia,2020-08-04,1258.0
 SDN,Sudan,2020-03-14,1.0
 SDN,Sudan,2020-03-15,0.0
 SDN,Sudan,2020-03-16,0.0
@@ -26770,6 +27426,10 @@ SDN,Sudan,2020-07-28,39.0
 SDN,Sudan,2020-07-29,72.0
 SDN,Sudan,2020-07-30,0.0
 SDN,Sudan,2020-07-31,0.0
+SDN,Sudan,2020-08-01,148.0
+SDN,Sudan,2020-08-02,0.0
+SDN,Sudan,2020-08-03,94.0
+SDN,Sudan,2020-08-04,0.0
 SEN,Senegal,2020-03-03,1.0
 SEN,Senegal,2020-03-05,2.0
 SEN,Senegal,2020-03-06,1.0
@@ -26914,6 +27574,10 @@ SEN,Senegal,2020-07-28,83.0
 SEN,Senegal,2020-07-29,41.0
 SEN,Senegal,2020-07-30,156.0
 SEN,Senegal,2020-07-31,145.0
+SEN,Senegal,2020-08-01,126.0
+SEN,Senegal,2020-08-02,52.0
+SEN,Senegal,2020-08-03,60.0
+SEN,Senegal,2020-08-04,42.0
 SGP,Singapore,2019-12-31,0.0
 SGP,Singapore,2020-01-01,0.0
 SGP,Singapore,2020-01-02,0.0
@@ -27128,6 +27792,10 @@ SGP,Singapore,2020-07-28,469.0
 SGP,Singapore,2020-07-29,359.0
 SGP,Singapore,2020-07-30,334.0
 SGP,Singapore,2020-07-31,278.0
+SGP,Singapore,2020-08-01,396.0
+SGP,Singapore,2020-08-02,307.0
+SGP,Singapore,2020-08-03,313.0
+SGP,Singapore,2020-08-04,226.0
 SLE,Sierra Leone,2020-04-01,1.0
 SLE,Sierra Leone,2020-04-02,0.0
 SLE,Sierra Leone,2020-04-03,1.0
@@ -27250,6 +27918,10 @@ SLE,Sierra Leone,2020-07-28,0.0
 SLE,Sierra Leone,2020-07-29,3.0
 SLE,Sierra Leone,2020-07-30,17.0
 SLE,Sierra Leone,2020-07-31,15.0
+SLE,Sierra Leone,2020-08-01,0.0
+SLE,Sierra Leone,2020-08-02,5.0
+SLE,Sierra Leone,2020-08-03,20.0
+SLE,Sierra Leone,2020-08-04,5.0
 SLV,El Salvador,2020-03-19,1.0
 SLV,El Salvador,2020-03-20,0.0
 SLV,El Salvador,2020-03-21,2.0
@@ -27385,6 +28057,10 @@ SLV,El Salvador,2020-07-28,405.0
 SLV,El Salvador,2020-07-29,411.0
 SLV,El Salvador,2020-07-30,395.0
 SLV,El Salvador,2020-07-31,389.0
+SLV,El Salvador,2020-08-01,402.0
+SLV,El Salvador,2020-08-02,418.0
+SLV,El Salvador,2020-08-03,398.0
+SLV,El Salvador,2020-08-04,395.0
 SMR,San Marino,2019-12-31,0.0
 SMR,San Marino,2020-01-01,0.0
 SMR,San Marino,2020-01-02,0.0
@@ -27570,13 +28246,13 @@ SMR,San Marino,2020-06-30,0.0
 SMR,San Marino,2020-07-01,0.0
 SMR,San Marino,2020-07-02,0.0
 SMR,San Marino,2020-07-03,0.0
-SMR,San Marino,2020-07-04,15.0
+SMR,San Marino,2020-07-04,0.0
 SMR,San Marino,2020-07-05,0.0
 SMR,San Marino,2020-07-06,0.0
 SMR,San Marino,2020-07-07,0.0
 SMR,San Marino,2020-07-08,0.0
-SMR,San Marino,2020-07-09,0.0
-SMR,San Marino,2020-07-10,1.0
+SMR,San Marino,2020-07-09,1.0
+SMR,San Marino,2020-07-10,0.0
 SMR,San Marino,2020-07-11,0.0
 SMR,San Marino,2020-07-12,0.0
 SMR,San Marino,2020-07-13,0.0
@@ -27587,7 +28263,7 @@ SMR,San Marino,2020-07-17,0.0
 SMR,San Marino,2020-07-18,0.0
 SMR,San Marino,2020-07-19,0.0
 SMR,San Marino,2020-07-20,0.0
-SMR,San Marino,2020-07-21,2.0
+SMR,San Marino,2020-07-21,0.0
 SMR,San Marino,2020-07-22,0.0
 SMR,San Marino,2020-07-23,0.0
 SMR,San Marino,2020-07-24,0.0
@@ -27598,6 +28274,10 @@ SMR,San Marino,2020-07-28,0.0
 SMR,San Marino,2020-07-29,0.0
 SMR,San Marino,2020-07-30,0.0
 SMR,San Marino,2020-07-31,0.0
+SMR,San Marino,2020-08-01,0.0
+SMR,San Marino,2020-08-02,0.0
+SMR,San Marino,2020-08-03,0.0
+SMR,San Marino,2020-08-04,0.0
 SOM,Somalia,2020-03-17,1.0
 SOM,Somalia,2020-03-18,0.0
 SOM,Somalia,2020-03-19,0.0
@@ -27735,6 +28415,10 @@ SOM,Somalia,2020-07-28,0.0
 SOM,Somalia,2020-07-29,18.0
 SOM,Somalia,2020-07-30,16.0
 SOM,Somalia,2020-07-31,0.0
+SOM,Somalia,2020-08-01,0.0
+SOM,Somalia,2020-08-02,0.0
+SOM,Somalia,2020-08-03,0.0
+SOM,Somalia,2020-08-04,8.0
 SRB,Serbia,2020-03-07,1.0
 SRB,Serbia,2020-03-11,4.0
 SRB,Serbia,2020-03-12,13.0
@@ -27879,6 +28563,10 @@ SRB,Serbia,2020-07-28,411.0
 SRB,Serbia,2020-07-29,379.0
 SRB,Serbia,2020-07-30,372.0
 SRB,Serbia,2020-07-31,321.0
+SRB,Serbia,2020-08-01,339.0
+SRB,Serbia,2020-08-02,330.0
+SRB,Serbia,2020-08-03,311.0
+SRB,Serbia,2020-08-04,258.0
 SSD,South Sudan,2020-04-06,1.0
 SSD,South Sudan,2020-04-07,0.0
 SSD,South Sudan,2020-04-08,0.0
@@ -27996,6 +28684,10 @@ SSD,South Sudan,2020-07-28,43.0
 SSD,South Sudan,2020-07-29,17.0
 SSD,South Sudan,2020-07-30,0.0
 SSD,South Sudan,2020-07-31,0.0
+SSD,South Sudan,2020-08-01,0.0
+SSD,South Sudan,2020-08-02,30.0
+SSD,South Sudan,2020-08-03,77.0
+SSD,South Sudan,2020-08-04,0.0
 STP,São Tomé & Príncipe,2020-04-09,4.0
 STP,São Tomé & Príncipe,2020-04-10,0.0
 STP,São Tomé & Príncipe,2020-04-11,0.0
@@ -28110,6 +28802,10 @@ STP,São Tomé & Príncipe,2020-07-28,2.0
 STP,São Tomé & Príncipe,2020-07-29,2.0
 STP,São Tomé & Príncipe,2020-07-30,1.0
 STP,São Tomé & Príncipe,2020-07-31,2.0
+STP,São Tomé & Príncipe,2020-08-01,1.0
+STP,São Tomé & Príncipe,2020-08-02,3.0
+STP,São Tomé & Príncipe,2020-08-03,0.0
+STP,São Tomé & Príncipe,2020-08-04,0.0
 SUR,Suriname,2020-03-15,1.0
 SUR,Suriname,2020-03-21,0.0
 SUR,Suriname,2020-03-22,4.0
@@ -28244,6 +28940,10 @@ SUR,Suriname,2020-07-28,44.0
 SUR,Suriname,2020-07-29,27.0
 SUR,Suriname,2020-07-30,97.0
 SUR,Suriname,2020-07-31,43.0
+SUR,Suriname,2020-08-01,56.0
+SUR,Suriname,2020-08-02,54.0
+SUR,Suriname,2020-08-03,89.0
+SUR,Suriname,2020-08-04,44.0
 SVK,Slovakia,2020-03-07,1.0
 SVK,Slovakia,2020-03-08,2.0
 SVK,Slovakia,2020-03-09,2.0
@@ -28390,6 +29090,10 @@ SVK,Slovakia,2020-07-28,2.0
 SVK,Slovakia,2020-07-29,23.0
 SVK,Slovakia,2020-07-30,41.0
 SVK,Slovakia,2020-07-31,20.0
+SVK,Slovakia,2020-08-01,27.0
+SVK,Slovakia,2020-08-02,45.0
+SVK,Slovakia,2020-08-03,7.0
+SVK,Slovakia,2020-08-04,10.0
 SVN,Slovenia,2020-03-05,1.0
 SVN,Slovenia,2020-03-06,5.0
 SVN,Slovenia,2020-03-07,3.0
@@ -28538,6 +29242,10 @@ SVN,Slovenia,2020-07-28,5.0
 SVN,Slovenia,2020-07-29,14.0
 SVN,Slovenia,2020-07-30,14.0
 SVN,Slovenia,2020-07-31,24.0
+SVN,Slovenia,2020-08-01,26.0
+SVN,Slovenia,2020-08-02,6.0
+SVN,Slovenia,2020-08-03,9.0
+SVN,Slovenia,2020-08-04,1.0
 SWE,Sweden,2019-12-31,0.0
 SWE,Sweden,2020-01-01,0.0
 SWE,Sweden,2020-01-02,0.0
@@ -28752,6 +29460,10 @@ SWE,Sweden,2020-07-28,398.0
 SWE,Sweden,2020-07-29,99.0
 SWE,Sweden,2020-07-30,288.0
 SWE,Sweden,2020-07-31,318.0
+SWE,Sweden,2020-08-01,322.0
+SWE,Sweden,2020-08-02,0.0
+SWE,Sweden,2020-08-03,0.0
+SWE,Sweden,2020-08-04,590.0
 SWZ,Eswatini,2020-03-15,1.0
 SWZ,Eswatini,2020-03-16,0.0
 SWZ,Eswatini,2020-03-17,0.0
@@ -28891,6 +29603,10 @@ SWZ,Eswatini,2020-07-28,109.0
 SWZ,Eswatini,2020-07-29,88.0
 SWZ,Eswatini,2020-07-30,147.0
 SWZ,Eswatini,2020-07-31,26.0
+SWZ,Eswatini,2020-08-01,71.0
+SWZ,Eswatini,2020-08-02,58.0
+SWZ,Eswatini,2020-08-03,69.0
+SWZ,Eswatini,2020-08-04,63.0
 SXM,Sint Maarten,2020-03-03,1.0
 SXM,Sint Maarten,2020-03-26,1.0
 SXM,Sint Maarten,2020-03-27,0.0
@@ -29019,6 +29735,10 @@ SXM,Sint Maarten,2020-07-28,20.0
 SXM,Sint Maarten,2020-07-29,7.0
 SXM,Sint Maarten,2020-07-30,0.0
 SXM,Sint Maarten,2020-07-31,7.0
+SXM,Sint Maarten,2020-08-01,0.0
+SXM,Sint Maarten,2020-08-02,0.0
+SXM,Sint Maarten,2020-08-03,18.0
+SXM,Sint Maarten,2020-08-04,4.0
 SYC,Seychelles,2020-03-15,2.0
 SYC,Seychelles,2020-03-16,1.0
 SYC,Seychelles,2020-03-17,1.0
@@ -29158,6 +29878,10 @@ SYC,Seychelles,2020-07-28,0.0
 SYC,Seychelles,2020-07-29,0.0
 SYC,Seychelles,2020-07-30,0.0
 SYC,Seychelles,2020-07-31,0.0
+SYC,Seychelles,2020-08-01,0.0
+SYC,Seychelles,2020-08-02,0.0
+SYC,Seychelles,2020-08-03,0.0
+SYC,Seychelles,2020-08-04,0.0
 SYR,Syria,2020-03-23,1.0
 SYR,Syria,2020-03-24,0.0
 SYR,Syria,2020-03-25,0.0
@@ -29289,6 +30013,10 @@ SYR,Syria,2020-07-28,24.0
 SYR,Syria,2020-07-29,20.0
 SYR,Syria,2020-07-30,23.0
 SYR,Syria,2020-07-31,21.0
+SYR,Syria,2020-08-01,0.0
+SYR,Syria,2020-08-02,19.0
+SYR,Syria,2020-08-03,52.0
+SYR,Syria,2020-08-04,38.0
 TCA,Turks & Caicos Islands,2020-03-25,1.0
 TCA,Turks & Caicos Islands,2020-03-26,0.0
 TCA,Turks & Caicos Islands,2020-03-27,1.0
@@ -29418,6 +30146,10 @@ TCA,Turks & Caicos Islands,2020-07-28,0.0
 TCA,Turks & Caicos Islands,2020-07-29,0.0
 TCA,Turks & Caicos Islands,2020-07-30,0.0
 TCA,Turks & Caicos Islands,2020-07-31,5.0
+TCA,Turks & Caicos Islands,2020-08-01,3.0
+TCA,Turks & Caicos Islands,2020-08-02,7.0
+TCA,Turks & Caicos Islands,2020-08-03,2.0
+TCA,Turks & Caicos Islands,2020-08-04,0.0
 TCD,Chad,2020-03-20,1.0
 TCD,Chad,2020-03-21,0.0
 TCD,Chad,2020-03-22,1.0
@@ -29552,6 +30284,10 @@ TCD,Chad,2020-07-28,7.0
 TCD,Chad,2020-07-29,4.0
 TCD,Chad,2020-07-30,0.0
 TCD,Chad,2020-07-31,9.0
+TCD,Chad,2020-08-01,1.0
+TCD,Chad,2020-08-02,0.0
+TCD,Chad,2020-08-03,0.0
+TCD,Chad,2020-08-04,0.0
 TGO,Togo,2020-03-07,1.0
 TGO,Togo,2020-03-15,0.0
 TGO,Togo,2020-03-16,0.0
@@ -29692,6 +30428,10 @@ TGO,Togo,2020-07-28,6.0
 TGO,Togo,2020-07-29,22.0
 TGO,Togo,2020-07-30,0.0
 TGO,Togo,2020-07-31,31.0
+TGO,Togo,2020-08-01,14.0
+TGO,Togo,2020-08-02,17.0
+TGO,Togo,2020-08-03,3.0
+TGO,Togo,2020-08-04,15.0
 THA,Thailand,2019-12-31,0.0
 THA,Thailand,2020-01-01,0.0
 THA,Thailand,2020-01-02,0.0
@@ -29899,6 +30639,10 @@ THA,Thailand,2020-07-28,2.0
 THA,Thailand,2020-07-29,1.0
 THA,Thailand,2020-07-30,6.0
 THA,Thailand,2020-07-31,6.0
+THA,Thailand,2020-08-01,2.0
+THA,Thailand,2020-08-02,5.0
+THA,Thailand,2020-08-03,3.0
+THA,Thailand,2020-08-04,1.0
 TJK,Tajikistan,2020-05-01,15.0
 TJK,Tajikistan,2020-05-02,0.0
 TJK,Tajikistan,2020-05-03,17.0
@@ -29991,6 +30735,10 @@ TJK,Tajikistan,2020-07-28,43.0
 TJK,Tajikistan,2020-07-29,41.0
 TJK,Tajikistan,2020-07-30,44.0
 TJK,Tajikistan,2020-07-31,46.0
+TJK,Tajikistan,2020-08-01,43.0
+TJK,Tajikistan,2020-08-02,42.0
+TJK,Tajikistan,2020-08-03,44.0
+TJK,Tajikistan,2020-08-04,43.0
 TLS,Timor-Leste,2020-03-22,1.0
 TLS,Timor-Leste,2020-03-23,0.0
 TLS,Timor-Leste,2020-03-24,0.0
@@ -30123,6 +30871,10 @@ TLS,Timor-Leste,2020-07-28,0.0
 TLS,Timor-Leste,2020-07-29,0.0
 TLS,Timor-Leste,2020-07-30,0.0
 TLS,Timor-Leste,2020-07-31,0.0
+TLS,Timor-Leste,2020-08-01,0.0
+TLS,Timor-Leste,2020-08-02,0.0
+TLS,Timor-Leste,2020-08-03,0.0
+TLS,Timor-Leste,2020-08-04,0.0
 TTO,Trinidad & Tobago,2020-03-13,1.0
 TTO,Trinidad & Tobago,2020-03-14,1.0
 TTO,Trinidad & Tobago,2020-03-15,0.0
@@ -30264,6 +31016,10 @@ TTO,Trinidad & Tobago,2020-07-28,1.0
 TTO,Trinidad & Tobago,2020-07-29,6.0
 TTO,Trinidad & Tobago,2020-07-30,2.0
 TTO,Trinidad & Tobago,2020-07-31,8.0
+TTO,Trinidad & Tobago,2020-08-01,5.0
+TTO,Trinidad & Tobago,2020-08-02,4.0
+TTO,Trinidad & Tobago,2020-08-03,9.0
+TTO,Trinidad & Tobago,2020-08-04,0.0
 TUN,Tunisia,2020-03-03,1.0
 TUN,Tunisia,2020-03-10,1.0
 TUN,Tunisia,2020-03-11,3.0
@@ -30409,6 +31165,10 @@ TUN,Tunisia,2020-07-28,3.0
 TUN,Tunisia,2020-07-29,13.0
 TUN,Tunisia,2020-07-30,20.0
 TUN,Tunisia,2020-07-31,26.0
+TUN,Tunisia,2020-08-01,21.0
+TUN,Tunisia,2020-08-02,17.0
+TUN,Tunisia,2020-08-03,9.0
+TUN,Tunisia,2020-08-04,4.0
 TUR,Turkey,2020-03-12,1.0
 TUR,Turkey,2020-03-13,1.0
 TUR,Turkey,2020-03-16,16.0
@@ -30549,6 +31309,10 @@ TUR,Turkey,2020-07-28,919.0
 TUR,Turkey,2020-07-29,963.0
 TUR,Turkey,2020-07-30,942.0
 TUR,Turkey,2020-07-31,967.0
+TUR,Turkey,2020-08-01,982.0
+TUR,Turkey,2020-08-02,996.0
+TUR,Turkey,2020-08-03,987.0
+TUR,Turkey,2020-08-04,995.0
 TWN,Taiwan,2019-12-31,0.0
 TWN,Taiwan,2020-01-01,0.0
 TWN,Taiwan,2020-01-02,0.0
@@ -30763,6 +31527,10 @@ TWN,Taiwan,2020-07-28,5.0
 TWN,Taiwan,2020-07-29,0.0
 TWN,Taiwan,2020-07-30,0.0
 TWN,Taiwan,2020-07-31,0.0
+TWN,Taiwan,2020-08-01,7.0
+TWN,Taiwan,2020-08-02,0.0
+TWN,Taiwan,2020-08-03,1.0
+TWN,Taiwan,2020-08-04,1.0
 TZA,Tanzania,2020-03-17,1.0
 TZA,Tanzania,2020-03-18,0.0
 TZA,Tanzania,2020-03-19,2.0
@@ -30900,6 +31668,10 @@ TZA,Tanzania,2020-07-28,0.0
 TZA,Tanzania,2020-07-29,0.0
 TZA,Tanzania,2020-07-30,0.0
 TZA,Tanzania,2020-07-31,0.0
+TZA,Tanzania,2020-08-01,0.0
+TZA,Tanzania,2020-08-02,0.0
+TZA,Tanzania,2020-08-03,0.0
+TZA,Tanzania,2020-08-04,0.0
 UGA,Uganda,2020-03-22,1.0
 UGA,Uganda,2020-03-23,0.0
 UGA,Uganda,2020-03-24,8.0
@@ -31032,6 +31804,10 @@ UGA,Uganda,2020-07-28,13.0
 UGA,Uganda,2020-07-29,7.0
 UGA,Uganda,2020-07-30,5.0
 UGA,Uganda,2020-07-31,7.0
+UGA,Uganda,2020-08-01,7.0
+UGA,Uganda,2020-08-02,22.0
+UGA,Uganda,2020-08-03,6.0
+UGA,Uganda,2020-08-04,13.0
 UKR,Ukraine,2020-03-04,1.0
 UKR,Ukraine,2020-03-13,2.0
 UKR,Ukraine,2020-03-16,0.0
@@ -31052,11 +31828,11 @@ UKR,Ukraine,2020-03-30,107.0
 UKR,Ukraine,2020-03-31,62.0
 UKR,Ukraine,2020-04-01,69.0
 UKR,Ukraine,2020-04-02,245.0
-UKR,Ukraine,2020-04-03,10.0
-UKR,Ukraine,2020-04-04,183.0
-UKR,Ukraine,2020-04-05,109.0
-UKR,Ukraine,2020-04-06,155.0
-UKR,Ukraine,2020-04-07,68.0
+UKR,Ukraine,2020-04-03,103.0
+UKR,Ukraine,2020-04-04,175.0
+UKR,Ukraine,2020-04-05,153.0
+UKR,Ukraine,2020-04-06,83.0
+UKR,Ukraine,2020-04-07,11.0
 UKR,Ukraine,2020-04-08,143.0
 UKR,Ukraine,2020-04-09,206.0
 UKR,Ukraine,2020-04-10,224.0
@@ -31065,19 +31841,19 @@ UKR,Ukraine,2020-04-12,308.0
 UKR,Ukraine,2020-04-13,266.0
 UKR,Ukraine,2020-04-14,325.0
 UKR,Ukraine,2020-04-15,270.0
-UKR,Ukraine,2020-04-16,789.0
-UKR,Ukraine,2020-04-17,301.0
-UKR,Ukraine,2020-04-18,644.0
-UKR,Ukraine,2020-04-19,343.0
-UKR,Ukraine,2020-04-20,261.0
-UKR,Ukraine,2020-04-21,415.0
-UKR,Ukraine,2020-04-22,467.0
-UKR,Ukraine,2020-04-23,578.0
-UKR,Ukraine,2020-04-24,477.0
-UKR,Ukraine,2020-04-25,478.0
-UKR,Ukraine,2020-04-26,492.0
-UKR,Ukraine,2020-04-27,392.0
-UKR,Ukraine,2020-04-28,0.0
+UKR,Ukraine,2020-04-16,392.0
+UKR,Ukraine,2020-04-17,397.0
+UKR,Ukraine,2020-04-18,301.0
+UKR,Ukraine,2020-04-19,644.0
+UKR,Ukraine,2020-04-20,343.0
+UKR,Ukraine,2020-04-21,261.0
+UKR,Ukraine,2020-04-22,415.0
+UKR,Ukraine,2020-04-23,467.0
+UKR,Ukraine,2020-04-24,578.0
+UKR,Ukraine,2020-04-25,477.0
+UKR,Ukraine,2020-04-26,478.0
+UKR,Ukraine,2020-04-27,492.0
+UKR,Ukraine,2020-04-28,392.0
 UKR,Ukraine,2020-04-29,401.0
 UKR,Ukraine,2020-04-30,456.0
 UKR,Ukraine,2020-05-01,540.0
@@ -31107,17 +31883,17 @@ UKR,Ukraine,2020-05-24,432.0
 UKR,Ukraine,2020-05-25,406.0
 UKR,Ukraine,2020-05-26,259.0
 UKR,Ukraine,2020-05-27,339.0
-UKR,Ukraine,2020-05-28,0.0
-UKR,Ukraine,2020-05-29,798.0
-UKR,Ukraine,2020-05-30,822.0
-UKR,Ukraine,2020-05-31,0.0
+UKR,Ukraine,2020-05-28,321.0
+UKR,Ukraine,2020-05-29,477.0
+UKR,Ukraine,2020-05-30,429.0
+UKR,Ukraine,2020-05-31,393.0
 UKR,Ukraine,2020-06-01,468.0
-UKR,Ukraine,2020-06-02,668.0
-UKR,Ukraine,2020-06-03,483.0
-UKR,Ukraine,2020-06-04,588.0
-UKR,Ukraine,2020-06-05,553.0
-UKR,Ukraine,2020-06-06,550.0
-UKR,Ukraine,2020-06-07,0.0
+UKR,Ukraine,2020-06-02,340.0
+UKR,Ukraine,2020-06-03,328.0
+UKR,Ukraine,2020-06-04,483.0
+UKR,Ukraine,2020-06-05,588.0
+UKR,Ukraine,2020-06-06,553.0
+UKR,Ukraine,2020-06-07,550.0
 UKR,Ukraine,2020-06-08,485.0
 UKR,Ukraine,2020-06-09,463.0
 UKR,Ukraine,2020-06-10,394.0
@@ -31134,28 +31910,28 @@ UKR,Ukraine,2020-06-20,921.0
 UKR,Ukraine,2020-06-21,841.0
 UKR,Ukraine,2020-06-22,735.0
 UKR,Ukraine,2020-06-23,681.0
-UKR,Ukraine,2020-06-24,1773.0
-UKR,Ukraine,2020-06-25,0.0
+UKR,Ukraine,2020-06-24,833.0
+UKR,Ukraine,2020-06-25,940.0
 UKR,Ukraine,2020-06-26,994.0
 UKR,Ukraine,2020-06-27,1109.0
 UKR,Ukraine,2020-06-28,948.0
 UKR,Ukraine,2020-06-29,917.0
 UKR,Ukraine,2020-06-30,646.0
-UKR,Ukraine,2020-07-01,1370.0
-UKR,Ukraine,2020-07-02,0.0
+UKR,Ukraine,2020-07-01,706.0
+UKR,Ukraine,2020-07-02,664.0
 UKR,Ukraine,2020-07-03,889.0
-UKR,Ukraine,2020-07-04,1790.0
-UKR,Ukraine,2020-07-05,0.0
-UKR,Ukraine,2020-07-06,1366.0
-UKR,Ukraine,2020-07-07,564.0
-UKR,Ukraine,2020-07-08,807.0
-UKR,Ukraine,2020-07-09,810.0
-UKR,Ukraine,2020-07-10,819.0
-UKR,Ukraine,2020-07-11,0.0
+UKR,Ukraine,2020-07-04,876.0
+UKR,Ukraine,2020-07-05,914.0
+UKR,Ukraine,2020-07-06,823.0
+UKR,Ukraine,2020-07-07,543.0
+UKR,Ukraine,2020-07-08,564.0
+UKR,Ukraine,2020-07-09,807.0
+UKR,Ukraine,2020-07-10,810.0
+UKR,Ukraine,2020-07-11,819.0
 UKR,Ukraine,2020-07-12,800.0
-UKR,Ukraine,2020-07-13,1290.0
-UKR,Ukraine,2020-07-14,638.0
-UKR,Ukraine,2020-07-15,0.0
+UKR,Ukraine,2020-07-13,678.0
+UKR,Ukraine,2020-07-14,612.0
+UKR,Ukraine,2020-07-15,638.0
 UKR,Ukraine,2020-07-16,836.0
 UKR,Ukraine,2020-07-17,848.0
 UKR,Ukraine,2020-07-18,809.0
@@ -31163,15 +31939,19 @@ UKR,Ukraine,2020-07-19,847.0
 UKR,Ukraine,2020-07-20,731.0
 UKR,Ukraine,2020-07-21,651.0
 UKR,Ukraine,2020-07-22,673.0
-UKR,Ukraine,2020-07-23,1685.0
-UKR,Ukraine,2020-07-24,972.0
-UKR,Ukraine,2020-07-25,1106.0
-UKR,Ukraine,2020-07-26,0.0
+UKR,Ukraine,2020-07-23,829.0
+UKR,Ukraine,2020-07-24,856.0
+UKR,Ukraine,2020-07-25,972.0
+UKR,Ukraine,2020-07-26,1106.0
 UKR,Ukraine,2020-07-27,920.0
 UKR,Ukraine,2020-07-28,807.0
 UKR,Ukraine,2020-07-29,919.0
 UKR,Ukraine,2020-07-30,1022.0
 UKR,Ukraine,2020-07-31,1197.0
+UKR,Ukraine,2020-08-01,1090.0
+UKR,Ukraine,2020-08-02,1172.0
+UKR,Ukraine,2020-08-03,1112.0
+UKR,Ukraine,2020-08-04,990.0
 URY,Uruguay,2020-03-15,6.0
 URY,Uruguay,2020-03-16,2.0
 URY,Uruguay,2020-03-17,21.0
@@ -31311,6 +32091,10 @@ URY,Uruguay,2020-07-28,10.0
 URY,Uruguay,2020-07-29,16.0
 URY,Uruguay,2020-07-30,19.0
 URY,Uruguay,2020-07-31,6.0
+URY,Uruguay,2020-08-01,21.0
+URY,Uruguay,2020-08-02,14.0
+URY,Uruguay,2020-08-03,8.0
+URY,Uruguay,2020-08-04,5.0
 USA,United States,2019-12-31,0.0
 USA,United States,2020-01-01,0.0
 USA,United States,2020-01-02,0.0
@@ -31525,6 +32309,10 @@ USA,United States,2020-07-28,56243.0
 USA,United States,2020-07-29,61734.0
 USA,United States,2020-07-30,74985.0
 USA,United States,2020-07-31,68032.0
+USA,United States,2020-08-01,67023.0
+USA,United States,2020-08-02,58407.0
+USA,United States,2020-08-03,47511.0
+USA,United States,2020-08-04,45607.0
 UZB,Uzbekistan,2020-03-16,6.0
 UZB,Uzbekistan,2020-03-17,2.0
 UZB,Uzbekistan,2020-03-18,8.0
@@ -31663,6 +32451,10 @@ UZB,Uzbekistan,2020-07-28,686.0
 UZB,Uzbekistan,2020-07-29,663.0
 UZB,Uzbekistan,2020-07-30,703.0
 UZB,Uzbekistan,2020-07-31,686.0
+UZB,Uzbekistan,2020-08-01,746.0
+UZB,Uzbekistan,2020-08-02,736.0
+UZB,Uzbekistan,2020-08-03,788.0
+UZB,Uzbekistan,2020-08-04,722.0
 VAT,Vatican City,2020-03-07,1.0
 VAT,Vatican City,2020-03-16,0.0
 VAT,Vatican City,2020-03-17,0.0
@@ -31802,6 +32594,10 @@ VAT,Vatican City,2020-07-28,0.0
 VAT,Vatican City,2020-07-29,0.0
 VAT,Vatican City,2020-07-30,0.0
 VAT,Vatican City,2020-07-31,0.0
+VAT,Vatican City,2020-08-01,0.0
+VAT,Vatican City,2020-08-02,0.0
+VAT,Vatican City,2020-08-03,0.0
+VAT,Vatican City,2020-08-04,0.0
 VCT,St. Vincent & Grenadines,2020-03-13,1.0
 VCT,St. Vincent & Grenadines,2020-03-25,0.0
 VCT,St. Vincent & Grenadines,2020-03-26,0.0
@@ -31932,6 +32728,10 @@ VCT,St. Vincent & Grenadines,2020-07-28,0.0
 VCT,St. Vincent & Grenadines,2020-07-29,0.0
 VCT,St. Vincent & Grenadines,2020-07-30,0.0
 VCT,St. Vincent & Grenadines,2020-07-31,0.0
+VCT,St. Vincent & Grenadines,2020-08-01,2.0
+VCT,St. Vincent & Grenadines,2020-08-02,1.0
+VCT,St. Vincent & Grenadines,2020-08-03,0.0
+VCT,St. Vincent & Grenadines,2020-08-04,0.0
 VEN,Venezuela,2020-03-15,10.0
 VEN,Venezuela,2020-03-16,5.0
 VEN,Venezuela,2020-03-17,18.0
@@ -32070,6 +32870,10 @@ VEN,Venezuela,2020-07-28,525.0
 VEN,Venezuela,2020-07-29,583.0
 VEN,Venezuela,2020-07-30,0.0
 VEN,Venezuela,2020-07-31,1288.0
+VEN,Venezuela,2020-08-01,715.0
+VEN,Venezuela,2020-08-02,869.0
+VEN,Venezuela,2020-08-03,763.0
+VEN,Venezuela,2020-08-04,0.0
 VGB,British Virgin Islands,2020-03-27,2.0
 VGB,British Virgin Islands,2020-03-28,0.0
 VGB,British Virgin Islands,2020-03-29,0.0
@@ -32197,6 +33001,10 @@ VGB,British Virgin Islands,2020-07-28,0.0
 VGB,British Virgin Islands,2020-07-29,0.0
 VGB,British Virgin Islands,2020-07-30,0.0
 VGB,British Virgin Islands,2020-07-31,0.0
+VGB,British Virgin Islands,2020-08-01,0.0
+VGB,British Virgin Islands,2020-08-02,0.0
+VGB,British Virgin Islands,2020-08-03,1.0
+VGB,British Virgin Islands,2020-08-04,0.0
 VIR,U.S. Virgin Islands,2020-03-24,17.0
 VIR,U.S. Virgin Islands,2020-03-25,0.0
 VIR,U.S. Virgin Islands,2020-03-26,0.0
@@ -32326,6 +33134,10 @@ VIR,U.S. Virgin Islands,2020-07-28,3.0
 VIR,U.S. Virgin Islands,2020-07-29,21.0
 VIR,U.S. Virgin Islands,2020-07-30,0.0
 VIR,U.S. Virgin Islands,2020-07-31,0.0
+VIR,U.S. Virgin Islands,2020-08-01,21.0
+VIR,U.S. Virgin Islands,2020-08-02,15.0
+VIR,U.S. Virgin Islands,2020-08-03,0.0
+VIR,U.S. Virgin Islands,2020-08-04,18.0
 VNM,Vietnam,2019-12-31,0.0
 VNM,Vietnam,2020-01-01,0.0
 VNM,Vietnam,2020-01-02,0.0
@@ -32536,6 +33348,10 @@ VNM,Vietnam,2020-07-28,11.0
 VNM,Vietnam,2020-07-29,2.0
 VNM,Vietnam,2020-07-30,26.0
 VNM,Vietnam,2020-07-31,50.0
+VNM,Vietnam,2020-08-01,49.0
+VNM,Vietnam,2020-08-02,32.0
+VNM,Vietnam,2020-08-03,31.0
+VNM,Vietnam,2020-08-04,31.0
 YEM,Yemen,2020-04-10,1.0
 YEM,Yemen,2020-04-11,0.0
 YEM,Yemen,2020-04-12,0.0
@@ -32649,6 +33465,10 @@ YEM,Yemen,2020-07-28,10.0
 YEM,Yemen,2020-07-29,4.0
 YEM,Yemen,2020-07-30,16.0
 YEM,Yemen,2020-07-31,15.0
+YEM,Yemen,2020-08-01,2.0
+YEM,Yemen,2020-08-02,2.0
+YEM,Yemen,2020-08-03,4.0
+YEM,Yemen,2020-08-04,4.0
 ZAF,South Africa,2020-03-06,1.0
 ZAF,South Africa,2020-03-08,1.0
 ZAF,South Africa,2020-03-09,1.0
@@ -32795,6 +33615,10 @@ ZAF,South Africa,2020-07-28,7096.0
 ZAF,South Africa,2020-07-29,7232.0
 ZAF,South Africa,2020-07-30,11362.0
 ZAF,South Africa,2020-07-31,11046.0
+ZAF,South Africa,2020-08-01,11014.0
+ZAF,South Africa,2020-08-02,10107.0
+ZAF,South Africa,2020-08-03,8195.0
+ZAF,South Africa,2020-08-04,5377.0
 ZMB,Zambia,2020-03-19,2.0
 ZMB,Zambia,2020-03-20,0.0
 ZMB,Zambia,2020-03-21,0.0
@@ -32930,6 +33754,10 @@ ZMB,Zambia,2020-07-28,71.0
 ZMB,Zambia,2020-07-29,450.0
 ZMB,Zambia,2020-07-30,247.0
 ZMB,Zambia,2020-07-31,306.0
+ZMB,Zambia,2020-08-01,408.0
+ZMB,Zambia,2020-08-02,265.0
+ZMB,Zambia,2020-08-03,119.0
+ZMB,Zambia,2020-08-04,233.0
 ZWE,Zimbabwe,2020-03-21,1.0
 ZWE,Zimbabwe,2020-03-22,1.0
 ZWE,Zimbabwe,2020-03-23,0.0
@@ -33063,3 +33891,7 @@ ZWE,Zimbabwe,2020-07-28,192.0
 ZWE,Zimbabwe,2020-07-29,113.0
 ZWE,Zimbabwe,2020-07-30,62.0
 ZWE,Zimbabwe,2020-07-31,213.0
+ZWE,Zimbabwe,2020-08-01,77.0
+ZWE,Zimbabwe,2020-08-02,490.0
+ZWE,Zimbabwe,2020-08-03,262.0
+ZWE,Zimbabwe,2020-08-04,154.0
