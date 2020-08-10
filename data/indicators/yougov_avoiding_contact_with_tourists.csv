@@ -30,6 +30,7 @@ CAN,Canada,2020-06-11,41
 CAN,Canada,2020-06-26,45
 CAN,Canada,2020-07-07,44
 CAN,Canada,2020-07-21,48
+CAN,Canada,2020-08-04,48
 CHN,China,2020-02-24,58
 CHN,China,2020-03-02,59
 CHN,China,2020-03-09,61
@@ -46,6 +47,7 @@ CHN,China,2020-06-08,55
 CHN,China,2020-06-22,50
 CHN,China,2020-07-06,54
 CHN,China,2020-07-20,46
+CHN,China,2020-08-04,49
 DEU,Germany,2020-03-04,25
 DEU,Germany,2020-03-16,26
 DEU,Germany,2020-03-23,43
@@ -87,6 +89,7 @@ ESP,Spain,2020-07-09,37
 ESP,Spain,2020-07-16,44
 ESP,Spain,2020-07-23,42
 ESP,Spain,2020-07-30,46
+ESP,Spain,2020-08-06,47
 FIN,Finland,2020-03-16,29
 FIN,Finland,2020-03-23,29
 FIN,Finland,2020-03-29,46
@@ -106,6 +109,7 @@ FRA,France,2020-04-24,51
 FRA,France,2020-05-01,49
 FRA,France,2020-07-16,44
 FRA,France,2020-07-22,46
+FRA,France,2020-08-07,49
 GBR,United Kingdom,2020-03-01,9
 GBR,United Kingdom,2020-03-13,12
 GBR,United Kingdom,2020-03-20,21
@@ -123,6 +127,7 @@ GBR,United Kingdom,2020-07-03,31
 GBR,United Kingdom,2020-07-12,29
 GBR,United Kingdom,2020-07-26,24
 GBR,United Kingdom,2020-07-31,33
+GBR,United Kingdom,2020-08-07,30
 HKG,Hong Kong SAR China,2020-02-25,51
 HKG,Hong Kong SAR China,2020-03-03,45
 HKG,Hong Kong SAR China,2020-03-10,46
@@ -139,6 +144,7 @@ HKG,Hong Kong SAR China,2020-06-08,52
 HKG,Hong Kong SAR China,2020-06-22,49
 HKG,Hong Kong SAR China,2020-07-06,44
 HKG,Hong Kong SAR China,2020-07-21,50
+HKG,Hong Kong SAR China,2020-08-04,51
 IDN,Indonesia,2020-02-24,35
 IDN,Indonesia,2020-03-02,38
 IDN,Indonesia,2020-03-09,45
@@ -155,12 +161,14 @@ IDN,Indonesia,2020-06-08,47
 IDN,Indonesia,2020-06-22,44
 IDN,Indonesia,2020-07-06,43
 IDN,Indonesia,2020-07-20,48
+IDN,Indonesia,2020-08-03,44
 IND,India,2020-03-16,53
 IND,India,2020-03-20,56
 IND,India,2020-03-27,63
 IND,India,2020-04-03,66
 IND,India,2020-07-23,69
 IND,India,2020-08-02,67
+IND,India,2020-08-05,67
 ITA,Italy,2020-03-11,34
 ITA,Italy,2020-03-19,40
 ITA,Italy,2020-03-25,40
@@ -209,6 +217,7 @@ MYS,Malaysia,2020-06-08,58
 MYS,Malaysia,2020-06-22,62
 MYS,Malaysia,2020-07-06,60
 MYS,Malaysia,2020-07-20,63
+MYS,Malaysia,2020-08-03,55
 NOR,Norway,2020-03-16,36
 NOR,Norway,2020-03-23,37
 NOR,Norway,2020-03-29,44
@@ -234,6 +243,7 @@ PHL,Philippines,2020-06-08,63
 PHL,Philippines,2020-06-22,65
 PHL,Philippines,2020-07-06,65
 PHL,Philippines,2020-07-20,68
+PHL,Philippines,2020-08-03,63
 SAU,Saudi Arabia,2020-03-18,47
 SAU,Saudi Arabia,2020-03-25,61
 SAU,Saudi Arabia,2020-04-01,64
@@ -247,6 +257,7 @@ SAU,Saudi Arabia,2020-06-10,61
 SAU,Saudi Arabia,2020-06-17,57
 SAU,Saudi Arabia,2020-07-13,61
 SAU,Saudi Arabia,2020-07-29,58
+SAU,Saudi Arabia,2020-08-10,57
 SGP,Singapore,2020-02-21,37
 SGP,Singapore,2020-02-28,36
 SGP,Singapore,2020-03-06,38
@@ -263,6 +274,7 @@ SGP,Singapore,2020-06-05,47
 SGP,Singapore,2020-06-19,48
 SGP,Singapore,2020-07-07,43
 SGP,Singapore,2020-07-20,44
+SGP,Singapore,2020-08-03,44
 SWE,Sweden,2020-03-16,19
 SWE,Sweden,2020-03-23,20
 SWE,Sweden,2020-03-29,31
@@ -290,6 +302,7 @@ THA,Thailand,2020-06-08,57
 THA,Thailand,2020-06-22,53
 THA,Thailand,2020-07-06,54
 THA,Thailand,2020-07-20,60
+THA,Thailand,2020-08-03,51
 TWN,Taiwan,2020-02-25,51
 TWN,Taiwan,2020-03-03,53
 TWN,Taiwan,2020-03-10,53
@@ -306,6 +319,7 @@ TWN,Taiwan,2020-06-08,48
 TWN,Taiwan,2020-06-22,53
 TWN,Taiwan,2020-07-06,50
 TWN,Taiwan,2020-07-20,47
+TWN,Taiwan,2020-08-03,47
 USA,United States,2020-03-02,17
 USA,United States,2020-03-17,24
 USA,United States,2020-03-23,34
@@ -328,3 +342,4 @@ VNM,Vietnam,2020-03-23,44
 VNM,Vietnam,2020-03-30,65
 VNM,Vietnam,2020-04-06,66
 VNM,Vietnam,2020-07-20,59
+VNM,Vietnam,2020-08-03,53
