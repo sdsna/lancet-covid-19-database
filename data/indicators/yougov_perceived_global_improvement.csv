@@ -8,6 +8,7 @@ ARE,United Arab Emirates,2020-06-15,62
 ARE,United Arab Emirates,2020-06-22,68
 ARE,United Arab Emirates,2020-06-29,55
 ARE,United Arab Emirates,2020-07-27,61
+ARE,United Arab Emirates,2020-08-11,59
 AUS,Australia,2020-05-11,49
 AUS,Australia,2020-05-18,46
 AUS,Australia,2020-05-25,46
@@ -17,6 +18,7 @@ AUS,Australia,2020-06-15,47
 AUS,Australia,2020-06-22,38
 AUS,Australia,2020-06-29,28
 AUS,Australia,2020-08-03,20
+AUS,Australia,2020-08-10,20
 CAN,Canada,2020-05-12,50
 CAN,Canada,2020-05-19,53
 CAN,Canada,2020-05-26,48
@@ -36,6 +38,7 @@ CHN,China,2020-06-23,37
 CHN,China,2020-06-30,37
 CHN,China,2020-07-27,34
 CHN,China,2020-08-03,33
+CHN,China,2020-08-10,34
 DEU,Germany,2020-05-11,41
 DEU,Germany,2020-05-19,44
 DEU,Germany,2020-05-26,40
@@ -63,6 +66,7 @@ ESP,Spain,2020-06-18,53
 ESP,Spain,2020-06-25,32
 ESP,Spain,2020-07-27,12
 ESP,Spain,2020-08-03,15
+ESP,Spain,2020-08-10,13
 FIN,Finland,2020-05-11,39
 FIN,Finland,2020-05-15,36
 FIN,Finland,2020-05-22,39
@@ -94,6 +98,7 @@ GBR,United Kingdom,2020-06-19,50
 GBR,United Kingdom,2020-06-26,36
 GBR,United Kingdom,2020-07-31,21
 GBR,United Kingdom,2020-08-07,20
+GBR,United Kingdom,2020-08-12,21
 HKG,Hong Kong SAR China,2020-05-12,46
 HKG,Hong Kong SAR China,2020-05-19,55
 HKG,Hong Kong SAR China,2020-05-26,55
@@ -106,6 +111,7 @@ HKG,Hong Kong SAR China,2020-07-13,22
 HKG,Hong Kong SAR China,2020-07-21,17
 HKG,Hong Kong SAR China,2020-07-27,14
 HKG,Hong Kong SAR China,2020-08-03,17
+HKG,Hong Kong SAR China,2020-08-10,21
 IDN,Indonesia,2020-05-11,52
 IDN,Indonesia,2020-05-18,52
 IDN,Indonesia,2020-05-25,45
@@ -118,6 +124,7 @@ IDN,Indonesia,2020-07-13,44
 IDN,Indonesia,2020-07-21,45
 IDN,Indonesia,2020-07-27,49
 IDN,Indonesia,2020-08-03,46
+IDN,Indonesia,2020-08-10,43
 IND,India,2020-05-11,34
 IND,India,2020-05-18,35
 IND,India,2020-05-25,35
@@ -128,6 +135,7 @@ IND,India,2020-06-22,36
 IND,India,2020-06-29,34
 IND,India,2020-07-27,36
 IND,India,2020-08-03,40
+IND,India,2020-08-10,46
 ITA,Italy,2020-05-08,50
 ITA,Italy,2020-05-15,49
 ITA,Italy,2020-05-22,46
@@ -138,6 +146,7 @@ ITA,Italy,2020-06-17,42
 ITA,Italy,2020-06-24,37
 ITA,Italy,2020-07-22,21
 ITA,Italy,2020-07-29,18
+ITA,Italy,2020-08-05,21
 MEX,Mexico,2020-05-12,62
 MEX,Mexico,2020-05-19,62
 MEX,Mexico,2020-05-26,59
@@ -158,6 +167,7 @@ MYS,Malaysia,2020-07-13,43
 MYS,Malaysia,2020-07-21,38
 MYS,Malaysia,2020-07-27,25
 MYS,Malaysia,2020-08-03,30
+MYS,Malaysia,2020-08-10,27
 NOR,Norway,2020-05-11,42
 NOR,Norway,2020-05-15,42
 NOR,Norway,2020-05-22,45
@@ -178,6 +188,7 @@ PHL,Philippines,2020-07-13,29
 PHL,Philippines,2020-07-21,36
 PHL,Philippines,2020-07-27,31
 PHL,Philippines,2020-08-03,35
+PHL,Philippines,2020-08-10,28
 POL,Poland,2020-05-12,51
 POL,Poland,2020-05-19,59
 POL,Poland,2020-05-26,53
@@ -195,6 +206,7 @@ SAU,Saudi Arabia,2020-06-15,49
 SAU,Saudi Arabia,2020-06-22,54
 SAU,Saudi Arabia,2020-06-29,61
 SAU,Saudi Arabia,2020-07-27,71
+SAU,Saudi Arabia,2020-08-10,69
 SGP,Singapore,2020-05-08,42
 SGP,Singapore,2020-05-15,47
 SGP,Singapore,2020-05-22,50
@@ -207,6 +219,7 @@ SGP,Singapore,2020-07-10,26
 SGP,Singapore,2020-07-20,20
 SGP,Singapore,2020-07-27,20
 SGP,Singapore,2020-08-03,22
+SGP,Singapore,2020-08-10,20
 SWE,Sweden,2020-05-11,36
 SWE,Sweden,2020-05-15,36
 SWE,Sweden,2020-05-22,44
@@ -228,6 +241,7 @@ THA,Thailand,2020-07-13,48
 THA,Thailand,2020-07-21,32
 THA,Thailand,2020-07-27,39
 THA,Thailand,2020-08-03,37
+THA,Thailand,2020-08-10,41
 TWN,Taiwan,2020-05-12,49
 TWN,Taiwan,2020-05-19,56
 TWN,Taiwan,2020-05-26,57
@@ -240,6 +254,7 @@ TWN,Taiwan,2020-07-13,29
 TWN,Taiwan,2020-07-20,30
 TWN,Taiwan,2020-07-27,25
 TWN,Taiwan,2020-08-03,25
+TWN,Taiwan,2020-08-10,22
 USA,United States,2020-05-12,52
 USA,United States,2020-05-19,49
 USA,United States,2020-05-26,50
@@ -249,6 +264,7 @@ USA,United States,2020-06-16,46
 USA,United States,2020-06-23,44
 USA,United States,2020-06-30,44
 USA,United States,2020-08-03,40
+USA,United States,2020-08-10,43
 VNM,Vietnam,2020-05-12,55
 VNM,Vietnam,2020-05-19,62
 VNM,Vietnam,2020-05-26,63
@@ -261,3 +277,4 @@ VNM,Vietnam,2020-07-13,36
 VNM,Vietnam,2020-07-21,36
 VNM,Vietnam,2020-07-27,35
 VNM,Vietnam,2020-08-03,23
+VNM,Vietnam,2020-08-10,23
