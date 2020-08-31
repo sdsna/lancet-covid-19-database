@@ -11,6 +11,9 @@ dataset_url = "https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker/mas
 # Parse into dataframe
 dataset = pd.read_csv(dataset_url, low_memory = False)
 
+# Drop subnational data
+dataset = dataset[dataset['RegionCode'].isnull()]
+
 # Rename columns
 dataset = dataset.rename(columns = {'CountryCode': 'iso_code', 'Date': 'date'})
 
