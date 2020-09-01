@@ -1,5 +1,10 @@
 # Changelog
 
+## September 1, 2020
+
+- Add owid_tests_per_case (Tests conducted per new confirmed case of COVID-19, given as a rolling 7-day average)
+- Add owid_positive_rate (The share of COVID-19 tests that are positive, given as a rolling 7-day average)
+
 ## July 30, 2020
 
 - Add marioli_ci_65_u (Upper 65% credible interval for the real-time estimate of the effective reproduction rate (R) of Covid-19)
