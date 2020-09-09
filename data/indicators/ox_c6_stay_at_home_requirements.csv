@@ -1951,20 +1951,30 @@ ARG,Argentina,2020-08-13,2.0
 ARG,Argentina,2020-08-14,2.0
 ARG,Argentina,2020-08-15,2.0
 ARG,Argentina,2020-08-16,2.0
-ARG,Argentina,2020-08-17,2.0
-ARG,Argentina,2020-08-18,2.0
-ARG,Argentina,2020-08-19,2.0
-ARG,Argentina,2020-08-20,2.0
-ARG,Argentina,2020-08-21,2.0
-ARG,Argentina,2020-08-22,2.0
-ARG,Argentina,2020-08-23,2.0
-ARG,Argentina,2020-08-24,2.0
-ARG,Argentina,2020-08-25,2.0
-ARG,Argentina,2020-08-26,2.0
-ARG,Argentina,2020-08-27,2.0
-ARG,Argentina,2020-08-28,2.0
-ARG,Argentina,2020-08-29,2.0
-ARG,Argentina,2020-08-30,2.0
+ARG,Argentina,2020-08-17,3.0
+ARG,Argentina,2020-08-18,3.0
+ARG,Argentina,2020-08-19,3.0
+ARG,Argentina,2020-08-20,3.0
+ARG,Argentina,2020-08-21,3.0
+ARG,Argentina,2020-08-22,3.0
+ARG,Argentina,2020-08-23,3.0
+ARG,Argentina,2020-08-24,3.0
+ARG,Argentina,2020-08-25,3.0
+ARG,Argentina,2020-08-26,3.0
+ARG,Argentina,2020-08-27,3.0
+ARG,Argentina,2020-08-28,3.0
+ARG,Argentina,2020-08-29,3.0
+ARG,Argentina,2020-08-30,3.0
+ARG,Argentina,2020-08-31,3.0
+ARG,Argentina,2020-09-01,3.0
+ARG,Argentina,2020-09-02,3.0
+ARG,Argentina,2020-09-03,3.0
+ARG,Argentina,2020-09-04,3.0
+ARG,Argentina,2020-09-05,3.0
+ARG,Argentina,2020-09-06,3.0
+ARG,Argentina,2020-09-07,3.0
+ARG,Argentina,2020-09-08,3.0
+ARG,Argentina,2020-09-09,3.0
 AUS,Australia,2020-01-01,0.0
 AUS,Australia,2020-01-02,0.0
 AUS,Australia,2020-01-03,0.0
@@ -8365,6 +8375,15 @@ CIV,Côte d’Ivoire,2020-08-28,1.0
 CIV,Côte d’Ivoire,2020-08-29,1.0
 CIV,Côte d’Ivoire,2020-08-30,1.0
 CIV,Côte d’Ivoire,2020-08-31,1.0
+CIV,Côte d’Ivoire,2020-09-01,1.0
+CIV,Côte d’Ivoire,2020-09-02,1.0
+CIV,Côte d’Ivoire,2020-09-03,1.0
+CIV,Côte d’Ivoire,2020-09-04,1.0
+CIV,Côte d’Ivoire,2020-09-05,1.0
+CIV,Côte d’Ivoire,2020-09-06,1.0
+CIV,Côte d’Ivoire,2020-09-07,1.0
+CIV,Côte d’Ivoire,2020-09-08,1.0
+CIV,Côte d’Ivoire,2020-09-09,1.0
 CMR,Cameroon,2020-01-01,0.0
 CMR,Cameroon,2020-01-02,0.0
 CMR,Cameroon,2020-01-03,0.0
@@ -9590,6 +9609,15 @@ CPV,Cape Verde,2020-08-28,1.0
 CPV,Cape Verde,2020-08-29,1.0
 CPV,Cape Verde,2020-08-30,1.0
 CPV,Cape Verde,2020-08-31,1.0
+CPV,Cape Verde,2020-09-01,1.0
+CPV,Cape Verde,2020-09-02,1.0
+CPV,Cape Verde,2020-09-03,1.0
+CPV,Cape Verde,2020-09-04,1.0
+CPV,Cape Verde,2020-09-05,1.0
+CPV,Cape Verde,2020-09-06,1.0
+CPV,Cape Verde,2020-09-07,1.0
+CPV,Cape Verde,2020-09-08,1.0
+CPV,Cape Verde,2020-09-09,1.0
 CRI,Costa Rica,2020-01-01,0.0
 CRI,Costa Rica,2020-01-02,0.0
 CRI,Costa Rica,2020-01-03,0.0
@@ -17142,6 +17170,20 @@ GTM,Guatemala,2020-08-22,2.0
 GTM,Guatemala,2020-08-23,2.0
 GTM,Guatemala,2020-08-24,2.0
 GTM,Guatemala,2020-08-25,2.0
+GTM,Guatemala,2020-08-26,2.0
+GTM,Guatemala,2020-08-27,2.0
+GTM,Guatemala,2020-08-28,2.0
+GTM,Guatemala,2020-08-29,2.0
+GTM,Guatemala,2020-08-30,2.0
+GTM,Guatemala,2020-08-31,2.0
+GTM,Guatemala,2020-09-01,2.0
+GTM,Guatemala,2020-09-02,2.0
+GTM,Guatemala,2020-09-03,2.0
+GTM,Guatemala,2020-09-04,2.0
+GTM,Guatemala,2020-09-05,2.0
+GTM,Guatemala,2020-09-06,2.0
+GTM,Guatemala,2020-09-07,2.0
+GTM,Guatemala,2020-09-08,2.0
 GUM,Guam,2020-01-01,0.0
 GUM,Guam,2020-01-02,0.0
 GUM,Guam,2020-01-03,0.0
@@ -17615,6 +17657,18 @@ GUY,Guyana,2020-08-24,2.0
 GUY,Guyana,2020-08-25,2.0
 GUY,Guyana,2020-08-26,2.0
 GUY,Guyana,2020-08-27,2.0
+GUY,Guyana,2020-08-28,2.0
+GUY,Guyana,2020-08-29,2.0
+GUY,Guyana,2020-08-30,2.0
+GUY,Guyana,2020-08-31,2.0
+GUY,Guyana,2020-09-01,2.0
+GUY,Guyana,2020-09-02,2.0
+GUY,Guyana,2020-09-03,2.0
+GUY,Guyana,2020-09-04,2.0
+GUY,Guyana,2020-09-05,2.0
+GUY,Guyana,2020-09-06,2.0
+GUY,Guyana,2020-09-07,2.0
+GUY,Guyana,2020-09-08,2.0
 HKG,Hong Kong SAR China,2020-01-01,0.0
 HKG,Hong Kong SAR China,2020-01-02,0.0
 HKG,Hong Kong SAR China,2020-01-03,0.0
@@ -18590,6 +18644,15 @@ HTI,Haiti,2020-08-28,1.0
 HTI,Haiti,2020-08-29,1.0
 HTI,Haiti,2020-08-30,1.0
 HTI,Haiti,2020-08-31,1.0
+HTI,Haiti,2020-09-01,1.0
+HTI,Haiti,2020-09-02,1.0
+HTI,Haiti,2020-09-03,1.0
+HTI,Haiti,2020-09-04,1.0
+HTI,Haiti,2020-09-05,1.0
+HTI,Haiti,2020-09-06,1.0
+HTI,Haiti,2020-09-07,1.0
+HTI,Haiti,2020-09-08,1.0
+HTI,Haiti,2020-09-09,1.0
 HUN,Hungary,2020-01-01,0.0
 HUN,Hungary,2020-01-02,0.0
 HUN,Hungary,2020-01-03,0.0
@@ -21300,6 +21363,15 @@ JOR,Jordan,2020-08-28,1.0
 JOR,Jordan,2020-08-29,1.0
 JOR,Jordan,2020-08-30,1.0
 JOR,Jordan,2020-08-31,1.0
+JOR,Jordan,2020-09-01,2.0
+JOR,Jordan,2020-09-02,2.0
+JOR,Jordan,2020-09-03,2.0
+JOR,Jordan,2020-09-04,2.0
+JOR,Jordan,2020-09-05,2.0
+JOR,Jordan,2020-09-06,2.0
+JOR,Jordan,2020-09-07,2.0
+JOR,Jordan,2020-09-08,2.0
+JOR,Jordan,2020-09-09,2.0
 JPN,Japan,2020-01-01,0.0
 JPN,Japan,2020-01-02,0.0
 JPN,Japan,2020-01-03,0.0
@@ -24264,6 +24336,16 @@ LKA,Sri Lanka,2020-08-27,1.0
 LKA,Sri Lanka,2020-08-28,1.0
 LKA,Sri Lanka,2020-08-29,1.0
 LKA,Sri Lanka,2020-08-30,1.0
+LKA,Sri Lanka,2020-08-31,1.0
+LKA,Sri Lanka,2020-09-01,1.0
+LKA,Sri Lanka,2020-09-02,1.0
+LKA,Sri Lanka,2020-09-03,1.0
+LKA,Sri Lanka,2020-09-04,1.0
+LKA,Sri Lanka,2020-09-05,1.0
+LKA,Sri Lanka,2020-09-06,1.0
+LKA,Sri Lanka,2020-09-07,1.0
+LKA,Sri Lanka,2020-09-08,1.0
+LKA,Sri Lanka,2020-09-09,1.0
 LSO,Lesotho,2020-01-01,0.0
 LSO,Lesotho,2020-01-02,0.0
 LSO,Lesotho,2020-01-03,0.0
@@ -26984,6 +27066,19 @@ MMR,Myanmar (Burma),2020-08-24,2.0
 MMR,Myanmar (Burma),2020-08-25,2.0
 MMR,Myanmar (Burma),2020-08-26,2.0
 MMR,Myanmar (Burma),2020-08-27,2.0
+MMR,Myanmar (Burma),2020-08-28,2.0
+MMR,Myanmar (Burma),2020-08-29,2.0
+MMR,Myanmar (Burma),2020-08-30,2.0
+MMR,Myanmar (Burma),2020-08-31,2.0
+MMR,Myanmar (Burma),2020-09-01,2.0
+MMR,Myanmar (Burma),2020-09-02,2.0
+MMR,Myanmar (Burma),2020-09-03,2.0
+MMR,Myanmar (Burma),2020-09-04,2.0
+MMR,Myanmar (Burma),2020-09-05,2.0
+MMR,Myanmar (Burma),2020-09-06,2.0
+MMR,Myanmar (Burma),2020-09-07,2.0
+MMR,Myanmar (Burma),2020-09-08,2.0
+MMR,Myanmar (Burma),2020-09-09,2.0
 MNG,Mongolia,2020-01-01,0.0
 MNG,Mongolia,2020-01-02,0.0
 MNG,Mongolia,2020-01-03,0.0
@@ -38728,6 +38823,18 @@ SWZ,Eswatini,2020-08-25,1.0
 SWZ,Eswatini,2020-08-26,1.0
 SWZ,Eswatini,2020-08-27,1.0
 SWZ,Eswatini,2020-08-28,1.0
+SWZ,Eswatini,2020-08-29,1.0
+SWZ,Eswatini,2020-08-30,1.0
+SWZ,Eswatini,2020-08-31,1.0
+SWZ,Eswatini,2020-09-01,1.0
+SWZ,Eswatini,2020-09-02,1.0
+SWZ,Eswatini,2020-09-03,1.0
+SWZ,Eswatini,2020-09-04,1.0
+SWZ,Eswatini,2020-09-05,1.0
+SWZ,Eswatini,2020-09-06,1.0
+SWZ,Eswatini,2020-09-07,1.0
+SWZ,Eswatini,2020-09-08,1.0
+SWZ,Eswatini,2020-09-09,1.0
 SYC,Seychelles,2020-01-01,0.0
 SYC,Seychelles,2020-01-02,0.0
 SYC,Seychelles,2020-01-03,0.0
@@ -40696,6 +40803,18 @@ TKM,Turkmenistan,2020-08-25,0.0
 TKM,Turkmenistan,2020-08-26,0.0
 TKM,Turkmenistan,2020-08-27,0.0
 TKM,Turkmenistan,2020-08-28,0.0
+TKM,Turkmenistan,2020-08-29,0.0
+TKM,Turkmenistan,2020-08-30,0.0
+TKM,Turkmenistan,2020-08-31,0.0
+TKM,Turkmenistan,2020-09-01,0.0
+TKM,Turkmenistan,2020-09-02,0.0
+TKM,Turkmenistan,2020-09-03,0.0
+TKM,Turkmenistan,2020-09-04,0.0
+TKM,Turkmenistan,2020-09-05,0.0
+TKM,Turkmenistan,2020-09-06,0.0
+TKM,Turkmenistan,2020-09-07,0.0
+TKM,Turkmenistan,2020-09-08,0.0
+TKM,Turkmenistan,2020-09-09,0.0
 TLS,Timor-Leste,2020-01-01,0.0
 TLS,Timor-Leste,2020-01-02,0.0
 TLS,Timor-Leste,2020-01-03,0.0
@@ -44367,6 +44486,18 @@ VUT,Vanuatu,2020-08-25,1.0
 VUT,Vanuatu,2020-08-26,1.0
 VUT,Vanuatu,2020-08-27,1.0
 VUT,Vanuatu,2020-08-28,0.0
+VUT,Vanuatu,2020-08-29,0.0
+VUT,Vanuatu,2020-08-30,0.0
+VUT,Vanuatu,2020-08-31,0.0
+VUT,Vanuatu,2020-09-01,0.0
+VUT,Vanuatu,2020-09-02,0.0
+VUT,Vanuatu,2020-09-03,0.0
+VUT,Vanuatu,2020-09-04,0.0
+VUT,Vanuatu,2020-09-05,0.0
+VUT,Vanuatu,2020-09-06,0.0
+VUT,Vanuatu,2020-09-07,0.0
+VUT,Vanuatu,2020-09-08,0.0
+VUT,Vanuatu,2020-09-09,0.0
 YEM,Yemen,2020-01-01,0.0
 YEM,Yemen,2020-01-02,0.0
 YEM,Yemen,2020-01-03,0.0
