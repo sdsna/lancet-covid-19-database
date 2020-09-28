@@ -77,6 +77,7 @@ DEU,Germany,2020-07-30,61
 DEU,Germany,2020-08-13,62
 DEU,Germany,2020-08-27,61
 DEU,Germany,2020-09-10,59
+DEU,Germany,2020-09-24,60
 DNK,Denmark,2020-03-16,68
 DNK,Denmark,2020-03-23,70
 DNK,Denmark,2020-03-29,83
@@ -108,6 +109,10 @@ ESP,Spain,2020-07-23,77
 ESP,Spain,2020-07-30,79
 ESP,Spain,2020-08-06,78
 ESP,Spain,2020-08-25,78
+ESP,Spain,2020-09-04,80
+ESP,Spain,2020-09-10,81
+ESP,Spain,2020-09-18,80
+ESP,Spain,2020-09-23,79
 FIN,Finland,2020-03-16,44
 FIN,Finland,2020-03-23,47
 FIN,Finland,2020-03-29,68
@@ -140,6 +145,7 @@ FRA,France,2020-08-07,70
 FRA,France,2020-08-12,70
 FRA,France,2020-09-02,67
 FRA,France,2020-09-10,68
+FRA,France,2020-09-22,68
 GBR,United Kingdom,2020-03-01,14
 GBR,United Kingdom,2020-03-13,24
 GBR,United Kingdom,2020-03-20,57
@@ -309,6 +315,7 @@ SAU,Saudi Arabia,2020-07-13,76
 SAU,Saudi Arabia,2020-07-29,72
 SAU,Saudi Arabia,2020-08-10,72
 SAU,Saudi Arabia,2020-08-19,68
+SAU,Saudi Arabia,2020-08-31,69
 SGP,Singapore,2020-02-21,44
 SGP,Singapore,2020-02-28,68
 SGP,Singapore,2020-03-06,70
@@ -405,6 +412,7 @@ USA,United States,2020-08-25,62
 USA,United States,2020-09-01,62
 USA,United States,2020-09-08,64
 USA,United States,2020-09-14,65
+USA,United States,2020-09-21,63
 VNM,Vietnam,2020-03-23,56
 VNM,Vietnam,2020-03-30,80
 VNM,Vietnam,2020-04-06,81
