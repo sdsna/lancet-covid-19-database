@@ -19,6 +19,9 @@ def build_database():
             database, dataset, how="outer", on=["iso_code", "country", "date"]
         )
 
+    # Sort by iso_code, then date
+    database = database.sort_values(by=["iso_code", "date"])
+
     # Save database
     database.to_csv(DATABASE_PATH, index=False)
 
