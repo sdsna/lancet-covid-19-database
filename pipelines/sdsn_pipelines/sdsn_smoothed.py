@@ -21,9 +21,7 @@ def run_pipeline(indicator):
     source_indicator = INDICATOR_MAP[key]
 
     # Load the source dataset
-    path_to_source_data = os.path.join(
-        INDICATOR_FOLDER, source_indicator + ".csv"
-    )
+    path_to_source_data = os.path.join(INDICATOR_FOLDER, source_indicator + ".csv")
     dataset = pandas.read_csv(path_to_source_data)
 
     # Drop country name

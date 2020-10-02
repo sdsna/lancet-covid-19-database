@@ -6,9 +6,7 @@ def run_pipeline(indicator):
     print(">", "using sub-pipeline", pipeline, "...")
 
     # Load the pipeline
-    module = importlib.import_module(
-        ".sdsn_pipelines." + pipeline, package=__package__
-    )
+    module = importlib.import_module(".sdsn_pipelines." + pipeline, package=__package__)
     run_module_pipeline = getattr(module, "run_pipeline")
 
     # Run the pipeline

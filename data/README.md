@@ -13,6 +13,7 @@
 This is the full database including all indicators. Each row in the database consists of a country and a date. The row contains all available observations for the country on that date.
 
 To open the database in Stata, run:
+
 ```stata
 import delimited using database.csv, varnames(1) encoding("utf-8")
 ```
