@@ -1,5 +1,13 @@
 # Changelog
 
+## October 2, 2020
+
+- Add sdsn_daily_cases_per_million_smoothed (Daily new confirmed cases of COVID-19 per 1,000,000 people, averaged over a rolling 14-day window)
+- Add sdsn_daily_deaths_per_million_smoothed (Daily new deaths attributed to COVID-19 per 1,000,000 people, averaged over a rolling 14-day window)
+- Add sdsn_effective_reproduction_rate_smoothed (Real-time estimate of the effective reproduction rate (R) of COVID-19, averaged over a rolling 14-day window)
+- Add sdsn_positive_rate_smoothed (The share of COVID-19 tests that are positive, averaged over a rolling 14-day window)
+- Add sdsn_tests_per_case_smoothed (Tests conducted per new confirmed case of COVID-19, averaged over a rolling 14-day window)
+
 ## September 1, 2020
 
 - Add owid_tests_per_case (Tests conducted per new confirmed case of COVID-19, given as a rolling 7-day average)
@@ -92,7 +100,6 @@
 - Add ox_containment_health_index_for_display (A number between 1 and 100 to reflect government action related to 'lockdown' restrictions and closures, measures such as testing policy and contract tracing, and short term investment in healthcare and vaccine development (smoothed over the last seven days))
 - Add ox_economic_support_index (A number between 1 and 100 to reflect government action related to income support and debt relief)
 - Add ox_economic_support_index_for_display (A number between 1 and 100 to reflect government action related to income support and debt relief (smoothed over the last seven days))
-
 
 ## July 26, 2020
 
