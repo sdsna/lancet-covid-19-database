@@ -7,6 +7,7 @@
 - Add sdsn_effective_reproduction_rate_smoothed (Real-time estimate of the effective reproduction rate (R) of COVID-19, averaged over a rolling 14-day window)
 - Add sdsn_positive_rate_smoothed (The share of COVID-19 tests that are positive, averaged over a rolling 14-day window)
 - Add sdsn_tests_per_case_smoothed (Tests conducted per new confirmed case of COVID-19, averaged over a rolling 14-day window)
+- Add sdsn_transmission_classification (Classification of the transmission rate of COVID-19 on a scale of 1 (suppression) to 5 (very high))
 
 ## September 1, 2020
 
