@@ -7,30 +7,41 @@ from helpers.save_indicator import save_indicator
 
 def generate_classification(row):
     tests_per_case = row["tests_per_case_smoothed"]
-    daily_cases_per_million = row["new_cases_per_million_smoothed"]
+    new_cases_per_million = row["new_cases_per_million_smoothed"]
 
-    # If tests per case are missing, set no classification
-    if pandas.isna(tests_per_case) or pandas.isna(daily_cases_per_million):
+    # We make an exception for China, as requested by Jeffrey Sachs:
+    # And for China, we know the incidence is so low and the testing so
+    # extensive whenever there is an outbreak (comprehensive testing, for
+    # example, in Beijing and Wuhan after small outbreaks) that China should be
+    # classified as having sufficient testing, so just based on new cases.
+    if row["iso_code"] == "CHN":
+        tests_per_case = 100
+
+    # Whether the country has testing data
+    has_test_data = not pandas.isna(tests_per_case)
+
+    # If new_cases_per_million are missing, set no classification
+    if pandas.isna(new_cases_per_million):
         return None
 
     # Suppression
-    if (daily_cases_per_million <= 5) and (tests_per_case >= 20):
+    if (new_cases_per_million <= 5) and (tests_per_case >= 20):
         return 1
 
     # Low
-    if daily_cases_per_million <= 10:
+    if new_cases_per_million <= 10 and has_test_data:
         return 2
 
     # Moderate
-    if daily_cases_per_million <= 50:
+    if new_cases_per_million <= 50 and has_test_data:
         return 3
 
     # High
-    if daily_cases_per_million <= 100:
+    if new_cases_per_million <= 100 and has_test_data:
         return 4
 
-    # Very high
-    if daily_cases_per_million > 100:
+    # Very high if a lot of new cases per million, even if no test data
+    if new_cases_per_million > 100:
         return 5
 
 
