@@ -7,7 +7,7 @@ from helpers.save_indicator import save_indicator
 
 def generate_classification(row):
     tests_per_case = row["tests_per_case_smoothed"]
-    daily_cases_per_million = row["daily_cases_per_million_smoothed"]
+    daily_cases_per_million = row["new_cases_per_million_smoothed"]
 
     # If tests per case are missing, set no classification
     if pandas.isna(tests_per_case) or pandas.isna(daily_cases_per_million):
@@ -37,12 +37,12 @@ def generate_classification(row):
 def run_pipeline(indicator):
     # Get smoothed daily cases per million
     daily_cases_per_million_path = os.path.join(
-        INDICATOR_FOLDER, "sdsn_daily_cases_per_million_smoothed.csv"
+        INDICATOR_FOLDER, "sdsn_new_cases_per_million_smoothed.csv"
     )
     daily_cases_per_million = pandas.read_csv(daily_cases_per_million_path)
     daily_cases_per_million.rename(
         columns={
-            "sdsn_daily_cases_per_million_smoothed": "daily_cases_per_million_smoothed"
+            "sdsn_new_cases_per_million_smoothed": "new_cases_per_million_smoothed"
         },
         inplace=True,
     )

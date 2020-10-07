@@ -3,6 +3,8 @@
 ## October 7, 2020
 
 - Rename sdsn_transmission_classification to sdsn_overall_transmission
+- Rename sdsn_daily_cases_per_million_smoothed to sdsn_new_cases_per_million_smoothed
+- Rename sdsn_daily_deaths_per_million_smoothed to sdsn_new_deaths_per_million_smoothed
 
 ## October 2, 2020
 
