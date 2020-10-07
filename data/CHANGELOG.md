@@ -1,5 +1,9 @@
 # Changelog
 
+## October 7, 2020
+
+- Rename sdsn_transmission_classification to sdsn_overall_transmission
+
 ## October 2, 2020
 
 - Add sdsn_daily_cases_per_million_smoothed (Daily new confirmed cases of COVID-19 per 1,000,000 people, averaged over a rolling 14-day window)

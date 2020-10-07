@@ -2,8 +2,8 @@ import importlib
 
 # Identify the correct pipeline to run
 def run_pipeline(indicator):
-    if indicator == "sdsn_transmission_classification":
-        pipeline = "sdsn_transmission_classification"
+    if indicator == "sdsn_overall_transmission":
+        pipeline = "sdsn_overall_transmission"
     else:
         pipeline = "sdsn_smoothed"
     print(">", "using sub-pipeline", pipeline, "...")
