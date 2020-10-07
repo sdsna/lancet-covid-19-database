@@ -1,6 +1,7 @@
 import os
 import pandas
 import numpy as np
+from time import localtime, strftime
 
 from config import INDICATOR_FOLDER
 from helpers.save_indicator import save_indicator
@@ -27,24 +28,36 @@ def run_pipeline(indicator):
     # Drop country name
     dataset = dataset[["iso_code", "date", source_indicator]]
 
-    # Convert date into index
+    # Index on iso_code and date
     dataset["date"] = pandas.to_datetime(dataset["date"])
-    dataset.set_index("date", inplace=True)
+    dataset = dataset.set_index(["iso_code", "date"])
+
+    # Identify first and last date
+    today = strftime("%Y-%m-%d", localtime())
+    dates = dataset.index.get_level_values("date")
+    dates = dates.append(pandas.DatetimeIndex([pandas.to_datetime(today)]))
+
+    # Fill missing days in dataset
+    timerange = pandas.date_range(dates.min(), dates.max(), freq="D")
+    dataset = dataset.reindex(
+        pandas.MultiIndex.from_product(
+            [dataset.index.levels[0], timerange], names=["iso_code", "date"]
+        ),
+    )
 
     # Generate rolling average over two week window, with at least 50% data
     # coverage. We use np.mean to average numbers, because it avoids weird
     # floating point issues when values are equal to zero:
     # See: https://groups.google.com/g/pydata/c/Bl7QLr-Y5Z0
     dataset[indicator] = (
-        dataset.groupby("iso_code")[source_indicator]
+        dataset.reset_index(level="iso_code")
+        .groupby("iso_code")[source_indicator]
         .rolling("14D", min_periods=7)
         .apply(np.mean)
-        .reset_index(0, drop=True)
     )
 
-    # Reshape date into column
-    dataset["date"] = dataset.index
-    dataset.reset_index(inplace=True, drop=True)
+    # Reshape index back into columns
+    dataset.reset_index(inplace=True)
 
     # Drop rows without observations
     dataset = dataset.dropna(subset=[indicator], axis="index")
