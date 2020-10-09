@@ -11,8 +11,6 @@ INDICATOR_MAP = {
     "new_cases_per_million": "owid_new_cases_per_million",
     "new_deaths_per_million": "owid_new_deaths_per_million",
     "effective_reproduction_rate": "marioli_effective_reproduction_rate",
-    "positive_rate": "owid_positive_rate",
-    "tests_per_case": "owid_tests_per_case",
 }
 
 

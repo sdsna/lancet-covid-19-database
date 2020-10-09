@@ -1,5 +1,10 @@
 # Changelog
 
+## October 9, 2020
+
+- Remove sdsn_positive_rate_smoothed (the indicator was based on owid_positive_rate, which is already a 7-day average)
+- Remove sdsn_tests_per_case_smoothed (the indicator was based on owid_tests_per_case, which is already a 7-day average)
+
 ## October 7, 2020
 
 - Rename sdsn_transmission_classification to sdsn_overall_transmission
