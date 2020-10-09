@@ -6,8 +6,8 @@ dataset = load_indicator_to_test(__file__)
 
 
 def test_india():
-    assert_value(1.221, "IND", "2020-06-30", dataset, decimals=3)
+    assert_value(1.22, "IND", "2020-06-30", dataset, decimals=2)
 
 
 def test_united_states():
-    assert_value(1.211, "USA", "2020-07-10", dataset, decimals=3)
+    assert_value(1.21, "USA", "2020-07-10", dataset, decimals=2)
