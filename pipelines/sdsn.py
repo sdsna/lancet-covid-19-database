@@ -1,9 +1,14 @@
 import importlib
 
+# Indicators with a dedicated pipeline
+DEDICATED_PIPELINES = [
+    "overall_transmission",
+]
+
 # Identify the correct pipeline to run
 def run_pipeline(indicator):
-    if indicator == "sdsn_overall_transmission":
-        pipeline = "sdsn_overall_transmission"
+    if indicator.replace("sdsn_", "") in DEDICATED_PIPELINES:
+        pipeline = indicator
     else:
         pipeline = "sdsn_smoothed"
     print(">", "using sub-pipeline", pipeline, "...")

@@ -6,7 +6,7 @@ from helpers.save_indicator import save_indicator
 
 
 def generate_classification(row):
-    tests_per_case = row["tests_per_case_smoothed"]
+    positive_rate = row["positive_rate_smoothed"]
     new_cases_per_million = row["new_cases_per_million_smoothed"]
 
     # We make an exception for China, as requested by Jeffrey Sachs:
@@ -15,17 +15,17 @@ def generate_classification(row):
     # example, in Beijing and Wuhan after small outbreaks) that China should be
     # classified as having sufficient testing, so just based on new cases.
     if row["iso_code"] == "CHN":
-        tests_per_case = 100
+        positive_rate = 0.01
 
     # Whether the country has testing data
-    has_test_data = not pandas.isna(tests_per_case)
+    has_test_data = not pandas.isna(positive_rate)
 
     # If new_cases_per_million are missing, set no classification
     if pandas.isna(new_cases_per_million):
         return None
 
     # Suppression
-    if (new_cases_per_million <= 5) and (tests_per_case >= 20):
+    if (new_cases_per_million <= 5) and (positive_rate <= 0.05):
         return 1
 
     # Low
@@ -46,32 +46,30 @@ def generate_classification(row):
 
 
 def run_pipeline(indicator):
-    # Get smoothed daily cases per million
-    daily_cases_per_million_path = os.path.join(
+    # Get smoothed new cases per million
+    new_cases_per_million_path = os.path.join(
         INDICATOR_FOLDER, "sdsn_new_cases_per_million_smoothed.csv"
     )
-    daily_cases_per_million = pandas.read_csv(daily_cases_per_million_path)
-    daily_cases_per_million.rename(
+    new_cases_per_million = pandas.read_csv(new_cases_per_million_path)
+    new_cases_per_million.rename(
         columns={
             "sdsn_new_cases_per_million_smoothed": "new_cases_per_million_smoothed"
         },
         inplace=True,
     )
 
-    # Get smoothed tests per case
-    tests_per_case_path = os.path.join(
-        INDICATOR_FOLDER, "sdsn_tests_per_case_smoothed.csv"
-    )
-    tests_per_case = pandas.read_csv(tests_per_case_path)
-    tests_per_case.rename(
-        columns={"sdsn_tests_per_case_smoothed": "tests_per_case_smoothed"},
+    # Get smoothed positive rate
+    positive_rate_path = os.path.join(INDICATOR_FOLDER, "owid_positive_rate.csv")
+    positive_rate = pandas.read_csv(positive_rate_path)
+    positive_rate.rename(
+        columns={"owid_positive_rate": "positive_rate_smoothed"},
         inplace=True,
     )
 
     # Merge datasets
     dataset = pandas.merge(
-        daily_cases_per_million,
-        tests_per_case,
+        new_cases_per_million,
+        positive_rate,
         how="outer",
         on=["iso_code", "country", "date"],
     )
