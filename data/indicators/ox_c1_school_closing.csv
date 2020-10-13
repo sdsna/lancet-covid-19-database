@@ -282,6 +282,9 @@ ABW,Aruba,2020-10-06,3.0
 ABW,Aruba,2020-10-07,3.0
 ABW,Aruba,2020-10-08,3.0
 ABW,Aruba,2020-10-09,3.0
+ABW,Aruba,2020-10-10,3.0
+ABW,Aruba,2020-10-11,3.0
+ABW,Aruba,2020-10-12,3.0
 AFG,Afghanistan,2020-01-01,0.0
 AFG,Afghanistan,2020-01-02,0.0
 AFG,Afghanistan,2020-01-03,0.0
@@ -3361,6 +3364,17 @@ BDI,Burundi,2020-09-28,0.0
 BDI,Burundi,2020-09-29,0.0
 BDI,Burundi,2020-09-30,0.0
 BDI,Burundi,2020-10-01,0.0
+BDI,Burundi,2020-10-02,0.0
+BDI,Burundi,2020-10-03,0.0
+BDI,Burundi,2020-10-04,0.0
+BDI,Burundi,2020-10-05,0.0
+BDI,Burundi,2020-10-06,0.0
+BDI,Burundi,2020-10-07,0.0
+BDI,Burundi,2020-10-08,0.0
+BDI,Burundi,2020-10-09,0.0
+BDI,Burundi,2020-10-10,0.0
+BDI,Burundi,2020-10-11,0.0
+BDI,Burundi,2020-10-12,0.0
 BEL,Belgium,2020-01-01,0.0
 BEL,Belgium,2020-01-02,0.0
 BEL,Belgium,2020-01-03,0.0
@@ -7546,6 +7560,7 @@ BTN,Bhutan,2020-09-25,2.0
 BTN,Bhutan,2020-09-26,2.0
 BTN,Bhutan,2020-09-27,2.0
 BTN,Bhutan,2020-09-28,2.0
+BTN,Bhutan,2020-10-12,2.0
 BWA,Botswana,2020-01-01,0.0
 BWA,Botswana,2020-01-02,0.0
 BWA,Botswana,2020-01-03,0.0
@@ -9437,51 +9452,51 @@ CIV,Côte d’Ivoire,2020-07-27,2.0
 CIV,Côte d’Ivoire,2020-07-28,2.0
 CIV,Côte d’Ivoire,2020-07-29,2.0
 CIV,Côte d’Ivoire,2020-07-30,2.0
-CIV,Côte d’Ivoire,2020-07-31,0.0
-CIV,Côte d’Ivoire,2020-08-01,0.0
-CIV,Côte d’Ivoire,2020-08-02,0.0
-CIV,Côte d’Ivoire,2020-08-03,0.0
-CIV,Côte d’Ivoire,2020-08-04,0.0
-CIV,Côte d’Ivoire,2020-08-05,0.0
-CIV,Côte d’Ivoire,2020-08-06,0.0
-CIV,Côte d’Ivoire,2020-08-07,0.0
-CIV,Côte d’Ivoire,2020-08-08,0.0
-CIV,Côte d’Ivoire,2020-08-09,0.0
-CIV,Côte d’Ivoire,2020-08-10,0.0
-CIV,Côte d’Ivoire,2020-08-11,0.0
-CIV,Côte d’Ivoire,2020-08-12,0.0
-CIV,Côte d’Ivoire,2020-08-13,0.0
-CIV,Côte d’Ivoire,2020-08-14,0.0
-CIV,Côte d’Ivoire,2020-08-15,0.0
-CIV,Côte d’Ivoire,2020-08-16,0.0
-CIV,Côte d’Ivoire,2020-08-17,0.0
-CIV,Côte d’Ivoire,2020-08-18,0.0
-CIV,Côte d’Ivoire,2020-08-19,0.0
-CIV,Côte d’Ivoire,2020-08-20,0.0
-CIV,Côte d’Ivoire,2020-08-21,0.0
-CIV,Côte d’Ivoire,2020-08-22,0.0
-CIV,Côte d’Ivoire,2020-08-23,0.0
-CIV,Côte d’Ivoire,2020-08-24,0.0
-CIV,Côte d’Ivoire,2020-08-25,0.0
-CIV,Côte d’Ivoire,2020-08-26,0.0
-CIV,Côte d’Ivoire,2020-08-27,0.0
-CIV,Côte d’Ivoire,2020-08-28,0.0
-CIV,Côte d’Ivoire,2020-08-29,0.0
-CIV,Côte d’Ivoire,2020-08-30,0.0
-CIV,Côte d’Ivoire,2020-08-31,0.0
-CIV,Côte d’Ivoire,2020-09-01,0.0
-CIV,Côte d’Ivoire,2020-09-02,0.0
-CIV,Côte d’Ivoire,2020-09-03,0.0
-CIV,Côte d’Ivoire,2020-09-04,0.0
-CIV,Côte d’Ivoire,2020-09-05,0.0
-CIV,Côte d’Ivoire,2020-09-06,0.0
-CIV,Côte d’Ivoire,2020-09-07,0.0
-CIV,Côte d’Ivoire,2020-09-08,0.0
-CIV,Côte d’Ivoire,2020-09-09,0.0
-CIV,Côte d’Ivoire,2020-09-10,0.0
-CIV,Côte d’Ivoire,2020-09-11,0.0
-CIV,Côte d’Ivoire,2020-09-12,0.0
-CIV,Côte d’Ivoire,2020-09-13,0.0
+CIV,Côte d’Ivoire,2020-07-31,2.0
+CIV,Côte d’Ivoire,2020-08-01,2.0
+CIV,Côte d’Ivoire,2020-08-02,2.0
+CIV,Côte d’Ivoire,2020-08-03,2.0
+CIV,Côte d’Ivoire,2020-08-04,2.0
+CIV,Côte d’Ivoire,2020-08-05,2.0
+CIV,Côte d’Ivoire,2020-08-06,2.0
+CIV,Côte d’Ivoire,2020-08-07,2.0
+CIV,Côte d’Ivoire,2020-08-08,2.0
+CIV,Côte d’Ivoire,2020-08-09,2.0
+CIV,Côte d’Ivoire,2020-08-10,2.0
+CIV,Côte d’Ivoire,2020-08-11,2.0
+CIV,Côte d’Ivoire,2020-08-12,2.0
+CIV,Côte d’Ivoire,2020-08-13,2.0
+CIV,Côte d’Ivoire,2020-08-14,2.0
+CIV,Côte d’Ivoire,2020-08-15,2.0
+CIV,Côte d’Ivoire,2020-08-16,2.0
+CIV,Côte d’Ivoire,2020-08-17,2.0
+CIV,Côte d’Ivoire,2020-08-18,2.0
+CIV,Côte d’Ivoire,2020-08-19,2.0
+CIV,Côte d’Ivoire,2020-08-20,2.0
+CIV,Côte d’Ivoire,2020-08-21,2.0
+CIV,Côte d’Ivoire,2020-08-22,2.0
+CIV,Côte d’Ivoire,2020-08-23,2.0
+CIV,Côte d’Ivoire,2020-08-24,2.0
+CIV,Côte d’Ivoire,2020-08-25,2.0
+CIV,Côte d’Ivoire,2020-08-26,2.0
+CIV,Côte d’Ivoire,2020-08-27,2.0
+CIV,Côte d’Ivoire,2020-08-28,2.0
+CIV,Côte d’Ivoire,2020-08-29,2.0
+CIV,Côte d’Ivoire,2020-08-30,2.0
+CIV,Côte d’Ivoire,2020-08-31,2.0
+CIV,Côte d’Ivoire,2020-09-01,2.0
+CIV,Côte d’Ivoire,2020-09-02,2.0
+CIV,Côte d’Ivoire,2020-09-03,2.0
+CIV,Côte d’Ivoire,2020-09-04,2.0
+CIV,Côte d’Ivoire,2020-09-05,2.0
+CIV,Côte d’Ivoire,2020-09-06,2.0
+CIV,Côte d’Ivoire,2020-09-07,2.0
+CIV,Côte d’Ivoire,2020-09-08,2.0
+CIV,Côte d’Ivoire,2020-09-09,2.0
+CIV,Côte d’Ivoire,2020-09-10,2.0
+CIV,Côte d’Ivoire,2020-09-11,2.0
+CIV,Côte d’Ivoire,2020-09-12,2.0
+CIV,Côte d’Ivoire,2020-09-13,2.0
 CIV,Côte d’Ivoire,2020-09-14,0.0
 CIV,Côte d’Ivoire,2020-09-15,0.0
 CIV,Côte d’Ivoire,2020-09-16,0.0
@@ -9500,6 +9515,17 @@ CIV,Côte d’Ivoire,2020-09-28,0.0
 CIV,Côte d’Ivoire,2020-09-29,0.0
 CIV,Côte d’Ivoire,2020-09-30,0.0
 CIV,Côte d’Ivoire,2020-10-01,0.0
+CIV,Côte d’Ivoire,2020-10-02,0.0
+CIV,Côte d’Ivoire,2020-10-03,0.0
+CIV,Côte d’Ivoire,2020-10-04,0.0
+CIV,Côte d’Ivoire,2020-10-05,0.0
+CIV,Côte d’Ivoire,2020-10-06,0.0
+CIV,Côte d’Ivoire,2020-10-07,0.0
+CIV,Côte d’Ivoire,2020-10-08,0.0
+CIV,Côte d’Ivoire,2020-10-09,0.0
+CIV,Côte d’Ivoire,2020-10-10,0.0
+CIV,Côte d’Ivoire,2020-10-11,0.0
+CIV,Côte d’Ivoire,2020-10-12,0.0
 CMR,Cameroon,2020-01-01,0.0
 CMR,Cameroon,2020-01-02,0.0
 CMR,Cameroon,2020-01-03,0.0
@@ -13044,6 +13070,18 @@ DMA,Dominica,2020-09-27,0.0
 DMA,Dominica,2020-09-28,0.0
 DMA,Dominica,2020-09-29,0.0
 DMA,Dominica,2020-09-30,0.0
+DMA,Dominica,2020-10-01,0.0
+DMA,Dominica,2020-10-02,0.0
+DMA,Dominica,2020-10-03,0.0
+DMA,Dominica,2020-10-04,0.0
+DMA,Dominica,2020-10-05,0.0
+DMA,Dominica,2020-10-06,0.0
+DMA,Dominica,2020-10-07,0.0
+DMA,Dominica,2020-10-08,0.0
+DMA,Dominica,2020-10-09,0.0
+DMA,Dominica,2020-10-10,0.0
+DMA,Dominica,2020-10-11,0.0
+DMA,Dominica,2020-10-12,0.0
 DNK,Denmark,2020-01-01,0.0
 DNK,Denmark,2020-01-02,0.0
 DNK,Denmark,2020-01-03,0.0
@@ -13882,6 +13920,17 @@ DZA,Algeria,2020-09-28,2.0
 DZA,Algeria,2020-09-29,2.0
 DZA,Algeria,2020-09-30,2.0
 DZA,Algeria,2020-10-01,2.0
+DZA,Algeria,2020-10-02,2.0
+DZA,Algeria,2020-10-03,2.0
+DZA,Algeria,2020-10-04,2.0
+DZA,Algeria,2020-10-05,2.0
+DZA,Algeria,2020-10-06,2.0
+DZA,Algeria,2020-10-07,2.0
+DZA,Algeria,2020-10-08,2.0
+DZA,Algeria,2020-10-09,2.0
+DZA,Algeria,2020-10-10,2.0
+DZA,Algeria,2020-10-11,2.0
+DZA,Algeria,2020-10-12,2.0
 ECU,Ecuador,2020-01-01,0.0
 ECU,Ecuador,2020-01-02,0.0
 ECU,Ecuador,2020-01-03,0.0
@@ -14995,6 +15044,19 @@ ESP,Spain,2020-09-26,0.0
 ESP,Spain,2020-09-27,0.0
 ESP,Spain,2020-09-28,0.0
 ESP,Spain,2020-09-29,0.0
+ESP,Spain,2020-09-30,0.0
+ESP,Spain,2020-10-01,0.0
+ESP,Spain,2020-10-02,0.0
+ESP,Spain,2020-10-03,0.0
+ESP,Spain,2020-10-04,0.0
+ESP,Spain,2020-10-05,0.0
+ESP,Spain,2020-10-06,0.0
+ESP,Spain,2020-10-07,0.0
+ESP,Spain,2020-10-08,0.0
+ESP,Spain,2020-10-09,0.0
+ESP,Spain,2020-10-10,0.0
+ESP,Spain,2020-10-11,0.0
+ESP,Spain,2020-10-12,0.0
 EST,Estonia,2020-01-01,0.0
 EST,Estonia,2020-01-02,0.0
 EST,Estonia,2020-01-03,0.0
@@ -19726,6 +19788,17 @@ GUM,Guam,2020-09-27,3.0
 GUM,Guam,2020-09-28,3.0
 GUM,Guam,2020-09-29,3.0
 GUM,Guam,2020-09-30,3.0
+GUM,Guam,2020-10-01,3.0
+GUM,Guam,2020-10-02,3.0
+GUM,Guam,2020-10-03,3.0
+GUM,Guam,2020-10-04,3.0
+GUM,Guam,2020-10-05,3.0
+GUM,Guam,2020-10-06,3.0
+GUM,Guam,2020-10-07,3.0
+GUM,Guam,2020-10-08,3.0
+GUM,Guam,2020-10-09,3.0
+GUM,Guam,2020-10-10,3.0
+GUM,Guam,2020-10-11,3.0
 GUY,Guyana,2020-01-01,0.0
 GUY,Guyana,2020-01-02,0.0
 GUY,Guyana,2020-01-03,0.0
@@ -20808,28 +20881,42 @@ HRV,Croatia,2020-09-03,2.0
 HRV,Croatia,2020-09-04,2.0
 HRV,Croatia,2020-09-05,2.0
 HRV,Croatia,2020-09-06,2.0
-HRV,Croatia,2020-09-07,2.0
-HRV,Croatia,2020-09-08,2.0
-HRV,Croatia,2020-09-09,2.0
-HRV,Croatia,2020-09-10,2.0
-HRV,Croatia,2020-09-11,2.0
-HRV,Croatia,2020-09-12,2.0
-HRV,Croatia,2020-09-13,2.0
-HRV,Croatia,2020-09-14,2.0
-HRV,Croatia,2020-09-15,2.0
-HRV,Croatia,2020-09-16,2.0
-HRV,Croatia,2020-09-17,2.0
-HRV,Croatia,2020-09-18,2.0
-HRV,Croatia,2020-09-19,2.0
-HRV,Croatia,2020-09-20,2.0
-HRV,Croatia,2020-09-21,2.0
-HRV,Croatia,2020-09-22,2.0
-HRV,Croatia,2020-09-23,2.0
-HRV,Croatia,2020-09-24,2.0
-HRV,Croatia,2020-09-25,2.0
-HRV,Croatia,2020-09-26,2.0
-HRV,Croatia,2020-09-27,2.0
-HRV,Croatia,2020-09-28,2.0
+HRV,Croatia,2020-09-07,1.0
+HRV,Croatia,2020-09-08,1.0
+HRV,Croatia,2020-09-09,1.0
+HRV,Croatia,2020-09-10,1.0
+HRV,Croatia,2020-09-11,1.0
+HRV,Croatia,2020-09-12,1.0
+HRV,Croatia,2020-09-13,1.0
+HRV,Croatia,2020-09-14,1.0
+HRV,Croatia,2020-09-15,1.0
+HRV,Croatia,2020-09-16,1.0
+HRV,Croatia,2020-09-17,1.0
+HRV,Croatia,2020-09-18,1.0
+HRV,Croatia,2020-09-19,1.0
+HRV,Croatia,2020-09-20,1.0
+HRV,Croatia,2020-09-21,1.0
+HRV,Croatia,2020-09-22,1.0
+HRV,Croatia,2020-09-23,1.0
+HRV,Croatia,2020-09-24,1.0
+HRV,Croatia,2020-09-25,1.0
+HRV,Croatia,2020-09-26,1.0
+HRV,Croatia,2020-09-27,1.0
+HRV,Croatia,2020-09-28,1.0
+HRV,Croatia,2020-09-29,1.0
+HRV,Croatia,2020-09-30,1.0
+HRV,Croatia,2020-10-01,1.0
+HRV,Croatia,2020-10-02,1.0
+HRV,Croatia,2020-10-03,1.0
+HRV,Croatia,2020-10-04,1.0
+HRV,Croatia,2020-10-05,1.0
+HRV,Croatia,2020-10-06,1.0
+HRV,Croatia,2020-10-07,1.0
+HRV,Croatia,2020-10-08,1.0
+HRV,Croatia,2020-10-09,1.0
+HRV,Croatia,2020-10-10,1.0
+HRV,Croatia,2020-10-11,1.0
+HRV,Croatia,2020-10-12,1.0
 HTI,Haiti,2020-01-01,0.0
 HTI,Haiti,2020-01-02,0.0
 HTI,Haiti,2020-01-03,0.0
@@ -21105,6 +21192,17 @@ HTI,Haiti,2020-09-28,0.0
 HTI,Haiti,2020-09-29,0.0
 HTI,Haiti,2020-09-30,0.0
 HTI,Haiti,2020-10-01,0.0
+HTI,Haiti,2020-10-02,0.0
+HTI,Haiti,2020-10-03,0.0
+HTI,Haiti,2020-10-04,0.0
+HTI,Haiti,2020-10-05,0.0
+HTI,Haiti,2020-10-06,0.0
+HTI,Haiti,2020-10-07,0.0
+HTI,Haiti,2020-10-08,0.0
+HTI,Haiti,2020-10-09,0.0
+HTI,Haiti,2020-10-10,0.0
+HTI,Haiti,2020-10-11,0.0
+HTI,Haiti,2020-10-12,0.0
 HUN,Hungary,2020-01-01,0.0
 HUN,Hungary,2020-01-02,0.0
 HUN,Hungary,2020-01-03,0.0
@@ -21946,6 +22044,20 @@ IND,India,2020-09-26,2.0
 IND,India,2020-09-27,2.0
 IND,India,2020-09-28,2.0
 IND,India,2020-09-29,2.0
+IND,India,2020-09-30,2.0
+IND,India,2020-10-01,2.0
+IND,India,2020-10-02,2.0
+IND,India,2020-10-03,2.0
+IND,India,2020-10-04,2.0
+IND,India,2020-10-05,2.0
+IND,India,2020-10-06,2.0
+IND,India,2020-10-07,2.0
+IND,India,2020-10-08,2.0
+IND,India,2020-10-09,2.0
+IND,India,2020-10-10,2.0
+IND,India,2020-10-11,2.0
+IND,India,2020-10-12,2.0
+IND,India,2020-10-13,2.0
 IRL,Ireland,2020-01-01,0.0
 IRL,Ireland,2020-01-02,0.0
 IRL,Ireland,2020-01-03,0.0
@@ -22221,6 +22333,17 @@ IRL,Ireland,2020-09-28,1.0
 IRL,Ireland,2020-09-29,1.0
 IRL,Ireland,2020-09-30,1.0
 IRL,Ireland,2020-10-01,1.0
+IRL,Ireland,2020-10-02,1.0
+IRL,Ireland,2020-10-03,1.0
+IRL,Ireland,2020-10-04,1.0
+IRL,Ireland,2020-10-05,1.0
+IRL,Ireland,2020-10-06,1.0
+IRL,Ireland,2020-10-07,1.0
+IRL,Ireland,2020-10-08,1.0
+IRL,Ireland,2020-10-09,1.0
+IRL,Ireland,2020-10-10,1.0
+IRL,Ireland,2020-10-11,1.0
+IRL,Ireland,2020-10-12,1.0
 IRN,Iran,2020-01-01,0.0
 IRN,Iran,2020-01-02,0.0
 IRN,Iran,2020-01-03,0.0
@@ -23892,6 +24015,18 @@ JAM,Jamaica,2020-09-27,3.0
 JAM,Jamaica,2020-09-28,3.0
 JAM,Jamaica,2020-09-29,3.0
 JAM,Jamaica,2020-09-30,3.0
+JAM,Jamaica,2020-10-01,3.0
+JAM,Jamaica,2020-10-02,3.0
+JAM,Jamaica,2020-10-03,3.0
+JAM,Jamaica,2020-10-04,3.0
+JAM,Jamaica,2020-10-05,1.0
+JAM,Jamaica,2020-10-06,1.0
+JAM,Jamaica,2020-10-07,1.0
+JAM,Jamaica,2020-10-08,1.0
+JAM,Jamaica,2020-10-09,1.0
+JAM,Jamaica,2020-10-10,1.0
+JAM,Jamaica,2020-10-11,1.0
+JAM,Jamaica,2020-10-12,1.0
 JOR,Jordan,2020-01-01,0.0
 JOR,Jordan,2020-01-02,0.0
 JOR,Jordan,2020-01-03,0.0
@@ -24448,6 +24583,14 @@ JPN,Japan,2020-10-01,1.0
 JPN,Japan,2020-10-02,1.0
 JPN,Japan,2020-10-03,1.0
 JPN,Japan,2020-10-04,1.0
+JPN,Japan,2020-10-05,1.0
+JPN,Japan,2020-10-06,1.0
+JPN,Japan,2020-10-07,1.0
+JPN,Japan,2020-10-08,1.0
+JPN,Japan,2020-10-09,1.0
+JPN,Japan,2020-10-10,1.0
+JPN,Japan,2020-10-11,1.0
+JPN,Japan,2020-10-12,1.0
 KAZ,Kazakhstan,2020-01-01,0.0
 KAZ,Kazakhstan,2020-01-02,0.0
 KAZ,Kazakhstan,2020-01-03,0.0
@@ -25845,8 +25988,17 @@ KOR,South Korea,2020-09-28,1.0
 KOR,South Korea,2020-09-29,1.0
 KOR,South Korea,2020-09-30,1.0
 KOR,South Korea,2020-10-01,1.0
-KOR,South Korea,2020-10-02,1.0
-KOR,South Korea,2020-10-03,1.0
+KOR,South Korea,2020-10-02,2.0
+KOR,South Korea,2020-10-03,2.0
+KOR,South Korea,2020-10-04,2.0
+KOR,South Korea,2020-10-05,2.0
+KOR,South Korea,2020-10-06,2.0
+KOR,South Korea,2020-10-07,2.0
+KOR,South Korea,2020-10-08,2.0
+KOR,South Korea,2020-10-09,2.0
+KOR,South Korea,2020-10-10,2.0
+KOR,South Korea,2020-10-11,2.0
+KOR,South Korea,2020-10-12,2.0
 KWT,Kuwait,2020-01-01,0.0
 KWT,Kuwait,2020-01-02,0.0
 KWT,Kuwait,2020-01-03,0.0
@@ -26398,6 +26550,18 @@ LAO,Laos,2020-09-28,0.0
 LAO,Laos,2020-09-29,0.0
 LAO,Laos,2020-09-30,0.0
 LAO,Laos,2020-10-01,0.0
+LAO,Laos,2020-10-02,0.0
+LAO,Laos,2020-10-03,0.0
+LAO,Laos,2020-10-04,0.0
+LAO,Laos,2020-10-05,0.0
+LAO,Laos,2020-10-06,0.0
+LAO,Laos,2020-10-07,0.0
+LAO,Laos,2020-10-08,0.0
+LAO,Laos,2020-10-09,0.0
+LAO,Laos,2020-10-10,0.0
+LAO,Laos,2020-10-11,0.0
+LAO,Laos,2020-10-12,0.0
+LAO,Laos,2020-10-13,0.0
 LBN,Lebanon,2020-01-01,0.0
 LBN,Lebanon,2020-01-02,0.0
 LBN,Lebanon,2020-01-03,0.0
@@ -27523,6 +27687,18 @@ LKA,Sri Lanka,2020-09-27,0.0
 LKA,Sri Lanka,2020-09-28,0.0
 LKA,Sri Lanka,2020-09-29,0.0
 LKA,Sri Lanka,2020-09-30,0.0
+LKA,Sri Lanka,2020-10-01,0.0
+LKA,Sri Lanka,2020-10-02,0.0
+LKA,Sri Lanka,2020-10-03,0.0
+LKA,Sri Lanka,2020-10-04,0.0
+LKA,Sri Lanka,2020-10-05,0.0
+LKA,Sri Lanka,2020-10-06,0.0
+LKA,Sri Lanka,2020-10-07,0.0
+LKA,Sri Lanka,2020-10-08,0.0
+LKA,Sri Lanka,2020-10-09,0.0
+LKA,Sri Lanka,2020-10-10,0.0
+LKA,Sri Lanka,2020-10-11,0.0
+LKA,Sri Lanka,2020-10-12,0.0
 LSO,Lesotho,2020-01-01,0.0
 LSO,Lesotho,2020-01-02,0.0
 LSO,Lesotho,2020-01-03,0.0
@@ -29768,6 +29944,17 @@ MDG,Madagascar,2020-09-28,2.0
 MDG,Madagascar,2020-09-29,2.0
 MDG,Madagascar,2020-09-30,2.0
 MDG,Madagascar,2020-10-01,2.0
+MDG,Madagascar,2020-10-02,2.0
+MDG,Madagascar,2020-10-03,2.0
+MDG,Madagascar,2020-10-04,2.0
+MDG,Madagascar,2020-10-05,1.0
+MDG,Madagascar,2020-10-06,1.0
+MDG,Madagascar,2020-10-07,1.0
+MDG,Madagascar,2020-10-08,1.0
+MDG,Madagascar,2020-10-09,1.0
+MDG,Madagascar,2020-10-10,1.0
+MDG,Madagascar,2020-10-11,1.0
+MDG,Madagascar,2020-10-12,1.0
 MEX,Mexico,2020-01-01,0.0
 MEX,Mexico,2020-01-02,0.0
 MEX,Mexico,2020-01-03,0.0
@@ -31168,6 +31355,19 @@ MOZ,Mozambique,2020-09-27,2.0
 MOZ,Mozambique,2020-09-28,2.0
 MOZ,Mozambique,2020-09-29,2.0
 MOZ,Mozambique,2020-09-30,2.0
+MOZ,Mozambique,2020-10-01,2.0
+MOZ,Mozambique,2020-10-02,2.0
+MOZ,Mozambique,2020-10-03,2.0
+MOZ,Mozambique,2020-10-04,2.0
+MOZ,Mozambique,2020-10-05,2.0
+MOZ,Mozambique,2020-10-06,2.0
+MOZ,Mozambique,2020-10-07,2.0
+MOZ,Mozambique,2020-10-08,2.0
+MOZ,Mozambique,2020-10-09,2.0
+MOZ,Mozambique,2020-10-10,2.0
+MOZ,Mozambique,2020-10-11,2.0
+MOZ,Mozambique,2020-10-12,2.0
+MOZ,Mozambique,2020-10-13,2.0
 MRT,Mauritania,2020-01-01,0.0
 MRT,Mauritania,2020-01-02,0.0
 MRT,Mauritania,2020-01-03,0.0
@@ -31996,6 +32196,16 @@ MUS,Mauritius,2020-09-29,0.0
 MUS,Mauritius,2020-09-30,0.0
 MUS,Mauritius,2020-10-01,0.0
 MUS,Mauritius,2020-10-02,0.0
+MUS,Mauritius,2020-10-03,0.0
+MUS,Mauritius,2020-10-04,0.0
+MUS,Mauritius,2020-10-05,0.0
+MUS,Mauritius,2020-10-06,0.0
+MUS,Mauritius,2020-10-07,0.0
+MUS,Mauritius,2020-10-08,0.0
+MUS,Mauritius,2020-10-09,0.0
+MUS,Mauritius,2020-10-10,0.0
+MUS,Mauritius,2020-10-11,0.0
+MUS,Mauritius,2020-10-12,0.0
 MWI,Malawi,2020-01-01,0.0
 MWI,Malawi,2020-01-02,0.0
 MWI,Malawi,2020-01-03,0.0
@@ -32268,6 +32478,20 @@ MWI,Malawi,2020-09-25,2.0
 MWI,Malawi,2020-09-26,2.0
 MWI,Malawi,2020-09-27,2.0
 MWI,Malawi,2020-09-28,2.0
+MWI,Malawi,2020-09-29,2.0
+MWI,Malawi,2020-09-30,2.0
+MWI,Malawi,2020-10-01,2.0
+MWI,Malawi,2020-10-02,2.0
+MWI,Malawi,2020-10-03,2.0
+MWI,Malawi,2020-10-04,2.0
+MWI,Malawi,2020-10-05,2.0
+MWI,Malawi,2020-10-06,2.0
+MWI,Malawi,2020-10-07,2.0
+MWI,Malawi,2020-10-08,2.0
+MWI,Malawi,2020-10-09,2.0
+MWI,Malawi,2020-10-10,2.0
+MWI,Malawi,2020-10-11,2.0
+MWI,Malawi,2020-10-12,2.0
 MYS,Malaysia,2020-01-01,0.0
 MYS,Malaysia,2020-01-02,0.0
 MYS,Malaysia,2020-01-03,0.0
@@ -33115,6 +33339,7 @@ NER,Niger,2020-10-08,0.0
 NER,Niger,2020-10-09,0.0
 NER,Niger,2020-10-10,0.0
 NER,Niger,2020-10-11,0.0
+NER,Niger,2020-10-12,0.0
 NGA,Nigeria,2020-01-01,0.0
 NGA,Nigeria,2020-01-02,0.0
 NGA,Nigeria,2020-01-03,0.0
@@ -35066,6 +35291,18 @@ OMN,Oman,2020-09-27,3.0
 OMN,Oman,2020-09-28,3.0
 OMN,Oman,2020-09-29,3.0
 OMN,Oman,2020-09-30,3.0
+OMN,Oman,2020-10-01,3.0
+OMN,Oman,2020-10-02,3.0
+OMN,Oman,2020-10-03,3.0
+OMN,Oman,2020-10-04,3.0
+OMN,Oman,2020-10-05,3.0
+OMN,Oman,2020-10-06,3.0
+OMN,Oman,2020-10-07,3.0
+OMN,Oman,2020-10-08,3.0
+OMN,Oman,2020-10-09,3.0
+OMN,Oman,2020-10-10,3.0
+OMN,Oman,2020-10-11,3.0
+OMN,Oman,2020-10-12,3.0
 PAK,Pakistan,2020-01-01,0.0
 PAK,Pakistan,2020-01-02,0.0
 PAK,Pakistan,2020-01-03,0.0
@@ -36411,6 +36648,18 @@ PHL,Philippines,2020-09-27,3.0
 PHL,Philippines,2020-09-28,3.0
 PHL,Philippines,2020-09-29,3.0
 PHL,Philippines,2020-09-30,3.0
+PHL,Philippines,2020-10-01,3.0
+PHL,Philippines,2020-10-02,3.0
+PHL,Philippines,2020-10-03,3.0
+PHL,Philippines,2020-10-04,3.0
+PHL,Philippines,2020-10-05,0.0
+PHL,Philippines,2020-10-06,0.0
+PHL,Philippines,2020-10-07,0.0
+PHL,Philippines,2020-10-08,0.0
+PHL,Philippines,2020-10-09,0.0
+PHL,Philippines,2020-10-10,0.0
+PHL,Philippines,2020-10-11,0.0
+PHL,Philippines,2020-10-12,0.0
 PNG,Papua New Guinea,2020-01-01,0.0
 PNG,Papua New Guinea,2020-01-02,0.0
 PNG,Papua New Guinea,2020-01-03,0.0
@@ -38362,6 +38611,18 @@ QAT,Qatar,2020-09-27,2.0
 QAT,Qatar,2020-09-28,2.0
 QAT,Qatar,2020-09-29,2.0
 QAT,Qatar,2020-09-30,2.0
+QAT,Qatar,2020-10-01,2.0
+QAT,Qatar,2020-10-02,2.0
+QAT,Qatar,2020-10-03,2.0
+QAT,Qatar,2020-10-04,2.0
+QAT,Qatar,2020-10-05,2.0
+QAT,Qatar,2020-10-06,2.0
+QAT,Qatar,2020-10-07,2.0
+QAT,Qatar,2020-10-08,2.0
+QAT,Qatar,2020-10-09,2.0
+QAT,Qatar,2020-10-10,2.0
+QAT,Qatar,2020-10-11,2.0
+QAT,Qatar,2020-10-12,2.0
 RKS,,2020-01-01,0.0
 RKS,,2020-01-02,0.0
 RKS,,2020-01-03,0.0
@@ -39200,6 +39461,17 @@ RUS,Russia,2020-09-28,2.0
 RUS,Russia,2020-09-29,2.0
 RUS,Russia,2020-09-30,2.0
 RUS,Russia,2020-10-01,2.0
+RUS,Russia,2020-10-02,2.0
+RUS,Russia,2020-10-03,2.0
+RUS,Russia,2020-10-04,2.0
+RUS,Russia,2020-10-05,2.0
+RUS,Russia,2020-10-06,2.0
+RUS,Russia,2020-10-07,2.0
+RUS,Russia,2020-10-08,2.0
+RUS,Russia,2020-10-09,2.0
+RUS,Russia,2020-10-10,2.0
+RUS,Russia,2020-10-11,2.0
+RUS,Russia,2020-10-12,2.0
 RWA,Rwanda,2020-01-01,0.0
 RWA,Rwanda,2020-01-02,0.0
 RWA,Rwanda,2020-01-03,0.0
@@ -39475,6 +39747,17 @@ RWA,Rwanda,2020-09-28,3.0
 RWA,Rwanda,2020-09-29,3.0
 RWA,Rwanda,2020-09-30,3.0
 RWA,Rwanda,2020-10-01,3.0
+RWA,Rwanda,2020-10-02,3.0
+RWA,Rwanda,2020-10-03,3.0
+RWA,Rwanda,2020-10-04,3.0
+RWA,Rwanda,2020-10-05,3.0
+RWA,Rwanda,2020-10-06,3.0
+RWA,Rwanda,2020-10-07,3.0
+RWA,Rwanda,2020-10-08,3.0
+RWA,Rwanda,2020-10-09,3.0
+RWA,Rwanda,2020-10-10,3.0
+RWA,Rwanda,2020-10-11,3.0
+RWA,Rwanda,2020-10-12,2.0
 SAU,Saudi Arabia,2020-01-01,0.0
 SAU,Saudi Arabia,2020-01-02,0.0
 SAU,Saudi Arabia,2020-01-03,0.0
@@ -42236,6 +42519,18 @@ SRB,Serbia,2020-09-27,0.0
 SRB,Serbia,2020-09-28,0.0
 SRB,Serbia,2020-09-29,0.0
 SRB,Serbia,2020-09-30,0.0
+SRB,Serbia,2020-10-01,0.0
+SRB,Serbia,2020-10-02,0.0
+SRB,Serbia,2020-10-03,0.0
+SRB,Serbia,2020-10-04,0.0
+SRB,Serbia,2020-10-05,0.0
+SRB,Serbia,2020-10-06,0.0
+SRB,Serbia,2020-10-07,0.0
+SRB,Serbia,2020-10-08,0.0
+SRB,Serbia,2020-10-09,0.0
+SRB,Serbia,2020-10-10,0.0
+SRB,Serbia,2020-10-11,0.0
+SRB,Serbia,2020-10-12,0.0
 SSD,South Sudan,2020-01-01,0.0
 SSD,South Sudan,2020-01-02,0.0
 SSD,South Sudan,2020-01-03,0.0
@@ -46091,6 +46386,17 @@ TKM,Turkmenistan,2020-09-28,0.0
 TKM,Turkmenistan,2020-09-29,0.0
 TKM,Turkmenistan,2020-09-30,0.0
 TKM,Turkmenistan,2020-10-01,0.0
+TKM,Turkmenistan,2020-10-02,0.0
+TKM,Turkmenistan,2020-10-03,0.0
+TKM,Turkmenistan,2020-10-04,0.0
+TKM,Turkmenistan,2020-10-05,0.0
+TKM,Turkmenistan,2020-10-06,0.0
+TKM,Turkmenistan,2020-10-07,0.0
+TKM,Turkmenistan,2020-10-08,0.0
+TKM,Turkmenistan,2020-10-09,0.0
+TKM,Turkmenistan,2020-10-10,0.0
+TKM,Turkmenistan,2020-10-11,0.0
+TKM,Turkmenistan,2020-10-12,0.0
 TLS,Timor-Leste,2020-01-01,0.0
 TLS,Timor-Leste,2020-01-02,0.0
 TLS,Timor-Leste,2020-01-03,0.0
@@ -48849,6 +49155,20 @@ USA,United States,2020-09-25,3.0
 USA,United States,2020-09-26,3.0
 USA,United States,2020-09-27,3.0
 USA,United States,2020-09-28,3.0
+USA,United States,2020-09-29,3.0
+USA,United States,2020-09-30,3.0
+USA,United States,2020-10-01,3.0
+USA,United States,2020-10-02,3.0
+USA,United States,2020-10-03,3.0
+USA,United States,2020-10-04,3.0
+USA,United States,2020-10-05,3.0
+USA,United States,2020-10-06,3.0
+USA,United States,2020-10-07,3.0
+USA,United States,2020-10-08,3.0
+USA,United States,2020-10-09,3.0
+USA,United States,2020-10-10,3.0
+USA,United States,2020-10-11,3.0
+USA,United States,2020-10-12,3.0
 UZB,Uzbekistan,2020-01-01,0.0
 UZB,Uzbekistan,2020-01-02,0.0
 UZB,Uzbekistan,2020-01-03,0.0
@@ -50493,6 +50813,20 @@ YEM,Yemen,2020-09-25,3.0
 YEM,Yemen,2020-09-26,3.0
 YEM,Yemen,2020-09-27,3.0
 YEM,Yemen,2020-09-28,3.0
+YEM,Yemen,2020-09-29,3.0
+YEM,Yemen,2020-09-30,3.0
+YEM,Yemen,2020-10-01,3.0
+YEM,Yemen,2020-10-02,3.0
+YEM,Yemen,2020-10-03,3.0
+YEM,Yemen,2020-10-04,3.0
+YEM,Yemen,2020-10-05,3.0
+YEM,Yemen,2020-10-06,3.0
+YEM,Yemen,2020-10-07,3.0
+YEM,Yemen,2020-10-08,3.0
+YEM,Yemen,2020-10-09,3.0
+YEM,Yemen,2020-10-10,3.0
+YEM,Yemen,2020-10-11,3.0
+YEM,Yemen,2020-10-12,3.0
 ZAF,South Africa,2020-01-01,0.0
 ZAF,South Africa,2020-01-02,0.0
 ZAF,South Africa,2020-01-03,0.0
