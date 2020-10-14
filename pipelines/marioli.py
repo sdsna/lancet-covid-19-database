@@ -15,7 +15,31 @@ args = {
     "changedPropIds": ["download_link.n_clicks"],
     "inputs": [{"id": "download_link", "property": "n_clicks", "value": 1}],
 }
-request = requests.post(url, json=args)
+headers = {
+    "Host": "trackingr-env.eba-9muars8y.us-east-2.elasticbeanstalk.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0",
+    "Accept": "application/json",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Accept-Encoding": "gzip, deflate",
+    "Referer": "http://trackingr-env.eba-9muars8y.us-east-2.elasticbeanstalk.com/",
+    "Content-Type": "application/json",
+    "X-CSRFToken": "undefined",
+    "Origin": "http://trackingr-env.eba-9muars8y.us-east-2.elasticbeanstalk.com",
+    "Connection": "keep-alive",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+}
+
+
+request = requests.post(url, json=args, headers=headers)
+
+if request.status_code != 200:
+    print("Request failed!")
+    print("Reason:", request.reason)
+    print("Headers:", request.headers)
+    print("Duration:", request.elapsed)
+    print("Response:", vars(request.raw))
+    raise Exception("Failed to download ERR dataset :(")
 
 # Extract the CSV string from the JSON response
 json = request.json()
