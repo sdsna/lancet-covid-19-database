@@ -2,7 +2,17 @@ import pandas
 import os
 from config import INDICATOR_FOLDER
 
-codelist = pandas.read_csv("helpers/codelist.csv")
+# Load mapping of ISO codes to country names
+codelist = pandas.read_csv("helpers/codelist.csv", index_col="iso3c")
+
+# Overwrite with custom country names specified in codelist_overwrites
+codelist_overwrites = pandas.read_csv(
+    "helpers/codelist_overwrites.csv", index_col="iso3c"
+)
+codelist.update(codelist_overwrites)
+
+# Simplify the column names
+codelist.reset_index(inplace=True)
 codelist = codelist[["iso3c", "country.name.en"]]
 codelist = codelist.rename(columns={"iso3c": "iso_code", "country.name.en": "country"})
 
