@@ -1,9 +1,7 @@
 import importlib
 
 # Indicators with a dedicated pipeline
-DEDICATED_PIPELINES = [
-    "overall_transmission",
-]
+DEDICATED_PIPELINES = ["overall_transmission", "positive_test_rate_smoothed"]
 
 # Identify the correct pipeline to run
 def run_pipeline(indicator):

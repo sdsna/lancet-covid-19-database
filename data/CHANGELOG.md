@@ -1,5 +1,9 @@
 # Changelog
 
+## October 23, 2020
+
+- Add sdsn_positive_test_rate_smoothed (The share of COVID-19 tests that are positive, averaged over a rolling 7-day window)
+
 ## October 9, 2020
 
 - Remove sdsn_positive_rate_smoothed (the indicator was based on owid_positive_rate, which is already a 7-day average)
