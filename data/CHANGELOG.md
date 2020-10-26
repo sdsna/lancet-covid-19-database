@@ -1,5 +1,9 @@
 # Changelog
 
+## October 26, 2020
+
+- Add owid_weekly_excess_mortality_p_score (The P-score is the percentage difference between the number of weekly deaths in 2020 and the average number of deaths in the same week over the years 2015–2019)
+
 ## October 23, 2020
 
 - Add sdsn_positive_test_rate_smoothed (The share of COVID-19 tests that are positive, averaged over a rolling 7-day window)
