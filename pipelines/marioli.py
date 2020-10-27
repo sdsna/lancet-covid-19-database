@@ -1,4 +1,5 @@
 import requests
+from tenacity import retry, stop_after_attempt, wait_chain, wait_fixed
 from urllib.parse import unquote
 import pandas
 import io
@@ -13,7 +14,7 @@ url = "http://trackingr-env.eba-9muars8y.us-east-2.elasticbeanstalk.com/_dash-up
 args = {
     "output": "..download_link.href...download_link.download..",
     "changedPropIds": ["download_link.n_clicks"],
-    "inputs": [{"id": "download_link", "property": "n_clicks", "value": 1}],
+    "inputs": [{"id": "download_link", "property": "n_clicks", "value": 17}],
 }
 headers = {
     "Host": "trackingr-env.eba-9muars8y.us-east-2.elasticbeanstalk.com",
@@ -31,18 +32,33 @@ headers = {
 }
 
 
-request = requests.post(url, json=args, headers=headers)
+def print_retry_status(retry_state):
+    print(
+        "Failed to download data. Retrying in %s seconds..."
+        % (str(retry_state.idle_for))
+    )
 
-if request.status_code != 200:
-    print("Request failed!")
-    print("Reason:", request.reason)
-    print("Headers:", request.headers)
-    print("Duration:", request.elapsed)
-    print("Response:", vars(request.raw))
-    raise Exception("Failed to download ERR dataset :(")
+
+@retry(
+    reraise=True,
+    stop=stop_after_attempt(7),
+    wait=wait_chain(*[wait_fixed(0) for i in range(4)] + [wait_fixed(10)]),
+    before=lambda *args: print("Requesting data..."),
+    before_sleep=print_retry_status,
+)
+def get_data(*args, **kwargs):
+    request = requests.post(*args, **kwargs)
+
+    if request.status_code != 200:
+        print("Request failed!")
+        print("Reason: %s (%s)" % (request.reason, str(request.status_code)))
+        raise Exception("Failed to download ERR dataset :(")
+
+    return request.json()
+
 
 # Extract the CSV string from the JSON response
-json = request.json()
+json = get_data(url, json=args, headers=headers)
 csv = json["response"]["download_link"]["href"]
 
 # Remove the "data:text/csv;charset=utf-8" part from the string
