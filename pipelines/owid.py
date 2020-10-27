@@ -2,7 +2,10 @@ import importlib
 
 # Identify the correct pipeline to run
 def run_pipeline(indicator):
-    if indicator.find("_excess_mortality_") != -1:
+    if (
+        indicator.find("_excess_mortality_") != -1
+        or indicator.find("_weekly_deaths_") != -1
+    ):
         pipeline = "owid_excess_mortality"
     else:
         pipeline = "owid_database"

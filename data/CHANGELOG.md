@@ -1,5 +1,20 @@
 # Changelog
 
+## October 27, 2020
+
+- Add owid_weekly_excess_mortality_p_score_0_14 (The P-score (for ages 0-14) is the percentage difference between the number of weekly deaths in 2020 and the average number of deaths in the same week over the years 2015–2019)
+- Add owid_weekly_excess_mortality_p_score_15_64 (The P-score (for ages 15-64) is the percentage difference between the number of weekly deaths in 2020 and the average number of deaths in the same week over the years 2015–2019)
+- Add owid_weekly_excess_mortality_p_score_65_74 (The P-score (for ages 65-74) is the percentage difference between the number of weekly deaths in 2020 and the average number of deaths in the same week over the years 2015–2019)
+- Add owid_weekly_excess_mortality_p_score_75_84 (The P-score (for ages 75-84) is the percentage difference between the number of weekly deaths in 2020 and the average number of deaths in the same week over the years 2015–2019)
+- Add owid_weekly_excess_mortality_p_score_85plus (The P-score (for ages 85+) is the percentage difference between the number of weekly deaths in 2020 and the average number of deaths in the same week over the years 2015–2019)
+- Add owid_weekly_deaths_2020 (The number of weekly deaths, for all ages, from all causes in 2020)
+- Add owid_weekly_deaths_2019 (The number of weekly deaths, for all ages, from all causes in 2019)
+- Add owid_weekly_deaths_2018 (The number of weekly deaths, for all ages, from all causes in 2018)
+- Add owid_weekly_deaths_2017 (The number of weekly deaths, for all ages, from all causes in 2017)
+- Add owid_weekly_deaths_2016 (The number of weekly deaths, for all ages, from all causes in 2016)
+- Add owid_weekly_deaths_2015 (The number of weekly deaths, for all ages, from all causes in 2015)
+- Add owid_avg_weekly_deaths_2015_2019 (The average number of weekly deaths, for all ages, from all causes over the period 2015-2019)
+
 ## October 26, 2020
 
 - Add owid_weekly_excess_mortality_p_score (The P-score is the percentage difference between the number of weekly deaths in 2020 and the average number of deaths in the same week over the years 2015–2019)

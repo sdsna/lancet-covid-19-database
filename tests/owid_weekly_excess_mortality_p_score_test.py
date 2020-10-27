@@ -5,9 +5,5 @@ from helpers.assert_value import assert_value
 dataset = load_indicator_to_test(__file__)
 
 
-def test_united_states():
-    assert_value(140776, "USA", "2020-07-18", dataset)
-
-
-def test_netherlands_aggregation():
-    assert_value(6076, "NLD", "2020-06-13", dataset)
+def test_united_kingdom():
+    assert_value(103, "GBR", "2020-04-19", dataset)
