@@ -12,6 +12,7 @@ argparse = "*"
 requests = "*"
 millify = "*"
 demjson = "*"
+tenacity = "*"
 
 [requires]
 python_version = "3.8"
