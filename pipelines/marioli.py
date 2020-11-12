@@ -41,7 +41,7 @@ def print_retry_status(retry_state):
 
 @retry(
     reraise=True,
-    stop=stop_after_attempt(7),
+    stop=stop_after_attempt(13),
     wait=wait_chain(*[wait_fixed(0) for i in range(4)] + [wait_fixed(10)]),
     before=lambda *args: print("Requesting data..."),
     before_sleep=print_retry_status,
