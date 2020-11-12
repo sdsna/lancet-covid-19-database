@@ -40,6 +40,7 @@ AUT,Austria,2020-09-20,-32.0
 AUT,Austria,2020-09-27,-14.0
 AUT,Austria,2020-10-04,-20.0
 AUT,Austria,2020-10-11,-21.0
+AUT,Austria,2020-10-18,28.0
 BEL,Belgium,2020-01-05,-17.0
 BEL,Belgium,2020-01-12,10.0
 BEL,Belgium,2020-01-19,-9.0
@@ -80,6 +81,8 @@ BEL,Belgium,2020-09-13,-35.0
 BEL,Belgium,2020-09-20,-77.0
 BEL,Belgium,2020-09-27,-79.0
 BEL,Belgium,2020-10-04,-78.0
+BEL,Belgium,2020-10-11,-59.0
+BEL,Belgium,2020-10-18,-91.0
 BGR,Bulgaria,2020-01-05,-22.0
 BGR,Bulgaria,2020-01-12,25.0
 BGR,Bulgaria,2020-01-19,-37.0
@@ -121,6 +124,8 @@ BGR,Bulgaria,2020-09-20,-27.0
 BGR,Bulgaria,2020-09-27,-4.0
 BGR,Bulgaria,2020-10-04,-37.0
 BGR,Bulgaria,2020-10-11,-42.0
+BGR,Bulgaria,2020-10-18,2.0
+BGR,Bulgaria,2020-10-25,-14.0
 CAN,Canada,2020-01-05,0.0
 CAN,Canada,2020-01-12,9.0
 CAN,Canada,2020-01-19,-1.0
@@ -192,7 +197,6 @@ CHE,Switzerland,2020-09-20,14.0
 CHE,Switzerland,2020-09-27,67.0
 CHE,Switzerland,2020-10-04,-25.0
 CHE,Switzerland,2020-10-11,-9.0
-CHE,Switzerland,2020-10-18,-51.0
 CHL,Chile,2020-01-05,-15.0
 CHL,Chile,2020-01-12,-43.0
 CHL,Chile,2020-01-19,-3.0
@@ -271,6 +275,8 @@ CZE,Czech Republic,2020-08-16,-43.0
 CZE,Czech Republic,2020-08-23,-5.0
 CZE,Czech Republic,2020-08-30,-26.0
 CZE,Czech Republic,2020-09-06,29.0
+CZE,Czech Republic,2020-09-13,-15.0
+CZE,Czech Republic,2020-09-20,-20.0
 DEU,Germany,2020-01-05,-12.0
 DEU,Germany,2020-01-12,-11.0
 DEU,Germany,2020-01-19,-7.0
@@ -310,6 +316,7 @@ DEU,Germany,2020-09-06,-8.0
 DEU,Germany,2020-09-13,-1.0
 DEU,Germany,2020-09-20,-14.0
 DEU,Germany,2020-09-27,2.0
+DEU,Germany,2020-10-04,-15.0
 DNK,Denmark,2020-01-05,0.0
 DNK,Denmark,2020-01-12,-85.0
 DNK,Denmark,2020-01-19,67.0
@@ -351,6 +358,8 @@ DNK,Denmark,2020-09-20,29.0
 DNK,Denmark,2020-09-27,-81.0
 DNK,Denmark,2020-10-04,-58.0
 DNK,Denmark,2020-10-11,20.0
+DNK,Denmark,2020-10-18,4.0
+DNK,Denmark,2020-10-25,-11.0
 ESP,Spain,2020-01-05,-14.0
 ESP,Spain,2020-01-12,24.0
 ESP,Spain,2020-01-19,-3.0
@@ -435,6 +444,8 @@ EST,Estonia,2020-09-27,150.0
 EST,Estonia,2020-10-04,-100.0
 EST,Estonia,2020-10-11,0.0
 EST,Estonia,2020-10-18,-100.0
+EST,Estonia,2020-10-25,-17.0
+EST,Estonia,2020-11-01,-100.0
 FIN,Finland,2020-01-05,-75.0
 FIN,Finland,2020-01-12,0.0
 FIN,Finland,2020-01-19,0.0
@@ -539,6 +550,8 @@ GRC,Greece,2020-06-21,-30.0
 GRC,Greece,2020-06-28,-32.0
 GRC,Greece,2020-07-05,-38.0
 GRC,Greece,2020-07-12,-9.0
+GRC,Greece,2020-07-19,8.0
+GRC,Greece,2020-07-26,-9.0
 HRV,Croatia,2020-01-05,14.0
 HRV,Croatia,2020-01-12,-6.0
 HRV,Croatia,2020-01-19,-74.0
@@ -572,6 +585,7 @@ HRV,Croatia,2020-07-26,-38.0
 HRV,Croatia,2020-08-02,-17.0
 HRV,Croatia,2020-08-09,-55.0
 HRV,Croatia,2020-08-16,0.0
+HRV,Croatia,2020-08-23,52.0
 HUN,Hungary,2020-01-05,-44.0
 HUN,Hungary,2020-01-12,14.0
 HUN,Hungary,2020-01-19,-29.0
@@ -610,6 +624,8 @@ HUN,Hungary,2020-08-30,-8.0
 HUN,Hungary,2020-09-06,12.0
 HUN,Hungary,2020-09-13,-64.0
 HUN,Hungary,2020-09-20,10.0
+HUN,Hungary,2020-09-27,-48.0
+HUN,Hungary,2020-10-04,10.0
 ISL,Iceland,2020-01-05,-100.0
 ISL,Iceland,2020-01-12,-100.0
 ISL,Iceland,2020-01-19,-100.0
@@ -639,6 +655,7 @@ ISL,Iceland,2020-08-30,-100.0
 ISL,Iceland,2020-09-06,400.0
 ISL,Iceland,2020-09-13,900.0
 ISL,Iceland,2020-09-27,400.0
+ISL,Iceland,2020-10-11,-100.0
 ISR,Israel,2020-01-05,-17.0
 ISR,Israel,2020-01-12,-47.0
 ISR,Israel,2020-01-19,-3.0
@@ -713,6 +730,8 @@ ITA,Italy,2020-07-26,-53.0
 ITA,Italy,2020-08-02,-21.0
 ITA,Italy,2020-08-09,-28.0
 ITA,Italy,2020-08-16,-40.0
+ITA,Italy,2020-08-23,-36.0
+ITA,Italy,2020-08-30,-17.0
 KOR,"Korea, Rep.",2020-01-05,-13.0
 KOR,"Korea, Rep.",2020-01-12,-48.0
 KOR,"Korea, Rep.",2020-01-19,-49.0
@@ -747,6 +766,8 @@ KOR,"Korea, Rep.",2020-08-02,-63.0
 KOR,"Korea, Rep.",2020-08-09,-34.0
 KOR,"Korea, Rep.",2020-08-16,-52.0
 KOR,"Korea, Rep.",2020-08-23,-28.0
+KOR,"Korea, Rep.",2020-08-30,-37.0
+KOR,"Korea, Rep.",2020-09-06,-44.0
 LTU,Lithuania,2020-01-05,-41.0
 LTU,Lithuania,2020-01-12,82.0
 LTU,Lithuania,2020-01-19,58.0
@@ -789,6 +810,7 @@ LTU,Lithuania,2020-09-27,0.0
 LTU,Lithuania,2020-10-04,-64.0
 LTU,Lithuania,2020-10-11,-100.0
 LTU,Lithuania,2020-10-18,-50.0
+LTU,Lithuania,2020-10-25,43.0
 LUX,Luxembourg,2020-01-05,0.0
 LUX,Luxembourg,2020-01-12,-100.0
 LUX,Luxembourg,2020-01-19,25.0
@@ -822,6 +844,8 @@ LUX,Luxembourg,2020-08-23,567.0
 LUX,Luxembourg,2020-08-30,400.0
 LUX,Luxembourg,2020-09-06,150.0
 LUX,Luxembourg,2020-09-13,0.0
+LUX,Luxembourg,2020-09-20,233.0
+LUX,Luxembourg,2020-09-27,200.0
 LVA,Latvia,2020-01-05,11.0
 LVA,Latvia,2020-01-12,-12.0
 LVA,Latvia,2020-01-19,25.0
@@ -864,6 +888,8 @@ LVA,Latvia,2020-09-27,-64.0
 LVA,Latvia,2020-10-04,-44.0
 LVA,Latvia,2020-10-11,-100.0
 LVA,Latvia,2020-10-18,100.0
+LVA,Latvia,2020-10-25,114.0
+LVA,Latvia,2020-11-01,-67.0
 NLD,Netherlands,2020-01-05,-11.0
 NLD,Netherlands,2020-01-12,-22.0
 NLD,Netherlands,2020-01-19,42.0
@@ -906,6 +932,7 @@ NLD,Netherlands,2020-09-27,5.0
 NLD,Netherlands,2020-10-04,-14.0
 NLD,Netherlands,2020-10-11,-19.0
 NLD,Netherlands,2020-10-18,7.0
+NLD,Netherlands,2020-10-25,2.0
 NOR,Norway,2020-01-05,82.0
 NOR,Norway,2020-01-12,11.0
 NOR,Norway,2020-01-19,-35.0
@@ -988,6 +1015,7 @@ NZL,New Zealand,2020-09-20,-14.0
 NZL,New Zealand,2020-09-27,-3.0
 NZL,New Zealand,2020-10-04,3.0
 NZL,New Zealand,2020-10-11,-14.0
+NZL,New Zealand,2020-10-18,-7.0
 POL,Poland,2020-01-05,-36.0
 POL,Poland,2020-01-12,3.0
 POL,Poland,2020-01-19,-45.0
@@ -1027,6 +1055,7 @@ POL,Poland,2020-09-06,-25.0
 POL,Poland,2020-09-13,9.0
 POL,Poland,2020-09-20,-20.0
 POL,Poland,2020-09-27,-16.0
+POL,Poland,2020-10-04,-5.0
 PRT,Portugal,2020-01-05,6.0
 PRT,Portugal,2020-01-12,-15.0
 PRT,Portugal,2020-01-19,-41.0
@@ -1068,6 +1097,7 @@ PRT,Portugal,2020-09-20,-66.0
 PRT,Portugal,2020-09-27,114.0
 PRT,Portugal,2020-10-04,3.0
 PRT,Portugal,2020-10-11,-6.0
+PRT,Portugal,2020-10-18,6.0
 SVK,Slovak Republic,2020-01-05,8.0
 SVK,Slovak Republic,2020-01-12,51.0
 SVK,Slovak Republic,2020-01-19,-4.0
@@ -1138,6 +1168,8 @@ SVN,Slovenia,2020-07-26,11.0
 SVN,Slovenia,2020-08-02,275.0
 SVN,Slovenia,2020-08-09,0.0
 SVN,Slovenia,2020-08-16,100.0
+SVN,Slovenia,2020-08-23,0.0
+SVN,Slovenia,2020-08-30,-100.0
 SWE,Sweden,2020-01-05,-10.0
 SWE,Sweden,2020-01-12,-17.0
 SWE,Sweden,2020-01-19,-3.0
@@ -1179,6 +1211,7 @@ SWE,Sweden,2020-09-20,-20.0
 SWE,Sweden,2020-09-27,-43.0
 SWE,Sweden,2020-10-04,-50.0
 SWE,Sweden,2020-10-11,100.0
+SWE,Sweden,2020-10-18,11.0
 USA,United States,2020-01-05,-6.0
 USA,United States,2020-01-12,-4.0
 USA,United States,2020-01-19,-1.0
