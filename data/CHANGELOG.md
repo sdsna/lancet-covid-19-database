@@ -1,5 +1,9 @@
 # Changelog
 
+## November 18, 2020
+
+- Remove owid_weekly_excess_mortality_p_score_0_14 (The P-score (for ages 0-14) is the percentage difference between the number of weekly deaths in 2020 and the average number of deaths in the same week over the years 2015–2019). Reason: This indicator is no longer provided by Our World in Data.
+
 ## October 27, 2020
 
 - Add owid_weekly_excess_mortality_p_score_0_14 (The P-score (for ages 0-14) is the percentage difference between the number of weekly deaths in 2020 and the average number of deaths in the same week over the years 2015–2019)
