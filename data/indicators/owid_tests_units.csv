@@ -545,6 +545,7 @@ AUS,Australia,2020-11-19,tests performed
 AUS,Australia,2020-11-20,tests performed
 AUS,Australia,2020-11-21,tests performed
 AUS,Australia,2020-11-22,tests performed
+AUS,Australia,2020-11-23,tests performed
 AUT,Austria,2020-02-25,tests performed
 AUT,Austria,2020-02-26,tests performed
 AUT,Austria,2020-02-27,tests performed
@@ -1576,6 +1577,8 @@ BGR,Bulgaria,2020-11-19,tests performed
 BGR,Bulgaria,2020-11-20,tests performed
 BGR,Bulgaria,2020-11-21,tests performed
 BGR,Bulgaria,2020-11-22,tests performed
+BGR,Bulgaria,2020-11-23,tests performed
+BGR,Bulgaria,2020-11-24,tests performed
 BHR,Bahrain,2020-03-05,units unclear
 BHR,Bahrain,2020-03-06,units unclear
 BHR,Bahrain,2020-03-07,units unclear
@@ -1840,6 +1843,7 @@ BHR,Bahrain,2020-11-20,units unclear
 BHR,Bahrain,2020-11-21,units unclear
 BHR,Bahrain,2020-11-22,units unclear
 BHR,Bahrain,2020-11-23,units unclear
+BHR,Bahrain,2020-11-24,units unclear
 BLR,Belarus,2020-03-03,tests performed
 BLR,Belarus,2020-03-04,tests performed
 BLR,Belarus,2020-03-05,tests performed
@@ -2101,6 +2105,11 @@ BLR,Belarus,2020-11-15,tests performed
 BLR,Belarus,2020-11-16,tests performed
 BLR,Belarus,2020-11-17,tests performed
 BLR,Belarus,2020-11-18,tests performed
+BLR,Belarus,2020-11-19,tests performed
+BLR,Belarus,2020-11-20,tests performed
+BLR,Belarus,2020-11-21,tests performed
+BLR,Belarus,2020-11-22,tests performed
+BLR,Belarus,2020-11-23,tests performed
 BOL,Bolivia,2020-03-14,tests performed
 BOL,Bolivia,2020-03-15,tests performed
 BOL,Bolivia,2020-03-16,tests performed
@@ -2354,6 +2363,8 @@ BOL,Bolivia,2020-11-18,tests performed
 BOL,Bolivia,2020-11-19,tests performed
 BOL,Bolivia,2020-11-20,tests performed
 BOL,Bolivia,2020-11-21,tests performed
+BOL,Bolivia,2020-11-22,tests performed
+BOL,Bolivia,2020-11-23,tests performed
 BRA,Brazil,2020-04-07,tests performed
 BRA,Brazil,2020-04-08,tests performed
 BRA,Brazil,2020-04-09,tests performed
@@ -6017,6 +6028,7 @@ ECU,Ecuador,2020-11-18,people tested
 ECU,Ecuador,2020-11-19,people tested
 ECU,Ecuador,2020-11-20,people tested
 ECU,Ecuador,2020-11-21,people tested
+ECU,Ecuador,2020-11-22,people tested
 ESP,Spain,2020-04-13,tests performed
 ESP,Spain,2020-04-14,tests performed
 ESP,Spain,2020-04-15,tests performed
@@ -6231,6 +6243,13 @@ ESP,Spain,2020-11-09,tests performed
 ESP,Spain,2020-11-10,tests performed
 ESP,Spain,2020-11-11,tests performed
 ESP,Spain,2020-11-12,tests performed
+ESP,Spain,2020-11-13,tests performed
+ESP,Spain,2020-11-14,tests performed
+ESP,Spain,2020-11-15,tests performed
+ESP,Spain,2020-11-16,tests performed
+ESP,Spain,2020-11-17,tests performed
+ESP,Spain,2020-11-18,tests performed
+ESP,Spain,2020-11-19,tests performed
 EST,Estonia,2020-02-26,tests performed
 EST,Estonia,2020-02-27,tests performed
 EST,Estonia,2020-02-28,tests performed
@@ -7992,6 +8011,7 @@ GHA,Ghana,2020-11-15,samples tested
 GHA,Ghana,2020-11-16,samples tested
 GHA,Ghana,2020-11-17,samples tested
 GHA,Ghana,2020-11-18,samples tested
+GHA,Ghana,2020-11-19,samples tested
 GRC,Greece,2020-03-03,samples tested
 GRC,Greece,2020-03-04,samples tested
 GRC,Greece,2020-03-05,samples tested
@@ -10373,6 +10393,7 @@ IRQ,Iraq,2020-11-19,samples tested
 IRQ,Iraq,2020-11-20,samples tested
 IRQ,Iraq,2020-11-21,samples tested
 IRQ,Iraq,2020-11-22,samples tested
+IRQ,Iraq,2020-11-23,samples tested
 ISL,Iceland,2020-02-27,tests performed
 ISL,Iceland,2020-02-28,tests performed
 ISL,Iceland,2020-02-29,tests performed
@@ -12264,6 +12285,7 @@ KEN,Kenya,2020-11-19,samples tested
 KEN,Kenya,2020-11-20,samples tested
 KEN,Kenya,2020-11-21,samples tested
 KEN,Kenya,2020-11-22,samples tested
+KEN,Kenya,2020-11-23,samples tested
 KOR,"Korea, Rep.",2020-01-21,people tested
 KOR,"Korea, Rep.",2020-01-22,people tested
 KOR,"Korea, Rep.",2020-01-23,people tested
@@ -12572,6 +12594,7 @@ KOR,"Korea, Rep.",2020-11-20,people tested
 KOR,"Korea, Rep.",2020-11-21,people tested
 KOR,"Korea, Rep.",2020-11-22,people tested
 KOR,"Korea, Rep.",2020-11-23,people tested
+KOR,"Korea, Rep.",2020-11-24,people tested
 KWT,Kuwait,2020-05-13,tests performed
 KWT,Kuwait,2020-05-14,tests performed
 KWT,Kuwait,2020-05-15,tests performed
@@ -12995,6 +13018,7 @@ LBY,Libya,2020-11-18,samples tested
 LBY,Libya,2020-11-19,samples tested
 LBY,Libya,2020-11-20,samples tested
 LBY,Libya,2020-11-21,samples tested
+LBY,Libya,2020-11-22,samples tested
 LKA,Sri Lanka,2020-02-18,tests performed
 LKA,Sri Lanka,2020-02-19,tests performed
 LKA,Sri Lanka,2020-02-20,tests performed
@@ -17536,6 +17560,13 @@ NLD,Netherlands,2020-10-15,people tested
 NLD,Netherlands,2020-10-16,people tested
 NLD,Netherlands,2020-10-17,people tested
 NLD,Netherlands,2020-10-18,people tested
+NLD,Netherlands,2020-10-19,people tested
+NLD,Netherlands,2020-10-20,people tested
+NLD,Netherlands,2020-10-21,people tested
+NLD,Netherlands,2020-10-22,people tested
+NLD,Netherlands,2020-10-23,people tested
+NLD,Netherlands,2020-10-24,people tested
+NLD,Netherlands,2020-10-25,people tested
 NOR,Norway,2020-02-24,people tested
 NOR,Norway,2020-02-25,people tested
 NOR,Norway,2020-02-26,people tested
@@ -18375,6 +18406,7 @@ NZL,New Zealand,2020-11-20,tests performed
 NZL,New Zealand,2020-11-21,tests performed
 NZL,New Zealand,2020-11-22,tests performed
 NZL,New Zealand,2020-11-23,tests performed
+NZL,New Zealand,2020-11-24,tests performed
 OMN,Oman,2020-06-04,units unclear
 OMN,Oman,2020-06-05,units unclear
 OMN,Oman,2020-06-06,units unclear
@@ -18696,6 +18728,7 @@ PAK,Pakistan,2020-11-20,tests performed
 PAK,Pakistan,2020-11-21,tests performed
 PAK,Pakistan,2020-11-22,tests performed
 PAK,Pakistan,2020-11-23,tests performed
+PAK,Pakistan,2020-11-24,tests performed
 PAN,Panama,2020-03-09,tests performed
 PAN,Panama,2020-03-10,tests performed
 PAN,Panama,2020-03-11,tests performed
@@ -21265,6 +21298,7 @@ RWA,Rwanda,2020-11-20,samples tested
 RWA,Rwanda,2020-11-21,samples tested
 RWA,Rwanda,2020-11-22,samples tested
 RWA,Rwanda,2020-11-23,samples tested
+RWA,Rwanda,2020-11-24,samples tested
 SAU,Saudi Arabia,2020-03-02,tests performed
 SAU,Saudi Arabia,2020-03-03,tests performed
 SAU,Saudi Arabia,2020-03-04,tests performed
@@ -25067,6 +25101,8 @@ UKR,Ukraine,2020-11-18,tests performed
 UKR,Ukraine,2020-11-19,tests performed
 UKR,Ukraine,2020-11-20,tests performed
 UKR,Ukraine,2020-11-21,tests performed
+UKR,Ukraine,2020-11-22,tests performed
+UKR,Ukraine,2020-11-23,tests performed
 URY,Uruguay,2020-03-28,tests performed
 URY,Uruguay,2020-03-29,tests performed
 URY,Uruguay,2020-03-30,tests performed
@@ -25307,6 +25343,7 @@ URY,Uruguay,2020-11-19,tests performed
 URY,Uruguay,2020-11-20,tests performed
 URY,Uruguay,2020-11-21,tests performed
 URY,Uruguay,2020-11-22,tests performed
+URY,Uruguay,2020-11-23,tests performed
 USA,United States,2020-03-01,tests performed
 USA,United States,2020-03-02,tests performed
 USA,United States,2020-03-03,tests performed
