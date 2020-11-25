@@ -83,6 +83,7 @@ def run_pipeline(indicator):
                 {
                     "country": series["name"],
                     "date": strftime("%Y-%m-%d", gmtime(observation[0] / 1000)),
+                    "timestamp": observation[0],
                     "value": observation[1],
                 }
             )
@@ -102,6 +103,12 @@ def run_pipeline(indicator):
 
     # Rename the value column
     dataset = dataset.rename(columns={"value": indicator})
+
+    # Temporary: yougov_support_cancel_hospital_routines has some negative
+    # timestamp values. Those seem like a mistake, so we drop them.
+    if indicator == "yougov_support_cancel_hospital_routines":
+        print("Dropping negative timestamp")
+        dataset = dataset[dataset.timestamp != -500000]
 
     # Create slice of data with country ID, date, and indicator
     dataset = dataset[["iso_code", "date", indicator]]
