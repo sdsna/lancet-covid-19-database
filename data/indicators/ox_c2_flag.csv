@@ -645,14 +645,16 @@ AGO,Angola,2020-11-19,1.0
 AGO,Angola,2020-11-20,1.0
 AGO,Angola,2020-11-21,1.0
 AGO,Angola,2020-11-22,1.0
-AGO,Angola,2020-11-23,0.0
-AGO,Angola,2020-11-24,0.0
-AGO,Angola,2020-11-25,0.0
-AGO,Angola,2020-11-26,0.0
-AGO,Angola,2020-11-27,0.0
-AGO,Angola,2020-11-28,0.0
-AGO,Angola,2020-11-29,0.0
-AGO,Angola,2020-11-30,0.0
+AGO,Angola,2020-11-23,1.0
+AGO,Angola,2020-11-24,1.0
+AGO,Angola,2020-11-25,1.0
+AGO,Angola,2020-11-26,1.0
+AGO,Angola,2020-11-27,1.0
+AGO,Angola,2020-11-28,1.0
+AGO,Angola,2020-11-29,1.0
+AGO,Angola,2020-11-30,1.0
+AGO,Angola,2020-12-01,1.0
+AGO,Angola,2020-12-02,1.0
 ALB,Albania,2020-03-11,1.0
 ALB,Albania,2020-03-12,1.0
 ALB,Albania,2020-03-13,1.0
@@ -914,6 +916,13 @@ ALB,Albania,2020-11-23,1.0
 ALB,Albania,2020-11-24,1.0
 ALB,Albania,2020-11-25,1.0
 ALB,Albania,2020-11-26,1.0
+ALB,Albania,2020-11-27,1.0
+ALB,Albania,2020-11-28,1.0
+ALB,Albania,2020-11-29,1.0
+ALB,Albania,2020-11-30,1.0
+ALB,Albania,2020-12-01,1.0
+ALB,Albania,2020-12-02,1.0
+ALB,Albania,2020-12-03,1.0
 AND,Andorra,2020-03-14,1.0
 AND,Andorra,2020-03-15,1.0
 AND,Andorra,2020-03-16,1.0
@@ -3886,6 +3895,13 @@ BIH,Bosnia and Herzegovina,2020-11-23,1.0
 BIH,Bosnia and Herzegovina,2020-11-24,1.0
 BIH,Bosnia and Herzegovina,2020-11-25,1.0
 BIH,Bosnia and Herzegovina,2020-11-26,1.0
+BIH,Bosnia and Herzegovina,2020-11-27,1.0
+BIH,Bosnia and Herzegovina,2020-11-28,1.0
+BIH,Bosnia and Herzegovina,2020-11-29,1.0
+BIH,Bosnia and Herzegovina,2020-11-30,1.0
+BIH,Bosnia and Herzegovina,2020-12-01,1.0
+BIH,Bosnia and Herzegovina,2020-12-02,1.0
+BIH,Bosnia and Herzegovina,2020-12-03,1.0
 BLZ,Belize,2020-03-20,0.0
 BLZ,Belize,2020-03-21,0.0
 BLZ,Belize,2020-03-22,0.0
@@ -6210,6 +6226,8 @@ CAN,Canada,2020-11-27,0.0
 CAN,Canada,2020-11-28,0.0
 CAN,Canada,2020-11-29,0.0
 CAN,Canada,2020-11-30,0.0
+CAN,Canada,2020-12-01,0.0
+CAN,Canada,2020-12-02,0.0
 CHE,Switzerland,2020-03-17,1.0
 CHE,Switzerland,2020-03-18,1.0
 CHE,Switzerland,2020-03-19,1.0
@@ -8854,6 +8872,9 @@ CYP,Cyprus,2020-11-26,1.0
 CYP,Cyprus,2020-11-27,1.0
 CYP,Cyprus,2020-11-28,1.0
 CYP,Cyprus,2020-11-29,1.0
+CYP,Cyprus,2020-11-30,1.0
+CYP,Cyprus,2020-12-01,1.0
+CYP,Cyprus,2020-12-02,1.0
 CZE,Czech Republic,2020-03-13,1.0
 CZE,Czech Republic,2020-03-14,1.0
 CZE,Czech Republic,2020-03-15,1.0
@@ -12631,6 +12652,9 @@ FRA,France,2020-11-27,1.0
 FRA,France,2020-11-28,1.0
 FRA,France,2020-11-29,1.0
 FRA,France,2020-11-30,1.0
+FRA,France,2020-12-01,1.0
+FRA,France,2020-12-02,1.0
+FRA,France,2020-12-03,1.0
 FRO,Faroe Islands,2020-03-12,0.0
 FRO,Faroe Islands,2020-03-13,0.0
 FRO,Faroe Islands,2020-03-14,0.0
@@ -17322,6 +17346,14 @@ IRN,"Iran, Islamic Rep.",2020-11-21,0.0
 IRN,"Iran, Islamic Rep.",2020-11-22,0.0
 IRN,"Iran, Islamic Rep.",2020-11-23,0.0
 IRN,"Iran, Islamic Rep.",2020-11-24,0.0
+IRN,"Iran, Islamic Rep.",2020-11-25,0.0
+IRN,"Iran, Islamic Rep.",2020-11-26,0.0
+IRN,"Iran, Islamic Rep.",2020-11-27,0.0
+IRN,"Iran, Islamic Rep.",2020-11-28,0.0
+IRN,"Iran, Islamic Rep.",2020-11-29,0.0
+IRN,"Iran, Islamic Rep.",2020-11-30,0.0
+IRN,"Iran, Islamic Rep.",2020-12-01,0.0
+IRN,"Iran, Islamic Rep.",2020-12-02,0.0
 IRQ,Iraq,2020-03-17,0.0
 IRQ,Iraq,2020-03-18,0.0
 IRQ,Iraq,2020-03-19,0.0
@@ -21895,6 +21927,13 @@ LTU,Lithuania,2020-11-22,1.0
 LTU,Lithuania,2020-11-23,1.0
 LTU,Lithuania,2020-11-24,1.0
 LTU,Lithuania,2020-11-25,1.0
+LTU,Lithuania,2020-11-26,1.0
+LTU,Lithuania,2020-11-27,1.0
+LTU,Lithuania,2020-11-28,1.0
+LTU,Lithuania,2020-11-29,1.0
+LTU,Lithuania,2020-11-30,1.0
+LTU,Lithuania,2020-12-01,1.0
+LTU,Lithuania,2020-12-02,1.0
 LUX,Luxembourg,2020-03-12,1.0
 LUX,Luxembourg,2020-03-13,1.0
 LUX,Luxembourg,2020-03-14,1.0
@@ -22709,6 +22748,48 @@ MCO,Monaco,2020-04-15,1.0
 MCO,Monaco,2020-04-16,1.0
 MCO,Monaco,2020-04-17,1.0
 MCO,Monaco,2020-04-18,1.0
+MCO,Monaco,2020-04-19,1.0
+MCO,Monaco,2020-04-20,1.0
+MCO,Monaco,2020-04-21,1.0
+MCO,Monaco,2020-04-22,1.0
+MCO,Monaco,2020-04-23,1.0
+MCO,Monaco,2020-04-24,1.0
+MCO,Monaco,2020-04-25,1.0
+MCO,Monaco,2020-04-26,1.0
+MCO,Monaco,2020-04-27,1.0
+MCO,Monaco,2020-04-28,1.0
+MCO,Monaco,2020-04-29,1.0
+MCO,Monaco,2020-04-30,1.0
+MCO,Monaco,2020-05-01,1.0
+MCO,Monaco,2020-05-02,1.0
+MCO,Monaco,2020-05-03,1.0
+MCO,Monaco,2020-05-04,1.0
+MCO,Monaco,2020-05-05,1.0
+MCO,Monaco,2020-05-06,1.0
+MCO,Monaco,2020-05-07,1.0
+MCO,Monaco,2020-05-08,1.0
+MCO,Monaco,2020-05-09,1.0
+MCO,Monaco,2020-05-10,1.0
+MCO,Monaco,2020-05-11,1.0
+MCO,Monaco,2020-05-12,1.0
+MCO,Monaco,2020-05-13,1.0
+MCO,Monaco,2020-05-14,1.0
+MCO,Monaco,2020-05-15,1.0
+MCO,Monaco,2020-05-16,1.0
+MCO,Monaco,2020-05-17,1.0
+MCO,Monaco,2020-05-18,1.0
+MCO,Monaco,2020-05-19,1.0
+MCO,Monaco,2020-05-20,1.0
+MCO,Monaco,2020-05-21,1.0
+MCO,Monaco,2020-05-22,1.0
+MCO,Monaco,2020-05-23,1.0
+MCO,Monaco,2020-05-24,1.0
+MCO,Monaco,2020-05-25,1.0
+MCO,Monaco,2020-05-26,1.0
+MCO,Monaco,2020-05-27,1.0
+MCO,Monaco,2020-05-28,1.0
+MCO,Monaco,2020-05-29,1.0
+MCO,Monaco,2020-05-30,1.0
 MDA,Moldova,2020-03-11,1.0
 MDA,Moldova,2020-03-12,1.0
 MDA,Moldova,2020-03-13,1.0
@@ -25297,6 +25378,14 @@ NAM,Namibia,2020-11-19,1.0
 NAM,Namibia,2020-11-20,1.0
 NAM,Namibia,2020-11-21,1.0
 NAM,Namibia,2020-11-22,1.0
+NAM,Namibia,2020-11-23,1.0
+NAM,Namibia,2020-11-24,1.0
+NAM,Namibia,2020-11-25,1.0
+NAM,Namibia,2020-11-26,1.0
+NAM,Namibia,2020-11-27,1.0
+NAM,Namibia,2020-11-28,1.0
+NAM,Namibia,2020-11-29,1.0
+NAM,Namibia,2020-11-30,1.0
 NER,Niger,2020-11-02,1.0
 NER,Niger,2020-11-03,1.0
 NER,Niger,2020-11-04,1.0
@@ -26102,6 +26191,12 @@ NOR,Norway,2020-11-23,1.0
 NOR,Norway,2020-11-24,1.0
 NOR,Norway,2020-11-25,1.0
 NOR,Norway,2020-11-26,1.0
+NOR,Norway,2020-11-27,1.0
+NOR,Norway,2020-11-28,1.0
+NOR,Norway,2020-11-29,1.0
+NOR,Norway,2020-11-30,1.0
+NOR,Norway,2020-12-01,1.0
+NOR,Norway,2020-12-02,1.0
 NPL,Nepal,2020-03-20,1.0
 NPL,Nepal,2020-03-21,1.0
 NPL,Nepal,2020-03-22,1.0
@@ -28919,20 +29014,24 @@ PRY,Paraguay,2020-11-12,1.0
 PRY,Paraguay,2020-11-13,1.0
 PRY,Paraguay,2020-11-14,1.0
 PRY,Paraguay,2020-11-15,1.0
-PRY,Paraguay,2020-11-16,1.0
-PRY,Paraguay,2020-11-17,1.0
-PRY,Paraguay,2020-11-18,1.0
-PRY,Paraguay,2020-11-19,1.0
-PRY,Paraguay,2020-11-20,1.0
-PRY,Paraguay,2020-11-21,1.0
-PRY,Paraguay,2020-11-22,1.0
-PRY,Paraguay,2020-11-23,1.0
-PRY,Paraguay,2020-11-24,1.0
-PRY,Paraguay,2020-11-25,1.0
-PRY,Paraguay,2020-11-26,1.0
-PRY,Paraguay,2020-11-27,1.0
-PRY,Paraguay,2020-11-28,1.0
-PRY,Paraguay,2020-11-29,1.0
+PRY,Paraguay,2020-11-16,0.0
+PRY,Paraguay,2020-11-17,0.0
+PRY,Paraguay,2020-11-18,0.0
+PRY,Paraguay,2020-11-19,0.0
+PRY,Paraguay,2020-11-20,0.0
+PRY,Paraguay,2020-11-21,0.0
+PRY,Paraguay,2020-11-22,0.0
+PRY,Paraguay,2020-11-23,0.0
+PRY,Paraguay,2020-11-24,0.0
+PRY,Paraguay,2020-11-25,0.0
+PRY,Paraguay,2020-11-26,0.0
+PRY,Paraguay,2020-11-27,0.0
+PRY,Paraguay,2020-11-28,0.0
+PRY,Paraguay,2020-11-29,0.0
+PRY,Paraguay,2020-11-30,0.0
+PRY,Paraguay,2020-12-01,0.0
+PRY,Paraguay,2020-12-02,0.0
+PRY,Paraguay,2020-12-03,0.0
 PSE,State of Palestine,2020-03-06,1.0
 PSE,State of Palestine,2020-03-07,1.0
 PSE,State of Palestine,2020-03-08,1.0
@@ -32982,6 +33081,16 @@ SVN,Slovenia,2020-11-18,1.0
 SVN,Slovenia,2020-11-19,1.0
 SVN,Slovenia,2020-11-20,1.0
 SVN,Slovenia,2020-11-21,1.0
+SVN,Slovenia,2020-11-22,1.0
+SVN,Slovenia,2020-11-23,1.0
+SVN,Slovenia,2020-11-24,1.0
+SVN,Slovenia,2020-11-25,1.0
+SVN,Slovenia,2020-11-26,1.0
+SVN,Slovenia,2020-11-27,1.0
+SVN,Slovenia,2020-11-28,1.0
+SVN,Slovenia,2020-11-29,1.0
+SVN,Slovenia,2020-11-30,1.0
+SVN,Slovenia,2020-12-01,1.0
 SWE,Sweden,2020-03-25,1.0
 SWE,Sweden,2020-03-26,1.0
 SWE,Sweden,2020-03-27,1.0
@@ -34538,6 +34647,11 @@ THA,Thailand,2020-11-26,1.0
 THA,Thailand,2020-11-27,1.0
 THA,Thailand,2020-11-28,1.0
 THA,Thailand,2020-11-29,1.0
+THA,Thailand,2020-11-30,1.0
+THA,Thailand,2020-12-01,1.0
+THA,Thailand,2020-12-02,1.0
+THA,Thailand,2020-12-03,1.0
+THA,Thailand,2020-12-04,1.0
 TJK,Tajikistan,2020-04-25,1.0
 TJK,Tajikistan,2020-04-26,1.0
 TJK,Tajikistan,2020-04-27,1.0
@@ -35211,6 +35325,14 @@ TUN,Tunisia,2020-11-21,1.0
 TUN,Tunisia,2020-11-22,1.0
 TUN,Tunisia,2020-11-23,1.0
 TUN,Tunisia,2020-11-24,1.0
+TUN,Tunisia,2020-11-25,1.0
+TUN,Tunisia,2020-11-26,1.0
+TUN,Tunisia,2020-11-27,1.0
+TUN,Tunisia,2020-11-28,1.0
+TUN,Tunisia,2020-11-29,1.0
+TUN,Tunisia,2020-11-30,1.0
+TUN,Tunisia,2020-12-01,1.0
+TUN,Tunisia,2020-12-02,1.0
 TUR,Turkey,2020-03-16,1.0
 TUR,Turkey,2020-03-17,1.0
 TUR,Turkey,2020-03-18,1.0
