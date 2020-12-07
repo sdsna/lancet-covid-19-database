@@ -20,7 +20,7 @@ AUT,Austria,2020-05-03,8.21
 AUT,Austria,2020-05-10,5.43
 AUT,Austria,2020-05-17,-5.35
 AUT,Austria,2020-05-24,-6.86
-AUT,Austria,2020-05-31,13.83
+AUT,Austria,2020-05-31,14.3
 AUT,Austria,2020-06-07,11.69
 AUT,Austria,2020-06-14,-0.27
 AUT,Austria,2020-06-21,-6.08
@@ -39,12 +39,13 @@ AUT,Austria,2020-09-13,19.25
 AUT,Austria,2020-09-20,2.16
 AUT,Austria,2020-09-27,-1.01
 AUT,Austria,2020-10-04,-3.71
-AUT,Austria,2020-10-11,10.47
-AUT,Austria,2020-10-18,0.76
-AUT,Austria,2020-10-25,2.85
-AUT,Austria,2020-11-01,11.59
-AUT,Austria,2020-11-08,13.66
-AUT,Austria,2020-11-15,-7.19
+AUT,Austria,2020-10-11,10.95
+AUT,Austria,2020-10-18,1.71
+AUT,Austria,2020-10-25,3.28
+AUT,Austria,2020-11-01,12.36
+AUT,Austria,2020-11-08,14.56
+AUT,Austria,2020-11-15,-1.89
+AUT,Austria,2020-11-22,27.41
 BEL,Belgium,2020-01-05,-7.0
 BEL,Belgium,2020-01-12,-3.33
 BEL,Belgium,2020-01-19,-13.81
@@ -73,23 +74,24 @@ BEL,Belgium,2020-06-21,-15.12
 BEL,Belgium,2020-06-28,-7.69
 BEL,Belgium,2020-07-05,-11.62
 BEL,Belgium,2020-07-12,-10.43
-BEL,Belgium,2020-07-19,-6.88
+BEL,Belgium,2020-07-19,-6.54
 BEL,Belgium,2020-07-26,-13.69
 BEL,Belgium,2020-08-02,-5.6
 BEL,Belgium,2020-08-09,-9.06
-BEL,Belgium,2020-08-16,23.08
+BEL,Belgium,2020-08-16,23.42
 BEL,Belgium,2020-08-23,5.38
 BEL,Belgium,2020-08-30,-11.61
 BEL,Belgium,2020-09-06,4.81
 BEL,Belgium,2020-09-13,-1.09
 BEL,Belgium,2020-09-20,-4.52
 BEL,Belgium,2020-09-27,-0.8
-BEL,Belgium,2020-10-04,-15.59
-BEL,Belgium,2020-10-11,-6.51
+BEL,Belgium,2020-10-04,-14.62
+BEL,Belgium,2020-10-11,-6.19
 BEL,Belgium,2020-10-18,6.95
-BEL,Belgium,2020-10-25,10.78
+BEL,Belgium,2020-10-25,11.45
 BEL,Belgium,2020-11-01,19.99
-BEL,Belgium,2020-11-08,16.04
+BEL,Belgium,2020-11-08,20.64
+BEL,Belgium,2020-11-15,18.07
 BGR,Bulgaria,2020-01-05,-22.02
 BGR,Bulgaria,2020-01-12,-11.42
 BGR,Bulgaria,2020-01-19,-16.57
@@ -101,16 +103,16 @@ BGR,Bulgaria,2020-02-23,-2.62
 BGR,Bulgaria,2020-03-01,-9.09
 BGR,Bulgaria,2020-03-08,-14.86
 BGR,Bulgaria,2020-03-15,-3.98
-BGR,Bulgaria,2020-03-22,-8.57
-BGR,Bulgaria,2020-03-29,-9.73
+BGR,Bulgaria,2020-03-22,-8.34
+BGR,Bulgaria,2020-03-29,-9.51
 BGR,Bulgaria,2020-04-05,3.78
 BGR,Bulgaria,2020-04-12,1.5
 BGR,Bulgaria,2020-04-19,7.83
 BGR,Bulgaria,2020-04-26,1.01
-BGR,Bulgaria,2020-05-03,-3.89
+BGR,Bulgaria,2020-05-03,-3.65
 BGR,Bulgaria,2020-05-10,-7.15
 BGR,Bulgaria,2020-05-17,-2.15
-BGR,Bulgaria,2020-05-24,-7.79
+BGR,Bulgaria,2020-05-24,-7.56
 BGR,Bulgaria,2020-05-31,-8.91
 BGR,Bulgaria,2020-06-07,-9.54
 BGR,Bulgaria,2020-06-14,2.71
@@ -125,50 +127,55 @@ BGR,Bulgaria,2020-08-09,-8.01
 BGR,Bulgaria,2020-08-16,9.54
 BGR,Bulgaria,2020-08-23,-3.9
 BGR,Bulgaria,2020-08-30,9.25
-BGR,Bulgaria,2020-09-06,12.67
-BGR,Bulgaria,2020-09-13,1.58
+BGR,Bulgaria,2020-09-06,13.18
+BGR,Bulgaria,2020-09-13,1.83
 BGR,Bulgaria,2020-09-20,-1.74
-BGR,Bulgaria,2020-09-27,-1.37
-BGR,Bulgaria,2020-10-04,2.45
-BGR,Bulgaria,2020-10-11,3.33
-BGR,Bulgaria,2020-10-18,1.52
-BGR,Bulgaria,2020-10-25,12.18
-BGR,Bulgaria,2020-11-01,33.32
-BGR,Bulgaria,2020-11-08,62.33
-BGR,Bulgaria,2020-11-15,78.15
-CAN,Canada,2020-01-05,-6.77
-CAN,Canada,2020-01-12,2.09
+BGR,Bulgaria,2020-09-27,-1.11
+BGR,Bulgaria,2020-10-04,2.7
+BGR,Bulgaria,2020-10-11,3.57
+BGR,Bulgaria,2020-10-18,1.99
+BGR,Bulgaria,2020-10-25,12.41
+BGR,Bulgaria,2020-11-01,34.05
+BGR,Bulgaria,2020-11-08,62.81
+BGR,Bulgaria,2020-11-15,79.57
+BGR,Bulgaria,2020-11-22,84.5
+CAN,Canada,2020-01-05,-6.33
+CAN,Canada,2020-01-12,2.49
 CAN,Canada,2020-01-19,3.58
-CAN,Canada,2020-01-26,0.1
-CAN,Canada,2020-02-02,0.68
-CAN,Canada,2020-02-09,0.26
+CAN,Canada,2020-01-26,0.13
+CAN,Canada,2020-02-02,1.17
+CAN,Canada,2020-02-09,0.15
 CAN,Canada,2020-02-16,-0.66
-CAN,Canada,2020-02-23,-11.53
-CAN,Canada,2020-03-01,-7.1
-CAN,Canada,2020-03-08,2.64
-CAN,Canada,2020-03-15,-1.72
-CAN,Canada,2020-03-22,-1.51
-CAN,Canada,2020-03-29,-7.87
-CAN,Canada,2020-04-05,6.45
-CAN,Canada,2020-04-12,5.49
-CAN,Canada,2020-04-19,-1.54
-CAN,Canada,2020-04-26,3.68
-CAN,Canada,2020-05-03,5.07
-CAN,Canada,2020-05-10,6.39
-CAN,Canada,2020-05-17,4.68
-CAN,Canada,2020-05-24,6.78
-CAN,Canada,2020-05-31,2.43
-CAN,Canada,2020-06-07,1.04
-CAN,Canada,2020-06-14,-0.15
-CAN,Canada,2020-06-21,-1.45
-CAN,Canada,2020-06-28,-6.41
-CAN,Canada,2020-07-05,-4.91
-CAN,Canada,2020-07-12,-3.4
-CAN,Canada,2020-07-19,-0.08
-CAN,Canada,2020-07-26,-5.46
+CAN,Canada,2020-02-23,-10.66
+CAN,Canada,2020-03-01,-6.25
+CAN,Canada,2020-03-08,3.12
+CAN,Canada,2020-03-15,-2.09
+CAN,Canada,2020-03-22,-1.4
+CAN,Canada,2020-03-29,-6.91
+CAN,Canada,2020-04-05,7.81
+CAN,Canada,2020-04-12,6.88
+CAN,Canada,2020-04-19,-0.53
+CAN,Canada,2020-04-26,5.47
+CAN,Canada,2020-05-03,8.23
+CAN,Canada,2020-05-10,9.63
+CAN,Canada,2020-05-17,7.47
+CAN,Canada,2020-05-24,9.92
+CAN,Canada,2020-05-31,6.74
+CAN,Canada,2020-06-07,6.31
+CAN,Canada,2020-06-14,3.06
+CAN,Canada,2020-06-21,2.42
+CAN,Canada,2020-06-28,-1.8
+CAN,Canada,2020-07-05,-0.22
+CAN,Canada,2020-07-12,-0.14
+CAN,Canada,2020-07-19,5.2
+CAN,Canada,2020-07-26,-0.39
+CAN,Canada,2020-08-02,-2.43
+CAN,Canada,2020-08-09,-2.04
+CAN,Canada,2020-08-16,-4.14
+CAN,Canada,2020-08-23,-3.8
 CHE,Switzerland,2020-01-05,-15.34
-CHE,Switzerland,2020-01-12,-6.77
-CHE,Switzerland,2020-01-19,-3.75
+CHE,Switzerland,2020-01-12,-6.13
+CHE,Switzerland,2020-01-19,-4.36
 CHE,Switzerland,2020-01-26,-7.03
 CHE,Switzerland,2020-02-02,-8.98
 CHE,Switzerland,2020-02-09,-3.7
@@ -176,40 +183,43 @@ CHE,Switzerland,2020-02-16,-10.8
 CHE,Switzerland,2020-02-23,2.76
 CHE,Switzerland,2020-03-01,-6.76
 CHE,Switzerland,2020-03-08,-10.47
-CHE,Switzerland,2020-03-15,-7.84
+CHE,Switzerland,2020-03-15,-8.5
 CHE,Switzerland,2020-03-22,-2.09
 CHE,Switzerland,2020-03-29,11.81
 CHE,Switzerland,2020-04-05,6.22
 CHE,Switzerland,2020-04-12,9.69
 CHE,Switzerland,2020-04-19,4.01
-CHE,Switzerland,2020-04-26,21.19
+CHE,Switzerland,2020-04-26,21.88
 CHE,Switzerland,2020-05-03,-18.03
 CHE,Switzerland,2020-05-10,-3.52
-CHE,Switzerland,2020-05-17,1.03
-CHE,Switzerland,2020-05-24,-8.68
+CHE,Switzerland,2020-05-17,1.67
+CHE,Switzerland,2020-05-24,-7.38
 CHE,Switzerland,2020-05-31,1.78
 CHE,Switzerland,2020-06-07,-6.37
-CHE,Switzerland,2020-06-14,-8.73
+CHE,Switzerland,2020-06-14,-7.41
 CHE,Switzerland,2020-06-21,-2.81
-CHE,Switzerland,2020-06-28,-1.02
+CHE,Switzerland,2020-06-28,-0.38
 CHE,Switzerland,2020-07-05,-1.28
 CHE,Switzerland,2020-07-12,-2.6
 CHE,Switzerland,2020-07-19,-20.73
 CHE,Switzerland,2020-07-26,0.13
-CHE,Switzerland,2020-08-02,5.52
-CHE,Switzerland,2020-08-09,-6.77
-CHE,Switzerland,2020-08-16,8.7
+CHE,Switzerland,2020-08-02,6.12
+CHE,Switzerland,2020-08-09,-5.49
+CHE,Switzerland,2020-08-16,9.38
 CHE,Switzerland,2020-08-23,-11.43
 CHE,Switzerland,2020-08-30,-11.76
-CHE,Switzerland,2020-09-06,-14.53
-CHE,Switzerland,2020-09-13,-6.21
-CHE,Switzerland,2020-09-20,-28.32
-CHE,Switzerland,2020-09-27,3.05
-CHE,Switzerland,2020-10-04,-15.59
-CHE,Switzerland,2020-10-11,4.04
-CHE,Switzerland,2020-10-18,-24.47
-CHE,Switzerland,2020-10-25,-0.79
-CHE,Switzerland,2020-11-01,-29.73
+CHE,Switzerland,2020-09-06,-12.7
+CHE,Switzerland,2020-09-13,-4.31
+CHE,Switzerland,2020-09-20,-26.56
+CHE,Switzerland,2020-09-27,4.96
+CHE,Switzerland,2020-10-04,-14.42
+CHE,Switzerland,2020-10-11,6.49
+CHE,Switzerland,2020-10-18,-20.72
+CHE,Switzerland,2020-10-25,4.47
+CHE,Switzerland,2020-11-01,-20.4
+CHE,Switzerland,2020-11-08,-0.49
+CHE,Switzerland,2020-11-15,-6.84
+CHE,Switzerland,2020-11-22,-23.58
 CHL,Chile,2020-01-05,5.27
 CHL,Chile,2020-01-12,14.11
 CHL,Chile,2020-01-19,2.43
@@ -250,11 +260,12 @@ CHL,Chile,2020-09-13,5.74
 CHL,Chile,2020-09-20,1.77
 CHL,Chile,2020-09-27,12.81
 CHL,Chile,2020-10-04,27.48
-CHL,Chile,2020-10-11,13.63
-CHL,Chile,2020-10-18,22.87
-CHL,Chile,2020-10-25,21.36
-CHL,Chile,2020-11-01,19.67
-CHL,Chile,2020-11-08,15.22
+CHL,Chile,2020-10-11,13.82
+CHL,Chile,2020-10-18,23.06
+CHL,Chile,2020-10-25,21.56
+CHL,Chile,2020-11-01,20.9
+CHL,Chile,2020-11-08,16.01
+CHL,Chile,2020-11-15,5.86
 CZE,Czech Republic,2020-01-05,-3.33
 CZE,Czech Republic,2020-01-12,-7.65
 CZE,Czech Republic,2020-01-19,-17.63
@@ -276,7 +287,7 @@ CZE,Czech Republic,2020-05-03,-8.2
 CZE,Czech Republic,2020-05-10,-11.98
 CZE,Czech Republic,2020-05-17,3.75
 CZE,Czech Republic,2020-05-24,-14.31
-CZE,Czech Republic,2020-05-31,-23.3
+CZE,Czech Republic,2020-05-31,-23.04
 CZE,Czech Republic,2020-06-07,-7.4
 CZE,Czech Republic,2020-06-14,-8.24
 CZE,Czech Republic,2020-06-21,-0.44
@@ -286,17 +297,18 @@ CZE,Czech Republic,2020-07-12,-6.91
 CZE,Czech Republic,2020-07-19,-10.59
 CZE,Czech Republic,2020-07-26,4.16
 CZE,Czech Republic,2020-08-02,2.7
-CZE,Czech Republic,2020-08-09,-4.71
+CZE,Czech Republic,2020-08-09,-4.44
 CZE,Czech Republic,2020-08-16,0.44
-CZE,Czech Republic,2020-08-23,5.62
+CZE,Czech Republic,2020-08-23,5.9
 CZE,Czech Republic,2020-08-30,-7.9
 CZE,Czech Republic,2020-09-06,-3.86
 CZE,Czech Republic,2020-09-13,-11.17
 CZE,Czech Republic,2020-09-20,-3.59
 CZE,Czech Republic,2020-09-27,2.29
 CZE,Czech Republic,2020-10-04,-0.94
-CZE,Czech Republic,2020-10-11,0.0
-CZE,Czech Republic,2020-10-18,10.09
+CZE,Czech Republic,2020-10-11,0.78
+CZE,Czech Republic,2020-10-18,11.81
+CZE,Czech Republic,2020-10-25,19.7
 DEU,Germany,2020-01-05,-2.45
 DEU,Germany,2020-01-12,-2.22
 DEU,Germany,2020-01-19,1.16
@@ -389,49 +401,51 @@ DNK,Denmark,2020-11-08,-14.48
 DNK,Denmark,2020-11-15,-16.56
 DNK,Denmark,2020-11-22,-9.47
 ESP,Spain,2020-01-05,-2.97
-ESP,Spain,2020-01-12,-1.81
+ESP,Spain,2020-01-12,-1.8
 ESP,Spain,2020-01-19,5.79
 ESP,Spain,2020-01-26,-3.13
 ESP,Spain,2020-02-02,12.16
 ESP,Spain,2020-02-09,5.97
-ESP,Spain,2020-02-16,-3.93
+ESP,Spain,2020-02-16,-3.84
 ESP,Spain,2020-02-23,0.34
-ESP,Spain,2020-03-01,-4.84
-ESP,Spain,2020-03-08,3.97
-ESP,Spain,2020-03-15,6.61
+ESP,Spain,2020-03-01,-4.83
+ESP,Spain,2020-03-08,3.98
+ESP,Spain,2020-03-15,6.7
 ESP,Spain,2020-03-22,26.47
-ESP,Spain,2020-03-29,59.68
+ESP,Spain,2020-03-29,59.86
 ESP,Spain,2020-04-05,61.59
 ESP,Spain,2020-04-12,33.77
-ESP,Spain,2020-04-19,31.23
-ESP,Spain,2020-04-26,9.96
+ESP,Spain,2020-04-19,31.32
+ESP,Spain,2020-04-26,10.05
 ESP,Spain,2020-05-03,5.86
 ESP,Spain,2020-05-10,11.33
-ESP,Spain,2020-05-17,7.09
-ESP,Spain,2020-05-24,6.23
+ESP,Spain,2020-05-17,7.19
+ESP,Spain,2020-05-24,6.42
 ESP,Spain,2020-05-31,4.97
 ESP,Spain,2020-06-07,-1.92
-ESP,Spain,2020-06-14,6.38
+ESP,Spain,2020-06-14,6.58
 ESP,Spain,2020-06-21,-0.58
-ESP,Spain,2020-06-28,8.28
-ESP,Spain,2020-07-05,2.74
-ESP,Spain,2020-07-12,3.43
-ESP,Spain,2020-07-19,0.11
-ESP,Spain,2020-07-26,9.75
-ESP,Spain,2020-08-02,12.37
+ESP,Spain,2020-06-28,8.38
+ESP,Spain,2020-07-05,2.84
+ESP,Spain,2020-07-12,3.52
+ESP,Spain,2020-07-19,0.2
+ESP,Spain,2020-07-26,9.95
+ESP,Spain,2020-08-02,12.46
 ESP,Spain,2020-08-09,8.97
 ESP,Spain,2020-08-16,12.18
 ESP,Spain,2020-08-23,13.64
-ESP,Spain,2020-08-30,17.34
+ESP,Spain,2020-08-30,17.44
 ESP,Spain,2020-09-06,12.09
-ESP,Spain,2020-09-13,12.73
-ESP,Spain,2020-09-20,11.42
-ESP,Spain,2020-09-27,11.24
-ESP,Spain,2020-10-04,12.71
-ESP,Spain,2020-10-11,20.72
-ESP,Spain,2020-10-18,9.4
-ESP,Spain,2020-10-25,20.9
-ESP,Spain,2020-11-01,18.8
+ESP,Spain,2020-09-13,12.83
+ESP,Spain,2020-09-20,11.7
+ESP,Spain,2020-09-27,11.33
+ESP,Spain,2020-10-04,13.46
+ESP,Spain,2020-10-11,21.01
+ESP,Spain,2020-10-18,9.97
+ESP,Spain,2020-10-25,21.97
+ESP,Spain,2020-11-01,20.05
+ESP,Spain,2020-11-08,17.14
+ESP,Spain,2020-11-15,14.62
 EST,Estonia,2020-01-05,-8.49
 EST,Estonia,2020-01-12,10.22
 EST,Estonia,2020-01-19,2.46
@@ -498,11 +512,11 @@ FIN,Finland,2020-04-19,1.36
 FIN,Finland,2020-04-26,-10.24
 FIN,Finland,2020-05-03,-6.21
 FIN,Finland,2020-05-10,-7.26
-FIN,Finland,2020-05-17,2.58
+FIN,Finland,2020-05-17,3.26
 FIN,Finland,2020-05-24,2.42
 FIN,Finland,2020-05-31,-2.19
 FIN,Finland,2020-06-07,-10.96
-FIN,Finland,2020-06-14,-1.12
+FIN,Finland,2020-06-14,-0.42
 FIN,Finland,2020-06-21,0.53
 FIN,Finland,2020-06-28,-3.65
 FIN,Finland,2020-07-05,-22.92
@@ -516,13 +530,14 @@ FIN,Finland,2020-08-23,14.81
 FIN,Finland,2020-08-30,2.51
 FIN,Finland,2020-09-06,-16.78
 FIN,Finland,2020-09-13,14.4
-FIN,Finland,2020-09-20,-0.42
-FIN,Finland,2020-09-27,-3.32
+FIN,Finland,2020-09-20,0.28
+FIN,Finland,2020-09-27,-2.6
 FIN,Finland,2020-10-04,-16.11
 FIN,Finland,2020-10-11,-8.08
-FIN,Finland,2020-10-18,-5.67
-FIN,Finland,2020-10-25,-2.34
-FIN,Finland,2020-11-01,9.08
+FIN,Finland,2020-10-18,-5.01
+FIN,Finland,2020-10-25,0.26
+FIN,Finland,2020-11-01,10.43
+FIN,Finland,2020-11-08,-2.16
 FRA,France,2020-01-05,-3.9
 FRA,France,2020-01-12,-6.69
 FRA,France,2020-01-19,-6.12
@@ -636,6 +651,11 @@ HRV,Croatia,2020-08-30,-4.38
 HRV,Croatia,2020-09-06,-14.63
 HRV,Croatia,2020-09-13,-1.88
 HRV,Croatia,2020-09-20,-12.92
+HRV,Croatia,2020-09-27,-17.35
+HRV,Croatia,2020-10-04,11.46
+HRV,Croatia,2020-10-11,-5.11
+HRV,Croatia,2020-10-18,7.55
+HRV,Croatia,2020-10-25,-6.83
 HUN,Hungary,2020-01-05,-8.91
 HUN,Hungary,2020-01-12,-15.42
 HUN,Hungary,2020-01-19,-14.46
@@ -648,15 +668,15 @@ HUN,Hungary,2020-03-01,-11.16
 HUN,Hungary,2020-03-08,-16.81
 HUN,Hungary,2020-03-15,-17.46
 HUN,Hungary,2020-03-22,-7.33
-HUN,Hungary,2020-03-29,-15.33
+HUN,Hungary,2020-03-29,-15.15
 HUN,Hungary,2020-04-05,-6.06
 HUN,Hungary,2020-04-12,1.56
 HUN,Hungary,2020-04-19,-2.69
 HUN,Hungary,2020-04-26,-9.22
 HUN,Hungary,2020-05-03,-14.05
-HUN,Hungary,2020-05-10,-8.5
+HUN,Hungary,2020-05-10,-8.69
 HUN,Hungary,2020-05-17,-8.13
-HUN,Hungary,2020-05-24,-19.78
+HUN,Hungary,2020-05-24,-19.6
 HUN,Hungary,2020-05-31,-10.32
 HUN,Hungary,2020-06-07,-0.05
 HUN,Hungary,2020-06-14,-15.36
@@ -671,14 +691,15 @@ HUN,Hungary,2020-08-09,-0.89
 HUN,Hungary,2020-08-16,-5.92
 HUN,Hungary,2020-08-23,-4.83
 HUN,Hungary,2020-08-30,-14.56
-HUN,Hungary,2020-09-06,-12.87
-HUN,Hungary,2020-09-13,-11.68
-HUN,Hungary,2020-09-20,-4.69
-HUN,Hungary,2020-09-27,-9.79
+HUN,Hungary,2020-09-06,-12.49
+HUN,Hungary,2020-09-13,-11.5
+HUN,Hungary,2020-09-20,-4.51
+HUN,Hungary,2020-09-27,-10.15
 HUN,Hungary,2020-10-04,-6.23
 HUN,Hungary,2020-10-11,-12.03
-HUN,Hungary,2020-10-18,-3.77
-HUN,Hungary,2020-10-25,-2.61
+HUN,Hungary,2020-10-18,-2.48
+HUN,Hungary,2020-10-25,0.2
+HUN,Hungary,2020-11-01,1.77
 ISL,Iceland,2020-01-05,66.67
 ISL,Iceland,2020-01-12,60.71
 ISL,Iceland,2020-01-19,100.0
@@ -758,13 +779,14 @@ ISR,Israel,2020-08-09,5.11
 ISR,Israel,2020-08-16,27.26
 ISR,Israel,2020-08-23,10.37
 ISR,Israel,2020-08-30,1.58
-ISR,Israel,2020-09-06,4.41
-ISR,Israel,2020-09-13,28.18
-ISR,Israel,2020-09-20,8.57
+ISR,Israel,2020-09-06,5.16
+ISR,Israel,2020-09-13,28.49
+ISR,Israel,2020-09-20,10.08
 ISR,Israel,2020-09-27,6.8
-ISR,Israel,2020-10-04,-3.24
-ISR,Israel,2020-10-11,25.37
+ISR,Israel,2020-10-04,-2.8
+ISR,Israel,2020-10-11,25.75
 ISR,Israel,2020-10-18,-8.25
+ISR,Israel,2020-10-25,19.48
 ITA,Italy,2020-01-05,-0.64
 ITA,Italy,2020-01-12,-4.23
 ITA,Italy,2020-01-19,-0.98
@@ -885,6 +907,7 @@ LTU,Lithuania,2020-10-18,8.74
 LTU,Lithuania,2020-10-25,-0.11
 LTU,Lithuania,2020-11-01,-13.2
 LTU,Lithuania,2020-11-08,-2.67
+LTU,Lithuania,2020-11-15,14.43
 LUX,Luxembourg,2020-01-05,-31.82
 LUX,Luxembourg,2020-01-12,0.0
 LUX,Luxembourg,2020-01-19,3.66
@@ -924,6 +947,10 @@ LUX,Luxembourg,2020-09-06,-6.25
 LUX,Luxembourg,2020-09-13,-21.88
 LUX,Luxembourg,2020-09-20,39.34
 LUX,Luxembourg,2020-09-27,-5.8
+LUX,Luxembourg,2020-10-04,-31.51
+LUX,Luxembourg,2020-10-11,11.11
+LUX,Luxembourg,2020-10-18,14.29
+LUX,Luxembourg,2020-10-25,-13.33
 LVA,Latvia,2020-01-05,-14.6
 LVA,Latvia,2020-01-12,-12.31
 LVA,Latvia,2020-01-19,-21.02
@@ -970,52 +997,54 @@ LVA,Latvia,2020-10-25,-5.89
 LVA,Latvia,2020-11-01,-7.13
 LVA,Latvia,2020-11-08,4.27
 LVA,Latvia,2020-11-15,-13.19
+LVA,Latvia,2020-11-22,-11.67
+LVA,Latvia,2020-11-29,1.38
 NLD,Netherlands,2020-01-05,-12.69
 NLD,Netherlands,2020-01-12,-0.05
 NLD,Netherlands,2020-01-19,-2.9
 NLD,Netherlands,2020-01-26,-19.51
 NLD,Netherlands,2020-02-02,2.51
-NLD,Netherlands,2020-02-09,-9.97
+NLD,Netherlands,2020-02-09,-9.74
 NLD,Netherlands,2020-02-16,-4.69
 NLD,Netherlands,2020-02-23,-22.99
 NLD,Netherlands,2020-03-01,-6.51
 NLD,Netherlands,2020-03-08,-12.49
-NLD,Netherlands,2020-03-15,-8.6
+NLD,Netherlands,2020-03-15,-8.36
 NLD,Netherlands,2020-03-22,1.38
 NLD,Netherlands,2020-03-29,20.17
 NLD,Netherlands,2020-04-05,20.22
 NLD,Netherlands,2020-04-12,19.1
 NLD,Netherlands,2020-04-19,4.75
 NLD,Netherlands,2020-04-26,12.71
-NLD,Netherlands,2020-05-03,13.08
+NLD,Netherlands,2020-05-03,13.35
 NLD,Netherlands,2020-05-10,-4.74
-NLD,Netherlands,2020-05-17,-2.77
-NLD,Netherlands,2020-05-24,-9.33
-NLD,Netherlands,2020-05-31,-9.51
+NLD,Netherlands,2020-05-17,-2.49
+NLD,Netherlands,2020-05-24,-9.07
+NLD,Netherlands,2020-05-31,-9.26
 NLD,Netherlands,2020-06-07,-4.28
 NLD,Netherlands,2020-06-14,5.73
 NLD,Netherlands,2020-06-21,-4.65
-NLD,Netherlands,2020-06-28,-7.83
-NLD,Netherlands,2020-07-05,-0.91
+NLD,Netherlands,2020-06-28,-7.58
+NLD,Netherlands,2020-07-05,-0.66
 NLD,Netherlands,2020-07-12,-1.78
 NLD,Netherlands,2020-07-19,-9.61
-NLD,Netherlands,2020-07-26,-0.71
-NLD,Netherlands,2020-08-02,-6.2
-NLD,Netherlands,2020-08-09,2.08
+NLD,Netherlands,2020-07-26,-0.96
+NLD,Netherlands,2020-08-02,-5.68
+NLD,Netherlands,2020-08-09,2.33
 NLD,Netherlands,2020-08-16,17.49
 NLD,Netherlands,2020-08-23,8.32
 NLD,Netherlands,2020-08-30,-13.33
-NLD,Netherlands,2020-09-06,1.98
-NLD,Netherlands,2020-09-13,-4.31
+NLD,Netherlands,2020-09-06,2.24
+NLD,Netherlands,2020-09-13,-4.05
 NLD,Netherlands,2020-09-20,-3.5
-NLD,Netherlands,2020-09-27,-7.38
+NLD,Netherlands,2020-09-27,-7.13
 NLD,Netherlands,2020-10-04,0.77
 NLD,Netherlands,2020-10-11,-13.28
 NLD,Netherlands,2020-10-18,5.63
-NLD,Netherlands,2020-10-25,-2.03
-NLD,Netherlands,2020-11-01,-1.99
-NLD,Netherlands,2020-11-08,-2.77
-NLD,Netherlands,2020-11-15,-2.57
+NLD,Netherlands,2020-10-25,-1.55
+NLD,Netherlands,2020-11-01,-0.2
+NLD,Netherlands,2020-11-08,-3.05
+NLD,Netherlands,2020-11-15,-3.41
 NLD,Netherlands,2020-11-22,5.03
 NOR,Norway,2020-01-05,0.18
 NOR,Norway,2020-01-12,4.55
@@ -1032,7 +1061,7 @@ NOR,Norway,2020-03-22,14.0
 NOR,Norway,2020-03-29,13.77
 NOR,Norway,2020-04-05,-6.73
 NOR,Norway,2020-04-12,-5.33
-NOR,Norway,2020-04-19,-18.15
+NOR,Norway,2020-04-19,-17.16
 NOR,Norway,2020-04-26,4.2
 NOR,Norway,2020-05-03,-7.1
 NOR,Norway,2020-05-10,1.43
@@ -1059,8 +1088,9 @@ NOR,Norway,2020-09-27,-21.46
 NOR,Norway,2020-10-04,-10.62
 NOR,Norway,2020-10-11,-14.79
 NOR,Norway,2020-10-18,-22.33
-NOR,Norway,2020-10-25,-7.28
-NOR,Norway,2020-11-01,16.4
+NOR,Norway,2020-10-25,-6.41
+NOR,Norway,2020-11-01,17.41
+NOR,Norway,2020-11-08,-12.81
 NZL,New Zealand,2020-01-05,5.85
 NZL,New Zealand,2020-01-12,-3.92
 NZL,New Zealand,2020-01-19,6.04
@@ -1090,7 +1120,7 @@ NZL,New Zealand,2020-06-28,-11.43
 NZL,New Zealand,2020-07-05,-5.48
 NZL,New Zealand,2020-07-12,-9.78
 NZL,New Zealand,2020-07-19,-5.83
-NZL,New Zealand,2020-07-26,5.36
+NZL,New Zealand,2020-07-26,6.16
 NZL,New Zealand,2020-08-02,-10.79
 NZL,New Zealand,2020-08-09,-15.79
 NZL,New Zealand,2020-08-16,-23.46
@@ -1101,11 +1131,12 @@ NZL,New Zealand,2020-09-13,-5.86
 NZL,New Zealand,2020-09-20,-5.63
 NZL,New Zealand,2020-09-27,2.54
 NZL,New Zealand,2020-10-04,7.14
-NZL,New Zealand,2020-10-11,-3.76
-NZL,New Zealand,2020-10-18,0.53
+NZL,New Zealand,2020-10-11,-2.95
+NZL,New Zealand,2020-10-18,1.34
 NZL,New Zealand,2020-10-25,30.41
-NZL,New Zealand,2020-11-01,-7.0
-NZL,New Zealand,2020-11-08,-13.46
+NZL,New Zealand,2020-11-01,-6.22
+NZL,New Zealand,2020-11-08,-8.38
+NZL,New Zealand,2020-11-15,-3.6
 POL,Poland,2020-01-05,-12.45
 POL,Poland,2020-01-12,-15.05
 POL,Poland,2020-01-19,-17.79
@@ -1183,55 +1214,61 @@ PRT,Portugal,2020-07-26,5.61
 PRT,Portugal,2020-08-02,9.05
 PRT,Portugal,2020-08-09,-5.76
 PRT,Portugal,2020-08-16,-0.14
-PRT,Portugal,2020-08-23,0.92
+PRT,Portugal,2020-08-23,1.58
 PRT,Portugal,2020-08-30,7.89
 PRT,Portugal,2020-09-06,-3.91
-PRT,Portugal,2020-09-13,18.49
+PRT,Portugal,2020-09-13,18.84
 PRT,Portugal,2020-09-20,1.0
 PRT,Portugal,2020-09-27,-5.25
 PRT,Portugal,2020-10-04,-4.23
-PRT,Portugal,2020-10-11,14.62
+PRT,Portugal,2020-10-11,14.96
 PRT,Portugal,2020-10-18,14.34
 PRT,Portugal,2020-10-25,-1.69
-PRT,Portugal,2020-11-01,1.22
-PRT,Portugal,2020-11-08,5.59
-SVK,Slovak Republic,2020-01-05,6.53
-SVK,Slovak Republic,2020-01-12,-3.75
-SVK,Slovak Republic,2020-01-19,-12.99
-SVK,Slovak Republic,2020-01-26,-2.72
-SVK,Slovak Republic,2020-02-02,-13.16
-SVK,Slovak Republic,2020-02-09,-17.36
+PRT,Portugal,2020-11-01,1.88
+PRT,Portugal,2020-11-08,6.94
+PRT,Portugal,2020-11-15,14.35
+SVK,Slovak Republic,2020-01-05,9.28
+SVK,Slovak Republic,2020-01-12,-3.39
+SVK,Slovak Republic,2020-01-19,-12.66
+SVK,Slovak Republic,2020-01-26,-2.37
+SVK,Slovak Republic,2020-02-02,-12.82
+SVK,Slovak Republic,2020-02-09,-16.32
 SVK,Slovak Republic,2020-02-16,-4.75
 SVK,Slovak Republic,2020-02-23,-14.07
 SVK,Slovak Republic,2020-03-01,-16.67
-SVK,Slovak Republic,2020-03-08,-4.52
-SVK,Slovak Republic,2020-03-15,-11.0
+SVK,Slovak Republic,2020-03-08,-3.43
+SVK,Slovak Republic,2020-03-15,-10.27
 SVK,Slovak Republic,2020-03-22,7.01
-SVK,Slovak Republic,2020-03-29,-20.82
+SVK,Slovak Republic,2020-03-29,-20.45
 SVK,Slovak Republic,2020-04-05,-8.7
-SVK,Slovak Republic,2020-04-12,-13.58
-SVK,Slovak Republic,2020-04-19,-10.94
-SVK,Slovak Republic,2020-04-26,-6.6
-SVK,Slovak Republic,2020-05-03,-19.47
-SVK,Slovak Republic,2020-05-10,-6.12
-SVK,Slovak Republic,2020-05-17,1.07
-SVK,Slovak Republic,2020-05-24,-12.74
-SVK,Slovak Republic,2020-05-31,-9.6
-SVK,Slovak Republic,2020-06-07,-5.52
-SVK,Slovak Republic,2020-06-14,-17.19
-SVK,Slovak Republic,2020-06-21,-27.27
-SVK,Slovak Republic,2020-06-28,-2.42
-SVK,Slovak Republic,2020-07-05,-2.02
-SVK,Slovak Republic,2020-07-12,4.85
-SVK,Slovak Republic,2020-07-19,-8.86
-SVK,Slovak Republic,2020-07-26,-23.72
-SVK,Slovak Republic,2020-08-02,-14.78
-SVK,Slovak Republic,2020-08-09,-9.63
-SVK,Slovak Republic,2020-08-16,-17.48
-SVK,Slovak Republic,2020-08-23,-19.63
-SVK,Slovak Republic,2020-08-30,-6.91
-SVK,Slovak Republic,2020-09-06,-12.81
-SVK,Slovak Republic,2020-09-13,-3.19
+SVK,Slovak Republic,2020-04-12,-12.76
+SVK,Slovak Republic,2020-04-19,-10.52
+SVK,Slovak Republic,2020-04-26,-6.2
+SVK,Slovak Republic,2020-05-03,-19.08
+SVK,Slovak Republic,2020-05-10,-4.84
+SVK,Slovak Republic,2020-05-17,1.9
+SVK,Slovak Republic,2020-05-24,-11.93
+SVK,Slovak Republic,2020-05-31,-8.39
+SVK,Slovak Republic,2020-06-07,-3.8
+SVK,Slovak Republic,2020-06-14,-15.21
+SVK,Slovak Republic,2020-06-21,-26.48
+SVK,Slovak Republic,2020-06-28,-1.55
+SVK,Slovak Republic,2020-07-05,0.0
+SVK,Slovak Republic,2020-07-12,5.26
+SVK,Slovak Republic,2020-07-19,-6.73
+SVK,Slovak Republic,2020-07-26,-22.92
+SVK,Slovak Republic,2020-08-02,-12.76
+SVK,Slovak Republic,2020-08-09,-8.84
+SVK,Slovak Republic,2020-08-16,-15.85
+SVK,Slovak Republic,2020-08-23,-16.8
+SVK,Slovak Republic,2020-08-30,-4.8
+SVK,Slovak Republic,2020-09-06,-7.85
+SVK,Slovak Republic,2020-09-13,1.84
+SVK,Slovak Republic,2020-09-20,-12.84
+SVK,Slovak Republic,2020-09-27,-14.79
+SVK,Slovak Republic,2020-10-04,5.24
+SVK,Slovak Republic,2020-10-11,-9.05
+SVK,Slovak Republic,2020-10-18,-6.45
 SVN,Slovenia,2020-01-05,-5.71
 SVN,Slovenia,2020-01-12,-26.63
 SVN,Slovenia,2020-01-19,-25.77
@@ -1297,10 +1334,10 @@ SWE,Sweden,2020-06-07,11.31
 SWE,Sweden,2020-06-14,-16.48
 SWE,Sweden,2020-06-21,4.51
 SWE,Sweden,2020-06-28,13.22
-SWE,Sweden,2020-07-05,-13.91
+SWE,Sweden,2020-07-05,-13.36
 SWE,Sweden,2020-07-12,-3.72
 SWE,Sweden,2020-07-19,-4.32
-SWE,Sweden,2020-07-26,-15.33
+SWE,Sweden,2020-07-26,-14.79
 SWE,Sweden,2020-08-02,-4.34
 SWE,Sweden,2020-08-09,-1.06
 SWE,Sweden,2020-08-16,-2.96
@@ -1312,10 +1349,11 @@ SWE,Sweden,2020-09-20,-16.01
 SWE,Sweden,2020-09-27,-19.98
 SWE,Sweden,2020-10-04,-14.78
 SWE,Sweden,2020-10-11,-17.94
-SWE,Sweden,2020-10-18,-11.59
-SWE,Sweden,2020-10-25,-18.22
-SWE,Sweden,2020-11-01,-22.5
-SWE,Sweden,2020-11-08,-13.43
+SWE,Sweden,2020-10-18,-10.42
+SWE,Sweden,2020-10-25,-17.12
+SWE,Sweden,2020-11-01,-21.42
+SWE,Sweden,2020-11-08,-11.66
+SWE,Sweden,2020-11-15,-9.25
 TWN,Taiwan,2020-01-05,2.16
 TWN,Taiwan,2020-01-12,-1.99
 TWN,Taiwan,2020-01-19,-0.37
@@ -1356,44 +1394,45 @@ TWN,Taiwan,2020-09-13,-8.29
 TWN,Taiwan,2020-09-20,-8.87
 TWN,Taiwan,2020-09-27,-5.14
 USA,United States,2020-01-05,1.05
-USA,United States,2020-01-12,0.8
-USA,United States,2020-01-19,2.28
-USA,United States,2020-01-26,2.66
+USA,United States,2020-01-12,0.81
+USA,United States,2020-01-19,2.3
+USA,United States,2020-01-26,2.67
 USA,United States,2020-02-02,0.94
-USA,United States,2020-02-09,2.81
+USA,United States,2020-02-09,2.83
 USA,United States,2020-02-16,1.86
-USA,United States,2020-02-23,3.54
+USA,United States,2020-02-23,3.55
 USA,United States,2020-03-01,2.76
-USA,United States,2020-03-08,3.82
+USA,United States,2020-03-08,3.84
 USA,United States,2020-03-15,2.6
-USA,United States,2020-03-22,5.9
+USA,United States,2020-03-22,5.91
 USA,United States,2020-03-29,12.83
-USA,United States,2020-04-05,27.69
-USA,United States,2020-04-12,37.61
-USA,United States,2020-04-19,32.16
+USA,United States,2020-04-05,27.71
+USA,United States,2020-04-12,37.62
+USA,United States,2020-04-19,32.17
 USA,United States,2020-04-26,32.13
-USA,United States,2020-05-03,23.72
-USA,United States,2020-05-10,25.42
-USA,United States,2020-05-17,23.05
-USA,United States,2020-05-24,22.2
-USA,United States,2020-05-31,17.01
-USA,United States,2020-06-07,18.67
-USA,United States,2020-06-14,17.84
-USA,United States,2020-06-21,17.34
-USA,United States,2020-06-28,18.44
-USA,United States,2020-07-05,20.19
-USA,United States,2020-07-12,27.51
-USA,United States,2020-07-19,28.49
-USA,United States,2020-07-26,29.12
-USA,United States,2020-08-02,27.97
-USA,United States,2020-08-09,26.2
-USA,United States,2020-08-16,26.96
-USA,United States,2020-08-23,22.44
-USA,United States,2020-08-30,18.43
-USA,United States,2020-09-06,14.76
-USA,United States,2020-09-13,14.25
-USA,United States,2020-09-20,10.19
-USA,United States,2020-09-27,10.61
-USA,United States,2020-10-04,4.97
-USA,United States,2020-10-11,8.89
-USA,United States,2020-10-18,1.71
+USA,United States,2020-05-03,23.74
+USA,United States,2020-05-10,25.43
+USA,United States,2020-05-17,23.07
+USA,United States,2020-05-24,22.21
+USA,United States,2020-05-31,17.02
+USA,United States,2020-06-07,18.68
+USA,United States,2020-06-14,17.87
+USA,United States,2020-06-21,17.37
+USA,United States,2020-06-28,18.49
+USA,United States,2020-07-05,20.25
+USA,United States,2020-07-12,27.61
+USA,United States,2020-07-19,28.58
+USA,United States,2020-07-26,29.21
+USA,United States,2020-08-02,28.13
+USA,United States,2020-08-09,26.42
+USA,United States,2020-08-16,27.14
+USA,United States,2020-08-23,22.77
+USA,United States,2020-08-30,19.04
+USA,United States,2020-09-06,15.28
+USA,United States,2020-09-13,14.84
+USA,United States,2020-09-20,10.79
+USA,United States,2020-09-27,11.29
+USA,United States,2020-10-04,5.84
+USA,United States,2020-10-11,10.4
+USA,United States,2020-10-18,3.83
+USA,United States,2020-10-25,2.44

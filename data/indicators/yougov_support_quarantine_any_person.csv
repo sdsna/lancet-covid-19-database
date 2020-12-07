@@ -30,6 +30,7 @@ CAN,Canada,2020-08-04,73
 CAN,Canada,2020-08-19,70
 CAN,Canada,2020-09-01,65
 CAN,Canada,2020-10-30,70
+CAN,Canada,2020-11-27,72
 DEU,Germany,2020-03-04,53
 DEU,Germany,2020-03-16,63
 DEU,Germany,2020-03-23,75
@@ -111,6 +112,7 @@ FRA,France,2020-10-28,55
 FRA,France,2020-11-04,56
 FRA,France,2020-11-18,54
 FRA,France,2020-11-25,54
+FRA,France,2020-12-02,50
 GBR,United Kingdom,2020-03-01,65
 GBR,United Kingdom,2020-03-13,59
 GBR,United Kingdom,2020-03-20,68
@@ -138,6 +140,7 @@ GBR,United Kingdom,2020-10-07,68
 GBR,United Kingdom,2020-10-22,68
 GBR,United Kingdom,2020-11-18,73
 GBR,United Kingdom,2020-11-26,70
+GBR,United Kingdom,2020-12-04,70
 HKG,Hong Kong SAR China,2020-02-25,71
 HKG,Hong Kong SAR China,2020-03-03,66
 HKG,Hong Kong SAR China,2020-03-10,62
@@ -404,6 +407,8 @@ USA,United States,2020-10-26,55
 USA,United States,2020-11-02,55
 USA,United States,2020-11-09,55
 USA,United States,2020-11-16,60
+USA,United States,2020-11-25,54
+USA,United States,2020-12-02,57
 VNM,Vietnam,2020-03-30,77
 VNM,Vietnam,2020-04-06,78
 VNM,Vietnam,2020-04-13,83
