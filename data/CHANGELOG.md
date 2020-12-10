@@ -1,5 +1,28 @@
 # Changelog
 
+## December 10, 2020
+
+- Add icl_i12_health_1 (% of people who are taking preventative measures: Worn a face mask outside your home (e.g. when on public transport, going to a supermarket, going to a main road))
+- Add icl_i12_health_2 (% of people who are taking preventative measures: Washed hands with soap and water)
+- Add icl_i12_health_3 (% of people who are taking preventative measures: Used hand sanitiser)
+- Add icl_i12_health_4 (% of people who are taking preventative measures: Covered your nose and mouth when sneezing or coughing)
+- Add icl_i12_health_5 (% of people who are taking preventative measures: Avoided contact with people who have symptoms or you think may have been exposed to the coronavirus)
+- Add icl_i12_health_6 (% of people who are taking preventative measures: Avoided going out in general)
+- Add icl_i12_health_7 (% of people who are taking preventative measures: Avoided going to hospital or other healthcare settings)
+- Add icl_i12_health_8 (% of people who are taking preventative measures: Avoided taking public transport)
+- Add icl_i12_health_9 (% of people who are taking preventative measures: Avoided working outside your home (if job is full or part-time))
+- Add icl_i12_health_10 (% of people who are taking preventative measures: Avoided letting your children go to school/ university  (if you have children))
+- Add icl_i12_health_11 (% of people who are taking preventative measures: Avoided having guests to your home)
+- Add icl_i12_health_12 (% of people who are taking preventative measures: Avoided small social gatherings (not more than 2 people))
+- Add icl_i12_health_13 (% of people who are taking preventative measures: Avoided medium-sized social gatherings (between 3 and 10 people))
+- Add icl_i12_health_14 (% of people who are taking preventative measures: Avoided large-sized social gatherings (more than 10 people))
+- Add icl_i12_health_15 (% of people who are taking preventative measures: Avoided crowded areas)
+- Add icl_i12_health_16 (% of people who are taking preventative measures: Avoided going to shops)
+- Add icl_i12_health_17 (% of people who are taking preventative measures: Slept in separate bedrooms at home, when normally you would share a bedroom)
+- Add icl_i12_health_18 (% of people who are taking preventative measures: Eaten separately at home, when normally you would eat a meal with others)
+- Add icl_i12_health_19 (% of people who are taking preventative measures: Cleaned frequently touched surfaces in the home (e.g. doorknobs, toilets, taps))
+- Add icl_i12_health_20 (% of people who are taking preventative measures: Avoided touching objects in public (e.g. elevator buttons or doors))
+
 ## November 18, 2020
 
 - Remove owid_weekly_excess_mortality_p_score_0_14 (The P-score (for ages 0-14) is the percentage difference between the number of weekly deaths in 2020 and the average number of deaths in the same week over the years 2015–2019). Reason: This indicator is no longer provided by Our World in Data.
