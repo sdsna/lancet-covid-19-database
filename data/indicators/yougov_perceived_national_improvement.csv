@@ -15,6 +15,7 @@ ARE,United Arab Emirates,2020-10-07,65
 ARE,United Arab Emirates,2020-10-14,65
 ARE,United Arab Emirates,2020-11-11,72
 ARE,United Arab Emirates,2020-11-30,71
+ARE,United Arab Emirates,2020-12-16,88
 AUS,Australia,2020-05-11,84
 AUS,Australia,2020-05-18,83
 AUS,Australia,2020-05-25,86
@@ -69,6 +70,8 @@ DEU,Germany,2020-10-08,17
 DEU,Germany,2020-10-22,10
 DEU,Germany,2020-11-04,17
 DEU,Germany,2020-11-19,29
+DEU,Germany,2020-12-04,32
+DEU,Germany,2020-12-17,18
 DNK,Denmark,2020-05-11,81
 DNK,Denmark,2020-05-15,85
 DNK,Denmark,2020-05-22,85
@@ -103,6 +106,7 @@ ESP,Spain,2020-10-16,10
 ESP,Spain,2020-11-04,6
 ESP,Spain,2020-11-16,18
 ESP,Spain,2020-11-23,27
+ESP,Spain,2020-12-02,45
 FIN,Finland,2020-05-11,46
 FIN,Finland,2020-05-15,47
 FIN,Finland,2020-05-22,65
@@ -136,6 +140,8 @@ FRA,France,2020-10-22,7
 FRA,France,2020-11-18,31
 FRA,France,2020-11-25,41
 FRA,France,2020-12-02,51
+FRA,France,2020-12-09,23
+FRA,France,2020-12-16,26
 GBR,United Kingdom,2020-05-08,64
 GBR,United Kingdom,2020-05-15,58
 GBR,United Kingdom,2020-05-22,70
@@ -156,6 +162,7 @@ GBR,United Kingdom,2020-10-22,8
 GBR,United Kingdom,2020-11-18,20
 GBR,United Kingdom,2020-11-26,31
 GBR,United Kingdom,2020-12-04,46
+GBR,United Kingdom,2020-12-15,17
 HKG,Hong Kong SAR China,2020-05-12,77
 HKG,Hong Kong SAR China,2020-05-19,77
 HKG,Hong Kong SAR China,2020-05-26,81
@@ -175,6 +182,7 @@ HKG,Hong Kong SAR China,2020-10-12,39
 HKG,Hong Kong SAR China,2020-10-27,50
 HKG,Hong Kong SAR China,2020-11-09,57
 HKG,Hong Kong SAR China,2020-11-24,28
+HKG,Hong Kong SAR China,2020-12-07,17
 IDN,Indonesia,2020-05-11,42
 IDN,Indonesia,2020-05-18,36
 IDN,Indonesia,2020-05-25,20
@@ -195,6 +203,7 @@ IDN,Indonesia,2020-10-12,26
 IDN,Indonesia,2020-10-26,41
 IDN,Indonesia,2020-11-09,50
 IDN,Indonesia,2020-11-23,48
+IDN,Indonesia,2020-12-07,33
 IND,India,2020-05-11,41
 IND,India,2020-05-18,39
 IND,India,2020-05-25,32
@@ -238,6 +247,10 @@ ITA,Italy,2020-10-27,9
 ITA,Italy,2020-11-03,8
 ITA,Italy,2020-11-10,10
 ITA,Italy,2020-11-17,27
+ITA,Italy,2020-11-24,46
+ITA,Italy,2020-12-01,42
+ITA,Italy,2020-12-09,50
+ITA,Italy,2020-12-14,33
 MEX,Mexico,2020-05-12,31
 MEX,Mexico,2020-05-19,33
 MEX,Mexico,2020-05-26,26
@@ -266,6 +279,7 @@ MYS,Malaysia,2020-10-12,22
 MYS,Malaysia,2020-10-26,17
 MYS,Malaysia,2020-11-09,22
 MYS,Malaysia,2020-11-23,48
+MYS,Malaysia,2020-12-07,37
 NOR,Norway,2020-05-11,60
 NOR,Norway,2020-05-15,58
 NOR,Norway,2020-05-22,62
@@ -299,6 +313,7 @@ PHL,Philippines,2020-09-28,45
 PHL,Philippines,2020-10-12,51
 PHL,Philippines,2020-11-09,60
 PHL,Philippines,2020-11-23,62
+PHL,Philippines,2020-12-07,64
 POL,Poland,2020-05-12,41
 POL,Poland,2020-05-19,51
 POL,Poland,2020-05-26,51
@@ -325,6 +340,7 @@ SAU,Saudi Arabia,2020-11-02,81
 SAU,Saudi Arabia,2020-11-09,77
 SAU,Saudi Arabia,2020-11-17,82
 SAU,Saudi Arabia,2020-11-30,87
+SAU,Saudi Arabia,2020-12-16,80
 SGP,Singapore,2020-05-08,58
 SGP,Singapore,2020-05-15,69
 SGP,Singapore,2020-05-22,80
@@ -344,6 +360,7 @@ SGP,Singapore,2020-09-25,83
 SGP,Singapore,2020-10-09,84
 SGP,Singapore,2020-11-09,89
 SGP,Singapore,2020-11-20,90
+SGP,Singapore,2020-12-04,83
 SWE,Sweden,2020-05-11,46
 SWE,Sweden,2020-05-15,53
 SWE,Sweden,2020-05-22,57
@@ -379,6 +396,7 @@ THA,Thailand,2020-10-12,84
 THA,Thailand,2020-10-26,84
 THA,Thailand,2020-11-09,83
 THA,Thailand,2020-11-23,86
+THA,Thailand,2020-12-07,51
 TWN,Taiwan,2020-05-12,90
 TWN,Taiwan,2020-05-19,94
 TWN,Taiwan,2020-05-26,94
@@ -398,6 +416,7 @@ TWN,Taiwan,2020-09-28,75
 TWN,Taiwan,2020-10-12,70
 TWN,Taiwan,2020-10-27,70
 TWN,Taiwan,2020-11-24,74
+TWN,Taiwan,2020-12-07,66
 USA,United States,2020-05-12,44
 USA,United States,2020-05-19,46
 USA,United States,2020-05-26,51
@@ -423,6 +442,7 @@ USA,United States,2020-11-09,25
 USA,United States,2020-11-16,16
 USA,United States,2020-11-25,17
 USA,United States,2020-12-02,20
+USA,United States,2020-12-14,44
 VNM,Vietnam,2020-05-12,95
 VNM,Vietnam,2020-05-19,96
 VNM,Vietnam,2020-05-26,96
@@ -443,3 +463,4 @@ VNM,Vietnam,2020-10-12,94
 VNM,Vietnam,2020-10-26,95
 VNM,Vietnam,2020-11-09,94
 VNM,Vietnam,2020-11-23,93
+VNM,Vietnam,2020-12-07,74
