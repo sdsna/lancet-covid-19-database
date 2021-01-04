@@ -23,6 +23,8 @@ ARE,United Arab Emirates,2020-11-02,73
 ARE,United Arab Emirates,2020-11-11,68
 ARE,United Arab Emirates,2020-11-30,74
 ARE,United Arab Emirates,2020-12-16,70
+ARE,United Arab Emirates,2020-12-23,69
+ARE,United Arab Emirates,2020-12-29,71
 AUS,Australia,2020-03-15,41
 AUS,Australia,2020-03-22,66
 AUS,Australia,2020-03-29,80
@@ -141,6 +143,9 @@ ESP,Spain,2020-11-04,79
 ESP,Spain,2020-11-16,81
 ESP,Spain,2020-11-23,77
 ESP,Spain,2020-12-02,79
+ESP,Spain,2020-12-11,79
+ESP,Spain,2020-12-18,82
+ESP,Spain,2020-12-23,79
 FIN,Finland,2020-03-16,44
 FIN,Finland,2020-03-23,47
 FIN,Finland,2020-03-29,68
@@ -275,6 +280,9 @@ IND,India,2020-03-16,59
 IND,India,2020-03-20,67
 IND,India,2020-03-27,78
 IND,India,2020-04-03,81
+IND,India,2020-12-05,79
+IND,India,2020-12-14,75
+IND,India,2020-12-18,70
 ITA,Italy,2020-03-11,87
 ITA,Italy,2020-03-19,90
 ITA,Italy,2020-03-25,88
@@ -308,6 +316,7 @@ ITA,Italy,2020-11-17,82
 ITA,Italy,2020-12-01,81
 ITA,Italy,2020-12-09,80
 ITA,Italy,2020-12-14,81
+ITA,Italy,2020-12-22,79
 JPN,Japan,2020-03-17,64
 JPN,Japan,2020-03-24,63
 JPN,Japan,2020-03-30,64
@@ -414,6 +423,7 @@ SAU,Saudi Arabia,2020-11-09,69
 SAU,Saudi Arabia,2020-11-17,69
 SAU,Saudi Arabia,2020-11-30,71
 SAU,Saudi Arabia,2020-12-16,67
+SAU,Saudi Arabia,2020-12-23,65
 SGP,Singapore,2020-02-21,44
 SGP,Singapore,2020-02-28,68
 SGP,Singapore,2020-03-06,70
@@ -545,6 +555,7 @@ USA,United States,2020-11-16,68
 USA,United States,2020-11-25,64
 USA,United States,2020-12-02,66
 USA,United States,2020-12-14,66
+USA,United States,2020-12-22,67
 VNM,Vietnam,2020-03-23,56
 VNM,Vietnam,2020-03-30,80
 VNM,Vietnam,2020-04-06,81
