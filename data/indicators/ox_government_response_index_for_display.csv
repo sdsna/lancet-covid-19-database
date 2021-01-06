@@ -355,13 +355,13 @@ ABW,Aruba,2020-12-18,40.0
 ABW,Aruba,2020-12-19,40.0
 ABW,Aruba,2020-12-20,40.0
 ABW,Aruba,2020-12-21,40.0
-ABW,Aruba,2020-12-30,40.0
 ABW,Aruba,2020-12-31,40.0
 ABW,Aruba,2021-01-01,40.0
 ABW,Aruba,2021-01-02,40.0
 ABW,Aruba,2021-01-03,40.0
 ABW,Aruba,2021-01-04,40.0
 ABW,Aruba,2021-01-05,40.0
+ABW,Aruba,2021-01-06,40.0
 AFG,Afghanistan,2020-01-01,0.0
 AFG,Afghanistan,2020-01-02,0.0
 AFG,Afghanistan,2020-01-03,0.0
@@ -717,13 +717,13 @@ AFG,Afghanistan,2020-12-17,20.0
 AFG,Afghanistan,2020-12-18,20.0
 AFG,Afghanistan,2020-12-19,20.0
 AFG,Afghanistan,2020-12-20,20.0
-AFG,Afghanistan,2020-12-30,20.0
 AFG,Afghanistan,2020-12-31,20.0
 AFG,Afghanistan,2021-01-01,20.0
 AFG,Afghanistan,2021-01-02,20.0
 AFG,Afghanistan,2021-01-03,20.0
 AFG,Afghanistan,2021-01-04,20.0
 AFG,Afghanistan,2021-01-05,20.0
+AFG,Afghanistan,2021-01-06,20.0
 AGO,Angola,2020-01-01,0.0
 AGO,Angola,2020-01-02,0.0
 AGO,Angola,2020-01-03,0.0
@@ -1094,6 +1094,7 @@ AGO,Angola,2021-01-02,48.89
 AGO,Angola,2021-01-03,48.89
 AGO,Angola,2021-01-04,48.89
 AGO,Angola,2021-01-05,48.89
+AGO,Angola,2021-01-06,48.89
 ALB,Albania,2020-01-01,0.0
 ALB,Albania,2020-01-02,0.0
 ALB,Albania,2020-01-03,0.0
@@ -1465,6 +1466,7 @@ ALB,Albania,2021-01-02,60.56
 ALB,Albania,2021-01-03,60.56
 ALB,Albania,2021-01-04,60.56
 ALB,Albania,2021-01-05,60.56
+ALB,Albania,2021-01-06,60.56
 AND,Andorra,2020-01-01,0.0
 AND,Andorra,2020-01-02,0.0
 AND,Andorra,2020-01-03,0.0
@@ -1836,6 +1838,7 @@ AND,Andorra,2021-01-02,62.5
 AND,Andorra,2021-01-03,62.5
 AND,Andorra,2021-01-04,62.5
 AND,Andorra,2021-01-05,62.5
+AND,Andorra,2021-01-06,62.5
 ARE,United Arab Emirates,2020-01-01,0.0
 ARE,United Arab Emirates,2020-01-02,0.0
 ARE,United Arab Emirates,2020-01-03,0.0
@@ -2190,6 +2193,15 @@ ARE,United Arab Emirates,2020-12-17,59.78
 ARE,United Arab Emirates,2020-12-18,59.78
 ARE,United Arab Emirates,2020-12-19,59.78
 ARE,United Arab Emirates,2020-12-20,59.78
+ARE,United Arab Emirates,2020-12-21,59.78
+ARE,United Arab Emirates,2020-12-22,59.78
+ARE,United Arab Emirates,2020-12-23,59.78
+ARE,United Arab Emirates,2020-12-24,59.78
+ARE,United Arab Emirates,2020-12-25,59.78
+ARE,United Arab Emirates,2020-12-26,59.78
+ARE,United Arab Emirates,2020-12-27,59.78
+ARE,United Arab Emirates,2020-12-28,59.78
+ARE,United Arab Emirates,2020-12-29,59.78
 ARE,United Arab Emirates,2020-12-30,59.78
 ARE,United Arab Emirates,2020-12-31,59.78
 ARE,United Arab Emirates,2021-01-01,59.78
@@ -2197,6 +2209,7 @@ ARE,United Arab Emirates,2021-01-02,59.78
 ARE,United Arab Emirates,2021-01-03,59.78
 ARE,United Arab Emirates,2021-01-04,59.78
 ARE,United Arab Emirates,2021-01-05,59.78
+ARE,United Arab Emirates,2021-01-06,59.78
 ARG,Argentina,2020-01-01,0.0
 ARG,Argentina,2020-01-02,0.0
 ARG,Argentina,2020-01-03,0.0
@@ -2567,6 +2580,7 @@ ARG,Argentina,2021-01-02,74.94
 ARG,Argentina,2021-01-03,74.94
 ARG,Argentina,2021-01-04,74.94
 ARG,Argentina,2021-01-05,74.94
+ARG,Argentina,2021-01-06,74.94
 AUS,Australia,2020-01-01,0.0
 AUS,Australia,2020-01-02,0.0
 AUS,Australia,2020-01-03,0.0
@@ -2938,6 +2952,7 @@ AUS,Australia,2021-01-02,66.67
 AUS,Australia,2021-01-03,66.67
 AUS,Australia,2021-01-04,66.67
 AUS,Australia,2021-01-05,66.67
+AUS,Australia,2021-01-06,66.67
 AUT,Austria,2020-01-01,0.0
 AUT,Austria,2020-01-02,0.0
 AUT,Austria,2020-01-03,0.0
@@ -3292,13 +3307,24 @@ AUT,Austria,2020-12-16,74.44
 AUT,Austria,2020-12-17,74.44
 AUT,Austria,2020-12-18,74.44
 AUT,Austria,2020-12-19,74.44
-AUT,Austria,2020-12-30,74.44
-AUT,Austria,2020-12-31,74.44
-AUT,Austria,2021-01-01,74.44
-AUT,Austria,2021-01-02,74.44
-AUT,Austria,2021-01-03,74.44
-AUT,Austria,2021-01-04,74.44
-AUT,Austria,2021-01-05,74.44
+AUT,Austria,2020-12-20,74.44
+AUT,Austria,2020-12-21,74.44
+AUT,Austria,2020-12-22,74.44
+AUT,Austria,2020-12-23,74.44
+AUT,Austria,2020-12-24,74.44
+AUT,Austria,2020-12-25,74.44
+AUT,Austria,2020-12-26,78.89
+AUT,Austria,2020-12-27,78.89
+AUT,Austria,2020-12-28,78.89
+AUT,Austria,2020-12-29,78.89
+AUT,Austria,2020-12-30,78.89
+AUT,Austria,2020-12-31,78.89
+AUT,Austria,2021-01-01,78.89
+AUT,Austria,2021-01-02,78.89
+AUT,Austria,2021-01-03,78.89
+AUT,Austria,2021-01-04,78.89
+AUT,Austria,2021-01-05,78.89
+AUT,Austria,2021-01-06,78.89
 AZE,Azerbaijan,2020-01-01,0.0
 AZE,Azerbaijan,2020-01-02,0.0
 AZE,Azerbaijan,2020-01-03,0.0
@@ -3662,13 +3688,13 @@ AZE,Azerbaijan,2020-12-25,70.0
 AZE,Azerbaijan,2020-12-26,70.0
 AZE,Azerbaijan,2020-12-27,70.0
 AZE,Azerbaijan,2020-12-28,70.0
-AZE,Azerbaijan,2020-12-30,70.0
 AZE,Azerbaijan,2020-12-31,70.0
 AZE,Azerbaijan,2021-01-01,70.0
 AZE,Azerbaijan,2021-01-02,70.0
 AZE,Azerbaijan,2021-01-03,70.0
 AZE,Azerbaijan,2021-01-04,70.0
 AZE,Azerbaijan,2021-01-05,70.0
+AZE,Azerbaijan,2021-01-06,70.0
 BDI,Burundi,2020-01-01,0.0
 BDI,Burundi,2020-01-02,0.0
 BDI,Burundi,2020-01-03,0.0
@@ -4040,6 +4066,7 @@ BDI,Burundi,2021-01-02,21.11
 BDI,Burundi,2021-01-03,21.11
 BDI,Burundi,2021-01-04,21.11
 BDI,Burundi,2021-01-05,21.11
+BDI,Burundi,2021-01-06,21.11
 BEL,Belgium,2020-01-01,0.0
 BEL,Belgium,2020-01-02,0.0
 BEL,Belgium,2020-01-03,0.0
@@ -4411,6 +4438,7 @@ BEL,Belgium,2021-01-02,67.39
 BEL,Belgium,2021-01-03,67.39
 BEL,Belgium,2021-01-04,67.39
 BEL,Belgium,2021-01-05,67.39
+BEL,Belgium,2021-01-06,67.39
 BEN,Benin,2020-01-01,0.0
 BEN,Benin,2020-01-02,0.0
 BEN,Benin,2020-01-03,0.0
@@ -4782,6 +4810,7 @@ BEN,Benin,2021-01-02,45.0
 BEN,Benin,2021-01-03,45.0
 BEN,Benin,2021-01-04,45.0
 BEN,Benin,2021-01-05,45.0
+BEN,Benin,2021-01-06,45.0
 BFA,Burkina Faso,2020-01-01,0.0
 BFA,Burkina Faso,2020-01-02,0.0
 BFA,Burkina Faso,2020-01-03,0.0
@@ -5153,6 +5182,7 @@ BFA,Burkina Faso,2021-01-02,26.67
 BFA,Burkina Faso,2021-01-03,26.67
 BFA,Burkina Faso,2021-01-04,26.67
 BFA,Burkina Faso,2021-01-05,26.67
+BFA,Burkina Faso,2021-01-06,26.67
 BGD,Bangladesh,2020-01-01,0.0
 BGD,Bangladesh,2020-01-02,0.0
 BGD,Bangladesh,2020-01-03,0.0
@@ -5501,13 +5531,13 @@ BGD,Bangladesh,2020-12-10,69.17
 BGD,Bangladesh,2020-12-11,69.17
 BGD,Bangladesh,2020-12-12,69.17
 BGD,Bangladesh,2020-12-13,69.17
-BGD,Bangladesh,2020-12-30,69.17
 BGD,Bangladesh,2020-12-31,69.17
 BGD,Bangladesh,2021-01-01,69.17
 BGD,Bangladesh,2021-01-02,69.17
 BGD,Bangladesh,2021-01-03,69.17
 BGD,Bangladesh,2021-01-04,69.17
 BGD,Bangladesh,2021-01-05,69.17
+BGD,Bangladesh,2021-01-06,69.17
 BGR,Bulgaria,2020-01-01,0.0
 BGR,Bulgaria,2020-01-02,0.0
 BGR,Bulgaria,2020-01-03,0.0
@@ -5879,6 +5909,7 @@ BGR,Bulgaria,2021-01-02,58.0
 BGR,Bulgaria,2021-01-03,58.0
 BGR,Bulgaria,2021-01-04,58.0
 BGR,Bulgaria,2021-01-05,58.0
+BGR,Bulgaria,2021-01-06,58.0
 BHR,Bahrain,2020-01-01,0.0
 BHR,Bahrain,2020-01-02,0.0
 BHR,Bahrain,2020-01-03,0.0
@@ -6250,6 +6281,334 @@ BHR,Bahrain,2021-01-02,67.22
 BHR,Bahrain,2021-01-03,67.22
 BHR,Bahrain,2021-01-04,67.22
 BHR,Bahrain,2021-01-05,67.22
+BHR,Bahrain,2021-01-06,67.22
+BHS,"Bahamas, The",2020-01-01,0.0
+BHS,"Bahamas, The",2020-01-02,0.0
+BHS,"Bahamas, The",2020-01-03,0.0
+BHS,"Bahamas, The",2020-01-04,0.0
+BHS,"Bahamas, The",2020-01-05,0.0
+BHS,"Bahamas, The",2020-01-06,0.0
+BHS,"Bahamas, The",2020-01-07,0.0
+BHS,"Bahamas, The",2020-01-08,0.0
+BHS,"Bahamas, The",2020-01-09,0.0
+BHS,"Bahamas, The",2020-01-10,0.0
+BHS,"Bahamas, The",2020-01-11,0.0
+BHS,"Bahamas, The",2020-01-12,0.0
+BHS,"Bahamas, The",2020-01-13,0.0
+BHS,"Bahamas, The",2020-01-14,0.0
+BHS,"Bahamas, The",2020-01-15,0.0
+BHS,"Bahamas, The",2020-01-16,0.0
+BHS,"Bahamas, The",2020-01-17,0.0
+BHS,"Bahamas, The",2020-01-18,0.0
+BHS,"Bahamas, The",2020-01-19,0.0
+BHS,"Bahamas, The",2020-01-20,0.0
+BHS,"Bahamas, The",2020-01-21,0.0
+BHS,"Bahamas, The",2020-01-22,3.33
+BHS,"Bahamas, The",2020-01-23,3.33
+BHS,"Bahamas, The",2020-01-24,3.33
+BHS,"Bahamas, The",2020-01-25,3.33
+BHS,"Bahamas, The",2020-01-26,3.33
+BHS,"Bahamas, The",2020-01-27,3.33
+BHS,"Bahamas, The",2020-01-28,3.33
+BHS,"Bahamas, The",2020-01-29,3.33
+BHS,"Bahamas, The",2020-01-30,3.33
+BHS,"Bahamas, The",2020-01-31,3.33
+BHS,"Bahamas, The",2020-02-01,3.33
+BHS,"Bahamas, The",2020-02-02,3.33
+BHS,"Bahamas, The",2020-02-03,3.33
+BHS,"Bahamas, The",2020-02-04,3.33
+BHS,"Bahamas, The",2020-02-05,3.33
+BHS,"Bahamas, The",2020-02-06,3.33
+BHS,"Bahamas, The",2020-02-07,3.33
+BHS,"Bahamas, The",2020-02-08,3.33
+BHS,"Bahamas, The",2020-02-09,3.33
+BHS,"Bahamas, The",2020-02-10,3.33
+BHS,"Bahamas, The",2020-02-11,3.33
+BHS,"Bahamas, The",2020-02-12,3.33
+BHS,"Bahamas, The",2020-02-13,3.33
+BHS,"Bahamas, The",2020-02-14,3.33
+BHS,"Bahamas, The",2020-02-15,3.33
+BHS,"Bahamas, The",2020-02-16,3.33
+BHS,"Bahamas, The",2020-02-17,3.33
+BHS,"Bahamas, The",2020-02-18,3.33
+BHS,"Bahamas, The",2020-02-19,3.33
+BHS,"Bahamas, The",2020-02-20,3.33
+BHS,"Bahamas, The",2020-02-21,3.33
+BHS,"Bahamas, The",2020-02-22,3.33
+BHS,"Bahamas, The",2020-02-23,3.33
+BHS,"Bahamas, The",2020-02-24,3.33
+BHS,"Bahamas, The",2020-02-25,3.33
+BHS,"Bahamas, The",2020-02-26,3.33
+BHS,"Bahamas, The",2020-02-27,6.67
+BHS,"Bahamas, The",2020-02-28,6.67
+BHS,"Bahamas, The",2020-02-29,6.67
+BHS,"Bahamas, The",2020-03-01,6.67
+BHS,"Bahamas, The",2020-03-02,6.67
+BHS,"Bahamas, The",2020-03-03,6.67
+BHS,"Bahamas, The",2020-03-04,8.89
+BHS,"Bahamas, The",2020-03-05,8.89
+BHS,"Bahamas, The",2020-03-06,8.89
+BHS,"Bahamas, The",2020-03-07,8.89
+BHS,"Bahamas, The",2020-03-08,8.89
+BHS,"Bahamas, The",2020-03-09,8.89
+BHS,"Bahamas, The",2020-03-10,8.89
+BHS,"Bahamas, The",2020-03-11,8.89
+BHS,"Bahamas, The",2020-03-12,8.89
+BHS,"Bahamas, The",2020-03-13,8.89
+BHS,"Bahamas, The",2020-03-14,15.56
+BHS,"Bahamas, The",2020-03-15,15.56
+BHS,"Bahamas, The",2020-03-16,22.22
+BHS,"Bahamas, The",2020-03-17,22.22
+BHS,"Bahamas, The",2020-03-18,22.22
+BHS,"Bahamas, The",2020-03-19,23.89
+BHS,"Bahamas, The",2020-03-20,55.0
+BHS,"Bahamas, The",2020-03-21,55.0
+BHS,"Bahamas, The",2020-03-22,55.0
+BHS,"Bahamas, The",2020-03-23,55.0
+BHS,"Bahamas, The",2020-03-24,68.33
+BHS,"Bahamas, The",2020-03-25,68.33
+BHS,"Bahamas, The",2020-03-26,68.33
+BHS,"Bahamas, The",2020-03-27,68.33
+BHS,"Bahamas, The",2020-03-28,68.33
+BHS,"Bahamas, The",2020-03-29,68.33
+BHS,"Bahamas, The",2020-03-30,68.33
+BHS,"Bahamas, The",2020-03-31,68.33
+BHS,"Bahamas, The",2020-04-01,68.33
+BHS,"Bahamas, The",2020-04-02,68.33
+BHS,"Bahamas, The",2020-04-03,68.33
+BHS,"Bahamas, The",2020-04-04,68.33
+BHS,"Bahamas, The",2020-04-05,68.33
+BHS,"Bahamas, The",2020-04-06,68.33
+BHS,"Bahamas, The",2020-04-07,68.33
+BHS,"Bahamas, The",2020-04-08,73.33
+BHS,"Bahamas, The",2020-04-09,73.33
+BHS,"Bahamas, The",2020-04-10,73.33
+BHS,"Bahamas, The",2020-04-11,73.33
+BHS,"Bahamas, The",2020-04-12,73.33
+BHS,"Bahamas, The",2020-04-13,73.33
+BHS,"Bahamas, The",2020-04-14,73.33
+BHS,"Bahamas, The",2020-04-15,73.33
+BHS,"Bahamas, The",2020-04-16,73.33
+BHS,"Bahamas, The",2020-04-17,73.33
+BHS,"Bahamas, The",2020-04-18,73.33
+BHS,"Bahamas, The",2020-04-19,73.33
+BHS,"Bahamas, The",2020-04-20,73.33
+BHS,"Bahamas, The",2020-04-21,73.33
+BHS,"Bahamas, The",2020-04-22,73.33
+BHS,"Bahamas, The",2020-04-23,73.33
+BHS,"Bahamas, The",2020-04-24,73.33
+BHS,"Bahamas, The",2020-04-25,73.33
+BHS,"Bahamas, The",2020-04-26,73.33
+BHS,"Bahamas, The",2020-04-27,73.33
+BHS,"Bahamas, The",2020-04-28,73.33
+BHS,"Bahamas, The",2020-04-29,73.33
+BHS,"Bahamas, The",2020-04-30,73.33
+BHS,"Bahamas, The",2020-05-01,73.33
+BHS,"Bahamas, The",2020-05-02,73.33
+BHS,"Bahamas, The",2020-05-03,73.33
+BHS,"Bahamas, The",2020-05-04,73.33
+BHS,"Bahamas, The",2020-05-05,73.33
+BHS,"Bahamas, The",2020-05-06,73.33
+BHS,"Bahamas, The",2020-05-07,73.33
+BHS,"Bahamas, The",2020-05-08,73.33
+BHS,"Bahamas, The",2020-05-09,73.33
+BHS,"Bahamas, The",2020-05-10,73.33
+BHS,"Bahamas, The",2020-05-11,73.33
+BHS,"Bahamas, The",2020-05-12,73.33
+BHS,"Bahamas, The",2020-05-13,73.33
+BHS,"Bahamas, The",2020-05-14,73.33
+BHS,"Bahamas, The",2020-05-15,73.33
+BHS,"Bahamas, The",2020-05-16,73.33
+BHS,"Bahamas, The",2020-05-17,73.33
+BHS,"Bahamas, The",2020-05-18,73.33
+BHS,"Bahamas, The",2020-05-19,73.33
+BHS,"Bahamas, The",2020-05-20,73.33
+BHS,"Bahamas, The",2020-05-21,73.33
+BHS,"Bahamas, The",2020-05-22,73.33
+BHS,"Bahamas, The",2020-05-23,73.33
+BHS,"Bahamas, The",2020-05-24,73.33
+BHS,"Bahamas, The",2020-05-25,73.33
+BHS,"Bahamas, The",2020-05-26,73.33
+BHS,"Bahamas, The",2020-05-27,73.33
+BHS,"Bahamas, The",2020-05-28,71.11
+BHS,"Bahamas, The",2020-05-29,71.11
+BHS,"Bahamas, The",2020-05-30,71.11
+BHS,"Bahamas, The",2020-05-31,71.11
+BHS,"Bahamas, The",2020-06-01,64.44
+BHS,"Bahamas, The",2020-06-02,64.44
+BHS,"Bahamas, The",2020-06-03,64.44
+BHS,"Bahamas, The",2020-06-04,64.44
+BHS,"Bahamas, The",2020-06-05,64.44
+BHS,"Bahamas, The",2020-06-06,64.44
+BHS,"Bahamas, The",2020-06-07,64.44
+BHS,"Bahamas, The",2020-06-08,63.33
+BHS,"Bahamas, The",2020-06-09,63.33
+BHS,"Bahamas, The",2020-06-10,63.33
+BHS,"Bahamas, The",2020-06-11,63.33
+BHS,"Bahamas, The",2020-06-12,63.33
+BHS,"Bahamas, The",2020-06-13,63.33
+BHS,"Bahamas, The",2020-06-14,63.33
+BHS,"Bahamas, The",2020-06-15,63.33
+BHS,"Bahamas, The",2020-06-16,63.33
+BHS,"Bahamas, The",2020-06-17,63.33
+BHS,"Bahamas, The",2020-06-18,63.33
+BHS,"Bahamas, The",2020-06-19,63.33
+BHS,"Bahamas, The",2020-06-20,63.33
+BHS,"Bahamas, The",2020-06-21,63.33
+BHS,"Bahamas, The",2020-06-22,64.44
+BHS,"Bahamas, The",2020-06-23,64.44
+BHS,"Bahamas, The",2020-06-24,64.44
+BHS,"Bahamas, The",2020-06-25,64.44
+BHS,"Bahamas, The",2020-06-26,64.44
+BHS,"Bahamas, The",2020-06-27,64.44
+BHS,"Bahamas, The",2020-06-28,64.44
+BHS,"Bahamas, The",2020-06-29,64.44
+BHS,"Bahamas, The",2020-06-30,64.44
+BHS,"Bahamas, The",2020-07-01,51.11
+BHS,"Bahamas, The",2020-07-02,51.11
+BHS,"Bahamas, The",2020-07-03,51.11
+BHS,"Bahamas, The",2020-07-04,51.11
+BHS,"Bahamas, The",2020-07-05,51.11
+BHS,"Bahamas, The",2020-07-06,51.11
+BHS,"Bahamas, The",2020-07-07,51.11
+BHS,"Bahamas, The",2020-07-08,51.11
+BHS,"Bahamas, The",2020-07-09,51.11
+BHS,"Bahamas, The",2020-07-10,51.11
+BHS,"Bahamas, The",2020-07-11,51.11
+BHS,"Bahamas, The",2020-07-12,51.11
+BHS,"Bahamas, The",2020-07-13,51.11
+BHS,"Bahamas, The",2020-07-14,51.11
+BHS,"Bahamas, The",2020-07-15,51.11
+BHS,"Bahamas, The",2020-07-16,51.11
+BHS,"Bahamas, The",2020-07-17,51.11
+BHS,"Bahamas, The",2020-07-18,51.11
+BHS,"Bahamas, The",2020-07-19,51.11
+BHS,"Bahamas, The",2020-07-20,56.11
+BHS,"Bahamas, The",2020-07-21,57.78
+BHS,"Bahamas, The",2020-07-22,56.11
+BHS,"Bahamas, The",2020-07-23,61.39
+BHS,"Bahamas, The",2020-07-24,66.67
+BHS,"Bahamas, The",2020-07-25,66.67
+BHS,"Bahamas, The",2020-07-26,66.67
+BHS,"Bahamas, The",2020-07-27,66.67
+BHS,"Bahamas, The",2020-07-28,63.06
+BHS,"Bahamas, The",2020-07-29,63.06
+BHS,"Bahamas, The",2020-07-30,63.06
+BHS,"Bahamas, The",2020-07-31,63.06
+BHS,"Bahamas, The",2020-08-01,63.06
+BHS,"Bahamas, The",2020-08-02,63.06
+BHS,"Bahamas, The",2020-08-03,63.06
+BHS,"Bahamas, The",2020-08-04,68.33
+BHS,"Bahamas, The",2020-08-05,68.33
+BHS,"Bahamas, The",2020-08-06,68.33
+BHS,"Bahamas, The",2020-08-07,63.06
+BHS,"Bahamas, The",2020-08-08,63.06
+BHS,"Bahamas, The",2020-08-09,63.06
+BHS,"Bahamas, The",2020-08-10,61.94
+BHS,"Bahamas, The",2020-08-11,61.94
+BHS,"Bahamas, The",2020-08-12,61.94
+BHS,"Bahamas, The",2020-08-13,61.94
+BHS,"Bahamas, The",2020-08-14,61.94
+BHS,"Bahamas, The",2020-08-15,61.94
+BHS,"Bahamas, The",2020-08-16,61.94
+BHS,"Bahamas, The",2020-08-17,61.94
+BHS,"Bahamas, The",2020-08-18,61.94
+BHS,"Bahamas, The",2020-08-19,61.94
+BHS,"Bahamas, The",2020-08-20,61.94
+BHS,"Bahamas, The",2020-08-21,61.94
+BHS,"Bahamas, The",2020-08-22,61.94
+BHS,"Bahamas, The",2020-08-23,61.94
+BHS,"Bahamas, The",2020-08-24,61.94
+BHS,"Bahamas, The",2020-08-25,63.61
+BHS,"Bahamas, The",2020-08-26,63.61
+BHS,"Bahamas, The",2020-08-27,63.61
+BHS,"Bahamas, The",2020-08-28,63.61
+BHS,"Bahamas, The",2020-08-29,63.61
+BHS,"Bahamas, The",2020-08-30,63.61
+BHS,"Bahamas, The",2020-08-31,63.61
+BHS,"Bahamas, The",2020-09-01,63.61
+BHS,"Bahamas, The",2020-09-02,63.61
+BHS,"Bahamas, The",2020-09-03,63.61
+BHS,"Bahamas, The",2020-09-04,63.61
+BHS,"Bahamas, The",2020-09-05,63.61
+BHS,"Bahamas, The",2020-09-06,63.61
+BHS,"Bahamas, The",2020-09-07,63.61
+BHS,"Bahamas, The",2020-09-08,63.61
+BHS,"Bahamas, The",2020-09-09,63.61
+BHS,"Bahamas, The",2020-09-10,58.06
+BHS,"Bahamas, The",2020-09-11,58.06
+BHS,"Bahamas, The",2020-09-12,58.06
+BHS,"Bahamas, The",2020-09-13,58.06
+BHS,"Bahamas, The",2020-09-14,58.06
+BHS,"Bahamas, The",2020-09-15,58.06
+BHS,"Bahamas, The",2020-09-16,58.06
+BHS,"Bahamas, The",2020-09-17,58.06
+BHS,"Bahamas, The",2020-09-18,58.06
+BHS,"Bahamas, The",2020-09-19,58.06
+BHS,"Bahamas, The",2020-09-20,58.06
+BHS,"Bahamas, The",2020-09-21,58.06
+BHS,"Bahamas, The",2020-09-22,58.06
+BHS,"Bahamas, The",2020-09-23,58.06
+BHS,"Bahamas, The",2020-09-24,58.06
+BHS,"Bahamas, The",2020-09-25,56.39
+BHS,"Bahamas, The",2020-09-26,56.39
+BHS,"Bahamas, The",2020-09-27,56.39
+BHS,"Bahamas, The",2020-09-28,56.39
+BHS,"Bahamas, The",2020-09-29,56.39
+BHS,"Bahamas, The",2020-09-30,56.39
+BHS,"Bahamas, The",2020-10-01,56.39
+BHS,"Bahamas, The",2020-10-02,56.39
+BHS,"Bahamas, The",2020-10-03,56.39
+BHS,"Bahamas, The",2020-10-04,56.39
+BHS,"Bahamas, The",2020-10-05,55.28
+BHS,"Bahamas, The",2020-10-06,55.28
+BHS,"Bahamas, The",2020-10-07,55.28
+BHS,"Bahamas, The",2020-10-08,55.28
+BHS,"Bahamas, The",2020-10-09,55.28
+BHS,"Bahamas, The",2020-10-10,55.28
+BHS,"Bahamas, The",2020-10-11,55.28
+BHS,"Bahamas, The",2020-10-12,55.28
+BHS,"Bahamas, The",2020-10-13,55.28
+BHS,"Bahamas, The",2020-10-14,55.28
+BHS,"Bahamas, The",2020-10-15,55.28
+BHS,"Bahamas, The",2020-10-16,55.28
+BHS,"Bahamas, The",2020-10-17,55.28
+BHS,"Bahamas, The",2020-10-18,55.28
+BHS,"Bahamas, The",2020-10-19,55.28
+BHS,"Bahamas, The",2020-10-20,55.28
+BHS,"Bahamas, The",2020-10-21,55.28
+BHS,"Bahamas, The",2020-10-22,55.28
+BHS,"Bahamas, The",2020-10-23,55.28
+BHS,"Bahamas, The",2020-10-24,55.28
+BHS,"Bahamas, The",2020-10-25,55.28
+BHS,"Bahamas, The",2020-10-26,55.28
+BHS,"Bahamas, The",2020-10-27,55.28
+BHS,"Bahamas, The",2020-10-28,55.28
+BHS,"Bahamas, The",2020-10-29,55.28
+BHS,"Bahamas, The",2020-10-30,55.28
+BHS,"Bahamas, The",2020-10-31,55.28
+BHS,"Bahamas, The",2020-11-01,53.61
+BHS,"Bahamas, The",2020-11-02,53.61
+BHS,"Bahamas, The",2020-11-03,53.61
+BHS,"Bahamas, The",2020-11-04,53.61
+BHS,"Bahamas, The",2020-11-05,53.61
+BHS,"Bahamas, The",2020-11-06,53.61
+BHS,"Bahamas, The",2020-11-07,53.61
+BHS,"Bahamas, The",2020-11-08,53.61
+BHS,"Bahamas, The",2020-11-09,53.61
+BHS,"Bahamas, The",2020-11-10,53.61
+BHS,"Bahamas, The",2020-11-11,53.61
+BHS,"Bahamas, The",2020-11-12,53.61
+BHS,"Bahamas, The",2020-11-13,53.61
+BHS,"Bahamas, The",2020-11-14,53.61
+BHS,"Bahamas, The",2020-11-15,53.61
+BHS,"Bahamas, The",2020-12-31,53.61
+BHS,"Bahamas, The",2021-01-01,53.61
+BHS,"Bahamas, The",2021-01-02,53.61
+BHS,"Bahamas, The",2021-01-03,53.61
+BHS,"Bahamas, The",2021-01-04,53.61
+BHS,"Bahamas, The",2021-01-05,53.61
+BHS,"Bahamas, The",2021-01-06,53.61
 BIH,Bosnia and Herzegovina,2020-01-01,0.0
 BIH,Bosnia and Herzegovina,2020-01-02,0.0
 BIH,Bosnia and Herzegovina,2020-01-03,0.0
@@ -6618,9 +6977,10 @@ BIH,Bosnia and Herzegovina,2020-12-30,32.78
 BIH,Bosnia and Herzegovina,2020-12-31,32.78
 BIH,Bosnia and Herzegovina,2021-01-01,32.78
 BIH,Bosnia and Herzegovina,2021-01-02,32.78
-BIH,Bosnia and Herzegovina,2021-01-03,32.78
-BIH,Bosnia and Herzegovina,2021-01-04,32.78
-BIH,Bosnia and Herzegovina,2021-01-05,32.78
+BIH,Bosnia and Herzegovina,2021-01-03,35.0
+BIH,Bosnia and Herzegovina,2021-01-04,35.0
+BIH,Bosnia and Herzegovina,2021-01-05,35.0
+BIH,Bosnia and Herzegovina,2021-01-06,35.0
 BLR,Belarus,2020-01-01,0.0
 BLR,Belarus,2020-01-02,0.0
 BLR,Belarus,2020-01-03,0.0
@@ -6984,13 +7344,13 @@ BLR,Belarus,2020-12-25,34.17
 BLR,Belarus,2020-12-26,34.17
 BLR,Belarus,2020-12-27,34.17
 BLR,Belarus,2020-12-28,34.17
-BLR,Belarus,2020-12-30,34.17
 BLR,Belarus,2020-12-31,34.17
 BLR,Belarus,2021-01-01,34.17
 BLR,Belarus,2021-01-02,34.17
 BLR,Belarus,2021-01-03,34.17
 BLR,Belarus,2021-01-04,34.17
 BLR,Belarus,2021-01-05,34.17
+BLR,Belarus,2021-01-06,34.17
 BLZ,Belize,2020-01-01,0.0
 BLZ,Belize,2020-01-02,0.0
 BLZ,Belize,2020-01-03,0.0
@@ -7362,6 +7722,7 @@ BLZ,Belize,2021-01-02,67.78
 BLZ,Belize,2021-01-03,67.78
 BLZ,Belize,2021-01-04,67.78
 BLZ,Belize,2021-01-05,67.78
+BLZ,Belize,2021-01-06,67.78
 BMU,Bermuda,2020-01-01,0.0
 BMU,Bermuda,2020-01-02,0.0
 BMU,Bermuda,2020-01-03,0.0
@@ -7711,13 +8072,29 @@ BMU,Bermuda,2020-12-11,50.56
 BMU,Bermuda,2020-12-12,56.67
 BMU,Bermuda,2020-12-13,56.67
 BMU,Bermuda,2020-12-14,56.67
-BMU,Bermuda,2020-12-30,56.67
-BMU,Bermuda,2020-12-31,56.67
-BMU,Bermuda,2021-01-01,56.67
-BMU,Bermuda,2021-01-02,56.67
-BMU,Bermuda,2021-01-03,56.67
-BMU,Bermuda,2021-01-04,56.67
-BMU,Bermuda,2021-01-05,56.67
+BMU,Bermuda,2020-12-15,55.56
+BMU,Bermuda,2020-12-16,55.56
+BMU,Bermuda,2020-12-17,50.56
+BMU,Bermuda,2020-12-18,50.56
+BMU,Bermuda,2020-12-19,50.56
+BMU,Bermuda,2020-12-20,50.56
+BMU,Bermuda,2020-12-21,50.56
+BMU,Bermuda,2020-12-22,50.56
+BMU,Bermuda,2020-12-23,50.56
+BMU,Bermuda,2020-12-24,50.56
+BMU,Bermuda,2020-12-25,50.56
+BMU,Bermuda,2020-12-26,50.56
+BMU,Bermuda,2020-12-27,50.56
+BMU,Bermuda,2020-12-28,50.56
+BMU,Bermuda,2020-12-29,50.56
+BMU,Bermuda,2020-12-30,50.56
+BMU,Bermuda,2020-12-31,50.56
+BMU,Bermuda,2021-01-01,50.56
+BMU,Bermuda,2021-01-02,50.56
+BMU,Bermuda,2021-01-03,50.56
+BMU,Bermuda,2021-01-04,50.56
+BMU,Bermuda,2021-01-05,50.56
+BMU,Bermuda,2021-01-06,50.56
 BOL,Bolivia,2020-01-01,37.22
 BOL,Bolivia,2020-01-02,37.22
 BOL,Bolivia,2020-01-03,37.22
@@ -8089,6 +8466,7 @@ BOL,Bolivia,2021-01-02,47.22
 BOL,Bolivia,2021-01-03,47.22
 BOL,Bolivia,2021-01-04,47.22
 BOL,Bolivia,2021-01-05,47.22
+BOL,Bolivia,2021-01-06,47.22
 BRA,Brazil,2020-01-01,0.0
 BRA,Brazil,2020-01-02,0.0
 BRA,Brazil,2020-01-03,0.0
@@ -8450,13 +8828,13 @@ BRA,Brazil,2020-12-23,60.83
 BRA,Brazil,2020-12-24,55.83
 BRA,Brazil,2020-12-25,55.83
 BRA,Brazil,2020-12-26,55.83
-BRA,Brazil,2020-12-30,55.83
 BRA,Brazil,2020-12-31,55.83
 BRA,Brazil,2021-01-01,55.83
 BRA,Brazil,2021-01-02,55.83
 BRA,Brazil,2021-01-03,55.83
 BRA,Brazil,2021-01-04,55.83
 BRA,Brazil,2021-01-05,55.83
+BRA,Brazil,2021-01-06,55.83
 BRB,Barbados,2020-01-01,0.0
 BRB,Barbados,2020-01-02,0.0
 BRB,Barbados,2020-01-03,0.0
@@ -8828,6 +9206,7 @@ BRB,Barbados,2021-01-02,55.0
 BRB,Barbados,2021-01-03,55.0
 BRB,Barbados,2021-01-04,55.0
 BRB,Barbados,2021-01-05,55.0
+BRB,Barbados,2021-01-06,55.0
 BRN,Brunei Darussalam,2020-01-01,3.33
 BRN,Brunei Darussalam,2020-01-02,3.33
 BRN,Brunei Darussalam,2020-01-03,3.33
@@ -9184,13 +9563,13 @@ BRN,Brunei Darussalam,2020-12-18,44.44
 BRN,Brunei Darussalam,2020-12-19,44.44
 BRN,Brunei Darussalam,2020-12-20,44.44
 BRN,Brunei Darussalam,2020-12-21,44.44
-BRN,Brunei Darussalam,2020-12-30,44.44
 BRN,Brunei Darussalam,2020-12-31,44.44
 BRN,Brunei Darussalam,2021-01-01,44.44
 BRN,Brunei Darussalam,2021-01-02,44.44
 BRN,Brunei Darussalam,2021-01-03,44.44
 BRN,Brunei Darussalam,2021-01-04,44.44
 BRN,Brunei Darussalam,2021-01-05,44.44
+BRN,Brunei Darussalam,2021-01-06,44.44
 BTN,Bhutan,2020-01-01,0.0
 BTN,Bhutan,2020-01-02,0.0
 BTN,Bhutan,2020-01-03,0.0
@@ -9548,13 +9927,13 @@ BTN,Bhutan,2020-12-19,66.67
 BTN,Bhutan,2020-12-20,76.94
 BTN,Bhutan,2020-12-21,76.94
 BTN,Bhutan,2020-12-22,76.94
-BTN,Bhutan,2020-12-30,76.94
 BTN,Bhutan,2020-12-31,76.94
 BTN,Bhutan,2021-01-01,76.94
 BTN,Bhutan,2021-01-02,76.94
 BTN,Bhutan,2021-01-03,76.94
 BTN,Bhutan,2021-01-04,76.94
 BTN,Bhutan,2021-01-05,76.94
+BTN,Bhutan,2021-01-06,76.94
 BWA,Botswana,2020-01-01,3.33
 BWA,Botswana,2020-01-02,3.33
 BWA,Botswana,2020-01-03,3.33
@@ -9926,6 +10305,7 @@ BWA,Botswana,2021-01-02,51.67
 BWA,Botswana,2021-01-03,51.67
 BWA,Botswana,2021-01-04,51.67
 BWA,Botswana,2021-01-05,51.67
+BWA,Botswana,2021-01-06,51.67
 CAF,Central African Republic,2020-01-01,0.0
 CAF,Central African Republic,2020-01-02,0.0
 CAF,Central African Republic,2020-01-03,0.0
@@ -10283,13 +10663,13 @@ CAF,Central African Republic,2020-12-19,29.44
 CAF,Central African Republic,2020-12-20,29.44
 CAF,Central African Republic,2020-12-21,29.44
 CAF,Central African Republic,2020-12-22,29.44
-CAF,Central African Republic,2020-12-30,29.44
 CAF,Central African Republic,2020-12-31,29.44
 CAF,Central African Republic,2021-01-01,29.44
 CAF,Central African Republic,2021-01-02,29.44
 CAF,Central African Republic,2021-01-03,29.44
 CAF,Central African Republic,2021-01-04,29.44
 CAF,Central African Republic,2021-01-05,29.44
+CAF,Central African Republic,2021-01-06,29.44
 CAN,Canada,2020-01-01,3.33
 CAN,Canada,2020-01-02,3.33
 CAN,Canada,2020-01-03,3.33
@@ -10661,6 +11041,7 @@ CAN,Canada,2021-01-02,70.11
 CAN,Canada,2021-01-03,70.11
 CAN,Canada,2021-01-04,70.11
 CAN,Canada,2021-01-05,70.11
+CAN,Canada,2021-01-06,70.11
 CHE,Switzerland,2020-01-01,0.0
 CHE,Switzerland,2020-01-02,0.0
 CHE,Switzerland,2020-01-03,0.0
@@ -11032,6 +11413,7 @@ CHE,Switzerland,2021-01-02,58.56
 CHE,Switzerland,2021-01-03,58.56
 CHE,Switzerland,2021-01-04,58.56
 CHE,Switzerland,2021-01-05,58.56
+CHE,Switzerland,2021-01-06,58.56
 CHL,Chile,2020-01-01,0.0
 CHL,Chile,2020-01-02,0.0
 CHL,Chile,2020-01-03,0.0
@@ -11403,6 +11785,7 @@ CHL,Chile,2021-01-02,77.5
 CHL,Chile,2021-01-03,77.5
 CHL,Chile,2021-01-04,77.5
 CHL,Chile,2021-01-05,77.5
+CHL,Chile,2021-01-06,77.5
 CHN,China,2020-01-01,6.39
 CHN,China,2020-01-02,6.39
 CHN,China,2020-01-03,6.39
@@ -11759,13 +12142,13 @@ CHN,China,2020-12-18,74.44
 CHN,China,2020-12-19,74.44
 CHN,China,2020-12-20,74.44
 CHN,China,2020-12-21,74.44
-CHN,China,2020-12-30,74.44
 CHN,China,2020-12-31,74.44
 CHN,China,2021-01-01,74.44
 CHN,China,2021-01-02,74.44
 CHN,China,2021-01-03,74.44
 CHN,China,2021-01-04,74.44
 CHN,China,2021-01-05,74.44
+CHN,China,2021-01-06,74.44
 CIV,Cote d'Ivoire,2020-01-01,0.0
 CIV,Cote d'Ivoire,2020-01-02,0.0
 CIV,Cote d'Ivoire,2020-01-03,0.0
@@ -12137,6 +12520,7 @@ CIV,Cote d'Ivoire,2021-01-02,29.72
 CIV,Cote d'Ivoire,2021-01-03,29.72
 CIV,Cote d'Ivoire,2021-01-04,29.72
 CIV,Cote d'Ivoire,2021-01-05,29.72
+CIV,Cote d'Ivoire,2021-01-06,29.72
 CMR,Cameroon,2020-01-01,0.0
 CMR,Cameroon,2020-01-02,0.0
 CMR,Cameroon,2020-01-03,0.0
@@ -12508,6 +12892,7 @@ CMR,Cameroon,2021-01-02,21.67
 CMR,Cameroon,2021-01-03,21.67
 CMR,Cameroon,2021-01-04,21.67
 CMR,Cameroon,2021-01-05,21.67
+CMR,Cameroon,2021-01-06,21.67
 COD,"Congo, Dem. Rep.",2020-01-01,0.0
 COD,"Congo, Dem. Rep.",2020-01-02,0.0
 COD,"Congo, Dem. Rep.",2020-01-03,0.0
@@ -12879,6 +13264,7 @@ COD,"Congo, Dem. Rep.",2021-01-02,24.44
 COD,"Congo, Dem. Rep.",2021-01-03,24.44
 COD,"Congo, Dem. Rep.",2021-01-04,24.44
 COD,"Congo, Dem. Rep.",2021-01-05,24.44
+COD,"Congo, Dem. Rep.",2021-01-06,24.44
 COG,"Congo, Rep.",2020-01-01,0.0
 COG,"Congo, Rep.",2020-01-02,0.0
 COG,"Congo, Rep.",2020-01-03,0.0
@@ -13250,6 +13636,7 @@ COG,"Congo, Rep.",2021-01-02,33.33
 COG,"Congo, Rep.",2021-01-03,33.33
 COG,"Congo, Rep.",2021-01-04,33.33
 COG,"Congo, Rep.",2021-01-05,33.33
+COG,"Congo, Rep.",2021-01-06,33.33
 COL,Colombia,2020-01-01,0.0
 COL,Colombia,2020-01-02,0.0
 COL,Colombia,2020-01-03,0.0
@@ -13621,6 +14008,7 @@ COL,Colombia,2021-01-02,61.56
 COL,Colombia,2021-01-03,61.56
 COL,Colombia,2021-01-04,61.56
 COL,Colombia,2021-01-05,61.56
+COL,Colombia,2021-01-06,61.56
 CPV,Cabo Verde,2020-01-01,0.0
 CPV,Cabo Verde,2020-01-02,0.0
 CPV,Cabo Verde,2020-01-03,0.0
@@ -13992,6 +14380,7 @@ CPV,Cabo Verde,2021-01-02,67.22
 CPV,Cabo Verde,2021-01-03,67.22
 CPV,Cabo Verde,2021-01-04,67.22
 CPV,Cabo Verde,2021-01-05,67.22
+CPV,Cabo Verde,2021-01-06,67.22
 CRI,Costa Rica,2020-01-01,0.0
 CRI,Costa Rica,2020-01-02,0.0
 CRI,Costa Rica,2020-01-03,0.0
@@ -14363,6 +14752,7 @@ CRI,Costa Rica,2021-01-02,56.89
 CRI,Costa Rica,2021-01-03,56.89
 CRI,Costa Rica,2021-01-04,56.89
 CRI,Costa Rica,2021-01-05,56.89
+CRI,Costa Rica,2021-01-06,56.89
 CUB,Cuba,2020-01-01,0.0
 CUB,Cuba,2020-01-02,0.0
 CUB,Cuba,2020-01-03,0.0
@@ -14734,6 +15124,7 @@ CUB,Cuba,2021-01-02,54.44
 CUB,Cuba,2021-01-03,54.44
 CUB,Cuba,2021-01-04,54.44
 CUB,Cuba,2021-01-05,54.44
+CUB,Cuba,2021-01-06,54.44
 CYP,Cyprus,2020-01-01,0.0
 CYP,Cyprus,2020-01-02,0.0
 CYP,Cyprus,2020-01-03,0.0
@@ -15105,6 +15496,7 @@ CYP,Cyprus,2021-01-02,79.11
 CYP,Cyprus,2021-01-03,79.11
 CYP,Cyprus,2021-01-04,79.11
 CYP,Cyprus,2021-01-05,79.11
+CYP,Cyprus,2021-01-06,79.11
 CZE,Czech Republic,2020-01-01,0.0
 CZE,Czech Republic,2020-01-02,0.0
 CZE,Czech Republic,2020-01-03,0.0
@@ -15476,6 +15868,7 @@ CZE,Czech Republic,2021-01-02,70.44
 CZE,Czech Republic,2021-01-03,70.44
 CZE,Czech Republic,2021-01-04,70.44
 CZE,Czech Republic,2021-01-05,70.44
+CZE,Czech Republic,2021-01-06,70.44
 DEU,Germany,2020-01-01,0.0
 DEU,Germany,2020-01-02,0.0
 DEU,Germany,2020-01-03,0.0
@@ -15829,13 +16222,13 @@ DEU,Germany,2020-12-15,58.89
 DEU,Germany,2020-12-16,71.11
 DEU,Germany,2020-12-17,71.11
 DEU,Germany,2020-12-18,71.11
-DEU,Germany,2020-12-30,71.11
 DEU,Germany,2020-12-31,71.11
 DEU,Germany,2021-01-01,71.11
 DEU,Germany,2021-01-02,71.11
 DEU,Germany,2021-01-03,71.11
 DEU,Germany,2021-01-04,71.11
 DEU,Germany,2021-01-05,71.11
+DEU,Germany,2021-01-06,71.11
 DJI,Djibouti,2020-01-01,0.0
 DJI,Djibouti,2020-01-02,0.0
 DJI,Djibouti,2020-01-03,0.0
@@ -16207,6 +16600,7 @@ DJI,Djibouti,2021-01-02,36.67
 DJI,Djibouti,2021-01-03,36.67
 DJI,Djibouti,2021-01-04,36.67
 DJI,Djibouti,2021-01-05,36.67
+DJI,Djibouti,2021-01-06,36.67
 DMA,Dominica,2020-01-01,0.0
 DMA,Dominica,2020-01-02,0.0
 DMA,Dominica,2020-01-03,0.0
@@ -16563,13 +16957,13 @@ DMA,Dominica,2020-12-18,53.33
 DMA,Dominica,2020-12-19,53.33
 DMA,Dominica,2020-12-20,53.33
 DMA,Dominica,2020-12-21,53.33
-DMA,Dominica,2020-12-30,53.33
 DMA,Dominica,2020-12-31,53.33
 DMA,Dominica,2021-01-01,53.33
 DMA,Dominica,2021-01-02,53.33
 DMA,Dominica,2021-01-03,53.33
 DMA,Dominica,2021-01-04,53.33
 DMA,Dominica,2021-01-05,53.33
+DMA,Dominica,2021-01-06,53.33
 DNK,Denmark,2020-01-01,0.0
 DNK,Denmark,2020-01-02,0.0
 DNK,Denmark,2020-01-03,0.0
@@ -16926,13 +17320,13 @@ DNK,Denmark,2020-12-18,61.11
 DNK,Denmark,2020-12-19,61.11
 DNK,Denmark,2020-12-20,61.11
 DNK,Denmark,2020-12-21,61.11
-DNK,Denmark,2020-12-30,61.11
 DNK,Denmark,2020-12-31,61.11
 DNK,Denmark,2021-01-01,61.11
 DNK,Denmark,2021-01-02,61.11
 DNK,Denmark,2021-01-03,61.11
 DNK,Denmark,2021-01-04,61.11
 DNK,Denmark,2021-01-05,61.11
+DNK,Denmark,2021-01-06,61.11
 DOM,Dominican Republic,2020-01-01,0.0
 DOM,Dominican Republic,2020-01-02,0.0
 DOM,Dominican Republic,2020-01-03,0.0
@@ -17304,6 +17698,7 @@ DOM,Dominican Republic,2021-01-02,55.0
 DOM,Dominican Republic,2021-01-03,55.0
 DOM,Dominican Republic,2021-01-04,55.0
 DOM,Dominican Republic,2021-01-05,55.0
+DOM,Dominican Republic,2021-01-06,55.0
 DZA,Algeria,2020-01-01,0.0
 DZA,Algeria,2020-01-02,0.0
 DZA,Algeria,2020-01-03,0.0
@@ -17675,6 +18070,7 @@ DZA,Algeria,2021-01-02,63.89
 DZA,Algeria,2021-01-03,63.89
 DZA,Algeria,2021-01-04,63.89
 DZA,Algeria,2021-01-05,63.89
+DZA,Algeria,2021-01-06,63.89
 ECU,Ecuador,2020-01-01,0.0
 ECU,Ecuador,2020-01-02,0.0
 ECU,Ecuador,2020-01-03,0.0
@@ -18046,6 +18442,7 @@ ECU,Ecuador,2021-01-02,65.56
 ECU,Ecuador,2021-01-03,65.56
 ECU,Ecuador,2021-01-04,65.56
 ECU,Ecuador,2021-01-05,65.56
+ECU,Ecuador,2021-01-06,65.56
 EGY,"Egypt, Arab Rep.",2020-01-01,0.0
 EGY,"Egypt, Arab Rep.",2020-01-02,0.0
 EGY,"Egypt, Arab Rep.",2020-01-03,0.0
@@ -18417,6 +18814,7 @@ EGY,"Egypt, Arab Rep.",2021-01-02,65.56
 EGY,"Egypt, Arab Rep.",2021-01-03,65.56
 EGY,"Egypt, Arab Rep.",2021-01-04,65.56
 EGY,"Egypt, Arab Rep.",2021-01-05,65.56
+EGY,"Egypt, Arab Rep.",2021-01-06,65.56
 ERI,Eritrea,2020-01-01,0.0
 ERI,Eritrea,2020-01-02,0.0
 ERI,Eritrea,2020-01-03,0.0
@@ -18788,6 +19186,7 @@ ERI,Eritrea,2021-01-02,71.67
 ERI,Eritrea,2021-01-03,71.67
 ERI,Eritrea,2021-01-04,71.67
 ERI,Eritrea,2021-01-05,71.67
+ERI,Eritrea,2021-01-06,71.67
 ESP,Spain,2020-01-01,0.0
 ESP,Spain,2020-01-02,0.0
 ESP,Spain,2020-01-03,0.0
@@ -19159,6 +19558,7 @@ ESP,Spain,2021-01-02,73.56
 ESP,Spain,2021-01-03,73.56
 ESP,Spain,2021-01-04,73.56
 ESP,Spain,2021-01-05,73.56
+ESP,Spain,2021-01-06,73.56
 EST,Estonia,2020-01-01,0.0
 EST,Estonia,2020-01-02,0.0
 EST,Estonia,2020-01-03,0.0
@@ -19530,6 +19930,7 @@ EST,Estonia,2021-01-02,52.44
 EST,Estonia,2021-01-03,52.44
 EST,Estonia,2021-01-04,52.44
 EST,Estonia,2021-01-05,52.44
+EST,Estonia,2021-01-06,52.44
 ETH,Ethiopia,2020-01-01,0.0
 ETH,Ethiopia,2020-01-02,0.0
 ETH,Ethiopia,2020-01-03,0.0
@@ -19901,6 +20302,7 @@ ETH,Ethiopia,2021-01-02,45.0
 ETH,Ethiopia,2021-01-03,45.0
 ETH,Ethiopia,2021-01-04,45.0
 ETH,Ethiopia,2021-01-05,45.0
+ETH,Ethiopia,2021-01-06,45.0
 FIN,Finland,2020-01-01,0.0
 FIN,Finland,2020-01-02,0.0
 FIN,Finland,2020-01-03,0.0
@@ -20272,6 +20674,7 @@ FIN,Finland,2021-01-02,51.06
 FIN,Finland,2021-01-03,51.06
 FIN,Finland,2021-01-04,51.06
 FIN,Finland,2021-01-05,51.06
+FIN,Finland,2021-01-06,51.06
 FJI,Fiji,2020-01-01,0.0
 FJI,Fiji,2020-01-02,0.0
 FJI,Fiji,2020-01-03,0.0
@@ -20643,6 +21046,7 @@ FJI,Fiji,2021-01-02,51.67
 FJI,Fiji,2021-01-03,51.67
 FJI,Fiji,2021-01-04,51.67
 FJI,Fiji,2021-01-05,51.67
+FJI,Fiji,2021-01-06,51.67
 FRA,France,2020-01-01,0.0
 FRA,France,2020-01-02,0.0
 FRA,France,2020-01-03,0.0
@@ -21014,6 +21418,7 @@ FRA,France,2021-01-02,65.5
 FRA,France,2021-01-03,65.5
 FRA,France,2021-01-04,65.5
 FRA,France,2021-01-05,65.5
+FRA,France,2021-01-06,65.5
 FRO,Faroe Islands,2020-01-01,0.0
 FRO,Faroe Islands,2020-01-02,0.0
 FRO,Faroe Islands,2020-01-03,0.0
@@ -21385,6 +21790,7 @@ FRO,Faroe Islands,2021-01-02,45.0
 FRO,Faroe Islands,2021-01-03,45.0
 FRO,Faroe Islands,2021-01-04,45.0
 FRO,Faroe Islands,2021-01-05,45.0
+FRO,Faroe Islands,2021-01-06,45.0
 GAB,Gabon,2020-01-01,0.0
 GAB,Gabon,2020-01-02,0.0
 GAB,Gabon,2020-01-03,0.0
@@ -21756,6 +22162,7 @@ GAB,Gabon,2021-01-02,73.33
 GAB,Gabon,2021-01-03,73.33
 GAB,Gabon,2021-01-04,73.33
 GAB,Gabon,2021-01-05,73.33
+GAB,Gabon,2021-01-06,73.33
 GBR,United Kingdom,2020-01-01,0.0
 GBR,United Kingdom,2020-01-02,0.0
 GBR,United Kingdom,2020-01-03,0.0
@@ -22127,6 +22534,7 @@ GBR,United Kingdom,2021-01-02,71.22
 GBR,United Kingdom,2021-01-03,71.22
 GBR,United Kingdom,2021-01-04,71.22
 GBR,United Kingdom,2021-01-05,71.22
+GBR,United Kingdom,2021-01-06,71.22
 GEO,Georgia,2020-01-01,0.0
 GEO,Georgia,2020-01-02,0.0
 GEO,Georgia,2020-01-03,0.0
@@ -22498,6 +22906,7 @@ GEO,Georgia,2021-01-02,71.67
 GEO,Georgia,2021-01-03,71.67
 GEO,Georgia,2021-01-04,71.67
 GEO,Georgia,2021-01-05,71.67
+GEO,Georgia,2021-01-06,71.67
 GHA,Ghana,2020-01-01,0.0
 GHA,Ghana,2020-01-02,0.0
 GHA,Ghana,2020-01-03,0.0
@@ -22869,6 +23278,7 @@ GHA,Ghana,2021-01-02,43.33
 GHA,Ghana,2021-01-03,43.33
 GHA,Ghana,2021-01-04,43.33
 GHA,Ghana,2021-01-05,43.33
+GHA,Ghana,2021-01-06,43.33
 GIN,Guinea,2020-01-01,0.0
 GIN,Guinea,2020-01-02,0.0
 GIN,Guinea,2020-01-03,0.0
@@ -23239,6 +23649,7 @@ GIN,Guinea,2021-01-02,43.22
 GIN,Guinea,2021-01-03,43.22
 GIN,Guinea,2021-01-04,43.22
 GIN,Guinea,2021-01-05,43.22
+GIN,Guinea,2021-01-06,43.22
 GMB,"Gambia, The",2020-01-01,0.0
 GMB,"Gambia, The",2020-01-02,0.0
 GMB,"Gambia, The",2020-01-03,0.0
@@ -23610,6 +24021,7 @@ GMB,"Gambia, The",2021-01-02,43.33
 GMB,"Gambia, The",2021-01-03,43.33
 GMB,"Gambia, The",2021-01-04,43.33
 GMB,"Gambia, The",2021-01-05,43.33
+GMB,"Gambia, The",2021-01-06,43.33
 GRC,Greece,2020-01-01,0.0
 GRC,Greece,2020-01-02,0.0
 GRC,Greece,2020-01-03,0.0
@@ -23981,6 +24393,7 @@ GRC,Greece,2021-01-02,85.33
 GRC,Greece,2021-01-03,85.33
 GRC,Greece,2021-01-04,85.33
 GRC,Greece,2021-01-05,85.33
+GRC,Greece,2021-01-06,85.33
 GRL,Greenland,2020-01-01,0.0
 GRL,Greenland,2020-01-02,0.0
 GRL,Greenland,2020-01-03,0.0
@@ -24352,6 +24765,7 @@ GRL,Greenland,2021-01-02,36.67
 GRL,Greenland,2021-01-03,36.67
 GRL,Greenland,2021-01-04,36.67
 GRL,Greenland,2021-01-05,36.67
+GRL,Greenland,2021-01-06,36.67
 GTM,Guatemala,2020-01-01,0.0
 GTM,Guatemala,2020-01-02,0.0
 GTM,Guatemala,2020-01-03,0.0
@@ -24723,6 +25137,7 @@ GTM,Guatemala,2021-01-02,52.5
 GTM,Guatemala,2021-01-03,52.5
 GTM,Guatemala,2021-01-04,52.5
 GTM,Guatemala,2021-01-05,52.5
+GTM,Guatemala,2021-01-06,52.5
 GUM,Guam,2020-01-01,0.0
 GUM,Guam,2020-01-02,0.0
 GUM,Guam,2020-01-03,0.0
@@ -25094,6 +25509,7 @@ GUM,Guam,2021-01-02,61.11
 GUM,Guam,2021-01-03,61.11
 GUM,Guam,2021-01-04,61.11
 GUM,Guam,2021-01-05,61.11
+GUM,Guam,2021-01-06,61.11
 GUY,Guyana,2020-01-01,0.0
 GUY,Guyana,2020-01-02,0.0
 GUY,Guyana,2020-01-03,0.0
@@ -25457,13 +25873,13 @@ GUY,Guyana,2020-12-25,60.56
 GUY,Guyana,2020-12-26,60.56
 GUY,Guyana,2020-12-27,60.56
 GUY,Guyana,2020-12-28,60.56
-GUY,Guyana,2020-12-30,60.56
 GUY,Guyana,2020-12-31,60.56
 GUY,Guyana,2021-01-01,60.56
 GUY,Guyana,2021-01-02,60.56
 GUY,Guyana,2021-01-03,60.56
 GUY,Guyana,2021-01-04,60.56
 GUY,Guyana,2021-01-05,60.56
+GUY,Guyana,2021-01-06,60.56
 HKG,Hong Kong SAR China,2020-01-01,10.0
 HKG,Hong Kong SAR China,2020-01-02,10.0
 HKG,Hong Kong SAR China,2020-01-03,10.0
@@ -25835,6 +26251,7 @@ HKG,Hong Kong SAR China,2021-01-02,69.44
 HKG,Hong Kong SAR China,2021-01-03,69.44
 HKG,Hong Kong SAR China,2021-01-04,69.44
 HKG,Hong Kong SAR China,2021-01-05,69.44
+HKG,Hong Kong SAR China,2021-01-06,69.44
 HND,Honduras,2020-01-01,0.0
 HND,Honduras,2020-01-02,0.0
 HND,Honduras,2020-01-03,0.0
@@ -26184,13 +26601,13 @@ HND,Honduras,2020-12-11,72.78
 HND,Honduras,2020-12-12,72.78
 HND,Honduras,2020-12-13,72.78
 HND,Honduras,2020-12-14,72.78
-HND,Honduras,2020-12-30,72.78
 HND,Honduras,2020-12-31,72.78
 HND,Honduras,2021-01-01,72.78
 HND,Honduras,2021-01-02,72.78
 HND,Honduras,2021-01-03,72.78
 HND,Honduras,2021-01-04,72.78
 HND,Honduras,2021-01-05,72.78
+HND,Honduras,2021-01-06,72.78
 HRV,Croatia,2020-01-01,0.0
 HRV,Croatia,2020-01-02,0.0
 HRV,Croatia,2020-01-03,0.0
@@ -26562,6 +26979,7 @@ HRV,Croatia,2021-01-02,51.67
 HRV,Croatia,2021-01-03,51.67
 HRV,Croatia,2021-01-04,51.67
 HRV,Croatia,2021-01-05,51.67
+HRV,Croatia,2021-01-06,51.67
 HTI,Haiti,2020-01-01,0.0
 HTI,Haiti,2020-01-02,0.0
 HTI,Haiti,2020-01-03,0.0
@@ -26933,6 +27351,7 @@ HTI,Haiti,2021-01-02,36.67
 HTI,Haiti,2021-01-03,36.67
 HTI,Haiti,2021-01-04,36.67
 HTI,Haiti,2021-01-05,36.67
+HTI,Haiti,2021-01-06,36.67
 HUN,Hungary,2020-01-01,0.0
 HUN,Hungary,2020-01-02,0.0
 HUN,Hungary,2020-01-03,0.0
@@ -27304,6 +27723,7 @@ HUN,Hungary,2021-01-02,60.78
 HUN,Hungary,2021-01-03,60.78
 HUN,Hungary,2021-01-04,60.78
 HUN,Hungary,2021-01-05,60.78
+HUN,Hungary,2021-01-06,60.78
 IDN,Indonesia,2020-01-01,0.0
 IDN,Indonesia,2020-01-02,0.0
 IDN,Indonesia,2020-01-03,3.33
@@ -27675,6 +28095,7 @@ IDN,Indonesia,2021-01-02,55.83
 IDN,Indonesia,2021-01-03,55.83
 IDN,Indonesia,2021-01-04,55.83
 IDN,Indonesia,2021-01-05,55.83
+IDN,Indonesia,2021-01-06,55.83
 IND,India,2020-01-01,0.0
 IND,India,2020-01-02,0.0
 IND,India,2020-01-03,0.0
@@ -28030,13 +28451,13 @@ IND,India,2020-12-17,65.0
 IND,India,2020-12-18,65.0
 IND,India,2020-12-19,65.0
 IND,India,2020-12-20,65.0
-IND,India,2020-12-30,65.0
 IND,India,2020-12-31,65.0
 IND,India,2021-01-01,65.0
 IND,India,2021-01-02,65.0
 IND,India,2021-01-03,65.0
 IND,India,2021-01-04,65.0
 IND,India,2021-01-05,65.0
+IND,India,2021-01-06,65.0
 IRL,Ireland,2020-01-01,0.0
 IRL,Ireland,2020-01-02,0.0
 IRL,Ireland,2020-01-03,0.0
@@ -28408,6 +28829,7 @@ IRL,Ireland,2021-01-02,66.11
 IRL,Ireland,2021-01-03,66.11
 IRL,Ireland,2021-01-04,66.11
 IRL,Ireland,2021-01-05,66.11
+IRL,Ireland,2021-01-06,66.11
 IRN,"Iran, Islamic Rep.",2020-01-01,0.0
 IRN,"Iran, Islamic Rep.",2020-01-02,0.0
 IRN,"Iran, Islamic Rep.",2020-01-03,0.0
@@ -28758,13 +29180,13 @@ IRN,"Iran, Islamic Rep.",2020-12-12,53.89
 IRN,"Iran, Islamic Rep.",2020-12-13,53.89
 IRN,"Iran, Islamic Rep.",2020-12-14,53.89
 IRN,"Iran, Islamic Rep.",2020-12-15,53.89
-IRN,"Iran, Islamic Rep.",2020-12-30,53.89
 IRN,"Iran, Islamic Rep.",2020-12-31,53.89
 IRN,"Iran, Islamic Rep.",2021-01-01,53.89
 IRN,"Iran, Islamic Rep.",2021-01-02,53.89
 IRN,"Iran, Islamic Rep.",2021-01-03,53.89
 IRN,"Iran, Islamic Rep.",2021-01-04,53.89
 IRN,"Iran, Islamic Rep.",2021-01-05,53.89
+IRN,"Iran, Islamic Rep.",2021-01-06,53.89
 IRQ,Iraq,2020-01-01,0.0
 IRQ,Iraq,2020-01-02,0.0
 IRQ,Iraq,2020-01-03,0.0
@@ -29136,6 +29558,7 @@ IRQ,Iraq,2021-01-02,51.11
 IRQ,Iraq,2021-01-03,51.11
 IRQ,Iraq,2021-01-04,51.11
 IRQ,Iraq,2021-01-05,51.11
+IRQ,Iraq,2021-01-06,51.11
 ISL,Iceland,2020-01-01,0.0
 ISL,Iceland,2020-01-02,0.0
 ISL,Iceland,2020-01-03,0.0
@@ -29507,6 +29930,7 @@ ISL,Iceland,2021-01-02,65.33
 ISL,Iceland,2021-01-03,65.33
 ISL,Iceland,2021-01-04,65.33
 ISL,Iceland,2021-01-05,65.33
+ISL,Iceland,2021-01-06,65.33
 ISR,Israel,2020-01-01,0.0
 ISR,Israel,2020-01-02,0.0
 ISR,Israel,2020-01-03,0.0
@@ -29878,6 +30302,7 @@ ISR,Israel,2021-01-02,81.67
 ISR,Israel,2021-01-03,81.67
 ISR,Israel,2021-01-04,81.67
 ISR,Israel,2021-01-05,81.67
+ISR,Israel,2021-01-06,81.67
 ITA,Italy,2020-01-01,0.0
 ITA,Italy,2020-01-02,0.0
 ITA,Italy,2020-01-03,0.0
@@ -30249,6 +30674,7 @@ ITA,Italy,2021-01-02,78.22
 ITA,Italy,2021-01-03,78.22
 ITA,Italy,2021-01-04,78.22
 ITA,Italy,2021-01-05,78.22
+ITA,Italy,2021-01-06,78.22
 JAM,Jamaica,2020-01-01,0.0
 JAM,Jamaica,2020-01-02,0.0
 JAM,Jamaica,2020-01-03,0.0
@@ -30620,6 +31046,7 @@ JAM,Jamaica,2021-01-02,67.22
 JAM,Jamaica,2021-01-03,67.22
 JAM,Jamaica,2021-01-04,65.0
 JAM,Jamaica,2021-01-05,65.0
+JAM,Jamaica,2021-01-06,65.0
 JOR,Jordan,2020-01-01,0.0
 JOR,Jordan,2020-01-02,0.0
 JOR,Jordan,2020-01-03,0.0
@@ -30991,6 +31418,7 @@ JOR,Jordan,2021-01-02,70.0
 JOR,Jordan,2021-01-03,70.0
 JOR,Jordan,2021-01-04,70.0
 JOR,Jordan,2021-01-05,70.0
+JOR,Jordan,2021-01-06,70.0
 JPN,Japan,2020-01-01,0.0
 JPN,Japan,2020-01-02,0.0
 JPN,Japan,2020-01-03,0.0
@@ -31362,6 +31790,7 @@ JPN,Japan,2021-01-02,52.78
 JPN,Japan,2021-01-03,52.78
 JPN,Japan,2021-01-04,52.78
 JPN,Japan,2021-01-05,52.78
+JPN,Japan,2021-01-06,52.78
 KAZ,Kazakhstan,2020-01-01,0.0
 KAZ,Kazakhstan,2020-01-02,0.0
 KAZ,Kazakhstan,2020-01-03,0.0
@@ -31733,6 +32162,7 @@ KAZ,Kazakhstan,2021-01-02,48.33
 KAZ,Kazakhstan,2021-01-03,48.33
 KAZ,Kazakhstan,2021-01-04,48.33
 KAZ,Kazakhstan,2021-01-05,48.33
+KAZ,Kazakhstan,2021-01-06,48.33
 KEN,Kenya,2020-01-01,0.0
 KEN,Kenya,2020-01-02,0.0
 KEN,Kenya,2020-01-03,0.0
@@ -32104,6 +32534,7 @@ KEN,Kenya,2021-01-02,57.22
 KEN,Kenya,2021-01-03,57.22
 KEN,Kenya,2021-01-04,55.0
 KEN,Kenya,2021-01-05,55.0
+KEN,Kenya,2021-01-06,55.0
 KGZ,Kyrgyz Republic,2020-01-01,0.0
 KGZ,Kyrgyz Republic,2020-01-02,0.0
 KGZ,Kyrgyz Republic,2020-01-03,0.0
@@ -32475,6 +32906,7 @@ KGZ,Kyrgyz Republic,2021-01-02,48.89
 KGZ,Kyrgyz Republic,2021-01-03,48.89
 KGZ,Kyrgyz Republic,2021-01-04,48.89
 KGZ,Kyrgyz Republic,2021-01-05,48.89
+KGZ,Kyrgyz Republic,2021-01-06,48.89
 KHM,Cambodia,2020-01-01,0.0
 KHM,Cambodia,2020-01-02,0.0
 KHM,Cambodia,2020-01-03,0.0
@@ -32846,6 +33278,7 @@ KHM,Cambodia,2021-01-02,43.06
 KHM,Cambodia,2021-01-03,43.06
 KHM,Cambodia,2021-01-04,43.06
 KHM,Cambodia,2021-01-05,43.06
+KHM,Cambodia,2021-01-06,43.06
 KOR,"Korea, Rep.",2020-01-01,0.0
 KOR,"Korea, Rep.",2020-01-02,0.0
 KOR,"Korea, Rep.",2020-01-03,0.0
@@ -33217,6 +33650,7 @@ KOR,"Korea, Rep.",2021-01-02,62.22
 KOR,"Korea, Rep.",2021-01-03,62.22
 KOR,"Korea, Rep.",2021-01-04,62.22
 KOR,"Korea, Rep.",2021-01-05,62.22
+KOR,"Korea, Rep.",2021-01-06,62.22
 KWT,Kuwait,2020-01-01,0.0
 KWT,Kuwait,2020-01-02,0.0
 KWT,Kuwait,2020-01-03,0.0
@@ -33588,6 +34022,7 @@ KWT,Kuwait,2021-01-02,65.11
 KWT,Kuwait,2021-01-03,65.11
 KWT,Kuwait,2021-01-04,65.11
 KWT,Kuwait,2021-01-05,65.11
+KWT,Kuwait,2021-01-06,65.11
 LAO,Lao PDR,2020-01-01,0.0
 LAO,Lao PDR,2020-01-02,0.0
 LAO,Lao PDR,2020-01-03,0.0
@@ -33959,6 +34394,7 @@ LAO,Lao PDR,2021-01-02,47.22
 LAO,Lao PDR,2021-01-03,47.22
 LAO,Lao PDR,2021-01-04,47.22
 LAO,Lao PDR,2021-01-05,47.22
+LAO,Lao PDR,2021-01-06,47.22
 LBN,Lebanon,2020-01-01,0.0
 LBN,Lebanon,2020-01-02,0.0
 LBN,Lebanon,2020-01-03,0.0
@@ -34315,6 +34751,14 @@ LBN,Lebanon,2020-12-18,68.33
 LBN,Lebanon,2020-12-19,68.33
 LBN,Lebanon,2020-12-20,68.33
 LBN,Lebanon,2020-12-21,68.33
+LBN,Lebanon,2020-12-22,68.33
+LBN,Lebanon,2020-12-23,68.33
+LBN,Lebanon,2020-12-24,68.33
+LBN,Lebanon,2020-12-25,68.33
+LBN,Lebanon,2020-12-26,68.33
+LBN,Lebanon,2020-12-27,68.33
+LBN,Lebanon,2020-12-28,68.33
+LBN,Lebanon,2020-12-29,68.33
 LBN,Lebanon,2020-12-30,68.33
 LBN,Lebanon,2020-12-31,68.33
 LBN,Lebanon,2021-01-01,68.33
@@ -34322,6 +34766,7 @@ LBN,Lebanon,2021-01-02,68.33
 LBN,Lebanon,2021-01-03,68.33
 LBN,Lebanon,2021-01-04,68.33
 LBN,Lebanon,2021-01-05,68.33
+LBN,Lebanon,2021-01-06,68.33
 LBR,Liberia,2020-01-01,0.0
 LBR,Liberia,2020-01-02,0.0
 LBR,Liberia,2020-01-03,0.0
@@ -34693,6 +35138,7 @@ LBR,Liberia,2021-01-02,31.67
 LBR,Liberia,2021-01-03,31.67
 LBR,Liberia,2021-01-04,31.67
 LBR,Liberia,2021-01-05,31.67
+LBR,Liberia,2021-01-06,31.67
 LBY,Libya,2020-01-01,0.0
 LBY,Libya,2020-01-02,0.0
 LBY,Libya,2020-01-03,0.0
@@ -35064,6 +35510,7 @@ LBY,Libya,2021-01-02,54.44
 LBY,Libya,2021-01-03,54.44
 LBY,Libya,2021-01-04,54.44
 LBY,Libya,2021-01-05,54.44
+LBY,Libya,2021-01-06,54.44
 LKA,Sri Lanka,2020-01-01,0.0
 LKA,Sri Lanka,2020-01-02,0.0
 LKA,Sri Lanka,2020-01-03,0.0
@@ -35435,6 +35882,7 @@ LKA,Sri Lanka,2021-01-02,71.39
 LKA,Sri Lanka,2021-01-03,71.39
 LKA,Sri Lanka,2021-01-04,71.39
 LKA,Sri Lanka,2021-01-05,71.39
+LKA,Sri Lanka,2021-01-06,71.39
 LSO,Lesotho,2020-01-01,0.0
 LSO,Lesotho,2020-01-02,0.0
 LSO,Lesotho,2020-01-03,0.0
@@ -35791,13 +36239,13 @@ LSO,Lesotho,2020-12-18,33.89
 LSO,Lesotho,2020-12-19,33.89
 LSO,Lesotho,2020-12-20,33.89
 LSO,Lesotho,2020-12-21,33.89
-LSO,Lesotho,2020-12-30,33.89
 LSO,Lesotho,2020-12-31,33.89
 LSO,Lesotho,2021-01-01,33.89
 LSO,Lesotho,2021-01-02,33.89
 LSO,Lesotho,2021-01-03,33.89
 LSO,Lesotho,2021-01-04,33.89
 LSO,Lesotho,2021-01-05,33.89
+LSO,Lesotho,2021-01-06,33.89
 LTU,Lithuania,2020-01-01,0.0
 LTU,Lithuania,2020-01-02,0.0
 LTU,Lithuania,2020-01-03,0.0
@@ -36161,13 +36609,13 @@ LTU,Lithuania,2020-12-25,75.56
 LTU,Lithuania,2020-12-26,75.56
 LTU,Lithuania,2020-12-27,76.89
 LTU,Lithuania,2020-12-28,76.89
-LTU,Lithuania,2020-12-30,76.89
 LTU,Lithuania,2020-12-31,76.89
 LTU,Lithuania,2021-01-01,76.89
 LTU,Lithuania,2021-01-02,76.89
 LTU,Lithuania,2021-01-03,76.89
 LTU,Lithuania,2021-01-04,76.89
 LTU,Lithuania,2021-01-05,76.89
+LTU,Lithuania,2021-01-06,76.89
 LUX,Luxembourg,2020-01-01,0.0
 LUX,Luxembourg,2020-01-02,0.0
 LUX,Luxembourg,2020-01-03,0.0
@@ -36539,6 +36987,7 @@ LUX,Luxembourg,2021-01-02,79.33
 LUX,Luxembourg,2021-01-03,79.33
 LUX,Luxembourg,2021-01-04,79.33
 LUX,Luxembourg,2021-01-05,79.33
+LUX,Luxembourg,2021-01-06,79.33
 LVA,Latvia,2020-01-01,0.0
 LVA,Latvia,2020-01-02,0.0
 LVA,Latvia,2020-01-03,0.0
@@ -36888,13 +37337,13 @@ LVA,Latvia,2020-12-11,58.33
 LVA,Latvia,2020-12-12,58.33
 LVA,Latvia,2020-12-13,58.33
 LVA,Latvia,2020-12-14,58.33
-LVA,Latvia,2020-12-30,58.33
 LVA,Latvia,2020-12-31,58.33
 LVA,Latvia,2021-01-01,58.33
 LVA,Latvia,2021-01-02,58.33
 LVA,Latvia,2021-01-03,58.33
 LVA,Latvia,2021-01-04,58.33
 LVA,Latvia,2021-01-05,58.33
+LVA,Latvia,2021-01-06,58.33
 MAC,Macao SAR China,2020-01-01,6.67
 MAC,Macao SAR China,2020-01-02,6.67
 MAC,Macao SAR China,2020-01-03,6.67
@@ -37234,13 +37683,13 @@ MAC,Macao SAR China,2020-12-01,40.56
 MAC,Macao SAR China,2020-12-02,40.56
 MAC,Macao SAR China,2020-12-03,40.56
 MAC,Macao SAR China,2020-12-04,40.56
-MAC,Macao SAR China,2020-12-30,40.56
 MAC,Macao SAR China,2020-12-31,40.56
 MAC,Macao SAR China,2021-01-01,40.56
 MAC,Macao SAR China,2021-01-02,40.56
 MAC,Macao SAR China,2021-01-03,40.56
 MAC,Macao SAR China,2021-01-04,40.56
 MAC,Macao SAR China,2021-01-05,40.56
+MAC,Macao SAR China,2021-01-06,40.56
 MAR,Morocco,2020-01-01,0.0
 MAR,Morocco,2020-01-02,0.0
 MAR,Morocco,2020-01-03,0.0
@@ -37612,6 +38061,7 @@ MAR,Morocco,2021-01-02,64.44
 MAR,Morocco,2021-01-03,64.44
 MAR,Morocco,2021-01-04,64.44
 MAR,Morocco,2021-01-05,64.44
+MAR,Morocco,2021-01-06,64.44
 MCO,Monaco,2020-01-01,0.0
 MCO,Monaco,2020-01-02,0.0
 MCO,Monaco,2020-01-03,0.0
@@ -37973,13 +38423,13 @@ MCO,Monaco,2020-12-23,64.44
 MCO,Monaco,2020-12-24,64.44
 MCO,Monaco,2020-12-25,64.44
 MCO,Monaco,2020-12-26,64.44
-MCO,Monaco,2020-12-30,64.44
 MCO,Monaco,2020-12-31,64.44
 MCO,Monaco,2021-01-01,64.44
 MCO,Monaco,2021-01-02,64.44
 MCO,Monaco,2021-01-03,64.44
 MCO,Monaco,2021-01-04,64.44
 MCO,Monaco,2021-01-05,64.44
+MCO,Monaco,2021-01-06,64.44
 MDA,Moldova,2020-01-01,0.0
 MDA,Moldova,2020-01-02,0.0
 MDA,Moldova,2020-01-03,0.0
@@ -38351,6 +38801,7 @@ MDA,Moldova,2021-01-02,55.56
 MDA,Moldova,2021-01-03,55.56
 MDA,Moldova,2021-01-04,55.56
 MDA,Moldova,2021-01-05,55.56
+MDA,Moldova,2021-01-06,55.56
 MDG,Madagascar,2020-01-01,0.0
 MDG,Madagascar,2020-01-02,0.0
 MDG,Madagascar,2020-01-03,0.0
@@ -38722,6 +39173,7 @@ MDG,Madagascar,2021-01-02,41.11
 MDG,Madagascar,2021-01-03,41.11
 MDG,Madagascar,2021-01-04,41.11
 MDG,Madagascar,2021-01-05,41.11
+MDG,Madagascar,2021-01-06,41.11
 MEX,Mexico,2020-01-01,0.0
 MEX,Mexico,2020-01-02,0.0
 MEX,Mexico,2020-01-03,0.0
@@ -39093,6 +39545,7 @@ MEX,Mexico,2021-01-02,67.11
 MEX,Mexico,2021-01-03,67.11
 MEX,Mexico,2021-01-04,67.11
 MEX,Mexico,2021-01-05,67.11
+MEX,Mexico,2021-01-06,67.11
 MLI,Mali,2020-01-01,0.0
 MLI,Mali,2020-01-02,0.0
 MLI,Mali,2020-01-03,0.0
@@ -39464,6 +39917,7 @@ MLI,Mali,2021-01-02,43.89
 MLI,Mali,2021-01-03,43.89
 MLI,Mali,2021-01-04,43.89
 MLI,Mali,2021-01-05,43.89
+MLI,Mali,2021-01-06,43.89
 MLT,Malta,2020-01-01,0.0
 MLT,Malta,2020-01-02,0.0
 MLT,Malta,2020-01-03,0.0
@@ -39835,6 +40289,7 @@ MLT,Malta,2021-01-02,62.67
 MLT,Malta,2021-01-03,62.67
 MLT,Malta,2021-01-04,62.67
 MLT,Malta,2021-01-05,62.67
+MLT,Malta,2021-01-06,62.67
 MMR,Myanmar,2020-01-01,0.0
 MMR,Myanmar,2020-01-02,0.0
 MMR,Myanmar,2020-01-03,0.0
@@ -40190,13 +40645,13 @@ MMR,Myanmar,2020-12-17,75.56
 MMR,Myanmar,2020-12-18,75.56
 MMR,Myanmar,2020-12-19,75.56
 MMR,Myanmar,2020-12-20,75.56
-MMR,Myanmar,2020-12-30,75.56
 MMR,Myanmar,2020-12-31,75.56
 MMR,Myanmar,2021-01-01,75.56
 MMR,Myanmar,2021-01-02,75.56
 MMR,Myanmar,2021-01-03,75.56
 MMR,Myanmar,2021-01-04,75.56
 MMR,Myanmar,2021-01-05,75.56
+MMR,Myanmar,2021-01-06,75.56
 MNG,Mongolia,2020-01-01,6.67
 MNG,Mongolia,2020-01-02,6.67
 MNG,Mongolia,2020-01-03,6.67
@@ -40568,6 +41023,7 @@ MNG,Mongolia,2021-01-02,71.39
 MNG,Mongolia,2021-01-03,71.39
 MNG,Mongolia,2021-01-04,71.39
 MNG,Mongolia,2021-01-05,71.39
+MNG,Mongolia,2021-01-06,71.39
 MOZ,Mozambique,2020-01-01,0.0
 MOZ,Mozambique,2020-01-02,0.0
 MOZ,Mozambique,2020-01-03,0.0
@@ -40939,6 +41395,7 @@ MOZ,Mozambique,2021-01-02,47.22
 MOZ,Mozambique,2021-01-03,47.22
 MOZ,Mozambique,2021-01-04,47.22
 MOZ,Mozambique,2021-01-05,47.22
+MOZ,Mozambique,2021-01-06,47.22
 MRT,Mauritania,2020-01-01,0.0
 MRT,Mauritania,2020-01-02,0.0
 MRT,Mauritania,2020-01-03,0.0
@@ -41310,6 +41767,7 @@ MRT,Mauritania,2021-01-02,45.0
 MRT,Mauritania,2021-01-03,45.0
 MRT,Mauritania,2021-01-04,45.0
 MRT,Mauritania,2021-01-05,45.0
+MRT,Mauritania,2021-01-06,45.0
 MUS,Mauritius,2020-01-01,0.0
 MUS,Mauritius,2020-01-02,0.0
 MUS,Mauritius,2020-01-03,0.0
@@ -41681,6 +42139,7 @@ MUS,Mauritius,2021-01-02,29.44
 MUS,Mauritius,2021-01-03,29.44
 MUS,Mauritius,2021-01-04,29.44
 MUS,Mauritius,2021-01-05,29.44
+MUS,Mauritius,2021-01-06,29.44
 MWI,Malawi,2020-01-01,0.0
 MWI,Malawi,2020-01-02,0.0
 MWI,Malawi,2020-01-03,0.0
@@ -42052,6 +42511,7 @@ MWI,Malawi,2021-01-02,53.33
 MWI,Malawi,2021-01-03,53.33
 MWI,Malawi,2021-01-04,53.33
 MWI,Malawi,2021-01-05,53.33
+MWI,Malawi,2021-01-06,53.33
 MYS,Malaysia,2020-01-01,0.0
 MYS,Malaysia,2020-01-02,0.0
 MYS,Malaysia,2020-01-03,0.0
@@ -42423,6 +42883,7 @@ MYS,Malaysia,2021-01-02,66.94
 MYS,Malaysia,2021-01-03,66.94
 MYS,Malaysia,2021-01-04,66.94
 MYS,Malaysia,2021-01-05,66.94
+MYS,Malaysia,2021-01-06,66.94
 NAM,Namibia,2020-01-01,0.0
 NAM,Namibia,2020-01-02,0.0
 NAM,Namibia,2020-01-03,0.0
@@ -42787,6 +43248,7 @@ NAM,Namibia,2021-01-02,39.44
 NAM,Namibia,2021-01-03,39.44
 NAM,Namibia,2021-01-04,39.44
 NAM,Namibia,2021-01-05,39.44
+NAM,Namibia,2021-01-06,39.44
 NER,Niger,2020-01-01,0.0
 NER,Niger,2020-01-02,0.0
 NER,Niger,2020-01-03,0.0
@@ -43157,6 +43619,7 @@ NER,Niger,2021-01-02,29.72
 NER,Niger,2021-01-03,29.72
 NER,Niger,2021-01-04,29.72
 NER,Niger,2021-01-05,29.72
+NER,Niger,2021-01-06,29.72
 NGA,Nigeria,2020-01-01,0.0
 NGA,Nigeria,2020-01-02,0.0
 NGA,Nigeria,2020-01-03,0.0
@@ -43528,6 +43991,7 @@ NGA,Nigeria,2021-01-02,48.89
 NGA,Nigeria,2021-01-03,48.89
 NGA,Nigeria,2021-01-04,48.89
 NGA,Nigeria,2021-01-05,48.89
+NGA,Nigeria,2021-01-06,48.89
 NIC,Nicaragua,2020-01-01,0.0
 NIC,Nicaragua,2020-01-02,0.0
 NIC,Nicaragua,2020-01-03,0.0
@@ -43899,6 +44363,7 @@ NIC,Nicaragua,2021-01-02,7.22
 NIC,Nicaragua,2021-01-03,7.22
 NIC,Nicaragua,2021-01-04,7.22
 NIC,Nicaragua,2021-01-05,7.22
+NIC,Nicaragua,2021-01-06,7.22
 NLD,Netherlands,2020-01-01,0.0
 NLD,Netherlands,2020-01-02,0.0
 NLD,Netherlands,2020-01-03,0.0
@@ -43984,263 +44449,293 @@ NLD,Netherlands,2020-03-22,52.78
 NLD,Netherlands,2020-03-23,55.0
 NLD,Netherlands,2020-03-24,55.0
 NLD,Netherlands,2020-03-25,55.0
-NLD,Netherlands,2020-03-26,55.0
-NLD,Netherlands,2020-03-27,55.0
-NLD,Netherlands,2020-03-28,58.33
-NLD,Netherlands,2020-03-29,58.33
-NLD,Netherlands,2020-03-30,58.33
-NLD,Netherlands,2020-03-31,61.67
-NLD,Netherlands,2020-04-01,61.67
-NLD,Netherlands,2020-04-02,61.67
-NLD,Netherlands,2020-04-03,61.67
-NLD,Netherlands,2020-04-04,61.67
-NLD,Netherlands,2020-04-05,61.67
-NLD,Netherlands,2020-04-06,61.67
-NLD,Netherlands,2020-04-07,61.67
-NLD,Netherlands,2020-04-08,61.67
-NLD,Netherlands,2020-04-09,61.67
-NLD,Netherlands,2020-04-10,61.67
-NLD,Netherlands,2020-04-11,61.67
-NLD,Netherlands,2020-04-12,61.67
-NLD,Netherlands,2020-04-13,61.67
-NLD,Netherlands,2020-04-14,61.67
-NLD,Netherlands,2020-04-15,61.67
-NLD,Netherlands,2020-04-16,61.67
-NLD,Netherlands,2020-04-17,61.67
-NLD,Netherlands,2020-04-18,61.67
-NLD,Netherlands,2020-04-19,61.67
-NLD,Netherlands,2020-04-20,61.67
-NLD,Netherlands,2020-04-21,61.67
-NLD,Netherlands,2020-04-22,61.67
-NLD,Netherlands,2020-04-23,61.67
-NLD,Netherlands,2020-04-24,61.67
-NLD,Netherlands,2020-04-25,61.67
-NLD,Netherlands,2020-04-26,61.67
-NLD,Netherlands,2020-04-27,61.67
-NLD,Netherlands,2020-04-28,61.67
-NLD,Netherlands,2020-04-29,61.67
-NLD,Netherlands,2020-04-30,61.67
-NLD,Netherlands,2020-05-01,61.67
-NLD,Netherlands,2020-05-02,61.67
-NLD,Netherlands,2020-05-03,61.67
-NLD,Netherlands,2020-05-04,61.67
-NLD,Netherlands,2020-05-05,61.67
-NLD,Netherlands,2020-05-06,61.67
-NLD,Netherlands,2020-05-07,61.67
-NLD,Netherlands,2020-05-08,61.67
-NLD,Netherlands,2020-05-09,61.67
-NLD,Netherlands,2020-05-10,61.67
-NLD,Netherlands,2020-05-11,55.0
-NLD,Netherlands,2020-05-12,55.0
-NLD,Netherlands,2020-05-13,55.0
-NLD,Netherlands,2020-05-14,55.0
-NLD,Netherlands,2020-05-15,55.0
-NLD,Netherlands,2020-05-16,55.0
-NLD,Netherlands,2020-05-17,55.0
-NLD,Netherlands,2020-05-18,55.0
-NLD,Netherlands,2020-05-19,55.0
-NLD,Netherlands,2020-05-20,55.0
-NLD,Netherlands,2020-05-21,55.0
-NLD,Netherlands,2020-05-22,55.0
-NLD,Netherlands,2020-05-23,55.0
-NLD,Netherlands,2020-05-24,55.0
-NLD,Netherlands,2020-05-25,55.0
-NLD,Netherlands,2020-05-26,55.0
-NLD,Netherlands,2020-05-27,55.0
-NLD,Netherlands,2020-05-28,55.0
-NLD,Netherlands,2020-05-29,55.0
-NLD,Netherlands,2020-05-30,55.0
-NLD,Netherlands,2020-05-31,55.0
-NLD,Netherlands,2020-06-01,60.56
-NLD,Netherlands,2020-06-02,60.56
-NLD,Netherlands,2020-06-03,60.56
-NLD,Netherlands,2020-06-04,60.56
-NLD,Netherlands,2020-06-05,60.56
-NLD,Netherlands,2020-06-06,60.56
-NLD,Netherlands,2020-06-07,60.56
-NLD,Netherlands,2020-06-08,60.56
-NLD,Netherlands,2020-06-09,60.56
-NLD,Netherlands,2020-06-10,60.56
-NLD,Netherlands,2020-06-11,60.56
-NLD,Netherlands,2020-06-12,60.56
-NLD,Netherlands,2020-06-13,60.56
-NLD,Netherlands,2020-06-14,60.56
-NLD,Netherlands,2020-06-15,58.33
-NLD,Netherlands,2020-06-16,58.33
-NLD,Netherlands,2020-06-17,58.33
-NLD,Netherlands,2020-06-18,58.33
-NLD,Netherlands,2020-06-19,58.33
-NLD,Netherlands,2020-06-20,58.33
-NLD,Netherlands,2020-06-21,58.33
-NLD,Netherlands,2020-06-22,58.33
-NLD,Netherlands,2020-06-23,58.33
-NLD,Netherlands,2020-06-24,58.33
-NLD,Netherlands,2020-06-25,58.33
-NLD,Netherlands,2020-06-26,58.33
-NLD,Netherlands,2020-06-27,58.33
-NLD,Netherlands,2020-06-28,58.33
-NLD,Netherlands,2020-06-29,58.33
-NLD,Netherlands,2020-06-30,58.33
-NLD,Netherlands,2020-07-01,46.67
-NLD,Netherlands,2020-07-02,46.67
-NLD,Netherlands,2020-07-03,46.67
-NLD,Netherlands,2020-07-04,46.67
-NLD,Netherlands,2020-07-05,46.67
-NLD,Netherlands,2020-07-06,46.67
-NLD,Netherlands,2020-07-07,46.67
-NLD,Netherlands,2020-07-08,46.67
-NLD,Netherlands,2020-07-09,46.67
-NLD,Netherlands,2020-07-10,46.67
-NLD,Netherlands,2020-07-11,46.67
-NLD,Netherlands,2020-07-12,46.67
-NLD,Netherlands,2020-07-13,46.67
-NLD,Netherlands,2020-07-14,46.67
-NLD,Netherlands,2020-07-15,46.67
-NLD,Netherlands,2020-07-16,46.67
-NLD,Netherlands,2020-07-17,46.67
-NLD,Netherlands,2020-07-18,46.67
-NLD,Netherlands,2020-07-19,46.67
-NLD,Netherlands,2020-07-20,46.67
-NLD,Netherlands,2020-07-21,46.67
-NLD,Netherlands,2020-07-22,46.67
-NLD,Netherlands,2020-07-23,46.67
-NLD,Netherlands,2020-07-24,46.67
-NLD,Netherlands,2020-07-25,46.67
-NLD,Netherlands,2020-07-26,46.67
-NLD,Netherlands,2020-07-27,46.67
-NLD,Netherlands,2020-07-28,46.67
-NLD,Netherlands,2020-07-29,46.67
-NLD,Netherlands,2020-07-30,46.67
-NLD,Netherlands,2020-07-31,46.67
-NLD,Netherlands,2020-08-01,46.67
-NLD,Netherlands,2020-08-02,46.67
-NLD,Netherlands,2020-08-03,46.67
-NLD,Netherlands,2020-08-04,46.67
-NLD,Netherlands,2020-08-05,45.83
-NLD,Netherlands,2020-08-06,45.83
-NLD,Netherlands,2020-08-07,45.83
-NLD,Netherlands,2020-08-08,45.83
-NLD,Netherlands,2020-08-09,45.83
-NLD,Netherlands,2020-08-10,45.83
-NLD,Netherlands,2020-08-11,45.83
-NLD,Netherlands,2020-08-12,45.83
-NLD,Netherlands,2020-08-13,45.83
-NLD,Netherlands,2020-08-14,45.83
-NLD,Netherlands,2020-08-15,45.83
-NLD,Netherlands,2020-08-16,45.83
-NLD,Netherlands,2020-08-17,45.83
-NLD,Netherlands,2020-08-18,52.5
-NLD,Netherlands,2020-08-19,52.5
-NLD,Netherlands,2020-08-20,52.5
-NLD,Netherlands,2020-08-21,52.5
-NLD,Netherlands,2020-08-22,52.5
-NLD,Netherlands,2020-08-23,52.5
-NLD,Netherlands,2020-08-24,52.5
-NLD,Netherlands,2020-08-25,52.5
-NLD,Netherlands,2020-08-26,52.5
-NLD,Netherlands,2020-08-27,52.5
-NLD,Netherlands,2020-08-28,52.5
-NLD,Netherlands,2020-08-29,52.5
-NLD,Netherlands,2020-08-30,52.5
-NLD,Netherlands,2020-08-31,53.33
-NLD,Netherlands,2020-09-01,53.33
-NLD,Netherlands,2020-09-02,53.33
-NLD,Netherlands,2020-09-03,53.33
-NLD,Netherlands,2020-09-04,53.33
-NLD,Netherlands,2020-09-05,53.33
-NLD,Netherlands,2020-09-06,53.33
-NLD,Netherlands,2020-09-07,53.33
-NLD,Netherlands,2020-09-08,53.33
-NLD,Netherlands,2020-09-09,53.33
-NLD,Netherlands,2020-09-10,53.33
-NLD,Netherlands,2020-09-11,53.33
-NLD,Netherlands,2020-09-12,53.33
-NLD,Netherlands,2020-09-13,53.33
-NLD,Netherlands,2020-09-14,53.33
-NLD,Netherlands,2020-09-15,53.33
-NLD,Netherlands,2020-09-16,53.33
-NLD,Netherlands,2020-09-17,53.33
-NLD,Netherlands,2020-09-18,53.33
-NLD,Netherlands,2020-09-19,53.33
-NLD,Netherlands,2020-09-20,51.67
-NLD,Netherlands,2020-09-21,51.67
-NLD,Netherlands,2020-09-22,51.67
-NLD,Netherlands,2020-09-23,51.67
-NLD,Netherlands,2020-09-24,51.67
-NLD,Netherlands,2020-09-25,51.67
-NLD,Netherlands,2020-09-26,51.67
-NLD,Netherlands,2020-09-27,51.67
-NLD,Netherlands,2020-09-28,51.67
-NLD,Netherlands,2020-09-29,60.0
-NLD,Netherlands,2020-09-30,60.0
-NLD,Netherlands,2020-10-01,60.0
-NLD,Netherlands,2020-10-02,60.0
-NLD,Netherlands,2020-10-03,60.0
-NLD,Netherlands,2020-10-04,60.0
-NLD,Netherlands,2020-10-05,60.0
-NLD,Netherlands,2020-10-06,60.0
-NLD,Netherlands,2020-10-07,60.0
-NLD,Netherlands,2020-10-08,60.0
-NLD,Netherlands,2020-10-09,60.0
-NLD,Netherlands,2020-10-10,60.0
-NLD,Netherlands,2020-10-11,60.0
-NLD,Netherlands,2020-10-12,60.0
-NLD,Netherlands,2020-10-13,60.0
-NLD,Netherlands,2020-10-14,60.0
-NLD,Netherlands,2020-10-15,60.0
-NLD,Netherlands,2020-10-16,60.0
-NLD,Netherlands,2020-10-17,60.0
-NLD,Netherlands,2020-10-18,60.0
-NLD,Netherlands,2020-10-19,60.0
-NLD,Netherlands,2020-10-20,60.0
-NLD,Netherlands,2020-10-21,60.0
-NLD,Netherlands,2020-10-22,60.0
-NLD,Netherlands,2020-10-23,60.0
-NLD,Netherlands,2020-10-24,60.0
-NLD,Netherlands,2020-10-25,60.0
-NLD,Netherlands,2020-10-26,60.0
-NLD,Netherlands,2020-10-27,60.0
-NLD,Netherlands,2020-10-28,60.0
-NLD,Netherlands,2020-10-29,60.0
-NLD,Netherlands,2020-10-30,60.0
-NLD,Netherlands,2020-10-31,60.0
-NLD,Netherlands,2020-11-01,60.0
-NLD,Netherlands,2020-11-02,60.0
-NLD,Netherlands,2020-11-03,60.0
-NLD,Netherlands,2020-11-04,62.22
-NLD,Netherlands,2020-11-05,62.22
-NLD,Netherlands,2020-11-06,62.22
-NLD,Netherlands,2020-11-07,62.22
-NLD,Netherlands,2020-11-08,62.22
-NLD,Netherlands,2020-11-09,62.22
-NLD,Netherlands,2020-11-10,62.22
-NLD,Netherlands,2020-11-11,62.22
-NLD,Netherlands,2020-11-12,62.22
-NLD,Netherlands,2020-11-13,62.22
-NLD,Netherlands,2020-11-14,62.22
-NLD,Netherlands,2020-11-15,62.22
-NLD,Netherlands,2020-11-16,62.22
-NLD,Netherlands,2020-11-17,62.22
-NLD,Netherlands,2020-11-18,62.22
-NLD,Netherlands,2020-11-19,62.22
-NLD,Netherlands,2020-11-20,62.22
-NLD,Netherlands,2020-11-21,62.22
-NLD,Netherlands,2020-11-22,56.67
-NLD,Netherlands,2020-11-23,56.67
-NLD,Netherlands,2020-11-24,56.67
-NLD,Netherlands,2020-11-25,56.67
-NLD,Netherlands,2020-11-26,56.67
-NLD,Netherlands,2020-11-27,56.67
-NLD,Netherlands,2020-11-28,56.67
-NLD,Netherlands,2020-11-29,56.67
-NLD,Netherlands,2020-11-30,56.67
-NLD,Netherlands,2020-12-30,56.67
-NLD,Netherlands,2020-12-31,56.67
-NLD,Netherlands,2021-01-01,56.67
-NLD,Netherlands,2021-01-02,56.67
-NLD,Netherlands,2021-01-03,56.67
-NLD,Netherlands,2021-01-04,56.67
-NLD,Netherlands,2021-01-05,56.67
+NLD,Netherlands,2020-03-26,61.67
+NLD,Netherlands,2020-03-27,61.67
+NLD,Netherlands,2020-03-28,61.67
+NLD,Netherlands,2020-03-29,61.67
+NLD,Netherlands,2020-03-30,61.67
+NLD,Netherlands,2020-03-31,65.0
+NLD,Netherlands,2020-04-01,65.0
+NLD,Netherlands,2020-04-02,65.0
+NLD,Netherlands,2020-04-03,65.0
+NLD,Netherlands,2020-04-04,65.0
+NLD,Netherlands,2020-04-05,65.0
+NLD,Netherlands,2020-04-06,65.0
+NLD,Netherlands,2020-04-07,65.0
+NLD,Netherlands,2020-04-08,65.0
+NLD,Netherlands,2020-04-09,65.0
+NLD,Netherlands,2020-04-10,65.0
+NLD,Netherlands,2020-04-11,65.0
+NLD,Netherlands,2020-04-12,65.0
+NLD,Netherlands,2020-04-13,65.0
+NLD,Netherlands,2020-04-14,65.0
+NLD,Netherlands,2020-04-15,65.0
+NLD,Netherlands,2020-04-16,65.0
+NLD,Netherlands,2020-04-17,65.0
+NLD,Netherlands,2020-04-18,65.0
+NLD,Netherlands,2020-04-19,65.0
+NLD,Netherlands,2020-04-20,65.0
+NLD,Netherlands,2020-04-21,65.0
+NLD,Netherlands,2020-04-22,65.0
+NLD,Netherlands,2020-04-23,65.0
+NLD,Netherlands,2020-04-24,65.0
+NLD,Netherlands,2020-04-25,65.0
+NLD,Netherlands,2020-04-26,65.0
+NLD,Netherlands,2020-04-27,65.0
+NLD,Netherlands,2020-04-28,65.0
+NLD,Netherlands,2020-04-29,65.0
+NLD,Netherlands,2020-04-30,65.0
+NLD,Netherlands,2020-05-01,65.0
+NLD,Netherlands,2020-05-02,65.0
+NLD,Netherlands,2020-05-03,65.0
+NLD,Netherlands,2020-05-04,65.0
+NLD,Netherlands,2020-05-05,65.0
+NLD,Netherlands,2020-05-06,65.0
+NLD,Netherlands,2020-05-07,65.0
+NLD,Netherlands,2020-05-08,65.0
+NLD,Netherlands,2020-05-09,65.0
+NLD,Netherlands,2020-05-10,65.0
+NLD,Netherlands,2020-05-11,58.33
+NLD,Netherlands,2020-05-12,58.33
+NLD,Netherlands,2020-05-13,58.33
+NLD,Netherlands,2020-05-14,58.33
+NLD,Netherlands,2020-05-15,58.33
+NLD,Netherlands,2020-05-16,58.33
+NLD,Netherlands,2020-05-17,58.33
+NLD,Netherlands,2020-05-18,58.33
+NLD,Netherlands,2020-05-19,58.33
+NLD,Netherlands,2020-05-20,58.33
+NLD,Netherlands,2020-05-21,58.33
+NLD,Netherlands,2020-05-22,58.33
+NLD,Netherlands,2020-05-23,58.33
+NLD,Netherlands,2020-05-24,58.33
+NLD,Netherlands,2020-05-25,58.33
+NLD,Netherlands,2020-05-26,58.33
+NLD,Netherlands,2020-05-27,58.33
+NLD,Netherlands,2020-05-28,58.33
+NLD,Netherlands,2020-05-29,58.33
+NLD,Netherlands,2020-05-30,58.33
+NLD,Netherlands,2020-05-31,58.33
+NLD,Netherlands,2020-06-01,63.89
+NLD,Netherlands,2020-06-02,63.89
+NLD,Netherlands,2020-06-03,63.89
+NLD,Netherlands,2020-06-04,63.89
+NLD,Netherlands,2020-06-05,63.89
+NLD,Netherlands,2020-06-06,63.89
+NLD,Netherlands,2020-06-07,63.89
+NLD,Netherlands,2020-06-08,63.89
+NLD,Netherlands,2020-06-09,63.89
+NLD,Netherlands,2020-06-10,63.89
+NLD,Netherlands,2020-06-11,63.89
+NLD,Netherlands,2020-06-12,63.89
+NLD,Netherlands,2020-06-13,63.89
+NLD,Netherlands,2020-06-14,63.89
+NLD,Netherlands,2020-06-15,61.67
+NLD,Netherlands,2020-06-16,61.67
+NLD,Netherlands,2020-06-17,61.67
+NLD,Netherlands,2020-06-18,61.67
+NLD,Netherlands,2020-06-19,61.67
+NLD,Netherlands,2020-06-20,61.67
+NLD,Netherlands,2020-06-21,61.67
+NLD,Netherlands,2020-06-22,61.67
+NLD,Netherlands,2020-06-23,61.67
+NLD,Netherlands,2020-06-24,61.67
+NLD,Netherlands,2020-06-25,61.67
+NLD,Netherlands,2020-06-26,61.67
+NLD,Netherlands,2020-06-27,61.67
+NLD,Netherlands,2020-06-28,61.67
+NLD,Netherlands,2020-06-29,61.67
+NLD,Netherlands,2020-06-30,61.67
+NLD,Netherlands,2020-07-01,50.0
+NLD,Netherlands,2020-07-02,50.0
+NLD,Netherlands,2020-07-03,50.0
+NLD,Netherlands,2020-07-04,50.0
+NLD,Netherlands,2020-07-05,50.0
+NLD,Netherlands,2020-07-06,50.0
+NLD,Netherlands,2020-07-07,50.0
+NLD,Netherlands,2020-07-08,50.0
+NLD,Netherlands,2020-07-09,50.0
+NLD,Netherlands,2020-07-10,50.0
+NLD,Netherlands,2020-07-11,50.0
+NLD,Netherlands,2020-07-12,50.0
+NLD,Netherlands,2020-07-13,50.0
+NLD,Netherlands,2020-07-14,50.0
+NLD,Netherlands,2020-07-15,50.0
+NLD,Netherlands,2020-07-16,50.0
+NLD,Netherlands,2020-07-17,50.0
+NLD,Netherlands,2020-07-18,50.0
+NLD,Netherlands,2020-07-19,50.0
+NLD,Netherlands,2020-07-20,50.0
+NLD,Netherlands,2020-07-21,50.0
+NLD,Netherlands,2020-07-22,50.0
+NLD,Netherlands,2020-07-23,50.0
+NLD,Netherlands,2020-07-24,50.0
+NLD,Netherlands,2020-07-25,50.0
+NLD,Netherlands,2020-07-26,50.0
+NLD,Netherlands,2020-07-27,50.0
+NLD,Netherlands,2020-07-28,50.0
+NLD,Netherlands,2020-07-29,50.0
+NLD,Netherlands,2020-07-30,50.0
+NLD,Netherlands,2020-07-31,50.0
+NLD,Netherlands,2020-08-01,50.0
+NLD,Netherlands,2020-08-02,50.0
+NLD,Netherlands,2020-08-03,50.0
+NLD,Netherlands,2020-08-04,50.0
+NLD,Netherlands,2020-08-05,49.17
+NLD,Netherlands,2020-08-06,49.17
+NLD,Netherlands,2020-08-07,49.17
+NLD,Netherlands,2020-08-08,49.17
+NLD,Netherlands,2020-08-09,49.17
+NLD,Netherlands,2020-08-10,49.17
+NLD,Netherlands,2020-08-11,49.17
+NLD,Netherlands,2020-08-12,49.17
+NLD,Netherlands,2020-08-13,49.17
+NLD,Netherlands,2020-08-14,49.17
+NLD,Netherlands,2020-08-15,49.17
+NLD,Netherlands,2020-08-16,49.17
+NLD,Netherlands,2020-08-17,49.17
+NLD,Netherlands,2020-08-18,55.83
+NLD,Netherlands,2020-08-19,55.83
+NLD,Netherlands,2020-08-20,55.83
+NLD,Netherlands,2020-08-21,55.83
+NLD,Netherlands,2020-08-22,55.83
+NLD,Netherlands,2020-08-23,55.83
+NLD,Netherlands,2020-08-24,55.83
+NLD,Netherlands,2020-08-25,55.83
+NLD,Netherlands,2020-08-26,55.83
+NLD,Netherlands,2020-08-27,55.83
+NLD,Netherlands,2020-08-28,55.83
+NLD,Netherlands,2020-08-29,55.83
+NLD,Netherlands,2020-08-30,55.83
+NLD,Netherlands,2020-08-31,56.67
+NLD,Netherlands,2020-09-01,56.67
+NLD,Netherlands,2020-09-02,56.67
+NLD,Netherlands,2020-09-03,56.67
+NLD,Netherlands,2020-09-04,56.67
+NLD,Netherlands,2020-09-05,56.67
+NLD,Netherlands,2020-09-06,56.67
+NLD,Netherlands,2020-09-07,56.67
+NLD,Netherlands,2020-09-08,56.67
+NLD,Netherlands,2020-09-09,56.67
+NLD,Netherlands,2020-09-10,56.67
+NLD,Netherlands,2020-09-11,56.67
+NLD,Netherlands,2020-09-12,56.67
+NLD,Netherlands,2020-09-13,56.67
+NLD,Netherlands,2020-09-14,56.67
+NLD,Netherlands,2020-09-15,56.67
+NLD,Netherlands,2020-09-16,56.67
+NLD,Netherlands,2020-09-17,56.67
+NLD,Netherlands,2020-09-18,56.67
+NLD,Netherlands,2020-09-19,56.67
+NLD,Netherlands,2020-09-20,55.0
+NLD,Netherlands,2020-09-21,55.0
+NLD,Netherlands,2020-09-22,55.0
+NLD,Netherlands,2020-09-23,55.0
+NLD,Netherlands,2020-09-24,55.0
+NLD,Netherlands,2020-09-25,55.0
+NLD,Netherlands,2020-09-26,55.0
+NLD,Netherlands,2020-09-27,55.0
+NLD,Netherlands,2020-09-28,55.0
+NLD,Netherlands,2020-09-29,63.33
+NLD,Netherlands,2020-09-30,63.33
+NLD,Netherlands,2020-10-01,65.0
+NLD,Netherlands,2020-10-02,65.0
+NLD,Netherlands,2020-10-03,65.0
+NLD,Netherlands,2020-10-04,65.0
+NLD,Netherlands,2020-10-05,65.0
+NLD,Netherlands,2020-10-06,65.0
+NLD,Netherlands,2020-10-07,65.0
+NLD,Netherlands,2020-10-08,65.0
+NLD,Netherlands,2020-10-09,65.0
+NLD,Netherlands,2020-10-10,65.0
+NLD,Netherlands,2020-10-11,65.0
+NLD,Netherlands,2020-10-12,65.0
+NLD,Netherlands,2020-10-13,65.0
+NLD,Netherlands,2020-10-14,65.0
+NLD,Netherlands,2020-10-15,65.0
+NLD,Netherlands,2020-10-16,65.0
+NLD,Netherlands,2020-10-17,65.0
+NLD,Netherlands,2020-10-18,65.0
+NLD,Netherlands,2020-10-19,65.0
+NLD,Netherlands,2020-10-20,65.0
+NLD,Netherlands,2020-10-21,65.0
+NLD,Netherlands,2020-10-22,65.0
+NLD,Netherlands,2020-10-23,65.0
+NLD,Netherlands,2020-10-24,65.0
+NLD,Netherlands,2020-10-25,65.0
+NLD,Netherlands,2020-10-26,65.0
+NLD,Netherlands,2020-10-27,65.0
+NLD,Netherlands,2020-10-28,65.0
+NLD,Netherlands,2020-10-29,65.0
+NLD,Netherlands,2020-10-30,65.0
+NLD,Netherlands,2020-10-31,65.0
+NLD,Netherlands,2020-11-01,65.0
+NLD,Netherlands,2020-11-02,65.0
+NLD,Netherlands,2020-11-03,65.0
+NLD,Netherlands,2020-11-04,67.22
+NLD,Netherlands,2020-11-05,67.22
+NLD,Netherlands,2020-11-06,67.22
+NLD,Netherlands,2020-11-07,67.22
+NLD,Netherlands,2020-11-08,67.22
+NLD,Netherlands,2020-11-09,67.22
+NLD,Netherlands,2020-11-10,67.22
+NLD,Netherlands,2020-11-11,67.22
+NLD,Netherlands,2020-11-12,67.22
+NLD,Netherlands,2020-11-13,67.22
+NLD,Netherlands,2020-11-14,67.22
+NLD,Netherlands,2020-11-15,67.22
+NLD,Netherlands,2020-11-16,67.22
+NLD,Netherlands,2020-11-17,67.22
+NLD,Netherlands,2020-11-18,67.22
+NLD,Netherlands,2020-11-19,67.22
+NLD,Netherlands,2020-11-20,67.22
+NLD,Netherlands,2020-11-21,67.22
+NLD,Netherlands,2020-11-22,61.67
+NLD,Netherlands,2020-11-23,61.67
+NLD,Netherlands,2020-11-24,61.67
+NLD,Netherlands,2020-11-25,61.67
+NLD,Netherlands,2020-11-26,61.67
+NLD,Netherlands,2020-11-27,61.67
+NLD,Netherlands,2020-11-28,61.67
+NLD,Netherlands,2020-11-29,61.67
+NLD,Netherlands,2020-11-30,61.67
+NLD,Netherlands,2020-12-01,58.33
+NLD,Netherlands,2020-12-02,58.33
+NLD,Netherlands,2020-12-03,58.33
+NLD,Netherlands,2020-12-04,58.33
+NLD,Netherlands,2020-12-05,58.33
+NLD,Netherlands,2020-12-06,58.33
+NLD,Netherlands,2020-12-07,58.33
+NLD,Netherlands,2020-12-08,58.33
+NLD,Netherlands,2020-12-09,58.33
+NLD,Netherlands,2020-12-10,58.33
+NLD,Netherlands,2020-12-11,58.33
+NLD,Netherlands,2020-12-12,58.33
+NLD,Netherlands,2020-12-13,58.33
+NLD,Netherlands,2020-12-14,58.33
+NLD,Netherlands,2020-12-15,70.56
+NLD,Netherlands,2020-12-16,75.0
+NLD,Netherlands,2020-12-17,75.0
+NLD,Netherlands,2020-12-18,75.0
+NLD,Netherlands,2020-12-19,75.0
+NLD,Netherlands,2020-12-20,75.0
+NLD,Netherlands,2020-12-21,75.0
+NLD,Netherlands,2020-12-22,75.0
+NLD,Netherlands,2020-12-23,75.0
+NLD,Netherlands,2020-12-24,75.0
+NLD,Netherlands,2020-12-25,75.0
+NLD,Netherlands,2020-12-26,75.0
+NLD,Netherlands,2020-12-27,75.0
+NLD,Netherlands,2020-12-28,75.0
+NLD,Netherlands,2020-12-29,75.0
+NLD,Netherlands,2020-12-30,75.0
+NLD,Netherlands,2020-12-31,75.0
+NLD,Netherlands,2021-01-01,75.0
+NLD,Netherlands,2021-01-02,75.0
+NLD,Netherlands,2021-01-03,75.0
+NLD,Netherlands,2021-01-04,75.0
+NLD,Netherlands,2021-01-05,75.0
+NLD,Netherlands,2021-01-06,75.0
 NOR,Norway,2020-01-01,0.0
 NOR,Norway,2020-01-02,0.0
 NOR,Norway,2020-01-03,0.0
@@ -44605,13 +45100,13 @@ NOR,Norway,2020-12-26,54.11
 NOR,Norway,2020-12-27,54.11
 NOR,Norway,2020-12-28,54.11
 NOR,Norway,2020-12-29,54.11
-NOR,Norway,2020-12-30,54.11
 NOR,Norway,2020-12-31,54.11
 NOR,Norway,2021-01-01,54.11
 NOR,Norway,2021-01-02,54.11
 NOR,Norway,2021-01-03,54.11
 NOR,Norway,2021-01-04,54.11
 NOR,Norway,2021-01-05,54.11
+NOR,Norway,2021-01-06,54.11
 NPL,Nepal,2020-01-01,0.0
 NPL,Nepal,2020-01-02,0.0
 NPL,Nepal,2020-01-03,0.0
@@ -44983,6 +45478,7 @@ NPL,Nepal,2021-01-02,56.33
 NPL,Nepal,2021-01-03,56.33
 NPL,Nepal,2021-01-04,56.33
 NPL,Nepal,2021-01-05,56.33
+NPL,Nepal,2021-01-06,56.33
 NZL,New Zealand,2020-01-01,0.0
 NZL,New Zealand,2020-01-02,0.0
 NZL,New Zealand,2020-01-03,0.0
@@ -45354,6 +45850,7 @@ NZL,New Zealand,2021-01-02,42.5
 NZL,New Zealand,2021-01-03,42.5
 NZL,New Zealand,2021-01-04,42.5
 NZL,New Zealand,2021-01-05,42.5
+NZL,New Zealand,2021-01-06,42.5
 OMN,Oman,2020-01-01,0.0
 OMN,Oman,2020-01-02,0.0
 OMN,Oman,2020-01-03,0.0
@@ -45725,6 +46222,7 @@ OMN,Oman,2021-01-02,43.67
 OMN,Oman,2021-01-03,43.67
 OMN,Oman,2021-01-04,43.67
 OMN,Oman,2021-01-05,43.67
+OMN,Oman,2021-01-06,43.67
 PAK,Pakistan,2020-01-01,0.0
 PAK,Pakistan,2020-01-02,0.0
 PAK,Pakistan,2020-01-03,0.0
@@ -46096,6 +46594,7 @@ PAK,Pakistan,2021-01-02,66.39
 PAK,Pakistan,2021-01-03,66.39
 PAK,Pakistan,2021-01-04,66.39
 PAK,Pakistan,2021-01-05,66.39
+PAK,Pakistan,2021-01-06,66.39
 PAN,Panama,2020-01-01,0.0
 PAN,Panama,2020-01-02,0.0
 PAN,Panama,2020-01-03,0.0
@@ -46467,6 +46966,7 @@ PAN,Panama,2021-01-02,76.11
 PAN,Panama,2021-01-03,76.11
 PAN,Panama,2021-01-04,76.11
 PAN,Panama,2021-01-05,76.11
+PAN,Panama,2021-01-06,76.11
 PER,Peru,2020-01-01,0.0
 PER,Peru,2020-01-02,0.0
 PER,Peru,2020-01-03,0.0
@@ -46838,6 +47338,7 @@ PER,Peru,2021-01-02,59.44
 PER,Peru,2021-01-03,59.44
 PER,Peru,2021-01-04,59.44
 PER,Peru,2021-01-05,59.44
+PER,Peru,2021-01-06,59.44
 PHL,Philippines,2020-01-01,0.0
 PHL,Philippines,2020-01-02,0.0
 PHL,Philippines,2020-01-03,0.0
@@ -47209,6 +47710,7 @@ PHL,Philippines,2021-01-02,57.5
 PHL,Philippines,2021-01-03,57.5
 PHL,Philippines,2021-01-04,57.5
 PHL,Philippines,2021-01-05,57.5
+PHL,Philippines,2021-01-06,57.5
 PNG,Papua New Guinea,2020-01-01,0.0
 PNG,Papua New Guinea,2020-01-02,0.0
 PNG,Papua New Guinea,2020-01-03,0.0
@@ -47580,6 +48082,7 @@ PNG,Papua New Guinea,2021-01-02,38.33
 PNG,Papua New Guinea,2021-01-03,38.33
 PNG,Papua New Guinea,2021-01-04,38.33
 PNG,Papua New Guinea,2021-01-05,38.33
+PNG,Papua New Guinea,2021-01-06,38.33
 POL,Poland,2020-01-01,0.0
 POL,Poland,2020-01-02,0.0
 POL,Poland,2020-01-03,0.0
@@ -47951,6 +48454,7 @@ POL,Poland,2021-01-02,71.56
 POL,Poland,2021-01-03,71.56
 POL,Poland,2021-01-04,71.56
 POL,Poland,2021-01-05,71.56
+POL,Poland,2021-01-06,71.56
 PRI,Puerto Rico,2020-01-01,0.0
 PRI,Puerto Rico,2020-01-02,0.0
 PRI,Puerto Rico,2020-01-03,0.0
@@ -48322,6 +48826,7 @@ PRI,Puerto Rico,2021-01-02,67.22
 PRI,Puerto Rico,2021-01-03,67.22
 PRI,Puerto Rico,2021-01-04,67.22
 PRI,Puerto Rico,2021-01-05,67.22
+PRI,Puerto Rico,2021-01-06,67.22
 PRT,Portugal,2020-01-01,0.0
 PRT,Portugal,2020-01-02,0.0
 PRT,Portugal,2020-01-03,0.0
@@ -48678,13 +49183,13 @@ PRT,Portugal,2020-12-18,62.22
 PRT,Portugal,2020-12-19,62.22
 PRT,Portugal,2020-12-20,62.22
 PRT,Portugal,2020-12-21,62.22
-PRT,Portugal,2020-12-30,62.22
 PRT,Portugal,2020-12-31,62.22
 PRT,Portugal,2021-01-01,62.22
 PRT,Portugal,2021-01-02,62.22
 PRT,Portugal,2021-01-03,62.22
 PRT,Portugal,2021-01-04,62.22
 PRT,Portugal,2021-01-05,62.22
+PRT,Portugal,2021-01-06,62.22
 PRY,Paraguay,2020-01-01,0.0
 PRY,Paraguay,2020-01-02,0.0
 PRY,Paraguay,2020-01-03,0.0
@@ -49056,6 +49561,7 @@ PRY,Paraguay,2021-01-02,57.78
 PRY,Paraguay,2021-01-03,57.78
 PRY,Paraguay,2021-01-04,57.78
 PRY,Paraguay,2021-01-05,57.78
+PRY,Paraguay,2021-01-06,57.78
 PSE,State of Palestine,2020-01-01,0.0
 PSE,State of Palestine,2020-01-02,0.0
 PSE,State of Palestine,2020-01-03,0.0
@@ -49427,6 +49933,7 @@ PSE,State of Palestine,2021-01-02,44.72
 PSE,State of Palestine,2021-01-03,44.72
 PSE,State of Palestine,2021-01-04,44.72
 PSE,State of Palestine,2021-01-05,44.72
+PSE,State of Palestine,2021-01-06,44.72
 QAT,Qatar,2020-01-01,0.0
 QAT,Qatar,2020-01-02,0.0
 QAT,Qatar,2020-01-03,0.0
@@ -49798,6 +50305,7 @@ QAT,Qatar,2021-01-02,68.89
 QAT,Qatar,2021-01-03,68.89
 QAT,Qatar,2021-01-04,68.89
 QAT,Qatar,2021-01-05,68.89
+QAT,Qatar,2021-01-06,68.89
 RKS,,2020-01-01,0.0
 RKS,,2020-01-02,0.0
 RKS,,2020-01-03,0.0
@@ -50169,6 +50677,7 @@ RKS,,2021-01-02,77.78
 RKS,,2021-01-03,77.78
 RKS,,2021-01-04,77.78
 RKS,,2021-01-05,77.78
+RKS,,2021-01-06,77.78
 ROU,Romania,2020-01-01,0.0
 ROU,Romania,2020-01-02,0.0
 ROU,Romania,2020-01-03,0.0
@@ -50540,6 +51049,7 @@ ROU,Romania,2021-01-02,76.89
 ROU,Romania,2021-01-03,76.89
 ROU,Romania,2021-01-04,76.89
 ROU,Romania,2021-01-05,76.89
+ROU,Romania,2021-01-06,76.89
 RUS,Russian Federation,2020-01-01,0.0
 RUS,Russian Federation,2020-01-02,0.0
 RUS,Russian Federation,2020-01-03,0.0
@@ -50911,6 +51421,7 @@ RUS,Russian Federation,2021-01-02,50.28
 RUS,Russian Federation,2021-01-03,50.28
 RUS,Russian Federation,2021-01-04,50.28
 RUS,Russian Federation,2021-01-05,50.28
+RUS,Russian Federation,2021-01-06,50.28
 RWA,Rwanda,2020-01-01,0.0
 RWA,Rwanda,2020-01-02,0.0
 RWA,Rwanda,2020-01-03,0.0
@@ -51267,13 +51778,13 @@ RWA,Rwanda,2020-12-18,56.39
 RWA,Rwanda,2020-12-19,56.39
 RWA,Rwanda,2020-12-20,56.39
 RWA,Rwanda,2020-12-21,56.39
-RWA,Rwanda,2020-12-30,56.39
 RWA,Rwanda,2020-12-31,56.39
 RWA,Rwanda,2021-01-01,56.39
 RWA,Rwanda,2021-01-02,56.39
 RWA,Rwanda,2021-01-03,56.39
 RWA,Rwanda,2021-01-04,56.39
 RWA,Rwanda,2021-01-05,56.39
+RWA,Rwanda,2021-01-06,56.39
 SAU,Saudi Arabia,2020-01-01,0.0
 SAU,Saudi Arabia,2020-01-02,0.0
 SAU,Saudi Arabia,2020-01-03,0.0
@@ -51645,6 +52156,7 @@ SAU,Saudi Arabia,2021-01-02,65.0
 SAU,Saudi Arabia,2021-01-03,65.0
 SAU,Saudi Arabia,2021-01-04,65.0
 SAU,Saudi Arabia,2021-01-05,65.0
+SAU,Saudi Arabia,2021-01-06,65.0
 SDN,Sudan,2020-01-01,0.0
 SDN,Sudan,2020-01-02,0.0
 SDN,Sudan,2020-01-03,0.0
@@ -52015,6 +52527,7 @@ SDN,Sudan,2021-01-02,27.78
 SDN,Sudan,2021-01-03,27.78
 SDN,Sudan,2021-01-04,27.78
 SDN,Sudan,2021-01-05,27.78
+SDN,Sudan,2021-01-06,27.78
 SEN,Senegal,2020-01-01,0.0
 SEN,Senegal,2020-01-02,0.0
 SEN,Senegal,2020-01-03,0.0
@@ -52386,6 +52899,7 @@ SEN,Senegal,2021-01-02,43.89
 SEN,Senegal,2021-01-03,43.89
 SEN,Senegal,2021-01-04,43.89
 SEN,Senegal,2021-01-05,43.89
+SEN,Senegal,2021-01-06,43.89
 SGP,Singapore,2020-01-01,0.0
 SGP,Singapore,2020-01-02,10.56
 SGP,Singapore,2020-01-03,10.56
@@ -52757,6 +53271,7 @@ SGP,Singapore,2021-01-02,68.56
 SGP,Singapore,2021-01-03,68.56
 SGP,Singapore,2021-01-04,68.56
 SGP,Singapore,2021-01-05,68.56
+SGP,Singapore,2021-01-06,68.56
 SLB,Solomon Islands,2020-01-01,0.0
 SLB,Solomon Islands,2020-01-02,0.0
 SLB,Solomon Islands,2020-01-03,0.0
@@ -53121,13 +53636,13 @@ SLB,Solomon Islands,2020-12-26,33.89
 SLB,Solomon Islands,2020-12-27,33.89
 SLB,Solomon Islands,2020-12-28,33.89
 SLB,Solomon Islands,2020-12-29,33.89
-SLB,Solomon Islands,2020-12-30,33.89
 SLB,Solomon Islands,2020-12-31,33.89
 SLB,Solomon Islands,2021-01-01,33.89
 SLB,Solomon Islands,2021-01-02,33.89
 SLB,Solomon Islands,2021-01-03,33.89
 SLB,Solomon Islands,2021-01-04,33.89
 SLB,Solomon Islands,2021-01-05,33.89
+SLB,Solomon Islands,2021-01-06,33.89
 SLE,Sierra Leone,2020-01-01,0.0
 SLE,Sierra Leone,2020-01-02,0.0
 SLE,Sierra Leone,2020-01-03,0.0
@@ -53499,6 +54014,7 @@ SLE,Sierra Leone,2021-01-02,38.33
 SLE,Sierra Leone,2021-01-03,38.33
 SLE,Sierra Leone,2021-01-04,38.33
 SLE,Sierra Leone,2021-01-05,38.33
+SLE,Sierra Leone,2021-01-06,38.33
 SLV,El Salvador,2020-01-01,0.0
 SLV,El Salvador,2020-01-02,0.0
 SLV,El Salvador,2020-01-03,0.0
@@ -53870,6 +54386,7 @@ SLV,El Salvador,2021-01-02,53.33
 SLV,El Salvador,2021-01-03,53.33
 SLV,El Salvador,2021-01-04,53.33
 SLV,El Salvador,2021-01-05,53.33
+SLV,El Salvador,2021-01-06,53.33
 SMR,San Marino,2020-01-01,0.0
 SMR,San Marino,2020-01-02,0.0
 SMR,San Marino,2020-01-03,0.0
@@ -54241,6 +54758,7 @@ SMR,San Marino,2021-01-02,70.56
 SMR,San Marino,2021-01-03,70.56
 SMR,San Marino,2021-01-04,70.56
 SMR,San Marino,2021-01-05,70.56
+SMR,San Marino,2021-01-06,70.56
 SOM,Somalia,2020-01-01,0.0
 SOM,Somalia,2020-01-02,0.0
 SOM,Somalia,2020-01-03,0.0
@@ -54612,6 +55130,7 @@ SOM,Somalia,2021-01-02,33.89
 SOM,Somalia,2021-01-03,33.89
 SOM,Somalia,2021-01-04,33.89
 SOM,Somalia,2021-01-05,33.89
+SOM,Somalia,2021-01-06,33.89
 SRB,Serbia,2020-01-01,0.0
 SRB,Serbia,2020-01-02,0.0
 SRB,Serbia,2020-01-03,0.0
@@ -54983,6 +55502,7 @@ SRB,Serbia,2021-01-02,61.89
 SRB,Serbia,2021-01-03,61.89
 SRB,Serbia,2021-01-04,61.89
 SRB,Serbia,2021-01-05,61.89
+SRB,Serbia,2021-01-06,61.89
 SSD,South Sudan,2020-01-01,0.0
 SSD,South Sudan,2020-01-02,0.0
 SSD,South Sudan,2020-01-03,0.0
@@ -55354,6 +55874,7 @@ SSD,South Sudan,2021-01-02,39.44
 SSD,South Sudan,2021-01-03,39.44
 SSD,South Sudan,2021-01-04,39.44
 SSD,South Sudan,2021-01-05,39.44
+SSD,South Sudan,2021-01-06,39.44
 SUR,Suriname,2020-01-01,0.0
 SUR,Suriname,2020-01-02,0.0
 SUR,Suriname,2020-01-03,0.0
@@ -55710,6 +56231,14 @@ SUR,Suriname,2020-12-18,55.56
 SUR,Suriname,2020-12-19,55.56
 SUR,Suriname,2020-12-20,55.56
 SUR,Suriname,2020-12-21,55.56
+SUR,Suriname,2020-12-22,55.56
+SUR,Suriname,2020-12-23,55.56
+SUR,Suriname,2020-12-24,55.56
+SUR,Suriname,2020-12-25,55.56
+SUR,Suriname,2020-12-26,55.56
+SUR,Suriname,2020-12-27,55.56
+SUR,Suriname,2020-12-28,55.56
+SUR,Suriname,2020-12-29,55.56
 SUR,Suriname,2020-12-30,55.56
 SUR,Suriname,2020-12-31,55.56
 SUR,Suriname,2021-01-01,55.56
@@ -55717,6 +56246,7 @@ SUR,Suriname,2021-01-02,55.56
 SUR,Suriname,2021-01-03,55.56
 SUR,Suriname,2021-01-04,55.56
 SUR,Suriname,2021-01-05,55.56
+SUR,Suriname,2021-01-06,55.56
 SVK,Slovak Republic,2020-01-01,8.89
 SVK,Slovak Republic,2020-01-02,8.89
 SVK,Slovak Republic,2020-01-03,8.89
@@ -56088,6 +56618,7 @@ SVK,Slovak Republic,2021-01-02,60.78
 SVK,Slovak Republic,2021-01-03,60.78
 SVK,Slovak Republic,2021-01-04,60.78
 SVK,Slovak Republic,2021-01-05,60.78
+SVK,Slovak Republic,2021-01-06,60.78
 SVN,Slovenia,2020-01-01,0.0
 SVN,Slovenia,2020-01-02,0.0
 SVN,Slovenia,2020-01-03,0.0
@@ -56443,13 +56974,13 @@ SVN,Slovenia,2020-12-17,68.89
 SVN,Slovenia,2020-12-18,68.89
 SVN,Slovenia,2020-12-19,68.89
 SVN,Slovenia,2020-12-20,68.89
-SVN,Slovenia,2020-12-30,68.89
 SVN,Slovenia,2020-12-31,68.89
 SVN,Slovenia,2021-01-01,68.89
 SVN,Slovenia,2021-01-02,68.89
 SVN,Slovenia,2021-01-03,68.89
 SVN,Slovenia,2021-01-04,68.89
 SVN,Slovenia,2021-01-05,68.89
+SVN,Slovenia,2021-01-06,68.89
 SWE,Sweden,2020-01-01,0.0
 SWE,Sweden,2020-01-02,0.0
 SWE,Sweden,2020-01-03,0.0
@@ -56821,6 +57352,7 @@ SWE,Sweden,2021-01-02,60.22
 SWE,Sweden,2021-01-03,60.22
 SWE,Sweden,2021-01-04,60.22
 SWE,Sweden,2021-01-05,60.22
+SWE,Sweden,2021-01-06,60.22
 SWZ,Eswatini,2020-01-01,0.0
 SWZ,Eswatini,2020-01-02,0.0
 SWZ,Eswatini,2020-01-03,0.0
@@ -57192,6 +57724,7 @@ SWZ,Eswatini,2021-01-02,53.33
 SWZ,Eswatini,2021-01-03,53.33
 SWZ,Eswatini,2021-01-04,53.33
 SWZ,Eswatini,2021-01-05,53.33
+SWZ,Eswatini,2021-01-06,53.33
 SYC,Seychelles,2020-01-01,0.0
 SYC,Seychelles,2020-01-02,0.0
 SYC,Seychelles,2020-01-03,0.0
@@ -57563,6 +58096,7 @@ SYC,Seychelles,2021-01-02,40.0
 SYC,Seychelles,2021-01-03,41.67
 SYC,Seychelles,2021-01-04,41.67
 SYC,Seychelles,2021-01-05,41.67
+SYC,Seychelles,2021-01-06,41.67
 SYR,Syrian Arab Republic,2020-01-01,0.0
 SYR,Syrian Arab Republic,2020-01-02,0.0
 SYR,Syrian Arab Republic,2020-01-03,0.0
@@ -57934,6 +58468,7 @@ SYR,Syrian Arab Republic,2021-01-02,41.39
 SYR,Syrian Arab Republic,2021-01-03,41.39
 SYR,Syrian Arab Republic,2021-01-04,41.39
 SYR,Syrian Arab Republic,2021-01-05,41.39
+SYR,Syrian Arab Republic,2021-01-06,41.39
 TCD,Chad,2020-01-01,0.0
 TCD,Chad,2020-01-02,0.0
 TCD,Chad,2020-01-03,0.0
@@ -58305,6 +58840,7 @@ TCD,Chad,2021-01-02,55.56
 TCD,Chad,2021-01-03,55.56
 TCD,Chad,2021-01-04,55.56
 TCD,Chad,2021-01-05,55.56
+TCD,Chad,2021-01-06,55.56
 TGO,Togo,2020-01-01,0.0
 TGO,Togo,2020-01-02,0.0
 TGO,Togo,2020-01-03,0.0
@@ -58676,6 +59212,7 @@ TGO,Togo,2021-01-02,65.56
 TGO,Togo,2021-01-03,65.56
 TGO,Togo,2021-01-04,65.56
 TGO,Togo,2021-01-05,65.56
+TGO,Togo,2021-01-06,65.56
 THA,Thailand,2020-01-01,0.0
 THA,Thailand,2020-01-02,0.0
 THA,Thailand,2020-01-03,0.0
@@ -59047,6 +59584,7 @@ THA,Thailand,2021-01-02,66.94
 THA,Thailand,2021-01-03,66.94
 THA,Thailand,2021-01-04,66.94
 THA,Thailand,2021-01-05,66.94
+THA,Thailand,2021-01-06,66.94
 TJK,Tajikistan,2020-01-01,0.0
 TJK,Tajikistan,2020-01-02,0.0
 TJK,Tajikistan,2020-01-03,0.0
@@ -59418,6 +59956,7 @@ TJK,Tajikistan,2021-01-02,38.89
 TJK,Tajikistan,2021-01-03,38.89
 TJK,Tajikistan,2021-01-04,38.89
 TJK,Tajikistan,2021-01-05,38.89
+TJK,Tajikistan,2021-01-06,38.89
 TKM,Turkmenistan,2020-01-01,0.0
 TKM,Turkmenistan,2020-01-02,0.0
 TKM,Turkmenistan,2020-01-03,0.0
@@ -59789,6 +60328,7 @@ TKM,Turkmenistan,2021-01-02,38.33
 TKM,Turkmenistan,2021-01-03,38.33
 TKM,Turkmenistan,2021-01-04,38.33
 TKM,Turkmenistan,2021-01-05,38.33
+TKM,Turkmenistan,2021-01-06,38.33
 TLS,Timor-Leste,2020-01-01,0.0
 TLS,Timor-Leste,2020-01-02,0.0
 TLS,Timor-Leste,2020-01-03,0.0
@@ -60160,6 +60700,7 @@ TLS,Timor-Leste,2021-01-02,53.33
 TLS,Timor-Leste,2021-01-03,53.33
 TLS,Timor-Leste,2021-01-04,57.78
 TLS,Timor-Leste,2021-01-05,57.78
+TLS,Timor-Leste,2021-01-06,57.78
 TON,Tonga,2020-01-01,0.0
 TON,Tonga,2020-01-02,0.0
 TON,Tonga,2020-01-03,0.0
@@ -60531,6 +61072,7 @@ TON,Tonga,2021-01-02,33.89
 TON,Tonga,2021-01-03,33.89
 TON,Tonga,2021-01-04,33.89
 TON,Tonga,2021-01-05,33.89
+TON,Tonga,2021-01-06,33.89
 TTO,Trinidad and Tobago,2020-01-01,0.0
 TTO,Trinidad and Tobago,2020-01-02,0.0
 TTO,Trinidad and Tobago,2020-01-03,0.0
@@ -60902,6 +61444,7 @@ TTO,Trinidad and Tobago,2021-01-02,58.33
 TTO,Trinidad and Tobago,2021-01-03,58.33
 TTO,Trinidad and Tobago,2021-01-04,58.33
 TTO,Trinidad and Tobago,2021-01-05,58.33
+TTO,Trinidad and Tobago,2021-01-06,58.33
 TUN,Tunisia,2020-01-01,0.0
 TUN,Tunisia,2020-01-02,0.0
 TUN,Tunisia,2020-01-03,0.0
@@ -61252,13 +61795,13 @@ TUN,Tunisia,2020-12-12,63.33
 TUN,Tunisia,2020-12-13,63.33
 TUN,Tunisia,2020-12-14,63.33
 TUN,Tunisia,2020-12-15,63.33
-TUN,Tunisia,2020-12-30,63.33
 TUN,Tunisia,2020-12-31,63.33
 TUN,Tunisia,2021-01-01,63.33
 TUN,Tunisia,2021-01-02,63.33
 TUN,Tunisia,2021-01-03,63.33
 TUN,Tunisia,2021-01-04,63.33
 TUN,Tunisia,2021-01-05,63.33
+TUN,Tunisia,2021-01-06,63.33
 TUR,Turkey,2020-01-01,0.0
 TUR,Turkey,2020-01-02,0.0
 TUR,Turkey,2020-01-03,0.0
@@ -61630,6 +62173,7 @@ TUR,Turkey,2021-01-02,77.5
 TUR,Turkey,2021-01-03,77.5
 TUR,Turkey,2021-01-04,77.5
 TUR,Turkey,2021-01-05,77.5
+TUR,Turkey,2021-01-06,77.5
 TWN,Taiwan,2020-01-01,1.67
 TWN,Taiwan,2020-01-02,5.0
 TWN,Taiwan,2020-01-03,5.0
@@ -62001,6 +62545,7 @@ TWN,Taiwan,2021-01-02,33.33
 TWN,Taiwan,2021-01-03,33.33
 TWN,Taiwan,2021-01-04,33.33
 TWN,Taiwan,2021-01-05,33.33
+TWN,Taiwan,2021-01-06,33.33
 TZA,Tanzania,2020-01-01,0.0
 TZA,Tanzania,2020-01-02,0.0
 TZA,Tanzania,2020-01-03,0.0
@@ -62357,13 +62902,13 @@ TZA,Tanzania,2020-12-18,8.61
 TZA,Tanzania,2020-12-19,8.61
 TZA,Tanzania,2020-12-20,8.61
 TZA,Tanzania,2020-12-21,8.61
-TZA,Tanzania,2020-12-30,8.61
 TZA,Tanzania,2020-12-31,8.61
 TZA,Tanzania,2021-01-01,8.61
 TZA,Tanzania,2021-01-02,8.61
 TZA,Tanzania,2021-01-03,8.61
 TZA,Tanzania,2021-01-04,8.61
 TZA,Tanzania,2021-01-05,8.61
+TZA,Tanzania,2021-01-06,8.61
 UGA,Uganda,2020-01-01,0.0
 UGA,Uganda,2020-01-02,0.0
 UGA,Uganda,2020-01-03,0.0
@@ -62719,13 +63264,13 @@ UGA,Uganda,2020-12-17,36.39
 UGA,Uganda,2020-12-18,36.39
 UGA,Uganda,2020-12-19,36.39
 UGA,Uganda,2020-12-20,36.39
-UGA,Uganda,2020-12-30,36.39
 UGA,Uganda,2020-12-31,36.39
 UGA,Uganda,2021-01-01,36.39
 UGA,Uganda,2021-01-02,36.39
 UGA,Uganda,2021-01-03,36.39
 UGA,Uganda,2021-01-04,36.39
 UGA,Uganda,2021-01-05,36.39
+UGA,Uganda,2021-01-06,36.39
 UKR,Ukraine,2020-01-01,0.0
 UKR,Ukraine,2020-01-02,0.0
 UKR,Ukraine,2020-01-03,0.0
@@ -63096,6 +63641,7 @@ UKR,Ukraine,2021-01-02,58.61
 UKR,Ukraine,2021-01-03,58.61
 UKR,Ukraine,2021-01-04,58.61
 UKR,Ukraine,2021-01-05,58.61
+UKR,Ukraine,2021-01-06,58.61
 URY,Uruguay,2020-01-01,0.0
 URY,Uruguay,2020-01-02,0.0
 URY,Uruguay,2020-01-03,0.0
@@ -63467,6 +64013,7 @@ URY,Uruguay,2021-01-02,67.22
 URY,Uruguay,2021-01-03,67.22
 URY,Uruguay,2021-01-04,67.22
 URY,Uruguay,2021-01-05,67.22
+URY,Uruguay,2021-01-06,67.22
 USA,United States,2020-01-01,0.0
 USA,United States,2020-01-02,0.0
 USA,United States,2020-01-03,0.0
@@ -63838,6 +64385,7 @@ USA,United States,2021-01-02,69.89
 USA,United States,2021-01-03,69.89
 USA,United States,2021-01-04,69.89
 USA,United States,2021-01-05,69.89
+USA,United States,2021-01-06,69.89
 UZB,Uzbekistan,2020-01-01,0.0
 UZB,Uzbekistan,2020-01-02,0.0
 UZB,Uzbekistan,2020-01-03,0.0
@@ -64209,6 +64757,7 @@ UZB,Uzbekistan,2021-01-02,46.11
 UZB,Uzbekistan,2021-01-03,46.11
 UZB,Uzbekistan,2021-01-04,46.11
 UZB,Uzbekistan,2021-01-05,46.11
+UZB,Uzbekistan,2021-01-06,46.11
 VEN,"Venezuela, RB",2020-01-01,0.0
 VEN,"Venezuela, RB",2020-01-02,0.0
 VEN,"Venezuela, RB",2020-01-03,0.0
@@ -64580,6 +65129,7 @@ VEN,"Venezuela, RB",2021-01-02,70.56
 VEN,"Venezuela, RB",2021-01-03,70.56
 VEN,"Venezuela, RB",2021-01-04,70.56
 VEN,"Venezuela, RB",2021-01-05,70.56
+VEN,"Venezuela, RB",2021-01-06,70.56
 VIR,U.S. Virgin Islands,2020-01-01,0.0
 VIR,U.S. Virgin Islands,2020-01-02,0.0
 VIR,U.S. Virgin Islands,2020-01-03,0.0
@@ -64896,13 +65446,13 @@ VIR,U.S. Virgin Islands,2020-11-17,37.78
 VIR,U.S. Virgin Islands,2020-11-18,37.78
 VIR,U.S. Virgin Islands,2020-11-19,37.78
 VIR,U.S. Virgin Islands,2020-11-20,37.78
-VIR,U.S. Virgin Islands,2020-12-30,37.78
 VIR,U.S. Virgin Islands,2020-12-31,37.78
 VIR,U.S. Virgin Islands,2021-01-01,37.78
 VIR,U.S. Virgin Islands,2021-01-02,37.78
 VIR,U.S. Virgin Islands,2021-01-03,37.78
 VIR,U.S. Virgin Islands,2021-01-04,37.78
 VIR,U.S. Virgin Islands,2021-01-05,37.78
+VIR,U.S. Virgin Islands,2021-01-06,37.78
 VNM,Vietnam,2020-01-01,0.0
 VNM,Vietnam,2020-01-02,0.0
 VNM,Vietnam,2020-01-03,0.0
@@ -65274,6 +65824,7 @@ VNM,Vietnam,2021-01-02,58.06
 VNM,Vietnam,2021-01-03,58.06
 VNM,Vietnam,2021-01-04,58.06
 VNM,Vietnam,2021-01-05,58.06
+VNM,Vietnam,2021-01-06,58.06
 VUT,Vanuatu,2020-01-01,0.0
 VUT,Vanuatu,2020-01-02,0.0
 VUT,Vanuatu,2020-01-03,0.0
@@ -65638,13 +66189,13 @@ VUT,Vanuatu,2020-12-26,30.56
 VUT,Vanuatu,2020-12-27,30.56
 VUT,Vanuatu,2020-12-28,30.56
 VUT,Vanuatu,2020-12-29,30.56
-VUT,Vanuatu,2020-12-30,30.56
 VUT,Vanuatu,2020-12-31,30.56
 VUT,Vanuatu,2021-01-01,30.56
 VUT,Vanuatu,2021-01-02,30.56
 VUT,Vanuatu,2021-01-03,30.56
 VUT,Vanuatu,2021-01-04,30.56
 VUT,Vanuatu,2021-01-05,30.56
+VUT,Vanuatu,2021-01-06,30.56
 YEM,"Yemen, Rep.",2020-01-01,0.0
 YEM,"Yemen, Rep.",2020-01-02,0.0
 YEM,"Yemen, Rep.",2020-01-03,0.0
@@ -66000,13 +66551,13 @@ YEM,"Yemen, Rep.",2020-12-17,17.22
 YEM,"Yemen, Rep.",2020-12-18,17.22
 YEM,"Yemen, Rep.",2020-12-19,17.22
 YEM,"Yemen, Rep.",2020-12-20,17.22
-YEM,"Yemen, Rep.",2020-12-30,17.22
 YEM,"Yemen, Rep.",2020-12-31,17.22
 YEM,"Yemen, Rep.",2021-01-01,17.22
 YEM,"Yemen, Rep.",2021-01-02,17.22
 YEM,"Yemen, Rep.",2021-01-03,17.22
 YEM,"Yemen, Rep.",2021-01-04,17.22
 YEM,"Yemen, Rep.",2021-01-05,17.22
+YEM,"Yemen, Rep.",2021-01-06,17.22
 ZAF,South Africa,2020-01-01,0.0
 ZAF,South Africa,2020-01-02,0.0
 ZAF,South Africa,2020-01-03,0.0
@@ -66378,6 +66929,7 @@ ZAF,South Africa,2021-01-02,58.33
 ZAF,South Africa,2021-01-03,58.33
 ZAF,South Africa,2021-01-04,58.33
 ZAF,South Africa,2021-01-05,58.33
+ZAF,South Africa,2021-01-06,58.33
 ZMB,Zambia,2020-01-01,0.0
 ZMB,Zambia,2020-01-02,0.0
 ZMB,Zambia,2020-01-03,0.0
@@ -66749,6 +67301,7 @@ ZMB,Zambia,2021-01-02,51.11
 ZMB,Zambia,2021-01-03,51.11
 ZMB,Zambia,2021-01-04,51.11
 ZMB,Zambia,2021-01-05,51.11
+ZMB,Zambia,2021-01-06,51.11
 ZWE,Zimbabwe,2020-01-01,0.0
 ZWE,Zimbabwe,2020-01-02,0.0
 ZWE,Zimbabwe,2020-01-03,0.0
@@ -67120,3 +67673,4 @@ ZWE,Zimbabwe,2021-01-02,67.78
 ZWE,Zimbabwe,2021-01-03,67.78
 ZWE,Zimbabwe,2021-01-04,67.78
 ZWE,Zimbabwe,2021-01-05,67.78
+ZWE,Zimbabwe,2021-01-06,67.78
