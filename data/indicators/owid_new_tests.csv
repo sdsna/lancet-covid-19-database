@@ -1944,6 +1944,7 @@ BGR,Bulgaria,2021-01-02,2447.0
 BGR,Bulgaria,2021-01-03,2562.0
 BGR,Bulgaria,2021-01-04,2650.0
 BGR,Bulgaria,2021-01-05,10762.0
+BGR,Bulgaria,2021-01-06,11436.0
 BHR,Bahrain,2020-03-10,524.0
 BHR,Bahrain,2020-03-11,456.0
 BHR,Bahrain,2020-03-12,232.0
@@ -2178,6 +2179,7 @@ BHR,Bahrain,2021-01-02,7881.0
 BHR,Bahrain,2021-01-03,8778.0
 BHR,Bahrain,2021-01-04,10515.0
 BHR,Bahrain,2021-01-05,12273.0
+BHR,Bahrain,2021-01-06,11085.0
 BIH,Bosnia and Herzegovina,2020-04-02,525.0
 BIH,Bosnia and Herzegovina,2020-04-03,645.0
 BIH,Bosnia and Herzegovina,2020-04-04,590.0
@@ -4554,6 +4556,7 @@ CPV,Cabo Verde,2020-12-29,479.0
 CPV,Cabo Verde,2021-01-01,228.0
 CPV,Cabo Verde,2021-01-02,228.0
 CPV,Cabo Verde,2021-01-03,509.0
+CPV,Cabo Verde,2021-01-04,748.0
 CRI,Costa Rica,2020-03-11,68.0
 CRI,Costa Rica,2020-03-12,89.0
 CRI,Costa Rica,2020-03-13,86.0
@@ -5343,101 +5346,103 @@ CYP,Cyprus,2021-01-01,3226.0
 CYP,Cyprus,2021-01-02,12039.0
 CYP,Cyprus,2021-01-03,12051.0
 CYP,Cyprus,2021-01-04,13495.0
-CZE,Czech Republic,2020-10-02,-75.0
-CZE,Czech Republic,2020-10-03,-7272.0
-CZE,Czech Republic,2020-10-04,-6378.0
-CZE,Czech Republic,2020-10-05,8399.0
-CZE,Czech Republic,2020-10-06,4744.0
-CZE,Czech Republic,2020-10-07,1328.0
-CZE,Czech Republic,2020-10-08,430.0
-CZE,Czech Republic,2020-10-09,2889.0
-CZE,Czech Republic,2020-10-10,-8228.0
-CZE,Czech Republic,2020-10-11,-6326.0
-CZE,Czech Republic,2020-10-12,7084.0
-CZE,Czech Republic,2020-10-13,9848.0
-CZE,Czech Republic,2020-10-14,3680.0
-CZE,Czech Republic,2020-10-15,-1218.0
-CZE,Czech Republic,2020-10-16,4301.0
-CZE,Czech Republic,2020-10-17,-6893.0
-CZE,Czech Republic,2020-10-18,-11064.0
-CZE,Czech Republic,2020-10-19,11923.0
-CZE,Czech Republic,2020-10-20,9796.0
-CZE,Czech Republic,2020-10-21,3572.0
-CZE,Czech Republic,2020-10-22,2157.0
-CZE,Czech Republic,2020-10-23,-1127.0
-CZE,Czech Republic,2020-10-24,-4233.0
-CZE,Czech Republic,2020-10-25,-17754.0
-CZE,Czech Republic,2020-10-26,13179.0
-CZE,Czech Republic,2020-10-27,11698.0
-CZE,Czech Republic,2020-10-28,-6621.0
-CZE,Czech Republic,2020-10-29,1877.0
-CZE,Czech Republic,2020-10-30,4119.0
-CZE,Czech Republic,2020-10-31,-9905.0
-CZE,Czech Republic,2020-11-01,-14621.0
-CZE,Czech Republic,2020-11-02,11231.0
-CZE,Czech Republic,2020-11-03,10478.0
-CZE,Czech Republic,2020-11-04,2258.0
-CZE,Czech Republic,2020-11-05,-1916.0
-CZE,Czech Republic,2020-11-06,-2785.0
-CZE,Czech Republic,2020-11-07,-13549.0
-CZE,Czech Republic,2020-11-08,-12027.0
-CZE,Czech Republic,2020-11-09,16485.0
-CZE,Czech Republic,2020-11-10,11757.0
-CZE,Czech Republic,2020-11-11,3872.0
-CZE,Czech Republic,2020-11-12,-3182.0
-CZE,Czech Republic,2020-11-13,-345.0
-CZE,Czech Republic,2020-11-14,-24887.0
-CZE,Czech Republic,2020-11-15,-6131.0
-CZE,Czech Republic,2020-11-16,31744.0
-CZE,Czech Republic,2020-11-17,-21617.0
-CZE,Czech Republic,2020-11-18,23936.0
-CZE,Czech Republic,2020-11-19,-11934.0
-CZE,Czech Republic,2020-11-20,-903.0
-CZE,Czech Republic,2020-11-21,-9935.0
-CZE,Czech Republic,2020-11-22,-10632.0
-CZE,Czech Republic,2020-11-23,50623.0
-CZE,Czech Republic,2020-11-24,-24586.0
-CZE,Czech Republic,2020-11-25,-2462.0
-CZE,Czech Republic,2020-11-26,-4554.0
-CZE,Czech Republic,2020-11-27,2519.0
-CZE,Czech Republic,2020-11-28,-13401.0
-CZE,Czech Republic,2020-11-29,-10398.0
-CZE,Czech Republic,2020-11-30,50529.0
-CZE,Czech Republic,2020-12-01,-21575.0
-CZE,Czech Republic,2020-12-02,-2391.0
-CZE,Czech Republic,2020-12-03,-4437.0
-CZE,Czech Republic,2020-12-04,-2228.0
-CZE,Czech Republic,2020-12-05,-13952.0
-CZE,Czech Republic,2020-12-06,-5987.0
-CZE,Czech Republic,2020-12-07,37388.0
-CZE,Czech Republic,2020-12-08,-10516.0
-CZE,Czech Republic,2020-12-09,-1234.0
-CZE,Czech Republic,2020-12-10,-1547.0
-CZE,Czech Republic,2020-12-11,4118.0
-CZE,Czech Republic,2020-12-12,-18204.0
-CZE,Czech Republic,2020-12-13,-7839.0
-CZE,Czech Republic,2020-12-14,37689.0
-CZE,Czech Republic,2020-12-15,-6549.0
-CZE,Czech Republic,2020-12-16,6965.0
-CZE,Czech Republic,2020-12-17,-1446.0
-CZE,Czech Republic,2020-12-18,11126.0
-CZE,Czech Republic,2020-12-19,-25263.0
-CZE,Czech Republic,2020-12-20,-10957.0
-CZE,Czech Republic,2020-12-21,51541.0
-CZE,Czech Republic,2020-12-22,576.0
-CZE,Czech Republic,2020-12-23,7621.0
-CZE,Czech Republic,2020-12-24,-64092.0
-CZE,Czech Republic,2020-12-25,-4973.0
-CZE,Czech Republic,2020-12-26,4904.0
-CZE,Czech Republic,2020-12-27,2950.0
-CZE,Czech Republic,2020-12-28,48115.0
-CZE,Czech Republic,2020-12-29,-5094.0
-CZE,Czech Republic,2020-12-30,-574.0
-CZE,Czech Republic,2020-12-31,-19696.0
-CZE,Czech Republic,2021-01-01,-33969.0
-CZE,Czech Republic,2021-01-02,16261.0
-CZE,Czech Republic,2021-01-03,429.0
-CZE,Czech Republic,2021-01-04,49802.0
+CZE,Czech Republic,2020-10-01,20498.0
+CZE,Czech Republic,2020-10-02,20423.0
+CZE,Czech Republic,2020-10-03,13151.0
+CZE,Czech Republic,2020-10-04,6773.0
+CZE,Czech Republic,2020-10-05,15172.0
+CZE,Czech Republic,2020-10-06,19916.0
+CZE,Czech Republic,2020-10-07,21244.0
+CZE,Czech Republic,2020-10-08,21674.0
+CZE,Czech Republic,2020-10-09,24563.0
+CZE,Czech Republic,2020-10-10,16335.0
+CZE,Czech Republic,2020-10-11,10009.0
+CZE,Czech Republic,2020-10-12,17093.0
+CZE,Czech Republic,2020-10-13,26941.0
+CZE,Czech Republic,2020-10-14,30621.0
+CZE,Czech Republic,2020-10-15,29403.0
+CZE,Czech Republic,2020-10-16,33704.0
+CZE,Czech Republic,2020-10-17,26811.0
+CZE,Czech Republic,2020-10-18,15747.0
+CZE,Czech Republic,2020-10-19,27670.0
+CZE,Czech Republic,2020-10-20,37466.0
+CZE,Czech Republic,2020-10-21,41038.0
+CZE,Czech Republic,2020-10-22,43195.0
+CZE,Czech Republic,2020-10-23,42068.0
+CZE,Czech Republic,2020-10-24,37835.0
+CZE,Czech Republic,2020-10-25,20081.0
+CZE,Czech Republic,2020-10-26,33260.0
+CZE,Czech Republic,2020-10-27,44958.0
+CZE,Czech Republic,2020-10-28,38337.0
+CZE,Czech Republic,2020-10-29,40214.0
+CZE,Czech Republic,2020-10-30,44333.0
+CZE,Czech Republic,2020-10-31,34428.0
+CZE,Czech Republic,2020-11-01,19807.0
+CZE,Czech Republic,2020-11-02,31038.0
+CZE,Czech Republic,2020-11-03,41516.0
+CZE,Czech Republic,2020-11-04,43774.0
+CZE,Czech Republic,2020-11-05,41858.0
+CZE,Czech Republic,2020-11-06,39073.0
+CZE,Czech Republic,2020-11-07,25524.0
+CZE,Czech Republic,2020-11-08,13497.0
+CZE,Czech Republic,2020-11-09,29982.0
+CZE,Czech Republic,2020-11-10,41739.0
+CZE,Czech Republic,2020-11-11,45611.0
+CZE,Czech Republic,2020-11-12,42429.0
+CZE,Czech Republic,2020-11-13,42084.0
+CZE,Czech Republic,2020-11-14,17197.0
+CZE,Czech Republic,2020-11-15,11066.0
+CZE,Czech Republic,2020-11-16,42810.0
+CZE,Czech Republic,2020-11-17,21193.0
+CZE,Czech Republic,2020-11-18,45129.0
+CZE,Czech Republic,2020-11-19,33195.0
+CZE,Czech Republic,2020-11-20,32292.0
+CZE,Czech Republic,2020-11-21,22357.0
+CZE,Czech Republic,2020-11-22,11725.0
+CZE,Czech Republic,2020-11-23,62348.0
+CZE,Czech Republic,2020-11-24,37762.0
+CZE,Czech Republic,2020-11-25,35300.0
+CZE,Czech Republic,2020-11-26,30746.0
+CZE,Czech Republic,2020-11-27,33265.0
+CZE,Czech Republic,2020-11-28,19864.0
+CZE,Czech Republic,2020-11-29,9466.0
+CZE,Czech Republic,2020-11-30,59995.0
+CZE,Czech Republic,2020-12-01,38420.0
+CZE,Czech Republic,2020-12-02,36029.0
+CZE,Czech Republic,2020-12-03,31592.0
+CZE,Czech Republic,2020-12-04,29364.0
+CZE,Czech Republic,2020-12-05,15412.0
+CZE,Czech Republic,2020-12-06,9425.0
+CZE,Czech Republic,2020-12-07,46813.0
+CZE,Czech Republic,2020-12-08,36297.0
+CZE,Czech Republic,2020-12-09,35063.0
+CZE,Czech Republic,2020-12-10,33516.0
+CZE,Czech Republic,2020-12-11,37634.0
+CZE,Czech Republic,2020-12-12,19430.0
+CZE,Czech Republic,2020-12-13,11591.0
+CZE,Czech Republic,2020-12-14,49280.0
+CZE,Czech Republic,2020-12-15,42731.0
+CZE,Czech Republic,2020-12-16,49696.0
+CZE,Czech Republic,2020-12-17,48250.0
+CZE,Czech Republic,2020-12-18,59376.0
+CZE,Czech Republic,2020-12-19,34113.0
+CZE,Czech Republic,2020-12-20,23156.0
+CZE,Czech Republic,2020-12-21,74697.0
+CZE,Czech Republic,2020-12-22,75273.0
+CZE,Czech Republic,2020-12-23,82894.0
+CZE,Czech Republic,2020-12-24,18802.0
+CZE,Czech Republic,2020-12-25,13829.0
+CZE,Czech Republic,2020-12-26,18733.0
+CZE,Czech Republic,2020-12-27,21683.0
+CZE,Czech Republic,2020-12-28,69798.0
+CZE,Czech Republic,2020-12-29,64704.0
+CZE,Czech Republic,2020-12-30,64130.0
+CZE,Czech Republic,2020-12-31,44434.0
+CZE,Czech Republic,2021-01-01,10465.0
+CZE,Czech Republic,2021-01-02,26726.0
+CZE,Czech Republic,2021-01-03,27155.0
+CZE,Czech Republic,2021-01-04,76957.0
+CZE,Czech Republic,2021-01-05,68223.0
 DNK,Denmark,2020-01-27,1.0
 DNK,Denmark,2020-01-29,1.0
 DNK,Denmark,2020-02-02,1.0
@@ -8379,6 +8384,7 @@ GRC,Greece,2021-01-02,3156.0
 GRC,Greece,2021-01-03,4366.0
 GRC,Greece,2021-01-04,3234.0
 GRC,Greece,2021-01-05,11817.0
+GRC,Greece,2021-01-06,13881.0
 GTM,Guatemala,2020-02-17,1.0
 GTM,Guatemala,2020-02-26,1.0
 GTM,Guatemala,2020-02-28,2.0
@@ -8976,6 +8982,7 @@ HRV,Croatia,2021-01-02,1740.0
 HRV,Croatia,2021-01-03,5611.0
 HRV,Croatia,2021-01-04,2985.0
 HRV,Croatia,2021-01-05,6602.0
+HRV,Croatia,2021-01-06,9919.0
 HUN,Hungary,2020-03-06,39.0
 HUN,Hungary,2020-03-07,50.0
 HUN,Hungary,2020-03-08,43.0
@@ -9516,6 +9523,7 @@ IDN,Indonesia,2021-01-02,24379.0
 IDN,Indonesia,2021-01-03,27778.0
 IDN,Indonesia,2021-01-04,30671.0
 IDN,Indonesia,2021-01-05,38309.0
+IDN,Indonesia,2021-01-06,44734.0
 IND,India,2020-03-19,191.0
 IND,India,2020-03-20,1060.0
 IND,India,2020-03-21,1325.0
@@ -9795,6 +9803,7 @@ IND,India,2021-01-02,829964.0
 IND,India,2021-01-03,958125.0
 IND,India,2021-01-04,735978.0
 IND,India,2021-01-05,896236.0
+IND,India,2021-01-06,931408.0
 IRL,Ireland,2020-03-19,946.0
 IRL,Ireland,2020-03-20,1469.0
 IRL,Ireland,2020-03-21,1564.0
@@ -10247,6 +10256,7 @@ IRN,"Iran, Islamic Rep.",2020-12-21,51109.0
 IRN,"Iran, Islamic Rep.",2020-12-30,53412.0
 IRN,"Iran, Islamic Rep.",2020-12-31,53721.0
 IRN,"Iran, Islamic Rep.",2021-01-01,49601.0
+IRN,"Iran, Islamic Rep.",2021-01-06,54217.0
 IRQ,Iraq,2020-04-08,2083.0
 IRQ,Iraq,2020-04-09,2052.0
 IRQ,Iraq,2020-04-10,1692.0
@@ -12800,6 +12810,7 @@ KOR,"Korea, Rep.",2021-01-02,31021.0
 KOR,"Korea, Rep.",2021-01-03,30954.0
 KOR,"Korea, Rep.",2021-01-04,31510.0
 KOR,"Korea, Rep.",2021-01-05,59734.0
+KOR,"Korea, Rep.",2021-01-06,67176.0
 KWT,Kuwait,2020-05-14,4930.0
 KWT,Kuwait,2020-05-15,4074.0
 KWT,Kuwait,2020-05-16,4712.0
@@ -13279,6 +13290,7 @@ LBY,Libya,2020-12-29,3657.0
 LBY,Libya,2020-12-30,2868.0
 LBY,Libya,2020-12-31,2624.0
 LBY,Libya,2021-01-04,3554.0
+LBY,Libya,2021-01-05,3069.0
 LKA,Sri Lanka,2020-02-18,1.0
 LKA,Sri Lanka,2020-02-20,1.0
 LKA,Sri Lanka,2020-02-26,2.0
@@ -18787,6 +18799,7 @@ PAK,Pakistan,2021-01-02,38200.0
 PAK,Pakistan,2021-01-03,44392.0
 PAK,Pakistan,2021-01-04,30168.0
 PAK,Pakistan,2021-01-05,35073.0
+PAK,Pakistan,2021-01-06,38917.0
 PAN,Panama,2020-03-10,31.0
 PAN,Panama,2020-03-11,42.0
 PAN,Panama,2020-03-12,194.0
@@ -19914,9 +19927,6 @@ POL,Poland,2021-01-02,27604.0
 POL,Poland,2021-01-03,29618.0
 POL,Poland,2021-01-04,25436.0
 POL,Poland,2021-01-05,48466.0
-PRT,Portugal,2020-01-01,13937.0
-PRT,Portugal,2020-01-02,32641.0
-PRT,Portugal,2020-01-03,20695.0
 PRT,Portugal,2020-03-01,25.0
 PRT,Portugal,2020-03-02,45.0
 PRT,Portugal,2020-03-03,61.0
@@ -20223,6 +20233,9 @@ PRT,Portugal,2020-12-28,33871.0
 PRT,Portugal,2020-12-29,44816.0
 PRT,Portugal,2020-12-30,44453.0
 PRT,Portugal,2020-12-31,36732.0
+PRT,Portugal,2021-01-01,13937.0
+PRT,Portugal,2021-01-02,32641.0
+PRT,Portugal,2021-01-03,20695.0
 PRY,Paraguay,2020-03-07,1.0
 PRY,Paraguay,2020-03-10,8.0
 PRY,Paraguay,2020-03-11,7.0
@@ -21189,6 +21202,7 @@ ROU,Romania,2021-01-02,4438.0
 ROU,Romania,2021-01-03,9829.0
 ROU,Romania,2021-01-04,9688.0
 ROU,Romania,2021-01-05,31022.0
+ROU,Romania,2021-01-06,34343.0
 RUS,Russian Federation,2020-03-05,4952.0
 RUS,Russian Federation,2020-03-06,4322.0
 RUS,Russian Federation,2020-03-07,4272.0
@@ -21717,6 +21731,7 @@ RWA,Rwanda,2020-12-28,2502.0
 RWA,Rwanda,2020-12-29,2549.0
 RWA,Rwanda,2020-12-30,2913.0
 RWA,Rwanda,2020-12-31,3409.0
+RWA,Rwanda,2021-01-06,4216.0
 SAU,Saudi Arabia,2020-03-02,160.0
 SAU,Saudi Arabia,2020-03-03,240.0
 SAU,Saudi Arabia,2020-03-04,298.0
@@ -25744,6 +25759,7 @@ UKR,Ukraine,2020-12-24,42132.0
 UKR,Ukraine,2020-12-28,12225.0
 UKR,Ukraine,2020-12-29,25965.0
 UKR,Ukraine,2020-12-30,74436.0
+UKR,Ukraine,2021-01-06,34938.0
 URY,Uruguay,2020-03-29,200.0
 URY,Uruguay,2020-03-30,299.0
 URY,Uruguay,2020-03-31,394.0
