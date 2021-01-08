@@ -2863,6 +2863,9 @@ AUS,Australia,2021-01-01,0.0
 AUS,Australia,2021-01-02,0.0
 AUS,Australia,2021-01-03,0.0
 AUS,Australia,2021-01-04,0.0
+AUS,Australia,2021-01-05,0.0
+AUS,Australia,2021-01-06,0.0
+AUS,Australia,2021-01-07,0.0
 AUT,Austria,2020-01-01,0.0
 AUT,Austria,2020-01-02,0.0
 AUT,Austria,2020-01-03,0.0
@@ -4333,6 +4336,9 @@ BEL,Belgium,2021-01-01,0.0
 BEL,Belgium,2021-01-02,0.0
 BEL,Belgium,2021-01-03,0.0
 BEL,Belgium,2021-01-04,0.0
+BEL,Belgium,2021-01-05,0.0
+BEL,Belgium,2021-01-06,0.0
+BEL,Belgium,2021-01-07,0.0
 BEN,Benin,2020-01-01,0.0
 BEN,Benin,2020-01-02,0.0
 BEN,Benin,2020-01-03,0.0
@@ -10543,6 +10549,9 @@ CAN,Canada,2021-01-01,0.0
 CAN,Canada,2021-01-02,0.0
 CAN,Canada,2021-01-03,0.0
 CAN,Canada,2021-01-04,0.0
+CAN,Canada,2021-01-05,0.0
+CAN,Canada,2021-01-06,0.0
+CAN,Canada,2021-01-07,0.0
 CHE,Switzerland,2020-01-01,0.0
 CHE,Switzerland,2020-01-02,0.0
 CHE,Switzerland,2020-01-03,0.0
@@ -11637,6 +11646,23 @@ CHN,China,2020-12-18,0.0
 CHN,China,2020-12-19,0.0
 CHN,China,2020-12-20,0.0
 CHN,China,2020-12-21,0.0
+CHN,China,2020-12-22,0.0
+CHN,China,2020-12-23,0.0
+CHN,China,2020-12-24,0.0
+CHN,China,2020-12-25,0.0
+CHN,China,2020-12-26,0.0
+CHN,China,2020-12-27,0.0
+CHN,China,2020-12-28,0.0
+CHN,China,2020-12-29,0.0
+CHN,China,2020-12-30,0.0
+CHN,China,2020-12-31,0.0
+CHN,China,2021-01-01,0.0
+CHN,China,2021-01-02,0.0
+CHN,China,2021-01-03,0.0
+CHN,China,2021-01-04,0.0
+CHN,China,2021-01-05,0.0
+CHN,China,2021-01-06,0.0
+CHN,China,2021-01-07,0.0
 CIV,Cote d'Ivoire,2020-01-01,0.0
 CIV,Cote d'Ivoire,2020-01-02,0.0
 CIV,Cote d'Ivoire,2020-01-03,0.0
@@ -16793,6 +16819,11 @@ DNK,Denmark,2020-12-31,0.0
 DNK,Denmark,2021-01-01,0.0
 DNK,Denmark,2021-01-02,0.0
 DNK,Denmark,2021-01-03,0.0
+DNK,Denmark,2021-01-04,0.0
+DNK,Denmark,2021-01-05,0.0
+DNK,Denmark,2021-01-06,0.0
+DNK,Denmark,2021-01-07,0.0
+DNK,Denmark,2021-01-08,0.0
 DOM,Dominican Republic,2020-01-01,0.0
 DOM,Dominican Republic,2020-01-02,0.0
 DOM,Dominican Republic,2020-01-03,0.0
@@ -35547,6 +35578,24 @@ LSO,Lesotho,2020-12-18,0.0
 LSO,Lesotho,2020-12-19,0.0
 LSO,Lesotho,2020-12-20,0.0
 LSO,Lesotho,2020-12-21,0.0
+LSO,Lesotho,2020-12-22,0.0
+LSO,Lesotho,2020-12-23,0.0
+LSO,Lesotho,2020-12-24,0.0
+LSO,Lesotho,2020-12-25,0.0
+LSO,Lesotho,2020-12-26,0.0
+LSO,Lesotho,2020-12-27,0.0
+LSO,Lesotho,2020-12-28,0.0
+LSO,Lesotho,2020-12-29,0.0
+LSO,Lesotho,2020-12-30,0.0
+LSO,Lesotho,2020-12-31,0.0
+LSO,Lesotho,2021-01-01,0.0
+LSO,Lesotho,2021-01-02,0.0
+LSO,Lesotho,2021-01-03,0.0
+LSO,Lesotho,2021-01-04,0.0
+LSO,Lesotho,2021-01-05,0.0
+LSO,Lesotho,2021-01-06,0.0
+LSO,Lesotho,2021-01-07,0.0
+LSO,Lesotho,2021-01-08,0.0
 LTU,Lithuania,2020-01-01,0.0
 LTU,Lithuania,2020-01-02,0.0
 LTU,Lithuania,2020-01-03,0.0
@@ -35836,7 +35885,7 @@ LTU,Lithuania,2020-10-12,0.0
 LTU,Lithuania,2020-10-13,0.0
 LTU,Lithuania,2020-10-14,0.0
 LTU,Lithuania,2020-10-15,0.0
-LTU,Lithuania,2020-10-16,0.0
+LTU,Lithuania,2020-10-16,14052000.0
 LTU,Lithuania,2020-10-17,0.0
 LTU,Lithuania,2020-10-18,0.0
 LTU,Lithuania,2020-10-19,0.0
@@ -35867,9 +35916,9 @@ LTU,Lithuania,2020-11-12,0.0
 LTU,Lithuania,2020-11-13,0.0
 LTU,Lithuania,2020-11-14,0.0
 LTU,Lithuania,2020-11-15,0.0
-LTU,Lithuania,2020-11-16,0.0
+LTU,Lithuania,2020-11-16,5900000.0
 LTU,Lithuania,2020-11-17,0.0
-LTU,Lithuania,2020-11-18,0.0
+LTU,Lithuania,2020-11-18,118600000.0
 LTU,Lithuania,2020-11-19,0.0
 LTU,Lithuania,2020-11-20,0.0
 LTU,Lithuania,2020-11-21,0.0
@@ -35899,17 +35948,27 @@ LTU,Lithuania,2020-12-14,0.0
 LTU,Lithuania,2020-12-15,0.0
 LTU,Lithuania,2020-12-16,0.0
 LTU,Lithuania,2020-12-17,0.0
-LTU,Lithuania,2020-12-18,0.0
+LTU,Lithuania,2020-12-18,164700000.0
 LTU,Lithuania,2020-12-19,0.0
 LTU,Lithuania,2020-12-20,0.0
 LTU,Lithuania,2020-12-21,0.0
-LTU,Lithuania,2020-12-22,0.0
-LTU,Lithuania,2020-12-23,0.0
+LTU,Lithuania,2020-12-22,109530000.0
+LTU,Lithuania,2020-12-23,219420000.0
 LTU,Lithuania,2020-12-24,0.0
 LTU,Lithuania,2020-12-25,0.0
 LTU,Lithuania,2020-12-26,0.0
 LTU,Lithuania,2020-12-27,0.0
 LTU,Lithuania,2020-12-28,0.0
+LTU,Lithuania,2020-12-29,0.0
+LTU,Lithuania,2020-12-30,0.0
+LTU,Lithuania,2020-12-31,0.0
+LTU,Lithuania,2021-01-01,0.0
+LTU,Lithuania,2021-01-02,0.0
+LTU,Lithuania,2021-01-03,0.0
+LTU,Lithuania,2021-01-04,0.0
+LTU,Lithuania,2021-01-05,0.0
+LTU,Lithuania,2021-01-06,0.0
+LTU,Lithuania,2021-01-07,0.0
 LUX,Luxembourg,2020-01-01,0.0
 LUX,Luxembourg,2020-01-02,0.0
 LUX,Luxembourg,2020-01-03,0.0
@@ -45443,6 +45502,9 @@ PAK,Pakistan,2021-01-01,0.0
 PAK,Pakistan,2021-01-02,0.0
 PAK,Pakistan,2021-01-03,0.0
 PAK,Pakistan,2021-01-04,0.0
+PAK,Pakistan,2021-01-05,0.0
+PAK,Pakistan,2021-01-06,0.0
+PAK,Pakistan,2021-01-07,0.0
 PAN,Panama,2020-01-01,0.0
 PAN,Panama,2020-01-02,0.0
 PAN,Panama,2020-01-03,0.0
@@ -52064,6 +52126,9 @@ SGP,Singapore,2021-01-01,0.0
 SGP,Singapore,2021-01-02,0.0
 SGP,Singapore,2021-01-03,0.0
 SGP,Singapore,2021-01-04,0.0
+SGP,Singapore,2021-01-05,0.0
+SGP,Singapore,2021-01-06,0.0
+SGP,Singapore,2021-01-07,0.0
 SLB,Solomon Islands,2020-01-01,0.0
 SLB,Solomon Islands,2020-01-02,0.0
 SLB,Solomon Islands,2020-01-03,0.0
@@ -56104,6 +56169,10 @@ SWE,Sweden,2021-01-01,0.0
 SWE,Sweden,2021-01-02,0.0
 SWE,Sweden,2021-01-03,0.0
 SWE,Sweden,2021-01-04,0.0
+SWE,Sweden,2021-01-05,0.0
+SWE,Sweden,2021-01-06,0.0
+SWE,Sweden,2021-01-07,0.0
+SWE,Sweden,2021-01-08,0.0
 SWZ,Eswatini,2020-01-01,0.0
 SWZ,Eswatini,2020-01-02,0.0
 SWZ,Eswatini,2020-01-03,0.0
