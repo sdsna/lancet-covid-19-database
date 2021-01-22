@@ -23,14 +23,14 @@ dataset["date"] = dataset["date"].apply(
 
 
 def run_pipeline(indicator):
-    # Create slice of data that contains only observations for this indicator
-    frame = dataset[dataset.SurveyCodes == indicator.replace("icl_", "")]
-
     # Rename value column to indicator
-    frame = frame.rename(columns={"value": indicator})
+    frame = dataset.rename(columns={indicator.replace("icl_", ""): indicator})
 
     # Keep only relevant columns
     frame = frame[["iso_code", "date", indicator]]
+
+    # Drop observations without indicator value
+    frame = frame.dropna(subset=[indicator], axis="index")
 
     # Save as CSV file
     save_indicator(indicator, dataset=frame)
