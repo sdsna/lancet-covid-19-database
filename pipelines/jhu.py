@@ -34,6 +34,10 @@ def run_pipeline(indicator):
     data = data[~data.country.isin(["Diamond Princess", "MS Zaandam", "Kosovo"])]
     # * Fix Taiwan: It is not clear why there is a star next to the name
     data["country"] = data["country"].replace({"Taiwan*": "Taiwan"})
+    # * Fix Micronesia: Micronesia refers to the Federated States
+    data["country"] = data["country"].replace(
+        {"Micronesia": "Micronesia, Federated States of"}
+    )
     # * Perform conversion
     data["iso_code"] = data["country"].apply(lambda country: normalize_country(country))
     # * Drop country name
