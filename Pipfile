@@ -12,7 +12,7 @@ argparse = "*"
 requests = "*"
 millify = "*"
 demjson = "*"
-tenacity = "*"
+jsonpath-ng = "*"
 
 [requires]
 python_version = "3.8"

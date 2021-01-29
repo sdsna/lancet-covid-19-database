@@ -1,20 +1,18 @@
 import requests
-from tenacity import retry, stop_after_attempt, wait_chain, wait_fixed
-from urllib.parse import unquote
+from jsonpath_ng import jsonpath
+from jsonpath_ng.ext import parse
 import pandas
-import io
 
 from helpers.normalize_date import normalize_date
 from helpers.save_indicator import save_indicator
 from helpers.normalize_country import normalize_country
 
-# This request replicates the request made by the browser when clicking on
-# "Download Estimates (CSV)" on the website.
+# Request the website content from the Tracking R website
 url = "http://trackingr-env.eba-9muars8y.us-east-2.elasticbeanstalk.com/_dash-update-component"
 args = {
-    "output": "..download_link.href...download_link.download..",
-    "changedPropIds": ["download_link.n_clicks"],
-    "inputs": [{"id": "download_link", "property": "n_clicks", "value": 17}],
+    "output": "page_content.children",
+    "changedPropIds": ["url.pathname"],
+    "inputs": [{"id": "url", "property": "pathname", "value": "/"}],
 }
 headers = {
     "Host": "trackingr-env.eba-9muars8y.us-east-2.elasticbeanstalk.com",
@@ -30,46 +28,19 @@ headers = {
     "Pragma": "no-cache",
     "Cache-Control": "no-cache",
 }
+request = requests.post(url, json=args, headers=headers)
+tracking_r_json = request.json()
 
-
-def print_retry_status(retry_state):
-    print(
-        "Failed to download data. Retrying in %s seconds..."
-        % (str(retry_state.idle_for))
-    )
-
-
-@retry(
-    reraise=True,
-    stop=stop_after_attempt(13),
-    wait=wait_chain(*[wait_fixed(0) for i in range(4)] + [wait_fixed(10)]),
-    before=lambda *args: print("Requesting data..."),
-    before_sleep=print_retry_status,
+# Extract the "Download Estimates (CSV)" link
+json_search_needle = parse(
+    '$..children[?`this` == "Download Estimates (CSV)"].`parent`.`parent`'
 )
-def get_data(*args, **kwargs):
-    request = requests.post(*args, **kwargs)
+match = json_search_needle.find(tracking_r_json)[0]
+url = match.value["href"]
 
-    if request.status_code != 200:
-        print("Request failed!")
-        print("Reason: %s (%s)" % (request.reason, str(request.status_code)))
-        raise Exception("Failed to download ERR dataset :(")
-
-    return request.json()
-
-
-# Extract the CSV string from the JSON response
-json = get_data(url, json=args, headers=headers)
-csv = json["response"]["download_link"]["href"]
-
-# Remove the "data:text/csv;charset=utf-8" part from the string
-csv = csv[csv.find(",") + 1 :]
-
-# URL-decode the CSV string
-csv = unquote(csv)
-
-# Read CSV string with pandas
-csv_buffer = io.StringIO(csv)
-dataset = pandas.read_csv(csv_buffer)
+# Download the CSV from Google Drive
+download_url = "https://drive.google.com/uc?export=download&id=" + url.split("/")[-2]
+dataset = pandas.read_csv(download_url)
 
 # Keep rows with average serial interval of 7 only
 dataset = dataset[dataset["days_infectious"] == 7]
