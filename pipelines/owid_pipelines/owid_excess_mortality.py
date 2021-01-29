@@ -22,6 +22,7 @@ for column in dataset.columns:
     new_column_names[column] = (
         column.replace("p_scores_", "weekly_excess_mortality_p_score_")
         .replace("_all_ages", "")
+        .replace("average_", "avg_")
         .replace("deaths_", "weekly_deaths_")
     )
 
