@@ -11,8 +11,8 @@ dataset_url = "https://covid.ourworldindata.org/data/owid-covid-data.csv"
 # Parse into dataframe
 dataset = pd.read_csv(dataset_url, low_memory=False)
 
-# Drop non-countries
-dataset = dataset.drop(dataset[dataset.location == "International"].index)
+# Drop non-countries (e.g., world regions)
+dataset = dataset.dropna(subset=["iso_code"])
 dataset = dataset.drop(dataset[dataset.iso_code.isin(["OWID_KOS", "OWID_WRL"])].index)
 
 # Normalize date format
