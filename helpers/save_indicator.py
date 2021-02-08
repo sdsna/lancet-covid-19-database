@@ -18,6 +18,18 @@ codelist = codelist.rename(columns={"iso3c": "iso_code", "country.name.en": "cou
 
 # Save the dataframe under the given name
 def save_indicator(name, dataset):
+    # Verify there are no empty countries or dates
+    nulls = dataset[dataset[["iso_code", "date"]].isnull().any(axis=1)]
+    if len(nulls) != 0:
+        print(nulls)
+        raise Exception("Null values for country/date detected")
+
+    # Verify that there are no duplicate entries for country and date
+    if dataset.duplicated(["iso_code", "date"]).any(axis=None):
+        duplicates = dataset.duplicated(["iso_code", "date"])
+        print(dataset[duplicates])
+        raise Exception("Duplicate country-date in data detected")
+
     # Add country name
     dataset = pandas.merge(dataset, codelist, how="left", on=["iso_code"])
 
@@ -26,17 +38,6 @@ def save_indicator(name, dataset):
 
     # Sort by country ID, then date
     dataset = dataset.sort_values(by=["iso_code", "date"])
-
-    # Verify there are no empty countries or dates
-    nulls = dataset[["iso_code", "date"]].isnull()
-    if nulls.any(axis=None):
-        raise Exception("Null values for country/date detected")
-
-    # Verify that there are no duplicate entries for country and date
-    if dataset.duplicated(["iso_code", "date"]).any(axis=None):
-        duplicates = dataset.duplicated(["iso_code", "date"])
-        print(dataset[duplicates])
-        raise Exception("Duplicate country-date in data detected")
 
     # Verify that there are no empty observations
     if dataset[name].isnull().any(axis=None):
