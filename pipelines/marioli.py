@@ -39,7 +39,7 @@ match = json_search_needle.find(tracking_r_json)[0]
 url = match.value["href"]
 
 # Download the CSV from Google Drive
-download_url = "https://drive.google.com/uc?export=download&id=" + url.split("/")[-2]
+download_url = "https://notredame.app.box.com/shared/static/" + url.split("/")[-1]
 dataset = pandas.read_csv(download_url)
 
 # Keep rows with average serial interval of 7 only
@@ -59,7 +59,7 @@ dataset["iso_code"] = dataset["country"].apply(
 )
 
 # Normalize date format
-dataset["date"] = dataset["Date"].apply(lambda date: normalize_date(date, "%Y-%m-%d"))
+dataset["date"] = dataset["Date"].apply(lambda date: normalize_date(date, "%m/%d/%y"))
 
 
 def run_pipeline(indicator):
