@@ -30,6 +30,7 @@ download data for specific indicators only. In the `indicators/` folder, you wil
 
 ## Notes
 
+1. The database is updated on a weekly basis. If you need daily updates, please reach out to finn.woelm@unsdsn.org.
 1. Only countries (with 3166 ISO-3 code) have been retained. Observations for Kosovo and the Diamond Princess cruise ship, for example, have been removed.
 1. Units for tests conducted vary between countries: tests performed vs people tested vs samples tested.
 
