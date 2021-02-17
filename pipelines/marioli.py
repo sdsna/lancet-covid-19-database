@@ -7,39 +7,8 @@ from helpers.normalize_date import normalize_date
 from helpers.save_indicator import save_indicator
 from helpers.normalize_country import normalize_country
 
-# Request the website content from the Tracking R website
-url = "http://trackingr-env.eba-9muars8y.us-east-2.elasticbeanstalk.com/_dash-update-component"
-args = {
-    "output": "page_content.children",
-    "changedPropIds": ["url.pathname"],
-    "inputs": [{"id": "url", "property": "pathname", "value": "/"}],
-}
-headers = {
-    "Host": "trackingr-env.eba-9muars8y.us-east-2.elasticbeanstalk.com",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0",
-    "Accept": "application/json",
-    "Accept-Language": "en-US,en;q=0.5",
-    "Accept-Encoding": "gzip, deflate",
-    "Referer": "http://trackingr-env.eba-9muars8y.us-east-2.elasticbeanstalk.com/",
-    "Content-Type": "application/json",
-    "X-CSRFToken": "undefined",
-    "Origin": "http://trackingr-env.eba-9muars8y.us-east-2.elasticbeanstalk.com",
-    "Connection": "keep-alive",
-    "Pragma": "no-cache",
-    "Cache-Control": "no-cache",
-}
-request = requests.post(url, json=args, headers=headers)
-tracking_r_json = request.json()
-
-# Extract the "Download Estimates (CSV)" link
-json_search_needle = parse(
-    '$..children[?`this` == "Download Estimates (CSV)"].`parent`.`parent`'
-)
-match = json_search_needle.find(tracking_r_json)[0]
-url = match.value["href"]
-
 # Download the CSV from Google Drive
-download_url = "https://notredame.app.box.com/shared/static/" + url.split("/")[-1]
+download_url = "https://raw.githubusercontent.com/crondonm/TrackingR/main/Estimates-Database/database.csv"
 dataset = pandas.read_csv(download_url)
 
 # Keep rows with average serial interval of 7 only
@@ -59,7 +28,7 @@ dataset["iso_code"] = dataset["country"].apply(
 )
 
 # Normalize date format
-dataset["date"] = dataset["Date"].apply(lambda date: normalize_date(date, "%m/%d/%y"))
+dataset["date"] = dataset["Date"].apply(lambda date: normalize_date(date, "%Y-%m-%d"))
 
 
 def run_pipeline(indicator):
