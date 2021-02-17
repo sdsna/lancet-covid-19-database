@@ -1,3 +1,4 @@
+from urllib.request import Request, urlopen
 import pandas as pd
 import datetime
 
@@ -8,8 +9,15 @@ from helpers.normalize_country import normalize_country
 
 dataset_url = "https://covid.ourworldindata.org/data/owid-covid-data.csv"
 
+req = Request(dataset_url)
+req.add_header(
+    "User-Agent",
+    "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0",
+)
+content = urlopen(req)
+
 # Parse into dataframe
-dataset = pd.read_csv(dataset_url, low_memory=False)
+dataset = pd.read_csv(content, low_memory=False)
 
 # Drop non-countries (e.g., world regions)
 dataset = dataset.dropna(subset=["iso_code"])

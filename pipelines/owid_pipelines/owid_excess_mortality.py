@@ -1,3 +1,4 @@
+from urllib.request import Request, urlopen
 import pandas as pd
 import datetime
 
@@ -10,8 +11,15 @@ dataset_url = (
     "https://covid.ourworldindata.org/data/excess_mortality/excess_mortality.csv"
 )
 
+req = Request(dataset_url)
+req.add_header(
+    "User-Agent",
+    "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0",
+)
+content = urlopen(req)
+
 # Parse into dataframe
-dataset = pd.read_csv(dataset_url)
+dataset = pd.read_csv(content)
 
 # Normalize date format
 dataset["date"] = dataset["date"].apply(lambda date: normalize_date(date, "%Y-%m-%d"))
