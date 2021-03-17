@@ -1,111 +1,111 @@
 iso_code,country,date,yougov_support_quarantine_flights_from_china
-AUS,Australia,2020-03-08,62
-AUS,Australia,2020-03-15,63
-CAN,Canada,2020-03-17,65
-CAN,Canada,2020-03-23,71
-CAN,Canada,2020-03-30,75
-CAN,Canada,2020-04-06,73
-CAN,Canada,2020-04-13,56
-DEU,Germany,2020-03-04,39
-DEU,Germany,2020-03-16,50
-DEU,Germany,2020-03-23,61
-DEU,Germany,2020-03-30,55
-ESP,Spain,2020-03-12,52
-ESP,Spain,2020-03-19,70
-ESP,Spain,2020-03-25,69
-ESP,Spain,2020-04-02,69
-ESP,Spain,2020-04-08,68
-ESP,Spain,2020-04-16,68
-ESP,Spain,2020-04-23,66
-ESP,Spain,2020-04-30,64
-ESP,Spain,2020-06-12,43
-ESP,Spain,2020-06-21,39
-ESP,Spain,2020-06-25,44
-FRA,France,2020-03-10,43
-FRA,France,2020-03-13,44
-FRA,France,2020-03-20,63
-FRA,France,2020-03-27,64
-GBR,United Kingdom,2020-03-01,50
-GBR,United Kingdom,2020-03-13,47
-GBR,United Kingdom,2020-03-20,58
-GBR,United Kingdom,2020-03-27,67
-GBR,United Kingdom,2020-04-14,62
-GBR,United Kingdom,2020-04-17,61
-GBR,United Kingdom,2020-04-24,59
-GBR,United Kingdom,2020-05-01,59
-GBR,United Kingdom,2020-05-30,58
-GBR,United Kingdom,2020-06-16,49
-GBR,United Kingdom,2020-06-25,49
-GBR,United Kingdom,2020-07-03,52
-GBR,United Kingdom,2020-07-12,41
-HKG,Hong Kong SAR China,2020-02-25,65
-HKG,Hong Kong SAR China,2020-03-03,60
-HKG,Hong Kong SAR China,2020-03-10,54
-HKG,Hong Kong SAR China,2020-03-17,56
-HKG,Hong Kong SAR China,2020-03-24,55
-HKG,Hong Kong SAR China,2020-03-31,56
-IDN,Indonesia,2020-02-24,50
-IDN,Indonesia,2020-03-02,50
-IDN,Indonesia,2020-03-09,46
-IDN,Indonesia,2020-03-16,47
-IDN,Indonesia,2020-03-23,52
-IDN,Indonesia,2020-03-30,57
-IND,India,2020-03-16,55
-IND,India,2020-03-20,59
-IND,India,2020-03-27,70
-IND,India,2020-04-03,73
-ITA,Italy,2020-03-11,51
-ITA,Italy,2020-03-19,49
-ITA,Italy,2020-03-25,45
-ITA,Italy,2020-04-03,48
-ITA,Italy,2020-04-09,52
-ITA,Italy,2020-04-16,48
-ITA,Italy,2020-04-23,47
-ITA,Italy,2020-04-30,42
-ITA,Italy,2020-05-26,32
-ITA,Italy,2020-06-17,32
-ITA,Italy,2020-06-23,32
-JPN,Japan,2020-03-17,29
-JPN,Japan,2020-03-24,35
-JPN,Japan,2020-03-30,37
-MEX,Mexico,2020-03-17,53
-MEX,Mexico,2020-03-23,61
-MEX,Mexico,2020-03-30,58
-MEX,Mexico,2020-04-06,60
-MYS,Malaysia,2020-02-24,66
-MYS,Malaysia,2020-03-02,64
-MYS,Malaysia,2020-03-09,61
-MYS,Malaysia,2020-03-16,69
-MYS,Malaysia,2020-03-23,68
-MYS,Malaysia,2020-03-30,69
-PHL,Philippines,2020-02-24,62
-PHL,Philippines,2020-03-02,60
-PHL,Philippines,2020-03-09,62
-PHL,Philippines,2020-03-16,66
-PHL,Philippines,2020-03-23,70
-PHL,Philippines,2020-03-30,72
-SGP,Singapore,2020-02-21,61
-SGP,Singapore,2020-02-28,60
-SGP,Singapore,2020-03-06,57
-SGP,Singapore,2020-03-13,43
-SGP,Singapore,2020-03-20,53
-SGP,Singapore,2020-03-27,51
-THA,Thailand,2020-02-24,50
-THA,Thailand,2020-03-02,53
-THA,Thailand,2020-03-09,55
-THA,Thailand,2020-03-16,49
-THA,Thailand,2020-03-23,52
-THA,Thailand,2020-03-30,58
-TWN,Taiwan,2020-02-25,61
-TWN,Taiwan,2020-03-03,64
-TWN,Taiwan,2020-03-10,62
-TWN,Taiwan,2020-03-17,57
-TWN,Taiwan,2020-03-24,67
-TWN,Taiwan,2020-03-31,64
-USA,United States,2020-03-02,51
-USA,United States,2020-03-17,52
-USA,United States,2020-03-23,61
-USA,United States,2020-03-30,62
-USA,United States,2020-04-06,60
-VNM,Vietnam,2020-03-30,71
-VNM,Vietnam,2020-04-06,74
+AUS,Australia,2020-03-08,62.0
+AUS,Australia,2020-03-15,63.0
+CAN,Canada,2020-03-17,65.0
+CAN,Canada,2020-03-23,71.0
+CAN,Canada,2020-03-30,75.0
+CAN,Canada,2020-04-06,73.0
+CAN,Canada,2020-04-13,56.0
+DEU,Germany,2020-03-04,39.0
+DEU,Germany,2020-03-16,50.0
+DEU,Germany,2020-03-23,61.0
+DEU,Germany,2020-03-30,55.0
+ESP,Spain,2020-03-12,52.0
+ESP,Spain,2020-03-19,70.0
+ESP,Spain,2020-03-25,69.0
+ESP,Spain,2020-04-02,69.0
+ESP,Spain,2020-04-08,68.0
+ESP,Spain,2020-04-16,68.0
+ESP,Spain,2020-04-23,66.0
+ESP,Spain,2020-04-30,64.0
+ESP,Spain,2020-06-12,43.0
+ESP,Spain,2020-06-21,39.0
+ESP,Spain,2020-06-25,44.0
+FRA,France,2020-03-10,43.0
+FRA,France,2020-03-13,44.0
+FRA,France,2020-03-20,63.0
+FRA,France,2020-03-27,64.0
+GBR,United Kingdom,2020-03-01,50.0
+GBR,United Kingdom,2020-03-13,47.0
+GBR,United Kingdom,2020-03-20,58.0
+GBR,United Kingdom,2020-03-27,67.0
+GBR,United Kingdom,2020-04-14,62.0
+GBR,United Kingdom,2020-04-17,61.0
+GBR,United Kingdom,2020-04-24,59.0
+GBR,United Kingdom,2020-05-01,59.0
+GBR,United Kingdom,2020-05-30,58.0
+GBR,United Kingdom,2020-06-16,49.0
+GBR,United Kingdom,2020-06-25,49.0
+GBR,United Kingdom,2020-07-03,52.0
+GBR,United Kingdom,2020-07-12,41.0
+HKG,Hong Kong SAR China,2020-02-25,65.0
+HKG,Hong Kong SAR China,2020-03-03,60.0
+HKG,Hong Kong SAR China,2020-03-10,54.0
+HKG,Hong Kong SAR China,2020-03-17,56.0
+HKG,Hong Kong SAR China,2020-03-24,55.0
+HKG,Hong Kong SAR China,2020-03-31,56.0
+IDN,Indonesia,2020-02-24,50.0
+IDN,Indonesia,2020-03-02,50.0
+IDN,Indonesia,2020-03-09,46.0
+IDN,Indonesia,2020-03-16,47.0
+IDN,Indonesia,2020-03-23,52.0
+IDN,Indonesia,2020-03-30,57.0
+IND,India,2020-03-16,55.0
+IND,India,2020-03-20,59.0
+IND,India,2020-03-27,70.0
+IND,India,2020-04-03,73.0
+ITA,Italy,2020-03-11,51.0
+ITA,Italy,2020-03-19,49.0
+ITA,Italy,2020-03-25,45.0
+ITA,Italy,2020-04-03,48.0
+ITA,Italy,2020-04-09,52.0
+ITA,Italy,2020-04-16,48.0
+ITA,Italy,2020-04-23,47.0
+ITA,Italy,2020-04-30,42.0
+ITA,Italy,2020-05-26,32.0
+ITA,Italy,2020-06-17,32.0
+ITA,Italy,2020-06-23,32.0
+JPN,Japan,2020-03-17,29.0
+JPN,Japan,2020-03-24,35.0
+JPN,Japan,2020-03-30,37.0
+MEX,Mexico,2020-03-17,53.0
+MEX,Mexico,2020-03-23,61.0
+MEX,Mexico,2020-03-30,58.0
+MEX,Mexico,2020-04-06,60.0
+MYS,Malaysia,2020-02-24,66.0
+MYS,Malaysia,2020-03-02,64.0
+MYS,Malaysia,2020-03-09,61.0
+MYS,Malaysia,2020-03-16,69.0
+MYS,Malaysia,2020-03-23,68.0
+MYS,Malaysia,2020-03-30,69.0
+PHL,Philippines,2020-02-24,62.0
+PHL,Philippines,2020-03-02,60.0
+PHL,Philippines,2020-03-09,62.0
+PHL,Philippines,2020-03-16,66.0
+PHL,Philippines,2020-03-23,70.0
+PHL,Philippines,2020-03-30,72.0
+SGP,Singapore,2020-02-21,61.0
+SGP,Singapore,2020-02-28,60.0
+SGP,Singapore,2020-03-06,57.0
+SGP,Singapore,2020-03-13,43.0
+SGP,Singapore,2020-03-20,53.0
+SGP,Singapore,2020-03-27,51.0
+THA,Thailand,2020-02-24,50.0
+THA,Thailand,2020-03-02,53.0
+THA,Thailand,2020-03-09,55.0
+THA,Thailand,2020-03-16,49.0
+THA,Thailand,2020-03-23,52.0
+THA,Thailand,2020-03-30,58.0
+TWN,Taiwan,2020-02-25,61.0
+TWN,Taiwan,2020-03-03,64.0
+TWN,Taiwan,2020-03-10,62.0
+TWN,Taiwan,2020-03-17,57.0
+TWN,Taiwan,2020-03-24,67.0
+TWN,Taiwan,2020-03-31,64.0
+USA,United States,2020-03-02,51.0
+USA,United States,2020-03-17,52.0
+USA,United States,2020-03-23,61.0
+USA,United States,2020-03-30,62.0
+USA,United States,2020-04-06,60.0
+VNM,Vietnam,2020-03-30,71.0
+VNM,Vietnam,2020-04-06,74.0
