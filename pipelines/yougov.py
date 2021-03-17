@@ -1,6 +1,5 @@
 import requests
 import pandas
-import demjson
 from datetime import datetime
 from time import gmtime, strftime
 
@@ -8,53 +7,48 @@ from helpers.normalize_date import normalize_date
 from helpers.save_indicator import save_indicator
 from helpers.normalize_country import normalize_country
 
-# This request replicates the request made by the browser for the various
-# charts displayed on the YouGov website.
-url = "https://chartserver.live/server/yg/v4/data.js?x=987984"
+# This is the Excel file with the data for the various YouGov charts
+# Each tab contains one dataset
+url = "https://docs.google.com/spreadsheets/export?id=1KukPUUcMVqQNDxW5qC-KSN2GyOG9xDovS_D5RQ8tq7E&exportFormat=xlsx"
 request = requests.get(url)
-
-# Convert the JS object contained in the response into a python dictionary
-text = request.text
-js_object = text[text.index("{") : text.rindex("}") + 1]
-data_dict = demjson.decode(js_object)
 
 # Map our indicator IDs to the title of the YouGov indicator
 INDICATOR_MAP = {
-    "fear_of_catching": "#1 YouGov COVID-19 tracker: fear of catching",
-    "government_handling": "#2 YouGov COVID-19 tracker: government handling",
-    "avoiding_crowded_places": "#3 YouGov COVID-19 behaviour changes tracker: Avoiding crowded public places",
-    "wearing_mask_in_public": "#4 YouGov COVID-19 behaviour changes tracker: Wearing a face mask when in public places ",
-    "avoiding_going_to_work": "#5 YouGov COVID-19 behaviour changes tracker: Avoiding going to work",
-    "avoiding_raw_meat": "#6 YouGov COVID-19 behaviour changes tracker: Avoiding raw meat",
-    "stopping_sending_children": "#7 YouGov COVID-19 behaviour changes tracker: Stopping sending children to child care or school",
-    "improving_personal_hygiene": "#8 YouGov COVID-19 behaviour changes tracker: Improving personal hygiene",
-    "refraining_from_touching_objects": "#9 YouGov COVID-19 behaviour changes tracker: Refraining from touching objects in public",
-    "avoiding_contact_with_tourists": "#10 YouGov COVID-19 behaviour changes tracker: Avoiding physical contact with tourists",
-    "support_stopping_flights_from_china": "#11 YouGov COVID-19 measures supported tracker: Stopping all flights coming into country from mainland China",
-    "support_quarantine_flights_from_china": "#12 YouGov COVID-19 measures supported tracker: Quarantining all passengers on all flights coming into country from mainland China ",
-    "support_stopping_international_flights": "#13 YouGov COVID-19 measures supported tracker: Stopping all inbound international flights from countries with confirmed cases of coronavirus",
-    "support_quarantine_international_flights": "#14 YouGov COVID-19 measures supported tracker: Quarantining all inbound international flights from countries with confirmed cases of coronavirus",
-    "support_quarantine_chinese_travellers": "#15 YouGov COVID-19 measures supported tracker: Quarantining all Chinese travellers currently in country",
-    "support_quarantine_any_person": "#16 YouGov COVID-19 measures supported tracker: Quarantining anyone who has been in contact with a contaminated patient ",
-    "support_quarantine_any_location": "#17 YouGov COVID-19 measures supported tracker: Quarantining any location in country that a contaminated patient has been in",
-    "support_free_masks": "#18 YouGov COVID-19 measures supported tracker: Providing free masks for all people in country",
-    "support_work_from_home": "#19 YouGov COVID-19 measures supported tracker: encourage working from home",
-    "support_temporarily_close_schools": "#20 YouGov COVID-19 measures supported tracker: temporarily close schools",
-    "support_cancel_large_events": "#21 YouGov COVID-19 measures supported tracker: cancel large events",
-    "support_cancel_hospital_routines": "#22 YouGov COVID-19 measures supported tracker: cancel routine hospital procedures",
-    "confidence_in_health_authorities": "#23 YouGov COVID-19 tracker: confidence in health authorities",
-    "perceived_national_improvement": "#24 YouGov COVID-19 tracker: perceived national improvement",
-    "perceived_global_improvement": "#25 YouGov COVID-19 tracker: perceived global improvement",
-    "international_happiness": "#26 YouGov COVID-19 tracker: international happiness",
+    "fear_of_catching": "1 Fear",
+    "government_handling": "2 Govt performance",
+    "avoiding_crowded_places": "3 Avoid Public places",
+    "wearing_mask_in_public": "4 Wear face mask",
+    "avoiding_going_to_work": "5 Avoid work",
+    "avoiding_raw_meat": "6 Avoid meat",
+    "stopping_sending_children": "7 Stop school",
+    "improving_personal_hygiene": "8 Improve hygiene",
+    "refraining_from_touching_objects": "9 Avoid objects",
+    "avoiding_contact_with_tourists": "10 Avoid tourists",
+    "support_stopping_flights_from_china": "11 Stop all flights China",
+    "support_quarantine_flights_from_china": "12 Quarantine All China",
+    "support_stopping_international_flights": "13 Stop Inbound Flights",
+    "support_quarantine_international_flights": "14 Quarantine Inbound Flights",
+    "support_quarantine_chinese_travellers": "15 Quarantine Chinese traveller",
+    "support_quarantine_any_person": "16 Quarantine Anyone",
+    "support_quarantine_any_location": "17 Quarantine Any location",
+    "support_free_masks": "18 Provide free masks",
+    "support_work_from_home": "19 Working from home",
+    "support_temporarily_close_schools": "20 Close schools",
+    "support_cancel_large_events": "21 Cancel events",
+    "support_cancel_hospital_routines": "22 Cancel hospital",
+    "confidence_in_health_authorities": "23 Health Authorities",
+    "perceived_national_improvement": "24 National Improvement",
+    "perceived_global_improvement": "25 Global Improvement",
+    "international_happiness": "26 Happiness",
     # The following indicator is not shown on the YouGov website (#23 is shown
     # instead) and is thus not used:
     # 'confidence_in_health_authorities': '#27 YouGov COVID-19 tracker: confidence in health authorities',
-    "personal_health_fears": "#28 YouGov COVID-19 tracker: personal health fears",
-    "friends_and_family_health_fears": "#29 YouGov COVID-19 tracker: friends and family health fears",
-    "finances_fears": "#30 YouGov COVID-19 tracker: finances fears",
-    "job_loss_fears": "#31 YouGov COVID-19 tracker: job loss fears",
-    "education_fears": "#32 YouGov COVID-19 tracker: education fears",
-    "social_impact_fears": "#33 YouGov COVID-19 tracker: social impact fears",
+    "personal_health_fears": "28 Personal Health Fears",
+    "friends_and_family_health_fears": "29 Friends Health Fears",
+    "finances_fears": "30 Finance Fears",
+    "job_loss_fears": "31 Job Loss Fears",
+    "education_fears": "32 Education Fears",
+    "social_impact_fears": "33 Social Impact Fears",
     # The following two indicators are currently not being shown on the YouGov website
     # and are thus not used:
     # 'support_stopping_all_flights': '#34 YouGov COVID-19 measures supported tracker: stopping all inbound flights',
@@ -63,33 +57,19 @@ INDICATOR_MAP = {
 
 
 def run_pipeline(indicator):
-    # Find the chart series for this indicator
-    chart_series = None
-    # The YouGov label to look for
-    needle = INDICATOR_MAP[indicator.replace("yougov_", "")]
-    for id, object in data_dict.items():
-        label = id.replace("chart_", "#") + " " + object["title"]
-        if needle.lower() == label.lower():
-            chart_series = object["chartSeries"]
-            break
+    # The Excel sheet to use
+    sheet = INDICATOR_MAP[indicator.replace("yougov_", "")]
 
-    # Convert the data in the dict into a pandas dataframe:
-    # The series contains the country name and a data object
-    # The data object is a list of data points in the format [timestamp, value]
-    data = []
-    for series in chart_series:
-        for observation in series["data"]:
-            data.append(
-                {
-                    "country": series["name"],
-                    "date": strftime("%Y-%m-%d", gmtime(observation[0] / 1000)),
-                    "timestamp": observation[0],
-                    "value": observation[1],
-                }
-            )
+    # Read dataframe
+    dataset = pandas.read_excel(request.content, sheet_name=sheet, header=2)
+    dataset = dataset.rename(columns={"Country/region": "country"})
+    dataset = dataset.drop(columns=["region"])
 
-    # Convert dict to dataframe
-    dataset = pandas.DataFrame.from_dict(data)
+    # Stack dates
+    dataset = dataset.set_index("country")
+    dataset = dataset.stack()
+    dataset = dataset.reset_index()
+    dataset = dataset.rename(columns={"level_1": "date", 0: "value"})
 
     # Normalize countries
     dataset["iso_code"] = dataset["country"].apply(
@@ -97,18 +77,19 @@ def run_pipeline(indicator):
     )
 
     # Normalize date
+    # Drop any unnamed columns
+    dataset["invalid_date"] = dataset["date"].apply(
+        lambda date: type(date) == str and date.startswith("Unnamed")
+    )
+    dataset = dataset[dataset["invalid_date"] == False]
     dataset["date"] = dataset["date"].apply(
-        lambda date: normalize_date(date, "%Y-%m-%d")
+        lambda date: normalize_date(
+            date if type(date) == str else date.strftime("%Y-%m-%d"), "%Y-%m-%d"
+        )
     )
 
     # Rename the value column
     dataset = dataset.rename(columns={"value": indicator})
-
-    # Temporary: yougov_support_cancel_hospital_routines has some negative
-    # timestamp values. Those seem like a mistake, so we drop them.
-    if indicator == "yougov_support_cancel_hospital_routines":
-        print("Dropping negative timestamp")
-        dataset = dataset[dataset.timestamp != -500000]
 
     # Create slice of data with country ID, date, and indicator
     dataset = dataset[["iso_code", "date", indicator]]
