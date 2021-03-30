@@ -39,7 +39,9 @@ dataset.rename(columns=new_column_names, inplace=True)
 # Normalize country names:
 # * Drop non countries
 dataset = dataset[
-    ~dataset.location.isin(["England & Wales", "Northern Ireland", "Scotland"])
+    ~dataset.location.isin(
+        ["England & Wales", "Northern Ireland", "Scotland", "Transnistria"]
+    )
 ]
 # * Perform conversion
 dataset["iso_code"] = dataset["location"].apply(
