@@ -421,6 +421,8 @@ ALB,Albania,2021-04-25,0.958
 ALB,Albania,2021-04-26,0.915
 ALB,Albania,2021-04-27,0.906
 ALB,Albania,2021-04-28,0.89
+ALB,Albania,2021-04-29,0.868
+ALB,Albania,2021-04-30,0.855
 AND,Andorra,2020-11-09,11.855
 AND,Andorra,2020-11-10,11.545
 AND,Andorra,2020-11-11,11.234
@@ -981,10 +983,15 @@ ARE,United Arab Emirates,2021-04-22,19.434
 ARE,United Arab Emirates,2021-04-23,19.491
 ARE,United Arab Emirates,2021-04-24,19.462
 ARE,United Arab Emirates,2021-04-25,19.491
-ARE,United Arab Emirates,2021-04-26,18.141
-ARE,United Arab Emirates,2021-04-27,16.064
-ARE,United Arab Emirates,2021-04-28,13.991
-ARE,United Arab Emirates,2021-04-29,11.755
+ARE,United Arab Emirates,2021-04-26,19.758
+ARE,United Arab Emirates,2021-04-27,19.654
+ARE,United Arab Emirates,2021-04-28,19.701
+ARE,United Arab Emirates,2021-04-29,19.563
+ARE,United Arab Emirates,2021-04-30,19.593
+ARE,United Arab Emirates,2021-05-01,19.45
+ARE,United Arab Emirates,2021-05-02,19.454
+ARE,United Arab Emirates,2021-05-03,19.404
+ARE,United Arab Emirates,2021-05-04,19.324
 ARG,Argentina,2020-01-08,0.001
 ARG,Argentina,2020-01-09,0.001
 ARG,Argentina,2020-01-10,0.001
@@ -1285,19 +1292,19 @@ ARG,Argentina,2020-10-30,0.539
 ARG,Argentina,2020-10-31,0.527
 ARG,Argentina,2020-11-01,0.525
 ARG,Argentina,2020-11-02,0.513
-ARG,Argentina,2020-11-03,0.507
-ARG,Argentina,2020-11-04,0.491
+ARG,Argentina,2020-11-03,0.508
+ARG,Argentina,2020-11-04,0.492
 ARG,Argentina,2020-11-05,0.492
 ARG,Argentina,2020-11-06,0.485
 ARG,Argentina,2020-11-07,0.486
 ARG,Argentina,2020-11-08,0.484
-ARG,Argentina,2020-11-09,0.479
+ARG,Argentina,2020-11-09,0.48
 ARG,Argentina,2020-11-10,0.479
-ARG,Argentina,2020-11-11,0.479
+ARG,Argentina,2020-11-11,0.48
 ARG,Argentina,2020-11-12,0.467
 ARG,Argentina,2020-11-13,0.468
-ARG,Argentina,2020-11-14,0.466
-ARG,Argentina,2020-11-15,0.46
+ARG,Argentina,2020-11-14,0.467
+ARG,Argentina,2020-11-15,0.461
 ARG,Argentina,2020-11-16,0.461
 ARG,Argentina,2020-11-17,0.458
 ARG,Argentina,2020-11-18,0.459
@@ -1324,13 +1331,13 @@ ARG,Argentina,2020-12-08,0.356
 ARG,Argentina,2020-12-09,0.348
 ARG,Argentina,2020-12-10,0.355
 ARG,Argentina,2020-12-11,0.366
-ARG,Argentina,2020-12-12,0.373
-ARG,Argentina,2020-12-13,0.383
+ARG,Argentina,2020-12-12,0.374
+ARG,Argentina,2020-12-13,0.384
 ARG,Argentina,2020-12-14,0.41
 ARG,Argentina,2020-12-15,0.456
 ARG,Argentina,2020-12-16,0.472
 ARG,Argentina,2020-12-17,0.485
-ARG,Argentina,2020-12-18,0.497
+ARG,Argentina,2020-12-18,0.498
 ARG,Argentina,2020-12-19,0.512
 ARG,Argentina,2020-12-20,0.524
 ARG,Argentina,2020-12-21,0.544
@@ -1340,7 +1347,7 @@ ARG,Argentina,2020-12-24,0.556
 ARG,Argentina,2020-12-25,0.487
 ARG,Argentina,2020-12-26,0.482
 ARG,Argentina,2020-12-27,0.486
-ARG,Argentina,2020-12-28,0.503
+ARG,Argentina,2020-12-28,0.504
 ARG,Argentina,2020-12-29,0.524
 ARG,Argentina,2020-12-30,0.547
 ARG,Argentina,2020-12-31,0.572
@@ -1352,9 +1359,9 @@ ARG,Argentina,2021-01-05,0.625
 ARG,Argentina,2021-01-06,0.639
 ARG,Argentina,2021-01-07,0.679
 ARG,Argentina,2021-01-08,0.781
-ARG,Argentina,2021-01-09,0.822
+ARG,Argentina,2021-01-09,0.823
 ARG,Argentina,2021-01-10,0.825
-ARG,Argentina,2021-01-11,0.832
+ARG,Argentina,2021-01-11,0.833
 ARG,Argentina,2021-01-12,0.828
 ARG,Argentina,2021-01-13,0.824
 ARG,Argentina,2021-01-14,0.827
@@ -1363,7 +1370,7 @@ ARG,Argentina,2021-01-16,0.849
 ARG,Argentina,2021-01-17,0.863
 ARG,Argentina,2021-01-18,0.875
 ARG,Argentina,2021-01-19,0.892
-ARG,Argentina,2021-01-20,0.894
+ARG,Argentina,2021-01-20,0.895
 ARG,Argentina,2021-01-21,0.891
 ARG,Argentina,2021-01-22,0.868
 ARG,Argentina,2021-01-23,0.842
@@ -1377,7 +1384,7 @@ ARG,Argentina,2021-01-30,0.794
 ARG,Argentina,2021-01-31,0.832
 ARG,Argentina,2021-02-01,0.853
 ARG,Argentina,2021-02-02,0.881
-ARG,Argentina,2021-02-03,0.891
+ARG,Argentina,2021-02-03,0.892
 ARG,Argentina,2021-02-04,0.889
 ARG,Argentina,2021-02-05,0.875
 ARG,Argentina,2021-02-06,0.848
@@ -1400,7 +1407,7 @@ ARG,Argentina,2021-02-22,0.791
 ARG,Argentina,2021-02-23,0.812
 ARG,Argentina,2021-02-24,0.794
 ARG,Argentina,2021-02-25,0.761
-ARG,Argentina,2021-02-26,0.741
+ARG,Argentina,2021-02-26,0.742
 ARG,Argentina,2021-02-27,0.734
 ARG,Argentina,2021-02-28,0.737
 ARG,Argentina,2021-03-01,0.721
@@ -1416,7 +1423,7 @@ ARG,Argentina,2021-03-10,0.657
 ARG,Argentina,2021-03-11,0.655
 ARG,Argentina,2021-03-12,0.662
 ARG,Argentina,2021-03-13,0.671
-ARG,Argentina,2021-03-14,0.678
+ARG,Argentina,2021-03-14,0.679
 ARG,Argentina,2021-03-15,0.689
 ARG,Argentina,2021-03-16,0.694
 ARG,Argentina,2021-03-17,0.696
@@ -1425,39 +1432,43 @@ ARG,Argentina,2021-03-19,0.706
 ARG,Argentina,2021-03-20,0.704
 ARG,Argentina,2021-03-21,0.7
 ARG,Argentina,2021-03-22,0.702
-ARG,Argentina,2021-03-23,0.712
-ARG,Argentina,2021-03-24,0.68
-ARG,Argentina,2021-03-25,0.693
-ARG,Argentina,2021-03-26,0.718
+ARG,Argentina,2021-03-23,0.713
+ARG,Argentina,2021-03-24,0.681
+ARG,Argentina,2021-03-25,0.694
+ARG,Argentina,2021-03-26,0.719
 ARG,Argentina,2021-03-27,0.744
 ARG,Argentina,2021-03-28,0.759
-ARG,Argentina,2021-03-29,0.774
-ARG,Argentina,2021-03-30,0.794
-ARG,Argentina,2021-03-31,0.862
-ARG,Argentina,2021-04-01,0.873
-ARG,Argentina,2021-04-02,0.832
-ARG,Argentina,2021-04-03,0.83
-ARG,Argentina,2021-04-04,0.859
-ARG,Argentina,2021-04-05,0.901
-ARG,Argentina,2021-04-06,0.952
-ARG,Argentina,2021-04-07,1.007
-ARG,Argentina,2021-04-08,1.042
-ARG,Argentina,2021-04-09,1.105
-ARG,Argentina,2021-04-10,1.126
-ARG,Argentina,2021-04-11,1.1
-ARG,Argentina,2021-04-12,1.073
-ARG,Argentina,2021-04-13,1.026
-ARG,Argentina,2021-04-14,0.975
-ARG,Argentina,2021-04-15,0.974
-ARG,Argentina,2021-04-16,0.975
-ARG,Argentina,2021-04-17,0.958
-ARG,Argentina,2021-04-18,0.957
-ARG,Argentina,2021-04-19,0.948
-ARG,Argentina,2021-04-20,0.945
-ARG,Argentina,2021-04-21,0.93
-ARG,Argentina,2021-04-22,0.901
-ARG,Argentina,2021-04-23,0.865
-ARG,Argentina,2021-04-24,0.852
+ARG,Argentina,2021-03-29,0.775
+ARG,Argentina,2021-03-30,0.795
+ARG,Argentina,2021-03-31,0.863
+ARG,Argentina,2021-04-01,0.875
+ARG,Argentina,2021-04-02,0.834
+ARG,Argentina,2021-04-03,0.832
+ARG,Argentina,2021-04-04,0.862
+ARG,Argentina,2021-04-05,0.904
+ARG,Argentina,2021-04-06,0.954
+ARG,Argentina,2021-04-07,1.009
+ARG,Argentina,2021-04-08,1.044
+ARG,Argentina,2021-04-09,1.108
+ARG,Argentina,2021-04-10,1.13
+ARG,Argentina,2021-04-11,1.104
+ARG,Argentina,2021-04-12,1.078
+ARG,Argentina,2021-04-13,1.031
+ARG,Argentina,2021-04-14,0.98
+ARG,Argentina,2021-04-15,0.979
+ARG,Argentina,2021-04-16,0.98
+ARG,Argentina,2021-04-17,0.965
+ARG,Argentina,2021-04-18,0.963
+ARG,Argentina,2021-04-19,0.954
+ARG,Argentina,2021-04-20,0.954
+ARG,Argentina,2021-04-21,0.941
+ARG,Argentina,2021-04-22,0.913
+ARG,Argentina,2021-04-23,0.877
+ARG,Argentina,2021-04-24,0.866
+ARG,Argentina,2021-04-25,0.847
+ARG,Argentina,2021-04-26,0.828
+ARG,Argentina,2021-04-27,0.8
+ARG,Argentina,2021-04-28,0.778
 ARM,Armenia,2020-03-16,0.023
 ARM,Armenia,2020-03-17,0.023
 ARM,Armenia,2020-03-18,0.023
@@ -1868,6 +1879,9 @@ ARM,Armenia,2021-04-26,1.354
 ARM,Armenia,2021-04-27,1.348
 ARM,Armenia,2021-04-28,1.356
 ARM,Armenia,2021-04-29,1.329
+ARM,Armenia,2021-04-30,1.357
+ARM,Armenia,2021-05-01,1.351
+ARM,Armenia,2021-05-02,1.34
 AUS,Australia,2020-03-29,0.382
 AUS,Australia,2020-03-30,0.396
 AUS,Australia,2020-03-31,0.41
@@ -2265,6 +2279,10 @@ AUS,Australia,2021-04-26,1.283
 AUS,Australia,2021-04-27,1.527
 AUS,Australia,2021-04-28,1.649
 AUS,Australia,2021-04-29,1.723
+AUS,Australia,2021-04-30,1.742
+AUS,Australia,2021-05-01,1.776
+AUS,Australia,2021-05-02,1.809
+AUS,Australia,2021-05-03,1.855
 AUT,Austria,2020-04-08,1.648
 AUT,Austria,2020-04-09,0.541
 AUT,Austria,2020-04-10,0.577
@@ -2650,6 +2668,10 @@ AUT,Austria,2021-04-24,29.71
 AUT,Austria,2021-04-25,29.578
 AUT,Austria,2021-04-26,28.897
 AUT,Austria,2021-04-27,30.58
+AUT,Austria,2021-04-28,27.284
+AUT,Austria,2021-04-29,26.714
+AUT,Austria,2021-04-30,27.067
+AUT,Austria,2021-05-01,27.589
 BEL,Belgium,2020-03-08,0.054
 BEL,Belgium,2020-03-09,0.058
 BEL,Belgium,2020-03-10,0.061
@@ -3060,13 +3082,17 @@ BEL,Belgium,2021-04-18,3.469
 BEL,Belgium,2021-04-19,3.5
 BEL,Belgium,2021-04-20,3.551
 BEL,Belgium,2021-04-21,3.618
-BEL,Belgium,2021-04-22,3.685
+BEL,Belgium,2021-04-22,3.686
 BEL,Belgium,2021-04-23,3.77
 BEL,Belgium,2021-04-24,3.798
 BEL,Belgium,2021-04-25,3.808
-BEL,Belgium,2021-04-26,3.85
-BEL,Belgium,2021-04-27,3.857
-BEL,Belgium,2021-04-28,3.896
+BEL,Belgium,2021-04-26,3.851
+BEL,Belgium,2021-04-27,3.859
+BEL,Belgium,2021-04-28,3.915
+BEL,Belgium,2021-04-29,4.0
+BEL,Belgium,2021-04-30,4.053
+BEL,Belgium,2021-05-01,4.029
+BEL,Belgium,2021-05-02,4.029
 BGD,Bangladesh,2020-03-10,0.0
 BGD,Bangladesh,2020-03-11,0.0
 BGD,Bangladesh,2020-03-12,0.0
@@ -3483,6 +3509,10 @@ BGD,Bangladesh,2021-04-26,0.154
 BGD,Bangladesh,2021-04-27,0.151
 BGD,Bangladesh,2021-04-28,0.148
 BGD,Bangladesh,2021-04-29,0.145
+BGD,Bangladesh,2021-04-30,0.141
+BGD,Bangladesh,2021-05-01,0.136
+BGD,Bangladesh,2021-05-02,0.13
+BGD,Bangladesh,2021-05-03,0.119
 BGR,Bulgaria,2020-04-18,0.142
 BGR,Bulgaria,2020-04-19,0.142
 BGR,Bulgaria,2020-04-20,0.126
@@ -3861,6 +3891,10 @@ BGR,Bulgaria,2021-04-27,1.71
 BGR,Bulgaria,2021-04-28,1.797
 BGR,Bulgaria,2021-04-29,1.795
 BGR,Bulgaria,2021-04-30,1.853
+BGR,Bulgaria,2021-05-01,1.73
+BGR,Bulgaria,2021-05-02,1.721
+BGR,Bulgaria,2021-05-03,1.675
+BGR,Bulgaria,2021-05-04,1.525
 BHR,Bahrain,2020-03-12,0.311
 BHR,Bahrain,2020-03-13,0.33
 BHR,Bahrain,2020-03-14,0.35
@@ -4276,6 +4310,10 @@ BHR,Bahrain,2021-04-27,9.343
 BHR,Bahrain,2021-04-28,9.21
 BHR,Bahrain,2021-04-29,9.237
 BHR,Bahrain,2021-04-30,9.345
+BHR,Bahrain,2021-05-01,9.333
+BHR,Bahrain,2021-05-02,9.308
+BHR,Bahrain,2021-05-03,9.305
+BHR,Bahrain,2021-05-04,9.221
 BIH,Bosnia and Herzegovina,2020-04-08,0.176
 BIH,Bosnia and Herzegovina,2020-04-09,0.191
 BIH,Bosnia and Herzegovina,2020-04-10,0.208
@@ -4660,6 +4698,7 @@ BIH,Bosnia and Herzegovina,2021-04-26,0.955
 BIH,Bosnia and Herzegovina,2021-04-27,0.93
 BIH,Bosnia and Herzegovina,2021-04-28,0.875
 BIH,Bosnia and Herzegovina,2021-04-29,0.864
+BIH,Bosnia and Herzegovina,2021-04-30,0.851
 BLR,Belarus,2020-03-10,0.065
 BLR,Belarus,2020-03-11,0.065
 BLR,Belarus,2020-03-12,0.065
@@ -5076,6 +5115,10 @@ BLR,Belarus,2021-04-26,1.539
 BLR,Belarus,2021-04-27,1.596
 BLR,Belarus,2021-04-28,1.622
 BLR,Belarus,2021-04-29,1.648
+BLR,Belarus,2021-04-30,1.677
+BLR,Belarus,2021-05-01,1.707
+BLR,Belarus,2021-05-02,1.737
+BLR,Belarus,2021-05-03,1.767
 BOL,Bolivia,2020-03-21,0.002
 BOL,Bolivia,2020-03-22,0.002
 BOL,Bolivia,2020-03-23,0.003
@@ -5480,6 +5523,8 @@ BOL,Bolivia,2021-04-25,0.785
 BOL,Bolivia,2021-04-26,0.757
 BOL,Bolivia,2021-04-27,0.757
 BOL,Bolivia,2021-04-28,0.762
+BOL,Bolivia,2021-04-29,0.805
+BOL,Bolivia,2021-04-30,0.859
 BRA,Brazil,2020-04-14,0.025
 BRA,Brazil,2020-04-15,0.025
 BRA,Brazil,2020-04-16,0.025
@@ -5957,6 +6002,10 @@ BTN,Bhutan,2021-04-25,4.97
 BTN,Bhutan,2021-04-26,4.699
 BTN,Bhutan,2021-04-27,4.124
 BTN,Bhutan,2021-04-28,3.916
+BTN,Bhutan,2021-04-29,3.311
+BTN,Bhutan,2021-04-30,3.217
+BTN,Bhutan,2021-05-01,3.577
+BTN,Bhutan,2021-05-02,3.734
 CAN,Canada,2020-02-07,0.0
 CAN,Canada,2020-02-08,0.0
 CAN,Canada,2020-02-09,0.0
@@ -6405,6 +6454,10 @@ CAN,Canada,2021-04-26,3.357
 CAN,Canada,2021-04-27,3.364
 CAN,Canada,2021-04-28,3.375
 CAN,Canada,2021-04-29,3.432
+CAN,Canada,2021-04-30,3.482
+CAN,Canada,2021-05-01,3.499
+CAN,Canada,2021-05-02,3.467
+CAN,Canada,2021-05-03,3.549
 CHE,Switzerland,2020-05-30,0.436
 CHE,Switzerland,2020-05-31,0.435
 CHE,Switzerland,2020-06-01,0.4
@@ -6489,7 +6542,7 @@ CHE,Switzerland,2020-08-18,0.779
 CHE,Switzerland,2020-08-19,0.825
 CHE,Switzerland,2020-08-20,0.87
 CHE,Switzerland,2020-08-21,0.913
-CHE,Switzerland,2020-08-22,0.935
+CHE,Switzerland,2020-08-22,0.934
 CHE,Switzerland,2020-08-23,0.949
 CHE,Switzerland,2020-08-24,0.976
 CHE,Switzerland,2020-08-25,1.019
@@ -6532,7 +6585,7 @@ CHE,Switzerland,2020-09-30,1.076
 CHE,Switzerland,2020-10-01,1.079
 CHE,Switzerland,2020-10-02,1.08
 CHE,Switzerland,2020-10-03,1.106
-CHE,Switzerland,2020-10-04,1.118
+CHE,Switzerland,2020-10-04,1.119
 CHE,Switzerland,2020-10-05,1.159
 CHE,Switzerland,2020-10-06,1.198
 CHE,Switzerland,2020-10-07,1.254
@@ -6631,7 +6684,7 @@ CHE,Switzerland,2021-01-07,2.537
 CHE,Switzerland,2021-01-08,2.81
 CHE,Switzerland,2021-01-09,2.808
 CHE,Switzerland,2021-01-10,2.751
-CHE,Switzerland,2021-01-11,2.72
+CHE,Switzerland,2021-01-11,2.719
 CHE,Switzerland,2021-01-12,2.627
 CHE,Switzerland,2021-01-13,2.586
 CHE,Switzerland,2021-01-14,2.524
@@ -6643,13 +6696,13 @@ CHE,Switzerland,2021-01-19,2.518
 CHE,Switzerland,2021-01-20,2.554
 CHE,Switzerland,2021-01-21,2.589
 CHE,Switzerland,2021-01-22,2.652
-CHE,Switzerland,2021-01-23,2.678
+CHE,Switzerland,2021-01-23,2.677
 CHE,Switzerland,2021-01-24,2.68
 CHE,Switzerland,2021-01-25,2.647
 CHE,Switzerland,2021-01-26,2.588
 CHE,Switzerland,2021-01-27,2.572
 CHE,Switzerland,2021-01-28,2.619
-CHE,Switzerland,2021-01-29,2.665
+CHE,Switzerland,2021-01-29,2.664
 CHE,Switzerland,2021-01-30,2.712
 CHE,Switzerland,2021-01-31,2.759
 CHE,Switzerland,2021-02-01,2.807
@@ -6664,7 +6717,7 @@ CHE,Switzerland,2021-02-09,3.187
 CHE,Switzerland,2021-02-10,3.202
 CHE,Switzerland,2021-02-11,3.196
 CHE,Switzerland,2021-02-12,3.212
-CHE,Switzerland,2021-02-13,3.214
+CHE,Switzerland,2021-02-13,3.213
 CHE,Switzerland,2021-02-14,3.19
 CHE,Switzerland,2021-02-15,3.148
 CHE,Switzerland,2021-02-16,3.107
@@ -6676,7 +6729,7 @@ CHE,Switzerland,2021-02-21,2.906
 CHE,Switzerland,2021-02-22,2.837
 CHE,Switzerland,2021-02-23,2.78
 CHE,Switzerland,2021-02-24,2.729
-CHE,Switzerland,2021-02-25,2.733
+CHE,Switzerland,2021-02-25,2.732
 CHE,Switzerland,2021-02-26,2.744
 CHE,Switzerland,2021-02-27,2.756
 CHE,Switzerland,2021-02-28,2.762
@@ -6690,32 +6743,32 @@ CHE,Switzerland,2021-03-07,2.866
 CHE,Switzerland,2021-03-08,2.924
 CHE,Switzerland,2021-03-09,2.982
 CHE,Switzerland,2021-03-10,3.036
-CHE,Switzerland,2021-03-11,3.099
+CHE,Switzerland,2021-03-11,3.098
 CHE,Switzerland,2021-03-12,3.145
 CHE,Switzerland,2021-03-13,3.171
-CHE,Switzerland,2021-03-14,3.193
+CHE,Switzerland,2021-03-14,3.192
 CHE,Switzerland,2021-03-15,3.264
 CHE,Switzerland,2021-03-16,3.336
 CHE,Switzerland,2021-03-17,3.435
 CHE,Switzerland,2021-03-18,3.547
-CHE,Switzerland,2021-03-19,3.642
-CHE,Switzerland,2021-03-20,3.722
+CHE,Switzerland,2021-03-19,3.641
+CHE,Switzerland,2021-03-20,3.721
 CHE,Switzerland,2021-03-21,3.77
 CHE,Switzerland,2021-03-22,3.865
 CHE,Switzerland,2021-03-23,3.942
-CHE,Switzerland,2021-03-24,3.974
-CHE,Switzerland,2021-03-25,4.014
+CHE,Switzerland,2021-03-24,3.973
+CHE,Switzerland,2021-03-25,4.013
 CHE,Switzerland,2021-03-26,4.086
-CHE,Switzerland,2021-03-27,4.159
+CHE,Switzerland,2021-03-27,4.158
 CHE,Switzerland,2021-03-28,4.187
-CHE,Switzerland,2021-03-29,4.152
+CHE,Switzerland,2021-03-29,4.151
 CHE,Switzerland,2021-03-30,4.243
-CHE,Switzerland,2021-03-31,4.528
+CHE,Switzerland,2021-03-31,4.527
 CHE,Switzerland,2021-04-01,4.755
 CHE,Switzerland,2021-04-02,4.487
 CHE,Switzerland,2021-04-03,4.521
 CHE,Switzerland,2021-04-04,4.554
-CHE,Switzerland,2021-04-05,4.204
+CHE,Switzerland,2021-04-05,4.203
 CHE,Switzerland,2021-04-06,4.042
 CHE,Switzerland,2021-04-07,3.75
 CHE,Switzerland,2021-04-08,3.437
@@ -6724,21 +6777,25 @@ CHE,Switzerland,2021-04-10,3.436
 CHE,Switzerland,2021-04-11,3.353
 CHE,Switzerland,2021-04-12,3.532
 CHE,Switzerland,2021-04-13,3.426
-CHE,Switzerland,2021-04-14,3.283
+CHE,Switzerland,2021-04-14,3.282
 CHE,Switzerland,2021-04-15,3.193
-CHE,Switzerland,2021-04-16,3.141
+CHE,Switzerland,2021-04-16,3.14
 CHE,Switzerland,2021-04-17,3.101
-CHE,Switzerland,2021-04-18,3.084
+CHE,Switzerland,2021-04-18,3.083
 CHE,Switzerland,2021-04-19,3.046
-CHE,Switzerland,2021-04-20,2.994
-CHE,Switzerland,2021-04-21,2.964
+CHE,Switzerland,2021-04-20,2.993
+CHE,Switzerland,2021-04-21,2.965
 CHE,Switzerland,2021-04-22,2.968
-CHE,Switzerland,2021-04-23,2.981
-CHE,Switzerland,2021-04-24,3.01
-CHE,Switzerland,2021-04-25,3.019
-CHE,Switzerland,2021-04-26,3.026
-CHE,Switzerland,2021-04-27,3.04
-CHE,Switzerland,2021-04-28,2.959
+CHE,Switzerland,2021-04-23,2.982
+CHE,Switzerland,2021-04-24,3.011
+CHE,Switzerland,2021-04-25,3.021
+CHE,Switzerland,2021-04-26,3.028
+CHE,Switzerland,2021-04-27,3.045
+CHE,Switzerland,2021-04-28,3.059
+CHE,Switzerland,2021-04-29,3.054
+CHE,Switzerland,2021-04-30,3.048
+CHE,Switzerland,2021-05-01,3.005
+CHE,Switzerland,2021-05-02,2.966
 CHL,Chile,2020-04-16,0.225
 CHL,Chile,2020-04-17,0.232
 CHL,Chile,2020-04-18,0.243
@@ -7118,6 +7175,10 @@ CHL,Chile,2021-04-26,3.136
 CHL,Chile,2021-04-27,3.085
 CHL,Chile,2021-04-28,3.051
 CHL,Chile,2021-04-29,3.029
+CHL,Chile,2021-04-30,3.046
+CHL,Chile,2021-05-01,3.039
+CHL,Chile,2021-05-02,3.03
+CHL,Chile,2021-05-03,2.968
 CIV,Cote d'Ivoire,2020-04-20,0.011
 CIV,Cote d'Ivoire,2020-04-21,0.012
 CIV,Cote d'Ivoire,2020-04-22,0.013
@@ -7492,6 +7553,10 @@ CIV,Cote d'Ivoire,2021-04-25,0.071
 CIV,Cote d'Ivoire,2021-04-26,0.072
 CIV,Cote d'Ivoire,2021-04-27,0.071
 CIV,Cote d'Ivoire,2021-04-28,0.067
+CIV,Cote d'Ivoire,2021-04-29,0.068
+CIV,Cote d'Ivoire,2021-04-30,0.068
+CIV,Cote d'Ivoire,2021-05-01,0.072
+CIV,Cote d'Ivoire,2021-05-02,0.07
 COD,"Congo, Dem. Rep.",2020-04-19,0.002
 COD,"Congo, Dem. Rep.",2020-04-20,0.002
 COD,"Congo, Dem. Rep.",2020-04-21,0.002
@@ -7771,6 +7836,9 @@ COD,"Congo, Dem. Rep.",2021-04-25,0.004
 COD,"Congo, Dem. Rep.",2021-04-26,0.004
 COD,"Congo, Dem. Rep.",2021-04-27,0.004
 COD,"Congo, Dem. Rep.",2021-04-28,0.004
+COD,"Congo, Dem. Rep.",2021-04-29,0.004
+COD,"Congo, Dem. Rep.",2021-04-30,0.004
+COD,"Congo, Dem. Rep.",2021-05-01,0.004
 COL,Colombia,2020-06-09,0.24
 COL,Colombia,2020-06-10,0.237
 COL,Colombia,2020-06-11,0.24
@@ -8096,6 +8164,10 @@ COL,Colombia,2021-04-26,1.568
 COL,Colombia,2021-04-27,1.578
 COL,Colombia,2021-04-28,1.607
 COL,Colombia,2021-04-29,1.628
+COL,Colombia,2021-04-30,1.595
+COL,Colombia,2021-05-01,1.601
+COL,Colombia,2021-05-02,1.531
+COL,Colombia,2021-05-03,1.493
 CPV,Cabo Verde,2020-06-05,0.243
 CPV,Cabo Verde,2020-06-06,0.246
 CPV,Cabo Verde,2020-06-07,0.252
@@ -8668,6 +8740,10 @@ CRI,Costa Rica,2021-04-24,0.925
 CRI,Costa Rica,2021-04-25,0.937
 CRI,Costa Rica,2021-04-26,0.978
 CRI,Costa Rica,2021-04-27,0.984
+CRI,Costa Rica,2021-04-28,1.039
+CRI,Costa Rica,2021-04-29,1.063
+CRI,Costa Rica,2021-04-30,1.234
+CRI,Costa Rica,2021-05-01,1.294
 CUB,Cuba,2020-03-29,0.019
 CUB,Cuba,2020-03-30,0.021
 CUB,Cuba,2020-03-31,0.026
@@ -9063,7 +9139,11 @@ CUB,Cuba,2021-04-24,1.943
 CUB,Cuba,2021-04-25,1.974
 CUB,Cuba,2021-04-26,1.981
 CUB,Cuba,2021-04-27,1.982
-CUB,Cuba,2021-04-28,405.595
+CUB,Cuba,2021-04-28,1.994
+CUB,Cuba,2021-04-29,1.997
+CUB,Cuba,2021-04-30,2.007
+CUB,Cuba,2021-05-01,2.007
+CUB,Cuba,2021-05-02,1.993
 CYP,Cyprus,2020-04-04,0.69
 CYP,Cyprus,2020-04-05,0.732
 CYP,Cyprus,2020-04-06,0.784
@@ -9454,6 +9534,8 @@ CYP,Cyprus,2021-04-25,66.393
 CYP,Cyprus,2021-04-26,64.899
 CYP,Cyprus,2021-04-27,62.633
 CYP,Cyprus,2021-04-28,60.642
+CYP,Cyprus,2021-04-29,57.666
+CYP,Cyprus,2021-04-30,54.566
 CZE,Czech Republic,2020-09-07,0.957
 CZE,Czech Republic,2020-09-08,1.024
 CZE,Czech Republic,2020-09-09,1.073
@@ -9524,76 +9606,76 @@ CZE,Czech Republic,2020-11-12,3.313
 CZE,Czech Republic,2020-11-13,3.357
 CZE,Czech Republic,2020-11-14,3.241
 CZE,Czech Republic,2020-11-15,3.214
-CZE,Czech Republic,2020-11-16,3.386
-CZE,Czech Republic,2020-11-17,3.102
-CZE,Czech Republic,2020-11-18,3.103
-CZE,Czech Republic,2020-11-19,2.97
-CZE,Czech Republic,2020-11-20,2.834
-CZE,Czech Republic,2020-11-21,2.907
-CZE,Czech Republic,2020-11-22,2.914
-CZE,Czech Republic,2020-11-23,3.18
-CZE,Czech Republic,2020-11-24,3.406
-CZE,Czech Republic,2020-11-25,3.273
-CZE,Czech Republic,2020-11-26,3.255
-CZE,Czech Republic,2020-11-27,3.277
-CZE,Czech Republic,2020-11-28,3.245
-CZE,Czech Republic,2020-11-29,3.213
-CZE,Czech Republic,2020-11-30,3.189
-CZE,Czech Republic,2020-12-01,3.205
-CZE,Czech Republic,2020-12-02,3.209
-CZE,Czech Republic,2020-12-03,3.208
-CZE,Czech Republic,2020-12-04,3.161
-CZE,Czech Republic,2020-12-05,3.105
-CZE,Czech Republic,2020-12-06,3.106
-CZE,Czech Republic,2020-12-07,2.924
-CZE,Czech Republic,2020-12-08,2.892
+CZE,Czech Republic,2020-11-16,3.387
+CZE,Czech Republic,2020-11-17,3.103
+CZE,Czech Republic,2020-11-18,3.104
+CZE,Czech Republic,2020-11-19,2.972
+CZE,Czech Republic,2020-11-20,2.836
+CZE,Czech Republic,2020-11-21,2.909
+CZE,Czech Republic,2020-11-22,2.915
+CZE,Czech Republic,2020-11-23,3.182
+CZE,Czech Republic,2020-11-24,3.407
+CZE,Czech Republic,2020-11-25,3.274
+CZE,Czech Republic,2020-11-26,3.257
+CZE,Czech Republic,2020-11-27,3.279
+CZE,Czech Republic,2020-11-28,3.247
+CZE,Czech Republic,2020-11-29,3.215
+CZE,Czech Republic,2020-11-30,3.192
+CZE,Czech Republic,2020-12-01,3.207
+CZE,Czech Republic,2020-12-02,3.212
+CZE,Czech Republic,2020-12-03,3.21
+CZE,Czech Republic,2020-12-04,3.163
+CZE,Czech Republic,2020-12-05,3.108
+CZE,Czech Republic,2020-12-06,3.108
+CZE,Czech Republic,2020-12-07,2.925
+CZE,Czech Republic,2020-12-08,2.894
 CZE,Czech Republic,2020-12-09,2.878
-CZE,Czech Republic,2020-12-10,2.903
-CZE,Czech Republic,2020-12-11,3.0
-CZE,Czech Republic,2020-12-12,3.048
-CZE,Czech Republic,2020-12-13,3.08
-CZE,Czech Republic,2020-12-14,3.112
-CZE,Czech Republic,2020-12-15,3.204
+CZE,Czech Republic,2020-12-10,2.904
+CZE,Czech Republic,2020-12-11,3.001
+CZE,Czech Republic,2020-12-12,3.049
+CZE,Czech Republic,2020-12-13,3.081
+CZE,Czech Republic,2020-12-14,3.113
+CZE,Czech Republic,2020-12-15,3.205
 CZE,Czech Republic,2020-12-16,3.417
-CZE,Czech Republic,2020-12-17,3.615
+CZE,Czech Republic,2020-12-17,3.616
 CZE,Czech Republic,2020-12-18,3.91
-CZE,Czech Republic,2020-12-19,4.11
+CZE,Czech Republic,2020-12-19,4.111
 CZE,Czech Republic,2020-12-20,4.261
-CZE,Czech Republic,2020-12-21,4.623
-CZE,Czech Republic,2020-12-22,5.063
-CZE,Czech Republic,2020-12-23,5.519
-CZE,Czech Republic,2020-12-24,5.113
-CZE,Czech Republic,2020-12-25,4.488
+CZE,Czech Republic,2020-12-21,4.624
+CZE,Czech Republic,2020-12-22,5.064
+CZE,Czech Republic,2020-12-23,5.52
+CZE,Czech Republic,2020-12-24,5.114
+CZE,Czech Republic,2020-12-25,4.489
 CZE,Czech Republic,2020-12-26,4.287
 CZE,Czech Republic,2020-12-27,4.271
 CZE,Czech Republic,2020-12-28,4.203
-CZE,Czech Republic,2020-12-29,4.062
+CZE,Czech Republic,2020-12-29,4.063
 CZE,Czech Republic,2020-12-30,3.803
-CZE,Czech Republic,2020-12-31,4.172
-CZE,Czech Republic,2021-01-01,4.133
-CZE,Czech Republic,2021-01-02,4.249
-CZE,Czech Republic,2021-01-03,4.343
-CZE,Czech Republic,2021-01-04,4.568
-CZE,Czech Republic,2021-01-05,4.726
-CZE,Czech Republic,2021-01-06,4.749
-CZE,Czech Republic,2021-01-07,5.017
-CZE,Czech Republic,2021-01-08,5.791
+CZE,Czech Republic,2020-12-31,4.173
+CZE,Czech Republic,2021-01-01,4.134
+CZE,Czech Republic,2021-01-02,4.25
+CZE,Czech Republic,2021-01-03,4.344
+CZE,Czech Republic,2021-01-04,4.569
+CZE,Czech Republic,2021-01-05,4.727
+CZE,Czech Republic,2021-01-06,4.75
+CZE,Czech Republic,2021-01-07,5.018
+CZE,Czech Republic,2021-01-08,5.792
 CZE,Czech Republic,2021-01-09,5.878
-CZE,Czech Republic,2021-01-10,5.814
-CZE,Czech Republic,2021-01-11,5.726
-CZE,Czech Republic,2021-01-12,5.559
-CZE,Czech Republic,2021-01-13,5.448
-CZE,Czech Republic,2021-01-14,5.302
-CZE,Czech Republic,2021-01-15,5.174
-CZE,Czech Republic,2021-01-16,5.066
-CZE,Czech Republic,2021-01-17,4.97
-CZE,Czech Republic,2021-01-18,4.8
-CZE,Czech Republic,2021-01-19,4.652
-CZE,Czech Republic,2021-01-20,4.527
-CZE,Czech Republic,2021-01-21,4.421
-CZE,Czech Republic,2021-01-22,4.404
-CZE,Czech Republic,2021-01-23,4.394
-CZE,Czech Republic,2021-01-24,4.398
+CZE,Czech Republic,2021-01-10,5.815
+CZE,Czech Republic,2021-01-11,5.727
+CZE,Czech Republic,2021-01-12,5.562
+CZE,Czech Republic,2021-01-13,5.45
+CZE,Czech Republic,2021-01-14,5.305
+CZE,Czech Republic,2021-01-15,5.178
+CZE,Czech Republic,2021-01-16,5.07
+CZE,Czech Republic,2021-01-17,4.973
+CZE,Czech Republic,2021-01-18,4.803
+CZE,Czech Republic,2021-01-19,4.654
+CZE,Czech Republic,2021-01-20,4.529
+CZE,Czech Republic,2021-01-21,4.423
+CZE,Czech Republic,2021-01-22,4.405
+CZE,Czech Republic,2021-01-23,4.395
+CZE,Czech Republic,2021-01-24,4.399
 CZE,Czech Republic,2021-01-25,4.441
 CZE,Czech Republic,2021-01-26,4.47
 CZE,Czech Republic,2021-01-27,4.577
@@ -9601,94 +9683,98 @@ CZE,Czech Republic,2021-01-28,4.653
 CZE,Czech Republic,2021-01-29,4.705
 CZE,Czech Republic,2021-01-30,4.764
 CZE,Czech Republic,2021-01-31,4.824
-CZE,Czech Republic,2021-02-01,4.93
+CZE,Czech Republic,2021-02-01,4.931
 CZE,Czech Republic,2021-02-02,5.012
 CZE,Czech Republic,2021-02-03,5.087
-CZE,Czech Republic,2021-02-04,5.186
-CZE,Czech Republic,2021-02-05,5.252
-CZE,Czech Republic,2021-02-06,5.267
-CZE,Czech Republic,2021-02-07,5.295
-CZE,Czech Republic,2021-02-08,5.275
-CZE,Czech Republic,2021-02-09,5.335
-CZE,Czech Republic,2021-02-10,5.338
-CZE,Czech Republic,2021-02-11,5.366
-CZE,Czech Republic,2021-02-12,5.419
-CZE,Czech Republic,2021-02-13,5.47
-CZE,Czech Republic,2021-02-14,5.528
-CZE,Czech Republic,2021-02-15,5.682
-CZE,Czech Republic,2021-02-16,5.827
-CZE,Czech Republic,2021-02-17,5.972
-CZE,Czech Republic,2021-02-18,6.177
-CZE,Czech Republic,2021-02-19,6.374
-CZE,Czech Republic,2021-02-20,6.428
-CZE,Czech Republic,2021-02-21,6.509
-CZE,Czech Republic,2021-02-22,6.727
-CZE,Czech Republic,2021-02-23,6.965
-CZE,Czech Republic,2021-02-24,7.246
-CZE,Czech Republic,2021-02-25,7.486
-CZE,Czech Republic,2021-02-26,7.702
-CZE,Czech Republic,2021-02-27,7.839
-CZE,Czech Republic,2021-02-28,7.908
-CZE,Czech Republic,2021-03-01,8.134
-CZE,Czech Republic,2021-03-02,8.379
-CZE,Czech Republic,2021-03-03,8.615
-CZE,Czech Republic,2021-03-04,9.015
-CZE,Czech Republic,2021-03-05,9.449
-CZE,Czech Republic,2021-03-06,9.539
-CZE,Czech Republic,2021-03-07,9.623
-CZE,Czech Republic,2021-03-08,10.595
-CZE,Czech Republic,2021-03-09,11.775
-CZE,Czech Republic,2021-03-10,13.008
-CZE,Czech Republic,2021-03-11,14.211
-CZE,Czech Republic,2021-03-12,14.984
-CZE,Czech Republic,2021-03-13,15.106
-CZE,Czech Republic,2021-03-14,15.278
-CZE,Czech Republic,2021-03-15,16.051
-CZE,Czech Republic,2021-03-16,16.365
-CZE,Czech Republic,2021-03-17,16.528
-CZE,Czech Republic,2021-03-18,16.471
-CZE,Czech Republic,2021-03-19,16.329
-CZE,Czech Republic,2021-03-20,16.305
-CZE,Czech Republic,2021-03-21,16.302
-CZE,Czech Republic,2021-03-22,16.487
-CZE,Czech Republic,2021-03-23,16.72
-CZE,Czech Republic,2021-03-24,16.824
-CZE,Czech Republic,2021-03-25,16.96
-CZE,Czech Republic,2021-03-26,16.914
-CZE,Czech Republic,2021-03-27,16.748
-CZE,Czech Republic,2021-03-28,16.633
-CZE,Czech Republic,2021-03-29,16.779
-CZE,Czech Republic,2021-03-30,16.717
-CZE,Czech Republic,2021-03-31,16.748
-CZE,Czech Republic,2021-04-01,17.191
-CZE,Czech Republic,2021-04-02,15.651
-CZE,Czech Republic,2021-04-03,15.535
-CZE,Czech Republic,2021-04-04,15.421
-CZE,Czech Republic,2021-04-05,12.463
-CZE,Czech Republic,2021-04-06,14.305
-CZE,Czech Republic,2021-04-07,14.757
-CZE,Czech Republic,2021-04-08,14.418
-CZE,Czech Republic,2021-04-09,15.834
-CZE,Czech Republic,2021-04-10,15.954
-CZE,Czech Republic,2021-04-11,16.168
-CZE,Czech Republic,2021-04-12,19.157
-CZE,Czech Republic,2021-04-13,17.514
-CZE,Czech Republic,2021-04-14,17.045
-CZE,Czech Republic,2021-04-15,16.912
-CZE,Czech Republic,2021-04-16,16.705
-CZE,Czech Republic,2021-04-17,16.664
-CZE,Czech Republic,2021-04-18,16.733
-CZE,Czech Republic,2021-04-19,16.716
-CZE,Czech Republic,2021-04-20,16.544
-CZE,Czech Republic,2021-04-21,16.409
-CZE,Czech Republic,2021-04-22,16.352
-CZE,Czech Republic,2021-04-23,16.346
-CZE,Czech Republic,2021-04-24,16.382
-CZE,Czech Republic,2021-04-25,16.298
-CZE,Czech Republic,2021-04-26,15.965
-CZE,Czech Republic,2021-04-27,15.645
-CZE,Czech Republic,2021-04-28,15.222
-CZE,Czech Republic,2021-04-29,14.599
+CZE,Czech Republic,2021-02-04,5.187
+CZE,Czech Republic,2021-02-05,5.253
+CZE,Czech Republic,2021-02-06,5.268
+CZE,Czech Republic,2021-02-07,5.296
+CZE,Czech Republic,2021-02-08,5.276
+CZE,Czech Republic,2021-02-09,5.336
+CZE,Czech Republic,2021-02-10,5.339
+CZE,Czech Republic,2021-02-11,5.367
+CZE,Czech Republic,2021-02-12,5.42
+CZE,Czech Republic,2021-02-13,5.472
+CZE,Czech Republic,2021-02-14,5.53
+CZE,Czech Republic,2021-02-15,5.684
+CZE,Czech Republic,2021-02-16,5.828
+CZE,Czech Republic,2021-02-17,5.974
+CZE,Czech Republic,2021-02-18,6.179
+CZE,Czech Republic,2021-02-19,6.376
+CZE,Czech Republic,2021-02-20,6.431
+CZE,Czech Republic,2021-02-21,6.512
+CZE,Czech Republic,2021-02-22,6.729
+CZE,Czech Republic,2021-02-23,6.967
+CZE,Czech Republic,2021-02-24,7.249
+CZE,Czech Republic,2021-02-25,7.49
+CZE,Czech Republic,2021-02-26,7.704
+CZE,Czech Republic,2021-02-27,7.842
+CZE,Czech Republic,2021-02-28,7.91
+CZE,Czech Republic,2021-03-01,8.141
+CZE,Czech Republic,2021-03-02,8.388
+CZE,Czech Republic,2021-03-03,8.625
+CZE,Czech Republic,2021-03-04,9.03
+CZE,Czech Republic,2021-03-05,9.465
+CZE,Czech Republic,2021-03-06,9.555
+CZE,Czech Republic,2021-03-07,9.64
+CZE,Czech Republic,2021-03-08,10.612
+CZE,Czech Republic,2021-03-09,11.804
+CZE,Czech Republic,2021-03-10,13.059
+CZE,Czech Republic,2021-03-11,14.276
+CZE,Czech Republic,2021-03-12,15.06
+CZE,Czech Republic,2021-03-13,15.182
+CZE,Czech Republic,2021-03-14,15.356
+CZE,Czech Republic,2021-03-15,16.149
+CZE,Czech Republic,2021-03-16,16.474
+CZE,Czech Republic,2021-03-17,16.638
+CZE,Czech Republic,2021-03-18,16.6
+CZE,Czech Republic,2021-03-19,16.469
+CZE,Czech Republic,2021-03-20,16.445
+CZE,Czech Republic,2021-03-21,16.442
+CZE,Czech Republic,2021-03-22,16.62
+CZE,Czech Republic,2021-03-23,16.845
+CZE,Czech Republic,2021-03-24,16.939
+CZE,Czech Republic,2021-03-25,17.064
+CZE,Czech Republic,2021-03-26,17.003
+CZE,Czech Republic,2021-03-27,16.837
+CZE,Czech Republic,2021-03-28,16.721
+CZE,Czech Republic,2021-03-29,16.868
+CZE,Czech Republic,2021-03-30,16.818
+CZE,Czech Republic,2021-03-31,16.85
+CZE,Czech Republic,2021-04-01,17.283
+CZE,Czech Republic,2021-04-02,15.737
+CZE,Czech Republic,2021-04-03,15.622
+CZE,Czech Republic,2021-04-04,15.511
+CZE,Czech Republic,2021-04-05,12.538
+CZE,Czech Republic,2021-04-06,14.374
+CZE,Czech Republic,2021-04-07,14.835
+CZE,Czech Republic,2021-04-08,14.498
+CZE,Czech Republic,2021-04-09,15.933
+CZE,Czech Republic,2021-04-10,16.055
+CZE,Czech Republic,2021-04-11,16.269
+CZE,Czech Republic,2021-04-12,19.274
+CZE,Czech Republic,2021-04-13,17.632
+CZE,Czech Republic,2021-04-14,17.161
+CZE,Czech Republic,2021-04-15,17.042
+CZE,Czech Republic,2021-04-16,16.834
+CZE,Czech Republic,2021-04-17,16.792
+CZE,Czech Republic,2021-04-18,16.869
+CZE,Czech Republic,2021-04-19,16.883
+CZE,Czech Republic,2021-04-20,16.75
+CZE,Czech Republic,2021-04-21,16.647
+CZE,Czech Republic,2021-04-22,16.648
+CZE,Czech Republic,2021-04-23,16.672
+CZE,Czech Republic,2021-04-24,16.715
+CZE,Czech Republic,2021-04-25,16.638
+CZE,Czech Republic,2021-04-26,16.468
+CZE,Czech Republic,2021-04-27,16.358
+CZE,Czech Republic,2021-04-28,16.272
+CZE,Czech Republic,2021-04-29,16.182
+CZE,Czech Republic,2021-04-30,16.117
+CZE,Czech Republic,2021-05-01,15.96
+CZE,Czech Republic,2021-05-02,16.063
+CZE,Czech Republic,2021-05-03,15.49
 DEU,Germany,2020-03-22,0.639
 DEU,Germany,2020-03-23,0.639
 DEU,Germany,2020-03-24,0.64
@@ -10919,6 +11005,10 @@ DOM,Dominican Republic,2021-04-24,0.307
 DOM,Dominican Republic,2021-04-25,0.306
 DOM,Dominican Republic,2021-04-26,0.291
 DOM,Dominican Republic,2021-04-27,0.276
+DOM,Dominican Republic,2021-04-28,0.264
+DOM,Dominican Republic,2021-04-29,0.242
+DOM,Dominican Republic,2021-04-30,0.22
+DOM,Dominican Republic,2021-05-01,0.228
 ECU,Ecuador,2020-03-25,0.017
 ECU,Ecuador,2020-03-26,0.02
 ECU,Ecuador,2020-03-27,0.021
@@ -11315,6 +11405,10 @@ ECU,Ecuador,2021-04-25,0.252
 ECU,Ecuador,2021-04-26,0.286
 ECU,Ecuador,2021-04-27,0.283
 ECU,Ecuador,2021-04-28,0.302
+ECU,Ecuador,2021-04-29,0.308
+ECU,Ecuador,2021-04-30,0.223
+ECU,Ecuador,2021-05-01,0.253
+ECU,Ecuador,2021-05-02,0.287
 ESP,Spain,2020-04-20,0.225
 ESP,Spain,2020-04-21,0.225
 ESP,Spain,2020-04-22,0.225
@@ -12071,29 +12165,29 @@ EST,Estonia,2021-03-23,5.199
 EST,Estonia,2021-03-24,5.152
 EST,Estonia,2021-03-25,4.868
 EST,Estonia,2021-03-26,4.944
-EST,Estonia,2021-03-27,4.687
-EST,Estonia,2021-03-28,4.527
-EST,Estonia,2021-03-29,4.565
-EST,Estonia,2021-03-30,4.341
-EST,Estonia,2021-03-31,4.22
-EST,Estonia,2021-04-01,4.188
-EST,Estonia,2021-04-02,3.673
-EST,Estonia,2021-04-03,3.574
-EST,Estonia,2021-04-04,3.552
-EST,Estonia,2021-04-05,3.427
-EST,Estonia,2021-04-06,3.527
-EST,Estonia,2021-04-07,3.382
-EST,Estonia,2021-04-08,3.376
-EST,Estonia,2021-04-09,3.634
-EST,Estonia,2021-04-10,3.64
-EST,Estonia,2021-04-11,3.593
-EST,Estonia,2021-04-12,3.613
-EST,Estonia,2021-04-13,3.494
-EST,Estonia,2021-04-14,3.548
-EST,Estonia,2021-04-15,3.497
-EST,Estonia,2021-04-16,3.48
-EST,Estonia,2021-04-17,3.817
-EST,Estonia,2021-04-18,3.831
+EST,Estonia,2021-03-27,4.688
+EST,Estonia,2021-03-28,4.528
+EST,Estonia,2021-03-29,4.567
+EST,Estonia,2021-03-30,4.369
+EST,Estonia,2021-03-31,4.277
+EST,Estonia,2021-04-01,4.28
+EST,Estonia,2021-04-02,3.776
+EST,Estonia,2021-04-03,3.695
+EST,Estonia,2021-04-04,3.694
+EST,Estonia,2021-04-05,3.616
+EST,Estonia,2021-04-06,3.722
+EST,Estonia,2021-04-07,3.579
+EST,Estonia,2021-04-08,3.573
+EST,Estonia,2021-04-09,3.846
+EST,Estonia,2021-04-10,3.851
+EST,Estonia,2021-04-11,3.808
+EST,Estonia,2021-04-12,3.815
+EST,Estonia,2021-04-13,3.664
+EST,Estonia,2021-04-14,3.686
+EST,Estonia,2021-04-15,3.6
+EST,Estonia,2021-04-16,3.557
+EST,Estonia,2021-04-17,3.876
+EST,Estonia,2021-04-18,3.866
 EST,Estonia,2021-04-19,3.853
 EST,Estonia,2021-04-20,3.771
 EST,Estonia,2021-04-21,3.81
@@ -12105,6 +12199,10 @@ EST,Estonia,2021-04-26,3.235
 EST,Estonia,2021-04-27,3.288
 EST,Estonia,2021-04-28,3.146
 EST,Estonia,2021-04-29,3.11
+EST,Estonia,2021-04-30,3.135
+EST,Estonia,2021-05-01,3.093
+EST,Estonia,2021-05-02,3.191
+EST,Estonia,2021-05-03,3.229
 ETH,Ethiopia,2020-03-20,0.0
 ETH,Ethiopia,2020-03-21,0.0
 ETH,Ethiopia,2020-03-22,0.0
@@ -12511,6 +12609,10 @@ ETH,Ethiopia,2021-04-26,0.06
 ETH,Ethiopia,2021-04-27,0.058
 ETH,Ethiopia,2021-04-28,0.058
 ETH,Ethiopia,2021-04-29,0.057
+ETH,Ethiopia,2021-04-30,0.057
+ETH,Ethiopia,2021-05-01,0.05
+ETH,Ethiopia,2021-05-02,0.044
+ETH,Ethiopia,2021-05-03,0.042
 FIN,Finland,2020-03-05,0.016
 FIN,Finland,2020-03-06,0.01
 FIN,Finland,2020-03-07,0.01
@@ -12928,10 +13030,13 @@ FIN,Finland,2021-04-22,2.957
 FIN,Finland,2021-04-23,2.971
 FIN,Finland,2021-04-24,3.018
 FIN,Finland,2021-04-25,2.987
-FIN,Finland,2021-04-26,2.926
-FIN,Finland,2021-04-27,2.926
-FIN,Finland,2021-04-28,2.779
-FIN,Finland,2021-04-29,2.26
+FIN,Finland,2021-04-26,2.927
+FIN,Finland,2021-04-27,2.929
+FIN,Finland,2021-04-28,2.946
+FIN,Finland,2021-04-29,2.873
+FIN,Finland,2021-04-30,2.864
+FIN,Finland,2021-05-01,2.819
+FIN,Finland,2021-05-02,2.799
 FJI,Fiji,2020-02-06,0.0
 FJI,Fiji,2020-02-07,0.0
 FJI,Fiji,2020-02-08,0.0
@@ -13379,6 +13484,11 @@ FJI,Fiji,2021-04-24,0.728
 FJI,Fiji,2021-04-25,0.823
 FJI,Fiji,2021-04-26,0.867
 FJI,Fiji,2021-04-27,0.979
+FJI,Fiji,2021-04-28,0.879
+FJI,Fiji,2021-04-29,0.863
+FJI,Fiji,2021-04-30,0.895
+FJI,Fiji,2021-05-01,0.928
+FJI,Fiji,2021-05-02,1.087
 FRA,France,2020-05-19,0.546
 FRA,France,2020-05-20,0.575
 FRA,France,2020-05-21,0.505
@@ -13695,33 +13805,37 @@ FRA,France,2021-03-27,6.868
 FRA,France,2021-03-28,6.876
 FRA,France,2021-03-29,7.102
 FRA,France,2021-03-30,7.359
-FRA,France,2021-03-31,7.547
-FRA,France,2021-04-01,7.741
-FRA,France,2021-04-02,7.817
-FRA,France,2021-04-03,7.944
-FRA,France,2021-04-04,7.95
-FRA,France,2021-04-05,6.699
-FRA,France,2021-04-06,6.65
-FRA,France,2021-04-07,6.455
-FRA,France,2021-04-08,6.052
-FRA,France,2021-04-09,5.711
-FRA,France,2021-04-10,5.477
-FRA,France,2021-04-11,5.463
-FRA,France,2021-04-12,6.275
-FRA,France,2021-04-13,5.763
-FRA,France,2021-04-14,5.53
-FRA,France,2021-04-15,5.331
-FRA,France,2021-04-16,5.134
-FRA,France,2021-04-17,5.033
-FRA,France,2021-04-18,5.017
-FRA,France,2021-04-19,4.886
-FRA,France,2021-04-20,4.784
-FRA,France,2021-04-21,4.69
-FRA,France,2021-04-22,4.593
-FRA,France,2021-04-23,4.505
-FRA,France,2021-04-24,4.451
-FRA,France,2021-04-25,4.444
-FRA,France,2021-04-26,4.412
+FRA,France,2021-03-31,7.548
+FRA,France,2021-04-01,7.742
+FRA,France,2021-04-02,7.818
+FRA,France,2021-04-03,7.945
+FRA,France,2021-04-04,7.952
+FRA,France,2021-04-05,6.701
+FRA,France,2021-04-06,6.652
+FRA,France,2021-04-07,6.458
+FRA,France,2021-04-08,6.056
+FRA,France,2021-04-09,5.715
+FRA,France,2021-04-10,5.48
+FRA,France,2021-04-11,5.466
+FRA,France,2021-04-12,6.279
+FRA,France,2021-04-13,5.767
+FRA,France,2021-04-14,5.535
+FRA,France,2021-04-15,5.335
+FRA,France,2021-04-16,5.139
+FRA,France,2021-04-17,5.038
+FRA,France,2021-04-18,5.022
+FRA,France,2021-04-19,4.892
+FRA,France,2021-04-20,4.789
+FRA,France,2021-04-21,4.696
+FRA,France,2021-04-22,4.6
+FRA,France,2021-04-23,4.513
+FRA,France,2021-04-24,4.46
+FRA,France,2021-04-25,4.453
+FRA,France,2021-04-26,4.425
+FRA,France,2021-04-27,4.455
+FRA,France,2021-04-28,4.426
+FRA,France,2021-04-29,4.535
+FRA,France,2021-04-30,4.7
 GBR,United Kingdom,2020-04-07,0.263
 GBR,United Kingdom,2020-04-08,0.273
 GBR,United Kingdom,2020-04-09,0.28
@@ -14109,6 +14223,7 @@ GBR,United Kingdom,2021-04-25,15.972
 GBR,United Kingdom,2021-04-26,15.966
 GBR,United Kingdom,2021-04-27,15.938
 GBR,United Kingdom,2021-04-28,15.925
+GBR,United Kingdom,2021-04-29,15.844
 GEO,Georgia,2021-04-09,6.339
 GEO,Georgia,2021-04-10,6.407
 GEO,Georgia,2021-04-11,6.476
@@ -15325,6 +15440,8 @@ GRC,Greece,2021-04-26,5.219
 GRC,Greece,2021-04-27,5.198
 GRC,Greece,2021-04-28,5.197
 GRC,Greece,2021-04-29,5.307
+GRC,Greece,2021-04-30,4.987
+GRC,Greece,2021-05-01,4.669
 GTM,Guatemala,2020-02-24,0.0
 GTM,Guatemala,2020-02-25,0.0
 GTM,Guatemala,2020-02-26,0.0
@@ -15725,12 +15842,12 @@ GTM,Guatemala,2021-03-26,0.304
 GTM,Guatemala,2021-03-27,0.305
 GTM,Guatemala,2021-03-28,0.305
 GTM,Guatemala,2021-03-29,0.265
-GTM,Guatemala,2021-03-30,0.235
+GTM,Guatemala,2021-03-30,0.234
 GTM,Guatemala,2021-03-31,0.208
-GTM,Guatemala,2021-04-01,0.179
-GTM,Guatemala,2021-04-02,0.145
+GTM,Guatemala,2021-04-01,0.178
+GTM,Guatemala,2021-04-02,0.144
 GTM,Guatemala,2021-04-03,0.137
-GTM,Guatemala,2021-04-04,0.139
+GTM,Guatemala,2021-04-04,0.138
 GTM,Guatemala,2021-04-05,0.182
 GTM,Guatemala,2021-04-06,0.226
 GTM,Guatemala,2021-04-07,0.27
@@ -15753,8 +15870,12 @@ GTM,Guatemala,2021-04-23,0.456
 GTM,Guatemala,2021-04-24,0.46
 GTM,Guatemala,2021-04-25,0.457
 GTM,Guatemala,2021-04-26,0.448
-GTM,Guatemala,2021-04-27,0.438
-GTM,Guatemala,2021-04-28,0.424
+GTM,Guatemala,2021-04-27,0.437
+GTM,Guatemala,2021-04-28,0.423
+GTM,Guatemala,2021-04-29,0.405
+GTM,Guatemala,2021-04-30,0.366
+GTM,Guatemala,2021-05-01,0.35
+GTM,Guatemala,2021-05-02,0.347
 HKG,Hong Kong SAR China,2020-09-07,15.857
 HKG,Hong Kong SAR China,2020-09-08,15.857
 HKG,Hong Kong SAR China,2020-09-09,15.857
@@ -16241,6 +16362,10 @@ HRV,Croatia,2021-04-27,2.065
 HRV,Croatia,2021-04-28,2.118
 HRV,Croatia,2021-04-29,2.111
 HRV,Croatia,2021-04-30,2.129
+HRV,Croatia,2021-05-01,2.168
+HRV,Croatia,2021-05-02,2.215
+HRV,Croatia,2021-05-03,2.242
+HRV,Croatia,2021-05-04,2.213
 HUN,Hungary,2020-03-13,0.009
 HUN,Hungary,2020-03-14,0.01
 HUN,Hungary,2020-03-15,0.013
@@ -16655,6 +16780,10 @@ HUN,Hungary,2021-04-27,2.241
 HUN,Hungary,2021-04-28,2.187
 HUN,Hungary,2021-04-29,2.128
 HUN,Hungary,2021-04-30,2.07
+HUN,Hungary,2021-05-01,2.03
+HUN,Hungary,2021-05-02,2.002
+HUN,Hungary,2021-05-03,1.959
+HUN,Hungary,2021-05-04,1.915
 IDN,Indonesia,2020-03-23,0.001
 IDN,Indonesia,2020-03-24,0.001
 IDN,Indonesia,2020-03-25,0.001
@@ -17058,6 +17187,10 @@ IDN,Indonesia,2021-04-26,0.159
 IDN,Indonesia,2021-04-27,0.161
 IDN,Indonesia,2021-04-28,0.158
 IDN,Indonesia,2021-04-29,0.158
+IDN,Indonesia,2021-04-30,0.163
+IDN,Indonesia,2021-05-01,0.163
+IDN,Indonesia,2021-05-02,0.162
+IDN,Indonesia,2021-05-03,0.162
 IND,India,2020-03-20,0.001
 IND,India,2020-03-21,0.001
 IND,India,2020-03-22,0.001
@@ -17465,6 +17598,10 @@ IND,India,2021-04-27,1.197
 IND,India,2021-04-28,1.206
 IND,India,2021-04-29,1.218
 IND,India,2021-04-30,1.237
+IND,India,2021-05-01,1.257
+IND,India,2021-05-02,1.265
+IND,India,2021-05-03,1.276
+IND,India,2021-05-04,1.276
 IRL,Ireland,2020-03-25,0.315
 IRL,Ireland,2020-03-26,0.385
 IRL,Ireland,2020-03-27,0.428
@@ -17866,6 +18003,8 @@ IRL,Ireland,2021-04-26,3.422
 IRL,Ireland,2021-04-27,3.427
 IRL,Ireland,2021-04-28,3.469
 IRL,Ireland,2021-04-29,3.52
+IRL,Ireland,2021-04-30,3.6
+IRL,Ireland,2021-05-01,3.607
 IRN,"Iran, Islamic Rep.",2020-04-12,0.125
 IRN,"Iran, Islamic Rep.",2020-04-13,0.128
 IRN,"Iran, Islamic Rep.",2020-04-14,0.131
@@ -18249,6 +18388,11 @@ IRN,"Iran, Islamic Rep.",2021-04-26,1.375
 IRN,"Iran, Islamic Rep.",2021-04-27,1.398
 IRN,"Iran, Islamic Rep.",2021-04-28,1.413
 IRN,"Iran, Islamic Rep.",2021-04-29,1.428
+IRN,"Iran, Islamic Rep.",2021-04-30,1.466
+IRN,"Iran, Islamic Rep.",2021-05-01,1.504
+IRN,"Iran, Islamic Rep.",2021-05-02,1.542
+IRN,"Iran, Islamic Rep.",2021-05-03,1.579
+IRN,"Iran, Islamic Rep.",2021-05-04,1.606
 IRQ,Iraq,2020-04-14,0.068
 IRQ,Iraq,2020-04-15,0.063
 IRQ,Iraq,2020-04-16,0.067
@@ -18629,6 +18773,10 @@ IRQ,Iraq,2021-04-25,1.105
 IRQ,Iraq,2021-04-26,1.095
 IRQ,Iraq,2021-04-27,1.093
 IRQ,Iraq,2021-04-28,1.087
+IRQ,Iraq,2021-04-29,1.076
+IRQ,Iraq,2021-04-30,1.076
+IRQ,Iraq,2021-05-01,1.064
+IRQ,Iraq,2021-05-02,1.035
 ISL,Iceland,2020-03-05,0.126
 ISL,Iceland,2020-03-06,0.147
 ISL,Iceland,2020-03-07,0.155
@@ -19050,6 +19198,10 @@ ISL,Iceland,2021-04-26,5.421
 ISL,Iceland,2021-04-27,4.451
 ISL,Iceland,2021-04-28,4.381
 ISL,Iceland,2021-04-29,4.527
+ISL,Iceland,2021-04-30,4.302
+ISL,Iceland,2021-05-01,4.152
+ISL,Iceland,2021-05-02,4.158
+ISL,Iceland,2021-05-03,4.047
 ISR,Israel,2020-02-27,0.009
 ISR,Israel,2020-02-28,0.011
 ISR,Israel,2020-02-29,0.013
@@ -19478,6 +19630,10 @@ ISR,Israel,2021-04-26,4.175
 ISR,Israel,2021-04-27,3.831
 ISR,Israel,2021-04-28,3.654
 ISR,Israel,2021-04-29,3.647
+ISR,Israel,2021-04-30,3.658
+ISR,Israel,2021-05-01,3.666
+ISR,Israel,2021-05-02,3.628
+ISR,Israel,2021-05-03,3.597
 ITA,Italy,2020-03-02,0.045
 ITA,Italy,2020-03-03,0.041
 ITA,Italy,2020-03-04,0.048
@@ -19902,6 +20058,10 @@ ITA,Italy,2021-04-26,4.798
 ITA,Italy,2021-04-27,4.819
 ITA,Italy,2021-04-28,4.786
 ITA,Italy,2021-04-29,4.704
+ITA,Italy,2021-04-30,4.759
+ITA,Italy,2021-05-01,4.894
+ITA,Italy,2021-05-02,4.699
+ITA,Italy,2021-05-03,4.642
 JAM,Jamaica,2020-03-31,0.011
 JAM,Jamaica,2020-04-01,0.012
 JAM,Jamaica,2020-04-02,0.013
@@ -20296,6 +20456,9 @@ JAM,Jamaica,2021-04-25,0.46
 JAM,Jamaica,2021-04-26,0.461
 JAM,Jamaica,2021-04-27,0.464
 JAM,Jamaica,2021-04-28,0.464
+JAM,Jamaica,2021-04-29,0.463
+JAM,Jamaica,2021-04-30,0.463
+JAM,Jamaica,2021-05-01,0.463
 JOR,Jordan,2020-11-07,2.202
 JOR,Jordan,2020-11-08,2.25
 JOR,Jordan,2020-11-09,2.164
@@ -20469,6 +20632,8 @@ JOR,Jordan,2021-04-25,1.859
 JOR,Jordan,2021-04-26,1.796
 JOR,Jordan,2021-04-27,1.785
 JOR,Jordan,2021-04-28,1.703
+JOR,Jordan,2021-04-29,1.687
+JOR,Jordan,2021-04-30,1.723
 JPN,Japan,2020-02-12,0.0
 JPN,Japan,2020-02-13,0.0
 JPN,Japan,2020-02-14,0.0
@@ -20912,6 +21077,10 @@ JPN,Japan,2021-04-26,0.6
 JPN,Japan,2021-04-27,0.611
 JPN,Japan,2021-04-28,0.579
 JPN,Japan,2021-04-29,0.576
+JPN,Japan,2021-04-30,0.546
+JPN,Japan,2021-05-01,0.558
+JPN,Japan,2021-05-02,0.558
+JPN,Japan,2021-05-03,0.513
 KAZ,Kazakhstan,2020-03-20,0.03
 KAZ,Kazakhstan,2020-03-21,0.037
 KAZ,Kazakhstan,2020-03-22,0.045
@@ -21318,6 +21487,9 @@ KAZ,Kazakhstan,2021-04-26,2.753
 KAZ,Kazakhstan,2021-04-27,2.726
 KAZ,Kazakhstan,2021-04-28,2.698
 KAZ,Kazakhstan,2021-04-29,2.71
+KAZ,Kazakhstan,2021-04-30,2.752
+KAZ,Kazakhstan,2021-05-01,2.777
+KAZ,Kazakhstan,2021-05-02,2.767
 KEN,Kenya,2020-03-13,0.0
 KEN,Kenya,2020-03-14,0.0
 KEN,Kenya,2020-03-15,0.0
@@ -21687,6 +21859,10 @@ KEN,Kenya,2021-04-27,0.109
 KEN,Kenya,2021-04-28,0.108
 KEN,Kenya,2021-04-29,0.107
 KEN,Kenya,2021-04-30,0.106
+KEN,Kenya,2021-05-01,0.095
+KEN,Kenya,2021-05-02,0.084
+KEN,Kenya,2021-05-03,0.073
+KEN,Kenya,2021-05-04,0.075
 KOR,"Korea, Rep.",2020-01-28,0.0
 KOR,"Korea, Rep.",2020-01-29,0.001
 KOR,"Korea, Rep.",2020-01-30,0.001
@@ -22146,6 +22322,10 @@ KOR,"Korea, Rep.",2021-04-27,0.705
 KOR,"Korea, Rep.",2021-04-28,0.722
 KOR,"Korea, Rep.",2021-04-29,0.711
 KOR,"Korea, Rep.",2021-04-30,0.703
+KOR,"Korea, Rep.",2021-05-01,0.679
+KOR,"Korea, Rep.",2021-05-02,0.653
+KOR,"Korea, Rep.",2021-05-03,0.645
+KOR,"Korea, Rep.",2021-05-04,0.652
 KWT,Kuwait,2020-05-20,0.981
 KWT,Kuwait,2020-05-21,0.975
 KWT,Kuwait,2020-05-22,0.968
@@ -22490,6 +22670,10 @@ KWT,Kuwait,2021-04-25,2.04
 KWT,Kuwait,2021-04-26,2.023
 KWT,Kuwait,2021-04-27,2.046
 KWT,Kuwait,2021-04-28,2.05
+KWT,Kuwait,2021-04-29,2.031
+KWT,Kuwait,2021-04-30,2.054
+KWT,Kuwait,2021-05-01,2.077
+KWT,Kuwait,2021-05-02,2.081
 LBY,Libya,2020-04-09,0.005
 LBY,Libya,2020-04-10,0.005
 LBY,Libya,2020-04-11,0.005
@@ -22989,6 +23173,10 @@ LIE,Liechtenstein,2021-04-24,5.874
 LIE,Liechtenstein,2021-04-25,5.795
 LIE,Liechtenstein,2021-04-26,5.611
 LIE,Liechtenstein,2021-04-27,5.795
+LIE,Liechtenstein,2021-04-28,5.821
+LIE,Liechtenstein,2021-04-29,6.005
+LIE,Liechtenstein,2021-04-30,6.162
+LIE,Liechtenstein,2021-05-01,6.162
 LKA,Sri Lanka,2020-02-25,0.0
 LKA,Sri Lanka,2020-02-26,0.0
 LKA,Sri Lanka,2020-02-27,0.0
@@ -23419,6 +23607,10 @@ LKA,Sri Lanka,2021-04-26,0.617
 LKA,Sri Lanka,2021-04-27,0.654
 LKA,Sri Lanka,2021-04-28,0.667
 LKA,Sri Lanka,2021-04-29,0.723
+LKA,Sri Lanka,2021-04-30,0.821
+LKA,Sri Lanka,2021-05-01,0.877
+LKA,Sri Lanka,2021-05-02,0.942
+LKA,Sri Lanka,2021-05-03,0.978
 LTU,Lithuania,2020-03-27,0.189
 LTU,Lithuania,2020-03-28,0.224
 LTU,Lithuania,2020-03-29,0.26
@@ -23789,32 +23981,35 @@ LTU,Lithuania,2021-03-28,3.358
 LTU,Lithuania,2021-03-29,3.515
 LTU,Lithuania,2021-03-30,3.782
 LTU,Lithuania,2021-03-31,4.052
-LTU,Lithuania,2021-04-01,4.282
-LTU,Lithuania,2021-04-02,4.383
-LTU,Lithuania,2021-04-03,4.419
-LTU,Lithuania,2021-04-04,4.374
-LTU,Lithuania,2021-04-05,4.057
-LTU,Lithuania,2021-04-06,4.165
-LTU,Lithuania,2021-04-07,4.357
-LTU,Lithuania,2021-04-08,4.469
-LTU,Lithuania,2021-04-09,4.659
-LTU,Lithuania,2021-04-10,4.812
-LTU,Lithuania,2021-04-11,5.021
-LTU,Lithuania,2021-04-12,5.709
-LTU,Lithuania,2021-04-13,5.955
-LTU,Lithuania,2021-04-14,5.991
-LTU,Lithuania,2021-04-15,6.13
-LTU,Lithuania,2021-04-16,6.23
-LTU,Lithuania,2021-04-17,6.393
-LTU,Lithuania,2021-04-18,6.377
-LTU,Lithuania,2021-04-19,6.454
-LTU,Lithuania,2021-04-20,6.483
-LTU,Lithuania,2021-04-21,6.6
-LTU,Lithuania,2021-04-22,6.642
-LTU,Lithuania,2021-04-23,6.655
-LTU,Lithuania,2021-04-24,6.621
-LTU,Lithuania,2021-04-25,6.623
-LTU,Lithuania,2021-04-26,6.59
+LTU,Lithuania,2021-04-01,4.284
+LTU,Lithuania,2021-04-02,4.384
+LTU,Lithuania,2021-04-03,4.421
+LTU,Lithuania,2021-04-04,4.376
+LTU,Lithuania,2021-04-05,4.059
+LTU,Lithuania,2021-04-06,4.169
+LTU,Lithuania,2021-04-07,4.362
+LTU,Lithuania,2021-04-08,4.472
+LTU,Lithuania,2021-04-09,4.666
+LTU,Lithuania,2021-04-10,4.819
+LTU,Lithuania,2021-04-11,5.028
+LTU,Lithuania,2021-04-12,5.716
+LTU,Lithuania,2021-04-13,5.959
+LTU,Lithuania,2021-04-14,5.995
+LTU,Lithuania,2021-04-15,6.136
+LTU,Lithuania,2021-04-16,6.233
+LTU,Lithuania,2021-04-17,6.396
+LTU,Lithuania,2021-04-18,6.38
+LTU,Lithuania,2021-04-19,6.459
+LTU,Lithuania,2021-04-20,6.498
+LTU,Lithuania,2021-04-21,6.619
+LTU,Lithuania,2021-04-22,6.665
+LTU,Lithuania,2021-04-23,6.679
+LTU,Lithuania,2021-04-24,6.645
+LTU,Lithuania,2021-04-25,6.647
+LTU,Lithuania,2021-04-26,6.652
+LTU,Lithuania,2021-04-27,6.64
+LTU,Lithuania,2021-04-28,6.646
+LTU,Lithuania,2021-04-29,6.552
 LUX,Luxembourg,2020-03-02,0.005
 LUX,Luxembourg,2020-03-03,0.003
 LUX,Luxembourg,2020-03-04,0.003
@@ -24237,7 +24432,10 @@ LUX,Luxembourg,2021-04-24,12.59
 LUX,Luxembourg,2021-04-25,12.334
 LUX,Luxembourg,2021-04-26,12.374
 LUX,Luxembourg,2021-04-27,12.168
-LUX,Luxembourg,2021-04-28,12.282
+LUX,Luxembourg,2021-04-28,12.283
+LUX,Luxembourg,2021-04-29,12.555
+LUX,Luxembourg,2021-04-30,12.555
+LUX,Luxembourg,2021-05-01,11.67
 LVA,Latvia,2020-03-07,0.015
 LVA,Latvia,2020-03-08,0.016
 LVA,Latvia,2020-03-09,0.017
@@ -24658,6 +24856,10 @@ LVA,Latvia,2021-04-27,7.227
 LVA,Latvia,2021-04-28,7.193
 LVA,Latvia,2021-04-29,7.258
 LVA,Latvia,2021-04-30,7.347
+LVA,Latvia,2021-05-01,7.171
+LVA,Latvia,2021-05-02,7.03
+LVA,Latvia,2021-05-03,6.963
+LVA,Latvia,2021-05-04,5.869
 MAR,Morocco,2020-02-14,0.0
 MAR,Morocco,2020-02-15,0.0
 MAR,Morocco,2020-02-16,0.0
@@ -25099,6 +25301,9 @@ MAR,Morocco,2021-04-26,0.213
 MAR,Morocco,2021-04-27,0.213
 MAR,Morocco,2021-04-28,0.21
 MAR,Morocco,2021-04-29,0.211
+MAR,Morocco,2021-04-30,0.209
+MAR,Morocco,2021-05-01,0.205
+MAR,Morocco,2021-05-02,0.209
 MDG,Madagascar,2020-05-05,0.004
 MDG,Madagascar,2020-05-06,0.004
 MDG,Madagascar,2020-05-07,0.004
@@ -25458,6 +25663,9 @@ MDG,Madagascar,2021-04-25,0.049
 MDG,Madagascar,2021-04-26,0.044
 MDG,Madagascar,2021-04-27,0.045
 MDG,Madagascar,2021-04-28,0.048
+MDG,Madagascar,2021-04-29,0.045
+MDG,Madagascar,2021-04-30,0.045
+MDG,Madagascar,2021-05-01,0.046
 MDV,Maldives,2020-03-23,0.12
 MDV,Maldives,2020-03-24,0.124
 MDV,Maldives,2020-03-25,0.083
@@ -25861,6 +26069,9 @@ MDV,Maldives,2021-04-26,5.903
 MDV,Maldives,2021-04-27,6.038
 MDV,Maldives,2021-04-28,6.331
 MDV,Maldives,2021-04-29,6.214
+MDV,Maldives,2021-04-30,6.27
+MDV,Maldives,2021-05-01,6.395
+MDV,Maldives,2021-05-02,6.39
 MEX,Mexico,2020-01-08,0.001
 MEX,Mexico,2020-01-09,0.001
 MEX,Mexico,2020-01-10,0.001
@@ -25870,9 +26081,9 @@ MEX,Mexico,2020-01-13,0.001
 MEX,Mexico,2020-01-14,0.001
 MEX,Mexico,2020-01-15,0.001
 MEX,Mexico,2020-01-16,0.001
-MEX,Mexico,2020-01-17,0.002
-MEX,Mexico,2020-01-18,0.002
-MEX,Mexico,2020-01-19,0.002
+MEX,Mexico,2020-01-17,0.001
+MEX,Mexico,2020-01-18,0.001
+MEX,Mexico,2020-01-19,0.001
 MEX,Mexico,2020-01-20,0.002
 MEX,Mexico,2020-01-21,0.002
 MEX,Mexico,2020-01-22,0.002
@@ -25885,7 +26096,7 @@ MEX,Mexico,2020-01-28,0.002
 MEX,Mexico,2020-01-29,0.002
 MEX,Mexico,2020-01-30,0.002
 MEX,Mexico,2020-01-31,0.002
-MEX,Mexico,2020-02-01,0.002
+MEX,Mexico,2020-02-01,0.001
 MEX,Mexico,2020-02-02,0.001
 MEX,Mexico,2020-02-03,0.001
 MEX,Mexico,2020-02-04,0.001
@@ -25955,11 +26166,11 @@ MEX,Mexico,2020-04-07,0.012
 MEX,Mexico,2020-04-08,0.013
 MEX,Mexico,2020-04-09,0.013
 MEX,Mexico,2020-04-10,0.013
-MEX,Mexico,2020-04-11,0.013
+MEX,Mexico,2020-04-11,0.014
 MEX,Mexico,2020-04-12,0.014
 MEX,Mexico,2020-04-13,0.015
 MEX,Mexico,2020-04-14,0.016
-MEX,Mexico,2020-04-15,0.016
+MEX,Mexico,2020-04-15,0.017
 MEX,Mexico,2020-04-16,0.018
 MEX,Mexico,2020-04-17,0.019
 MEX,Mexico,2020-04-18,0.019
@@ -26012,7 +26223,7 @@ MEX,Mexico,2020-06-03,0.065
 MEX,Mexico,2020-06-04,0.066
 MEX,Mexico,2020-06-05,0.068
 MEX,Mexico,2020-06-06,0.068
-MEX,Mexico,2020-06-07,0.068
+MEX,Mexico,2020-06-07,0.069
 MEX,Mexico,2020-06-08,0.07
 MEX,Mexico,2020-06-09,0.072
 MEX,Mexico,2020-06-10,0.074
@@ -26021,10 +26232,10 @@ MEX,Mexico,2020-06-12,0.076
 MEX,Mexico,2020-06-13,0.076
 MEX,Mexico,2020-06-14,0.077
 MEX,Mexico,2020-06-15,0.078
-MEX,Mexico,2020-06-16,0.079
+MEX,Mexico,2020-06-16,0.08
 MEX,Mexico,2020-06-17,0.08
 MEX,Mexico,2020-06-18,0.081
-MEX,Mexico,2020-06-19,0.08
+MEX,Mexico,2020-06-19,0.081
 MEX,Mexico,2020-06-20,0.081
 MEX,Mexico,2020-06-21,0.081
 MEX,Mexico,2020-06-22,0.08
@@ -26038,11 +26249,11 @@ MEX,Mexico,2020-06-29,0.086
 MEX,Mexico,2020-06-30,0.088
 MEX,Mexico,2020-07-01,0.09
 MEX,Mexico,2020-07-02,0.091
-MEX,Mexico,2020-07-03,0.092
+MEX,Mexico,2020-07-03,0.093
 MEX,Mexico,2020-07-04,0.092
 MEX,Mexico,2020-07-05,0.092
 MEX,Mexico,2020-07-06,0.093
-MEX,Mexico,2020-07-07,0.094
+MEX,Mexico,2020-07-07,0.095
 MEX,Mexico,2020-07-08,0.094
 MEX,Mexico,2020-07-09,0.095
 MEX,Mexico,2020-07-10,0.095
@@ -26077,7 +26288,7 @@ MEX,Mexico,2020-08-07,0.095
 MEX,Mexico,2020-08-08,0.095
 MEX,Mexico,2020-08-09,0.094
 MEX,Mexico,2020-08-10,0.095
-MEX,Mexico,2020-08-11,0.094
+MEX,Mexico,2020-08-11,0.095
 MEX,Mexico,2020-08-12,0.094
 MEX,Mexico,2020-08-13,0.094
 MEX,Mexico,2020-08-14,0.094
@@ -26113,7 +26324,7 @@ MEX,Mexico,2020-09-12,0.096
 MEX,Mexico,2020-09-13,0.096
 MEX,Mexico,2020-09-14,0.096
 MEX,Mexico,2020-09-15,0.091
-MEX,Mexico,2020-09-16,0.078
+MEX,Mexico,2020-09-16,0.079
 MEX,Mexico,2020-09-17,0.079
 MEX,Mexico,2020-09-18,0.079
 MEX,Mexico,2020-09-19,0.079
@@ -26185,7 +26396,7 @@ MEX,Mexico,2020-11-23,0.126
 MEX,Mexico,2020-11-24,0.129
 MEX,Mexico,2020-11-25,0.134
 MEX,Mexico,2020-11-26,0.14
-MEX,Mexico,2020-11-27,0.144
+MEX,Mexico,2020-11-27,0.145
 MEX,Mexico,2020-11-28,0.146
 MEX,Mexico,2020-11-29,0.147
 MEX,Mexico,2020-11-30,0.151
@@ -26201,28 +26412,28 @@ MEX,Mexico,2020-12-09,0.195
 MEX,Mexico,2020-12-10,0.199
 MEX,Mexico,2020-12-11,0.202
 MEX,Mexico,2020-12-12,0.203
-MEX,Mexico,2020-12-13,0.203
+MEX,Mexico,2020-12-13,0.204
 MEX,Mexico,2020-12-14,0.206
 MEX,Mexico,2020-12-15,0.208
 MEX,Mexico,2020-12-16,0.21
-MEX,Mexico,2020-12-17,0.208
+MEX,Mexico,2020-12-17,0.209
 MEX,Mexico,2020-12-18,0.21
 MEX,Mexico,2020-12-19,0.212
 MEX,Mexico,2020-12-20,0.212
 MEX,Mexico,2020-12-21,0.215
 MEX,Mexico,2020-12-22,0.217
-MEX,Mexico,2020-12-23,0.218
-MEX,Mexico,2020-12-24,0.211
+MEX,Mexico,2020-12-23,0.219
+MEX,Mexico,2020-12-24,0.212
 MEX,Mexico,2020-12-25,0.18
 MEX,Mexico,2020-12-26,0.174
 MEX,Mexico,2020-12-27,0.175
 MEX,Mexico,2020-12-28,0.178
 MEX,Mexico,2020-12-29,0.183
-MEX,Mexico,2020-12-30,0.187
+MEX,Mexico,2020-12-30,0.188
 MEX,Mexico,2020-12-31,0.192
-MEX,Mexico,2021-01-01,0.193
+MEX,Mexico,2021-01-01,0.194
 MEX,Mexico,2021-01-02,0.196
-MEX,Mexico,2021-01-03,0.197
+MEX,Mexico,2021-01-03,0.198
 MEX,Mexico,2021-01-04,0.2
 MEX,Mexico,2021-01-05,0.204
 MEX,Mexico,2021-01-06,0.209
@@ -26230,18 +26441,18 @@ MEX,Mexico,2021-01-07,0.225
 MEX,Mexico,2021-01-08,0.267
 MEX,Mexico,2021-01-09,0.275
 MEX,Mexico,2021-01-10,0.276
-MEX,Mexico,2021-01-11,0.282
+MEX,Mexico,2021-01-11,0.283
 MEX,Mexico,2021-01-12,0.285
-MEX,Mexico,2021-01-13,0.287
-MEX,Mexico,2021-01-14,0.288
+MEX,Mexico,2021-01-13,0.288
+MEX,Mexico,2021-01-14,0.289
 MEX,Mexico,2021-01-15,0.289
 MEX,Mexico,2021-01-16,0.29
-MEX,Mexico,2021-01-17,0.289
-MEX,Mexico,2021-01-18,0.289
+MEX,Mexico,2021-01-17,0.29
+MEX,Mexico,2021-01-18,0.29
 MEX,Mexico,2021-01-19,0.292
-MEX,Mexico,2021-01-20,0.293
+MEX,Mexico,2021-01-20,0.294
 MEX,Mexico,2021-01-21,0.293
-MEX,Mexico,2021-01-22,0.294
+MEX,Mexico,2021-01-22,0.295
 MEX,Mexico,2021-01-23,0.294
 MEX,Mexico,2021-01-24,0.294
 MEX,Mexico,2021-01-25,0.293
@@ -26254,26 +26465,26 @@ MEX,Mexico,2021-01-31,0.279
 MEX,Mexico,2021-02-01,0.239
 MEX,Mexico,2021-02-02,0.231
 MEX,Mexico,2021-02-03,0.221
-MEX,Mexico,2021-02-04,0.212
+MEX,Mexico,2021-02-04,0.213
 MEX,Mexico,2021-02-05,0.207
 MEX,Mexico,2021-02-06,0.202
 MEX,Mexico,2021-02-07,0.201
-MEX,Mexico,2021-02-08,0.229
+MEX,Mexico,2021-02-08,0.23
 MEX,Mexico,2021-02-09,0.222
-MEX,Mexico,2021-02-10,0.215
+MEX,Mexico,2021-02-10,0.216
 MEX,Mexico,2021-02-11,0.209
 MEX,Mexico,2021-02-12,0.204
 MEX,Mexico,2021-02-13,0.201
-MEX,Mexico,2021-02-14,0.199
+MEX,Mexico,2021-02-14,0.2
 MEX,Mexico,2021-02-15,0.192
 MEX,Mexico,2021-02-16,0.186
 MEX,Mexico,2021-02-17,0.18
-MEX,Mexico,2021-02-18,0.176
+MEX,Mexico,2021-02-18,0.177
 MEX,Mexico,2021-02-19,0.172
 MEX,Mexico,2021-02-20,0.17
 MEX,Mexico,2021-02-21,0.17
 MEX,Mexico,2021-02-22,0.172
-MEX,Mexico,2021-02-23,0.173
+MEX,Mexico,2021-02-23,0.174
 MEX,Mexico,2021-02-24,0.175
 MEX,Mexico,2021-02-25,0.175
 MEX,Mexico,2021-02-26,0.176
@@ -26285,21 +26496,21 @@ MEX,Mexico,2021-03-03,0.172
 MEX,Mexico,2021-03-04,0.169
 MEX,Mexico,2021-03-05,0.167
 MEX,Mexico,2021-03-06,0.166
-MEX,Mexico,2021-03-07,0.165
+MEX,Mexico,2021-03-07,0.166
 MEX,Mexico,2021-03-08,0.161
 MEX,Mexico,2021-03-09,0.158
 MEX,Mexico,2021-03-10,0.155
 MEX,Mexico,2021-03-11,0.153
 MEX,Mexico,2021-03-12,0.15
 MEX,Mexico,2021-03-13,0.15
-MEX,Mexico,2021-03-14,0.149
-MEX,Mexico,2021-03-15,0.127
-MEX,Mexico,2021-03-16,0.129
-MEX,Mexico,2021-03-17,0.129
+MEX,Mexico,2021-03-14,0.15
+MEX,Mexico,2021-03-15,0.128
+MEX,Mexico,2021-03-16,0.13
+MEX,Mexico,2021-03-17,0.13
 MEX,Mexico,2021-03-18,0.129
 MEX,Mexico,2021-03-19,0.128
 MEX,Mexico,2021-03-20,0.127
-MEX,Mexico,2021-03-21,0.127
+MEX,Mexico,2021-03-21,0.128
 MEX,Mexico,2021-03-22,0.147
 MEX,Mexico,2021-03-23,0.144
 MEX,Mexico,2021-03-24,0.142
@@ -26307,37 +26518,41 @@ MEX,Mexico,2021-03-25,0.142
 MEX,Mexico,2021-03-26,0.14
 MEX,Mexico,2021-03-27,0.14
 MEX,Mexico,2021-03-28,0.14
-MEX,Mexico,2021-03-29,0.138
+MEX,Mexico,2021-03-29,0.139
 MEX,Mexico,2021-03-30,0.137
-MEX,Mexico,2021-03-31,0.134
+MEX,Mexico,2021-03-31,0.135
 MEX,Mexico,2021-04-01,0.12
-MEX,Mexico,2021-04-02,0.104
-MEX,Mexico,2021-04-03,0.099
-MEX,Mexico,2021-04-04,0.099
+MEX,Mexico,2021-04-02,0.105
+MEX,Mexico,2021-04-03,0.1
+MEX,Mexico,2021-04-04,0.1
 MEX,Mexico,2021-04-05,0.1
-MEX,Mexico,2021-04-06,0.099
-MEX,Mexico,2021-04-07,0.101
+MEX,Mexico,2021-04-06,0.1
+MEX,Mexico,2021-04-07,0.102
 MEX,Mexico,2021-04-08,0.116
 MEX,Mexico,2021-04-09,0.132
 MEX,Mexico,2021-04-10,0.138
-MEX,Mexico,2021-04-11,0.138
-MEX,Mexico,2021-04-12,0.139
-MEX,Mexico,2021-04-13,0.14
-MEX,Mexico,2021-04-14,0.139
-MEX,Mexico,2021-04-15,0.137
-MEX,Mexico,2021-04-16,0.134
-MEX,Mexico,2021-04-17,0.132
-MEX,Mexico,2021-04-18,0.131
-MEX,Mexico,2021-04-19,0.127
-MEX,Mexico,2021-04-20,0.125
-MEX,Mexico,2021-04-21,0.124
-MEX,Mexico,2021-04-22,0.123
-MEX,Mexico,2021-04-23,0.121
-MEX,Mexico,2021-04-24,0.121
-MEX,Mexico,2021-04-25,0.12
-MEX,Mexico,2021-04-26,0.116
-MEX,Mexico,2021-04-27,0.109
-MEX,Mexico,2021-04-28,0.096
+MEX,Mexico,2021-04-11,0.139
+MEX,Mexico,2021-04-12,0.14
+MEX,Mexico,2021-04-13,0.141
+MEX,Mexico,2021-04-14,0.14
+MEX,Mexico,2021-04-15,0.138
+MEX,Mexico,2021-04-16,0.136
+MEX,Mexico,2021-04-17,0.133
+MEX,Mexico,2021-04-18,0.133
+MEX,Mexico,2021-04-19,0.129
+MEX,Mexico,2021-04-20,0.127
+MEX,Mexico,2021-04-21,0.127
+MEX,Mexico,2021-04-22,0.125
+MEX,Mexico,2021-04-23,0.124
+MEX,Mexico,2021-04-24,0.124
+MEX,Mexico,2021-04-25,0.123
+MEX,Mexico,2021-04-26,0.121
+MEX,Mexico,2021-04-27,0.117
+MEX,Mexico,2021-04-28,0.113
+MEX,Mexico,2021-04-29,0.107
+MEX,Mexico,2021-04-30,0.097
+MEX,Mexico,2021-05-01,0.09
+MEX,Mexico,2021-05-02,0.087
 MKD,North Macedonia,2020-04-06,0.162
 MKD,North Macedonia,2020-04-07,0.162
 MKD,North Macedonia,2020-04-08,0.168
@@ -26726,6 +26941,8 @@ MKD,North Macedonia,2021-04-25,1.246
 MKD,North Macedonia,2021-04-26,1.225
 MKD,North Macedonia,2021-04-27,1.237
 MKD,North Macedonia,2021-04-28,1.227
+MKD,North Macedonia,2021-04-29,1.226
+MKD,North Macedonia,2021-04-30,1.14
 MLT,Malta,2020-02-13,0.0
 MLT,Malta,2020-02-14,0.0
 MLT,Malta,2020-02-15,0.0
@@ -27168,6 +27385,9 @@ MLT,Malta,2021-04-26,4.108
 MLT,Malta,2021-04-27,4.086
 MLT,Malta,2021-04-28,3.988
 MLT,Malta,2021-04-29,3.959
+MLT,Malta,2021-04-30,3.945
+MLT,Malta,2021-05-01,3.995
+MLT,Malta,2021-05-02,3.97
 MMR,Myanmar,2020-04-11,0.001
 MMR,Myanmar,2020-04-12,0.002
 MMR,Myanmar,2020-04-13,0.002
@@ -27646,6 +27866,9 @@ MNG,Mongolia,2021-04-25,3.906
 MNG,Mongolia,2021-04-26,3.739
 MNG,Mongolia,2021-04-27,3.746
 MNG,Mongolia,2021-04-28,3.627
+MNG,Mongolia,2021-04-29,3.484
+MNG,Mongolia,2021-04-30,3.525
+MNG,Mongolia,2021-05-01,3.495
 MOZ,Mozambique,2020-04-04,0.001
 MOZ,Mozambique,2020-04-05,0.001
 MOZ,Mozambique,2020-04-06,0.001
@@ -28037,6 +28260,9 @@ MOZ,Mozambique,2021-04-26,0.039
 MOZ,Mozambique,2021-04-27,0.038
 MOZ,Mozambique,2021-04-28,0.036
 MOZ,Mozambique,2021-04-29,0.039
+MOZ,Mozambique,2021-04-30,0.039
+MOZ,Mozambique,2021-05-01,0.04
+MOZ,Mozambique,2021-05-02,0.04
 MRT,Mauritania,2020-04-08,0.004
 MRT,Mauritania,2020-04-09,0.007
 MRT,Mauritania,2020-04-10,0.009
@@ -29167,6 +29393,9 @@ MYS,Malaysia,2021-04-26,2.014
 MYS,Malaysia,2021-04-27,2.049
 MYS,Malaysia,2021-04-28,2.085
 MYS,Malaysia,2021-04-29,2.137
+MYS,Malaysia,2021-04-30,2.12
+MYS,Malaysia,2021-05-01,2.122
+MYS,Malaysia,2021-05-02,2.095
 NAM,Namibia,2020-04-08,0.005
 NAM,Namibia,2020-04-09,0.004
 NAM,Namibia,2020-04-10,0.004
@@ -29553,6 +29782,8 @@ NAM,Namibia,2021-04-25,0.569
 NAM,Namibia,2021-04-26,0.562
 NAM,Namibia,2021-04-27,0.514
 NAM,Namibia,2021-04-28,0.553
+NAM,Namibia,2021-04-29,0.577
+NAM,Namibia,2021-04-30,0.581
 NGA,Nigeria,2020-04-15,0.001
 NGA,Nigeria,2020-04-16,0.001
 NGA,Nigeria,2020-04-17,0.001
@@ -29930,6 +30161,13 @@ NGA,Nigeria,2021-04-23,0.026
 NGA,Nigeria,2021-04-24,0.027
 NGA,Nigeria,2021-04-25,0.028
 NGA,Nigeria,2021-04-26,0.029
+NGA,Nigeria,2021-04-27,0.027
+NGA,Nigeria,2021-04-28,0.026
+NGA,Nigeria,2021-04-29,0.024
+NGA,Nigeria,2021-04-30,0.023
+NGA,Nigeria,2021-05-01,0.021
+NGA,Nigeria,2021-05-02,0.02
+NGA,Nigeria,2021-05-03,0.018
 NLD,Netherlands,2020-03-22,0.178
 NLD,Netherlands,2020-03-23,0.182
 NLD,Netherlands,2020-03-24,0.186
@@ -30714,8 +30952,13 @@ NOR,Norway,2021-04-23,3.159
 NOR,Norway,2021-04-24,3.169
 NOR,Norway,2021-04-25,3.187
 NOR,Norway,2021-04-26,3.241
-NOR,Norway,2021-04-27,3.307
-NOR,Norway,2021-04-28,3.334
+NOR,Norway,2021-04-27,3.308
+NOR,Norway,2021-04-28,3.345
+NOR,Norway,2021-04-29,3.346
+NOR,Norway,2021-04-30,3.299
+NOR,Norway,2021-05-01,3.262
+NOR,Norway,2021-05-02,3.25
+NOR,Norway,2021-05-03,2.783
 NPL,Nepal,2020-02-04,0.0
 NPL,Nepal,2020-02-05,0.0
 NPL,Nepal,2020-02-06,0.0
@@ -31166,6 +31409,10 @@ NPL,Nepal,2021-04-25,0.292
 NPL,Nepal,2021-04-26,0.318
 NPL,Nepal,2021-04-27,0.351
 NPL,Nepal,2021-04-28,0.375
+NPL,Nepal,2021-04-29,0.388
+NPL,Nepal,2021-04-30,0.418
+NPL,Nepal,2021-05-01,0.454
+NPL,Nepal,2021-05-02,0.488
 NZL,New Zealand,2020-03-08,0.007
 NZL,New Zealand,2020-03-09,0.009
 NZL,New Zealand,2020-03-10,0.011
@@ -31585,6 +31832,10 @@ NZL,New Zealand,2021-04-27,0.794
 NZL,New Zealand,2021-04-28,0.753
 NZL,New Zealand,2021-04-29,0.758
 NZL,New Zealand,2021-04-30,0.774
+NZL,New Zealand,2021-05-01,0.761
+NZL,New Zealand,2021-05-02,0.773
+NZL,New Zealand,2021-05-03,0.781
+NZL,New Zealand,2021-05-04,0.803
 OMN,Oman,2020-06-10,0.534
 OMN,Oman,2020-06-11,0.539
 OMN,Oman,2020-06-12,0.569
@@ -32045,6 +32296,10 @@ PAK,Pakistan,2021-04-27,0.233
 PAK,Pakistan,2021-04-28,0.234
 PAK,Pakistan,2021-04-29,0.234
 PAK,Pakistan,2021-04-30,0.231
+PAK,Pakistan,2021-05-01,0.228
+PAK,Pakistan,2021-05-02,0.222
+PAK,Pakistan,2021-05-03,0.219
+PAK,Pakistan,2021-05-04,0.215
 PAN,Panama,2020-03-16,0.03
 PAN,Panama,2020-03-17,0.037
 PAN,Panama,2020-03-18,0.042
@@ -32454,6 +32709,10 @@ PAN,Panama,2021-04-25,1.817
 PAN,Panama,2021-04-26,1.798
 PAN,Panama,2021-04-27,1.807
 PAN,Panama,2021-04-28,1.809
+PAN,Panama,2021-04-29,1.794
+PAN,Panama,2021-04-30,1.83
+PAN,Panama,2021-05-01,1.804
+PAN,Panama,2021-05-02,1.806
 PER,Peru,2020-01-13,0.0
 PER,Peru,2020-01-14,0.0
 PER,Peru,2020-01-15,0.0
@@ -33208,13 +33467,13 @@ PHL,Philippines,2021-02-01,0.324
 PHL,Philippines,2021-02-02,0.323
 PHL,Philippines,2021-02-03,0.32
 PHL,Philippines,2021-02-04,0.318
-PHL,Philippines,2021-02-05,0.314
-PHL,Philippines,2021-02-06,0.307
-PHL,Philippines,2021-02-07,0.301
-PHL,Philippines,2021-02-08,0.302
+PHL,Philippines,2021-02-05,0.313
+PHL,Philippines,2021-02-06,0.306
+PHL,Philippines,2021-02-07,0.3
+PHL,Philippines,2021-02-08,0.301
 PHL,Philippines,2021-02-09,0.301
-PHL,Philippines,2021-02-10,0.302
-PHL,Philippines,2021-02-11,0.303
+PHL,Philippines,2021-02-10,0.301
+PHL,Philippines,2021-02-11,0.302
 PHL,Philippines,2021-02-12,0.303
 PHL,Philippines,2021-02-13,0.294
 PHL,Philippines,2021-02-14,0.288
@@ -33275,22 +33534,26 @@ PHL,Philippines,2021-04-09,0.426
 PHL,Philippines,2021-04-10,0.454
 PHL,Philippines,2021-04-11,0.467
 PHL,Philippines,2021-04-12,0.475
-PHL,Philippines,2021-04-13,0.48
-PHL,Philippines,2021-04-14,0.485
-PHL,Philippines,2021-04-15,0.475
-PHL,Philippines,2021-04-16,0.472
-PHL,Philippines,2021-04-17,0.47
-PHL,Philippines,2021-04-18,0.475
-PHL,Philippines,2021-04-19,0.473
-PHL,Philippines,2021-04-20,0.472
-PHL,Philippines,2021-04-21,0.464
-PHL,Philippines,2021-04-22,0.468
-PHL,Philippines,2021-04-23,0.461
-PHL,Philippines,2021-04-24,0.452
-PHL,Philippines,2021-04-25,0.451
-PHL,Philippines,2021-04-26,0.446
-PHL,Philippines,2021-04-27,0.44
-PHL,Philippines,2021-04-28,0.432
+PHL,Philippines,2021-04-13,0.484
+PHL,Philippines,2021-04-14,0.488
+PHL,Philippines,2021-04-15,0.482
+PHL,Philippines,2021-04-16,0.479
+PHL,Philippines,2021-04-17,0.479
+PHL,Philippines,2021-04-18,0.484
+PHL,Philippines,2021-04-19,0.482
+PHL,Philippines,2021-04-20,0.479
+PHL,Philippines,2021-04-21,0.472
+PHL,Philippines,2021-04-22,0.474
+PHL,Philippines,2021-04-23,0.468
+PHL,Philippines,2021-04-24,0.459
+PHL,Philippines,2021-04-25,0.458
+PHL,Philippines,2021-04-26,0.455
+PHL,Philippines,2021-04-27,0.453
+PHL,Philippines,2021-04-28,0.453
+PHL,Philippines,2021-04-29,0.45
+PHL,Philippines,2021-04-30,0.446
+PHL,Philippines,2021-05-01,0.44
+PHL,Philippines,2021-05-02,0.432
 POL,Poland,2020-05-05,0.294
 POL,Poland,2020-05-06,0.302
 POL,Poland,2020-05-07,0.309
@@ -33650,6 +33913,9 @@ POL,Poland,2021-04-26,1.638
 POL,Poland,2021-04-27,1.616
 POL,Poland,2021-04-28,1.59
 POL,Poland,2021-04-29,1.567
+POL,Poland,2021-04-30,1.561
+POL,Poland,2021-05-01,1.533
+POL,Poland,2021-05-02,1.505
 PRT,Portugal,2020-03-08,0.007
 PRT,Portugal,2020-03-09,0.008
 PRT,Portugal,2020-03-10,0.012
@@ -34040,33 +34306,37 @@ PRT,Portugal,2021-03-29,2.538
 PRT,Portugal,2021-03-30,2.511
 PRT,Portugal,2021-03-31,2.505
 PRT,Portugal,2021-04-01,2.522
-PRT,Portugal,2021-04-02,2.308
-PRT,Portugal,2021-04-03,2.322
+PRT,Portugal,2021-04-02,2.309
+PRT,Portugal,2021-04-03,2.323
 PRT,Portugal,2021-04-04,2.344
-PRT,Portugal,2021-04-05,2.751
-PRT,Portugal,2021-04-06,3.233
-PRT,Portugal,2021-04-07,3.716
-PRT,Portugal,2021-04-08,4.131
-PRT,Portugal,2021-04-09,4.763
-PRT,Portugal,2021-04-10,4.885
-PRT,Portugal,2021-04-11,4.891
-PRT,Portugal,2021-04-12,4.605
-PRT,Portugal,2021-04-13,4.294
+PRT,Portugal,2021-04-05,2.753
+PRT,Portugal,2021-04-06,3.235
+PRT,Portugal,2021-04-07,3.719
+PRT,Portugal,2021-04-08,4.133
+PRT,Portugal,2021-04-09,4.765
+PRT,Portugal,2021-04-10,4.886
+PRT,Portugal,2021-04-11,4.892
+PRT,Portugal,2021-04-12,4.606
+PRT,Portugal,2021-04-13,4.295
 PRT,Portugal,2021-04-14,3.991
 PRT,Portugal,2021-04-15,3.764
-PRT,Portugal,2021-04-16,3.581
-PRT,Portugal,2021-04-17,3.576
-PRT,Portugal,2021-04-18,3.598
-PRT,Portugal,2021-04-19,4.158
-PRT,Portugal,2021-04-20,4.934
+PRT,Portugal,2021-04-16,3.582
+PRT,Portugal,2021-04-17,3.577
+PRT,Portugal,2021-04-18,3.599
+PRT,Portugal,2021-04-19,4.159
+PRT,Portugal,2021-04-20,4.935
 PRT,Portugal,2021-04-21,5.735
-PRT,Portugal,2021-04-22,6.519
-PRT,Portugal,2021-04-23,7.1
-PRT,Portugal,2021-04-24,7.239
-PRT,Portugal,2021-04-25,7.24
-PRT,Portugal,2021-04-26,6.884
-PRT,Portugal,2021-04-27,6.312
-PRT,Portugal,2021-04-28,5.599
+PRT,Portugal,2021-04-22,6.52
+PRT,Portugal,2021-04-23,7.101
+PRT,Portugal,2021-04-24,7.24
+PRT,Portugal,2021-04-25,7.241
+PRT,Portugal,2021-04-26,6.887
+PRT,Portugal,2021-04-27,6.334
+PRT,Portugal,2021-04-28,5.698
+PRT,Portugal,2021-04-29,5.082
+PRT,Portugal,2021-04-30,4.737
+PRT,Portugal,2021-05-01,4.581
+PRT,Portugal,2021-05-02,4.593
 PRY,Paraguay,2020-03-14,0.001
 PRY,Paraguay,2020-03-15,0.002
 PRY,Paraguay,2020-03-16,0.002
@@ -34478,6 +34748,10 @@ PRY,Paraguay,2021-04-25,0.906
 PRY,Paraguay,2021-04-26,0.902
 PRY,Paraguay,2021-04-27,0.899
 PRY,Paraguay,2021-04-28,0.9
+PRY,Paraguay,2021-04-29,0.9
+PRY,Paraguay,2021-04-30,0.892
+PRY,Paraguay,2021-05-01,0.882
+PRY,Paraguay,2021-05-02,0.875
 PSE,State of Palestine,2020-09-03,0.997
 PSE,State of Palestine,2020-09-04,1.039
 PSE,State of Palestine,2020-09-05,0.919
@@ -34689,6 +34963,9 @@ PSE,State of Palestine,2021-04-26,1.066
 PSE,State of Palestine,2021-04-27,1.04
 PSE,State of Palestine,2021-04-28,0.987
 PSE,State of Palestine,2021-04-29,0.956
+PSE,State of Palestine,2021-04-30,0.918
+PSE,State of Palestine,2021-05-01,0.877
+PSE,State of Palestine,2021-05-02,0.859
 QAT,Qatar,2020-03-19,0.206
 QAT,Qatar,2020-03-20,0.192
 QAT,Qatar,2020-03-21,0.177
@@ -35096,6 +35373,10 @@ QAT,Qatar,2021-04-26,1.986
 QAT,Qatar,2021-04-27,1.965
 QAT,Qatar,2021-04-28,1.936
 QAT,Qatar,2021-04-29,1.816
+QAT,Qatar,2021-04-30,1.672
+QAT,Qatar,2021-05-01,1.632
+QAT,Qatar,2021-05-02,1.631
+QAT,Qatar,2021-05-03,1.654
 ROU,Romania,2020-03-19,0.023
 ROU,Romania,2020-03-20,0.043
 ROU,Romania,2020-03-21,0.044
@@ -35504,6 +35785,8 @@ ROU,Romania,2021-04-27,1.016
 ROU,Romania,2021-04-28,1.021
 ROU,Romania,2021-04-29,1.024
 ROU,Romania,2021-04-30,1.017
+ROU,Romania,2021-05-01,0.938
+ROU,Romania,2021-05-02,0.903
 RUS,Russian Federation,2020-03-11,0.03
 RUS,Russian Federation,2020-03-12,0.034
 RUS,Russian Federation,2020-03-13,0.038
@@ -35919,6 +36202,10 @@ RUS,Russian Federation,2021-04-26,1.964
 RUS,Russian Federation,2021-04-27,1.96
 RUS,Russian Federation,2021-04-28,1.969
 RUS,Russian Federation,2021-04-29,1.965
+RUS,Russian Federation,2021-04-30,1.962
+RUS,Russian Federation,2021-05-01,1.97
+RUS,Russian Federation,2021-05-02,1.944
+RUS,Russian Federation,2021-05-03,1.918
 RWA,Rwanda,2020-04-14,0.071
 RWA,Rwanda,2020-04-15,0.072
 RWA,Rwanda,2020-04-16,0.072
@@ -36716,6 +37003,10 @@ SAU,Saudi Arabia,2021-04-25,1.692
 SAU,Saudi Arabia,2021-04-26,1.703
 SAU,Saudi Arabia,2021-04-27,1.735
 SAU,Saudi Arabia,2021-04-28,1.742
+SAU,Saudi Arabia,2021-04-29,1.75
+SAU,Saudi Arabia,2021-04-30,1.778
+SAU,Saudi Arabia,2021-05-01,1.827
+SAU,Saudi Arabia,2021-05-02,1.859
 SEN,Senegal,2020-03-06,0.0
 SEN,Senegal,2020-03-07,0.0
 SEN,Senegal,2020-03-08,0.0
@@ -37136,6 +37427,10 @@ SEN,Senegal,2021-04-26,0.081
 SEN,Senegal,2021-04-27,0.08
 SEN,Senegal,2021-04-28,0.077
 SEN,Senegal,2021-04-29,0.076
+SEN,Senegal,2021-04-30,0.077
+SEN,Senegal,2021-05-01,0.076
+SEN,Senegal,2021-05-02,0.079
+SEN,Senegal,2021-05-03,0.077
 SGP,Singapore,2020-04-14,0.54
 SGP,Singapore,2020-04-15,0.573
 SGP,Singapore,2020-04-16,0.605
@@ -37514,6 +37809,13 @@ SGP,Singapore,2021-04-23,4.865
 SGP,Singapore,2021-04-24,5.342
 SGP,Singapore,2021-04-25,5.819
 SGP,Singapore,2021-04-26,6.296
+SGP,Singapore,2021-04-27,6.688
+SGP,Singapore,2021-04-28,7.08
+SGP,Singapore,2021-04-29,7.472
+SGP,Singapore,2021-04-30,7.863
+SGP,Singapore,2021-05-01,8.255
+SGP,Singapore,2021-05-02,8.647
+SGP,Singapore,2021-05-03,9.039
 SLV,El Salvador,2020-04-12,0.032
 SLV,El Salvador,2020-04-13,0.04
 SLV,El Salvador,2020-04-14,0.05
@@ -38311,6 +38613,11 @@ SRB,Serbia,2021-04-25,1.928
 SRB,Serbia,2021-04-26,1.911
 SRB,Serbia,2021-04-27,1.872
 SRB,Serbia,2021-04-28,1.846
+SRB,Serbia,2021-04-29,1.835
+SRB,Serbia,2021-04-30,1.775
+SRB,Serbia,2021-05-01,1.704
+SRB,Serbia,2021-05-02,1.648
+SRB,Serbia,2021-05-03,1.535
 SSD,South Sudan,2020-09-03,0.02
 SSD,South Sudan,2020-09-04,0.023
 SSD,South Sudan,2020-09-05,0.023
@@ -38549,6 +38856,10 @@ SSD,South Sudan,2021-04-25,0.054
 SSD,South Sudan,2021-04-26,0.055
 SSD,South Sudan,2021-04-27,0.055
 SSD,South Sudan,2021-04-28,0.056
+SSD,South Sudan,2021-04-29,0.058
+SSD,South Sudan,2021-04-30,0.057
+SSD,South Sudan,2021-05-01,0.056
+SSD,South Sudan,2021-05-02,0.056
 SVK,Slovak Republic,2020-03-13,0.015
 SVK,Slovak Republic,2020-03-14,0.018
 SVK,Slovak Republic,2020-03-15,0.024
@@ -38811,13 +39122,13 @@ SVK,Slovak Republic,2020-11-26,4.64
 SVK,Slovak Republic,2020-11-27,4.608
 SVK,Slovak Republic,2020-11-28,4.668
 SVK,Slovak Republic,2020-11-29,4.677
-SVK,Slovak Republic,2020-11-30,4.779
-SVK,Slovak Republic,2020-12-01,5.119
-SVK,Slovak Republic,2020-12-02,5.543
-SVK,Slovak Republic,2020-12-03,5.881
-SVK,Slovak Republic,2020-12-04,6.289
-SVK,Slovak Republic,2020-12-05,6.325
-SVK,Slovak Republic,2020-12-06,6.402
+SVK,Slovak Republic,2020-11-30,4.782
+SVK,Slovak Republic,2020-12-01,5.121
+SVK,Slovak Republic,2020-12-02,5.546
+SVK,Slovak Republic,2020-12-03,5.884
+SVK,Slovak Republic,2020-12-04,6.291
+SVK,Slovak Republic,2020-12-05,6.328
+SVK,Slovak Republic,2020-12-06,6.405
 SVK,Slovak Republic,2020-12-07,6.065
 SVK,Slovak Republic,2020-12-08,6.443
 SVK,Slovak Republic,2020-12-09,6.659
@@ -38866,22 +39177,22 @@ SVK,Slovak Republic,2021-01-20,14.208
 SVK,Slovak Republic,2021-01-21,18.538
 SVK,Slovak Republic,2021-01-22,23.639
 SVK,Slovak Republic,2021-01-23,42.97
-SVK,Slovak Republic,2021-01-24,52.778
-SVK,Slovak Republic,2021-01-25,56.768
-SVK,Slovak Republic,2021-01-26,59.204
-SVK,Slovak Republic,2021-01-27,58.187
-SVK,Slovak Republic,2021-01-28,54.382
-SVK,Slovak Republic,2021-01-29,51.632
-SVK,Slovak Republic,2021-01-30,43.855
+SVK,Slovak Republic,2021-01-24,52.766
+SVK,Slovak Republic,2021-01-25,56.757
+SVK,Slovak Republic,2021-01-26,59.193
+SVK,Slovak Republic,2021-01-27,58.176
+SVK,Slovak Republic,2021-01-28,54.371
+SVK,Slovak Republic,2021-01-29,51.62
+SVK,Slovak Republic,2021-01-30,43.843
 SVK,Slovak Republic,2021-01-31,39.533
 SVK,Slovak Republic,2021-02-01,38.698
-SVK,Slovak Republic,2021-02-02,37.858
-SVK,Slovak Republic,2021-02-03,38.11
-SVK,Slovak Republic,2021-02-04,38.948
-SVK,Slovak Republic,2021-02-05,40.786
-SVK,Slovak Republic,2021-02-06,45.423
-SVK,Slovak Republic,2021-02-07,48.787
-SVK,Slovak Republic,2021-02-08,51.159
+SVK,Slovak Republic,2021-02-02,37.852
+SVK,Slovak Republic,2021-02-03,38.104
+SVK,Slovak Republic,2021-02-04,38.942
+SVK,Slovak Republic,2021-02-05,40.781
+SVK,Slovak Republic,2021-02-06,45.417
+SVK,Slovak Republic,2021-02-07,48.782
+SVK,Slovak Republic,2021-02-08,51.154
 SVK,Slovak Republic,2021-02-09,51.944
 SVK,Slovak Republic,2021-02-10,53.292
 SVK,Slovak Republic,2021-02-11,54.109
@@ -38889,36 +39200,36 @@ SVK,Slovak Republic,2021-02-12,55.965
 SVK,Slovak Republic,2021-02-13,56.262
 SVK,Slovak Republic,2021-02-14,55.187
 SVK,Slovak Republic,2021-02-15,53.828
-SVK,Slovak Republic,2021-02-16,53.299
-SVK,Slovak Republic,2021-02-17,53.131
-SVK,Slovak Republic,2021-02-18,53.522
-SVK,Slovak Republic,2021-02-19,53.929
-SVK,Slovak Republic,2021-02-20,55.226
-SVK,Slovak Republic,2021-02-21,54.469
-SVK,Slovak Republic,2021-02-22,54.229
-SVK,Slovak Republic,2021-02-23,54.3
-SVK,Slovak Republic,2021-02-24,54.597
-SVK,Slovak Republic,2021-02-25,54.857
-SVK,Slovak Republic,2021-02-26,55.257
-SVK,Slovak Republic,2021-02-27,55.957
-SVK,Slovak Republic,2021-02-28,56.489
-SVK,Slovak Republic,2021-03-01,56.686
-SVK,Slovak Republic,2021-03-02,57.43
-SVK,Slovak Republic,2021-03-03,58.263
-SVK,Slovak Republic,2021-03-04,58.933
-SVK,Slovak Republic,2021-03-05,59.406
+SVK,Slovak Republic,2021-02-16,53.293
+SVK,Slovak Republic,2021-02-17,53.12
+SVK,Slovak Republic,2021-02-18,53.506
+SVK,Slovak Republic,2021-02-19,53.905
+SVK,Slovak Republic,2021-02-20,55.202
+SVK,Slovak Republic,2021-02-21,54.445
+SVK,Slovak Republic,2021-02-22,54.198
+SVK,Slovak Republic,2021-02-23,54.268
+SVK,Slovak Republic,2021-02-24,54.564
+SVK,Slovak Republic,2021-02-25,54.824
+SVK,Slovak Republic,2021-02-26,55.228
+SVK,Slovak Republic,2021-02-27,55.924
+SVK,Slovak Republic,2021-02-28,56.456
+SVK,Slovak Republic,2021-03-01,56.66
+SVK,Slovak Republic,2021-03-02,57.41
+SVK,Slovak Republic,2021-03-03,58.248
+SVK,Slovak Republic,2021-03-04,58.924
+SVK,Slovak Republic,2021-03-05,59.403
 SVK,Slovak Republic,2021-03-06,59.813
 SVK,Slovak Republic,2021-03-07,60.117
-SVK,Slovak Republic,2021-03-08,60.28
-SVK,Slovak Republic,2021-03-09,60.11
-SVK,Slovak Republic,2021-03-10,59.842
+SVK,Slovak Republic,2021-03-08,60.288
+SVK,Slovak Republic,2021-03-09,60.117
+SVK,Slovak Republic,2021-03-10,59.849
 SVK,Slovak Republic,2021-03-11,59.675
 SVK,Slovak Republic,2021-03-12,59.921
-SVK,Slovak Republic,2021-03-13,60.097
+SVK,Slovak Republic,2021-03-13,60.096
 SVK,Slovak Republic,2021-03-14,60.233
-SVK,Slovak Republic,2021-03-15,59.855
-SVK,Slovak Republic,2021-03-16,59.71
-SVK,Slovak Republic,2021-03-17,59.647
+SVK,Slovak Republic,2021-03-15,59.848
+SVK,Slovak Republic,2021-03-16,59.703
+SVK,Slovak Republic,2021-03-17,59.639
 SVK,Slovak Republic,2021-03-18,59.623
 SVK,Slovak Republic,2021-03-19,59.456
 SVK,Slovak Republic,2021-03-20,58.699
@@ -38934,33 +39245,37 @@ SVK,Slovak Republic,2021-03-29,58.111
 SVK,Slovak Republic,2021-03-30,58.261
 SVK,Slovak Republic,2021-03-31,60.057
 SVK,Slovak Republic,2021-04-01,63.432
-SVK,Slovak Republic,2021-04-02,58.428
-SVK,Slovak Republic,2021-04-03,58.923
-SVK,Slovak Republic,2021-04-04,53.966
-SVK,Slovak Republic,2021-04-05,50.898
-SVK,Slovak Republic,2021-04-06,54.053
-SVK,Slovak Republic,2021-04-07,53.612
-SVK,Slovak Republic,2021-04-08,49.393
-SVK,Slovak Republic,2021-04-09,52.338
-SVK,Slovak Republic,2021-04-10,51.516
-SVK,Slovak Republic,2021-04-11,56.413
-SVK,Slovak Republic,2021-04-12,59.584
-SVK,Slovak Republic,2021-04-13,56.271
-SVK,Slovak Republic,2021-04-14,55.363
-SVK,Slovak Republic,2021-04-15,55.512
-SVK,Slovak Republic,2021-04-16,56.347
-SVK,Slovak Republic,2021-04-17,56.246
-SVK,Slovak Republic,2021-04-18,56.546
+SVK,Slovak Republic,2021-04-02,58.435
+SVK,Slovak Republic,2021-04-03,58.926
+SVK,Slovak Republic,2021-04-04,53.979
+SVK,Slovak Republic,2021-04-05,50.911
+SVK,Slovak Republic,2021-04-06,54.065
+SVK,Slovak Republic,2021-04-07,53.625
+SVK,Slovak Republic,2021-04-08,49.41
+SVK,Slovak Republic,2021-04-09,52.348
+SVK,Slovak Republic,2021-04-10,51.543
+SVK,Slovak Republic,2021-04-11,56.432
+SVK,Slovak Republic,2021-04-12,59.622
+SVK,Slovak Republic,2021-04-13,56.304
+SVK,Slovak Republic,2021-04-14,55.396
+SVK,Slovak Republic,2021-04-15,55.549
+SVK,Slovak Republic,2021-04-16,56.377
+SVK,Slovak Republic,2021-04-17,56.264
+SVK,Slovak Republic,2021-04-18,56.565
 SVK,Slovak Republic,2021-04-19,56.559
-SVK,Slovak Republic,2021-04-20,56.573
-SVK,Slovak Republic,2021-04-21,55.987
-SVK,Slovak Republic,2021-04-22,55.646
-SVK,Slovak Republic,2021-04-23,55.718
-SVK,Slovak Republic,2021-04-24,54.678
-SVK,Slovak Republic,2021-04-25,53.952
-SVK,Slovak Republic,2021-04-26,53.315
-SVK,Slovak Republic,2021-04-27,52.534
-SVK,Slovak Republic,2021-04-28,52.142
+SVK,Slovak Republic,2021-04-20,56.58
+SVK,Slovak Republic,2021-04-21,55.994
+SVK,Slovak Republic,2021-04-22,55.654
+SVK,Slovak Republic,2021-04-23,55.748
+SVK,Slovak Republic,2021-04-24,54.748
+SVK,Slovak Republic,2021-04-25,54.102
+SVK,Slovak Republic,2021-04-26,53.461
+SVK,Slovak Republic,2021-04-27,52.704
+SVK,Slovak Republic,2021-04-28,52.36
+SVK,Slovak Republic,2021-04-29,52.529
+SVK,Slovak Republic,2021-04-30,51.925
+SVK,Slovak Republic,2021-05-01,46.022
+SVK,Slovak Republic,2021-05-02,43.953
 SVN,Slovenia,2020-02-09,0.0
 SVN,Slovenia,2020-02-10,0.0
 SVN,Slovenia,2020-02-11,0.0
@@ -39407,6 +39722,10 @@ SVN,Slovenia,2021-04-26,1.888
 SVN,Slovenia,2021-04-27,1.689
 SVN,Slovenia,2021-04-28,1.662
 SVN,Slovenia,2021-04-29,1.598
+SVN,Slovenia,2021-04-30,1.531
+SVN,Slovenia,2021-05-01,1.472
+SVN,Slovenia,2021-05-02,1.473
+SVN,Slovenia,2021-05-03,1.499
 SWE,Sweden,2020-07-19,0.982
 SWE,Sweden,2020-07-20,0.961
 SWE,Sweden,2020-07-21,0.94
@@ -40103,6 +40422,9 @@ TGO,Togo,2021-04-26,0.108
 TGO,Togo,2021-04-27,0.108
 TGO,Togo,2021-04-28,0.102
 TGO,Togo,2021-04-29,0.101
+TGO,Togo,2021-04-30,0.103
+TGO,Togo,2021-05-01,0.102
+TGO,Togo,2021-05-02,0.099
 THA,Thailand,2020-01-11,0.0
 THA,Thailand,2020-01-12,0.0
 THA,Thailand,2020-01-13,0.0
@@ -40925,6 +41247,10 @@ TTO,Trinidad and Tobago,2021-04-25,0.475
 TTO,Trinidad and Tobago,2021-04-26,0.629
 TTO,Trinidad and Tobago,2021-04-27,0.635
 TTO,Trinidad and Tobago,2021-04-28,0.661
+TTO,Trinidad and Tobago,2021-04-29,0.682
+TTO,Trinidad and Tobago,2021-04-30,0.705
+TTO,Trinidad and Tobago,2021-05-01,0.738
+TTO,Trinidad and Tobago,2021-05-02,0.777
 TUN,Tunisia,2021-04-08,0.53
 TUN,Tunisia,2021-04-09,0.55
 TUN,Tunisia,2021-04-10,0.57
@@ -40947,6 +41273,11 @@ TUN,Tunisia,2021-04-26,0.621
 TUN,Tunisia,2021-04-27,0.629
 TUN,Tunisia,2021-04-28,0.624
 TUN,Tunisia,2021-04-29,0.599
+TUN,Tunisia,2021-04-30,0.583
+TUN,Tunisia,2021-05-01,0.567
+TUN,Tunisia,2021-05-02,0.55
+TUN,Tunisia,2021-05-03,0.534
+TUN,Tunisia,2021-05-04,0.517
 TUR,Turkey,2020-04-03,0.159
 TUR,Turkey,2020-04-04,0.179
 TUR,Turkey,2020-04-05,0.196
@@ -41339,6 +41670,10 @@ TUR,Turkey,2021-04-26,3.499
 TUR,Turkey,2021-04-27,3.431
 TUR,Turkey,2021-04-28,3.371
 TUR,Turkey,2021-04-29,3.313
+TUR,Turkey,2021-04-30,3.251
+TUR,Turkey,2021-05-01,3.185
+TUR,Turkey,2021-05-02,3.151
+TUR,Turkey,2021-05-03,3.108
 TWN,Taiwan,2020-01-23,0.001
 TWN,Taiwan,2020-01-24,0.001
 TWN,Taiwan,2020-01-25,0.002
@@ -41797,11 +42132,15 @@ TWN,Taiwan,2021-04-21,0.021
 TWN,Taiwan,2021-04-22,0.021
 TWN,Taiwan,2021-04-23,0.023
 TWN,Taiwan,2021-04-24,0.026
-TWN,Taiwan,2021-04-25,0.029
+TWN,Taiwan,2021-04-25,0.028
 TWN,Taiwan,2021-04-26,0.031
 TWN,Taiwan,2021-04-27,0.032
 TWN,Taiwan,2021-04-28,0.032
 TWN,Taiwan,2021-04-29,0.035
+TWN,Taiwan,2021-04-30,0.035
+TWN,Taiwan,2021-05-01,0.034
+TWN,Taiwan,2021-05-02,0.033
+TWN,Taiwan,2021-05-03,0.034
 UGA,Uganda,2020-04-08,0.006
 UGA,Uganda,2020-04-09,0.006
 UGA,Uganda,2020-04-10,0.007
@@ -42104,6 +42443,8 @@ UGA,Uganda,2021-04-24,0.06
 UGA,Uganda,2021-04-25,0.058
 UGA,Uganda,2021-04-26,0.044
 UGA,Uganda,2021-04-27,0.043
+UGA,Uganda,2021-04-28,0.043
+UGA,Uganda,2021-04-29,0.044
 UKR,Ukraine,2020-04-16,0.073
 UKR,Ukraine,2020-04-17,0.077
 UKR,Ukraine,2020-04-18,0.081
@@ -42484,6 +42825,10 @@ UKR,Ukraine,2021-04-27,0.967
 UKR,Ukraine,2021-04-28,0.957
 UKR,Ukraine,2021-04-29,0.941
 UKR,Ukraine,2021-04-30,0.941
+UKR,Ukraine,2021-05-01,0.79
+UKR,Ukraine,2021-05-02,0.774
+UKR,Ukraine,2021-05-03,0.754
+UKR,Ukraine,2021-05-04,0.676
 URY,Uruguay,2020-04-04,0.088
 URY,Uruguay,2020-04-05,0.085
 URY,Uruguay,2020-04-06,0.081
@@ -42875,6 +43220,10 @@ URY,Uruguay,2021-04-26,4.26
 URY,Uruguay,2021-04-27,4.19
 URY,Uruguay,2021-04-28,4.088
 URY,Uruguay,2021-04-29,4.061
+URY,Uruguay,2021-04-30,3.97
+URY,Uruguay,2021-05-01,3.738
+URY,Uruguay,2021-05-02,3.55
+URY,Uruguay,2021-05-03,3.435
 USA,United States,2020-03-08,0.003
 USA,United States,2020-03-09,0.004
 USA,United States,2020-03-10,0.005
@@ -42983,7 +43332,7 @@ USA,United States,2020-06-20,1.849
 USA,United States,2020-06-21,1.853
 USA,United States,2020-06-22,1.871
 USA,United States,2020-06-23,1.883
-USA,United States,2020-06-24,1.909
+USA,United States,2020-06-24,1.91
 USA,United States,2020-06-25,1.94
 USA,United States,2020-06-26,1.986
 USA,United States,2020-06-27,2.033
@@ -42997,7 +43346,7 @@ USA,United States,2020-07-04,2.262
 USA,United States,2020-07-05,2.245
 USA,United States,2020-07-06,2.272
 USA,United States,2020-07-07,2.292
-USA,United States,2020-07-08,2.333
+USA,United States,2020-07-08,2.334
 USA,United States,2020-07-09,2.399
 USA,United States,2020-07-10,2.492
 USA,United States,2020-07-11,2.586
@@ -43012,7 +43361,7 @@ USA,United States,2020-07-19,2.842
 USA,United States,2020-07-20,2.859
 USA,United States,2020-07-21,2.874
 USA,United States,2020-07-22,2.905
-USA,United States,2020-07-23,2.929
+USA,United States,2020-07-23,2.93
 USA,United States,2020-07-24,2.941
 USA,United States,2020-07-25,2.929
 USA,United States,2020-07-26,2.912
@@ -43025,62 +43374,62 @@ USA,United States,2020-08-01,2.707
 USA,United States,2020-08-02,2.685
 USA,United States,2020-08-03,2.675
 USA,United States,2020-08-04,2.64
-USA,United States,2020-08-05,2.608
-USA,United States,2020-08-06,2.587
+USA,United States,2020-08-05,2.609
+USA,United States,2020-08-06,2.588
 USA,United States,2020-08-07,2.599
 USA,United States,2020-08-08,2.61
-USA,United States,2020-08-09,2.611
+USA,United States,2020-08-09,2.612
 USA,United States,2020-08-10,2.616
 USA,United States,2020-08-11,2.627
 USA,United States,2020-08-12,2.654
 USA,United States,2020-08-13,2.651
-USA,United States,2020-08-14,2.627
+USA,United States,2020-08-14,2.628
 USA,United States,2020-08-15,2.607
 USA,United States,2020-08-16,2.584
-USA,United States,2020-08-17,2.537
-USA,United States,2020-08-18,2.531
-USA,United States,2020-08-19,2.521
-USA,United States,2020-08-20,2.528
+USA,United States,2020-08-17,2.538
+USA,United States,2020-08-18,2.532
+USA,United States,2020-08-19,2.522
+USA,United States,2020-08-20,2.529
 USA,United States,2020-08-21,2.53
 USA,United States,2020-08-22,2.541
 USA,United States,2020-08-23,2.537
 USA,United States,2020-08-24,2.531
 USA,United States,2020-08-25,2.535
-USA,United States,2020-08-26,2.54
-USA,United States,2020-08-27,2.55
+USA,United States,2020-08-26,2.541
+USA,United States,2020-08-27,2.551
 USA,United States,2020-08-28,2.56
-USA,United States,2020-08-29,2.562
+USA,United States,2020-08-29,2.563
 USA,United States,2020-08-30,2.585
-USA,United States,2020-08-31,2.583
+USA,United States,2020-08-31,2.584
 USA,United States,2020-09-01,2.585
 USA,United States,2020-09-02,2.589
 USA,United States,2020-09-03,2.595
 USA,United States,2020-09-04,2.6
-USA,United States,2020-09-05,2.607
-USA,United States,2020-09-06,2.586
+USA,United States,2020-09-05,2.608
+USA,United States,2020-09-06,2.587
 USA,United States,2020-09-07,2.481
-USA,United States,2020-09-08,2.375
-USA,United States,2020-09-09,2.345
-USA,United States,2020-09-10,2.368
+USA,United States,2020-09-08,2.376
+USA,United States,2020-09-09,2.346
+USA,United States,2020-09-10,2.369
 USA,United States,2020-09-11,2.412
 USA,United States,2020-09-12,2.433
-USA,United States,2020-09-13,2.459
+USA,United States,2020-09-13,2.46
 USA,United States,2020-09-14,2.586
 USA,United States,2020-09-15,2.717
-USA,United States,2020-09-16,2.794
-USA,United States,2020-09-17,2.825
+USA,United States,2020-09-16,2.795
+USA,United States,2020-09-17,2.826
 USA,United States,2020-09-18,2.881
-USA,United States,2020-09-19,2.912
+USA,United States,2020-09-19,2.913
 USA,United States,2020-09-20,2.911
-USA,United States,2020-09-21,2.928
-USA,United States,2020-09-22,2.954
-USA,United States,2020-09-23,2.981
-USA,United States,2020-09-24,3.0
+USA,United States,2020-09-21,2.929
+USA,United States,2020-09-22,2.955
+USA,United States,2020-09-23,2.982
+USA,United States,2020-09-24,3.001
 USA,United States,2020-09-25,2.957
 USA,United States,2020-09-26,2.957
 USA,United States,2020-09-27,2.946
 USA,United States,2020-09-28,2.911
-USA,United States,2020-09-29,2.892
+USA,United States,2020-09-29,2.893
 USA,United States,2020-09-30,2.892
 USA,United States,2020-10-01,2.901
 USA,United States,2020-10-02,2.929
@@ -43089,208 +43438,211 @@ USA,United States,2020-10-04,2.965
 USA,United States,2020-10-05,3.024
 USA,United States,2020-10-06,3.129
 USA,United States,2020-10-07,3.22
-USA,United States,2020-10-08,3.309
-USA,United States,2020-10-09,3.398
-USA,United States,2020-10-10,3.452
-USA,United States,2020-10-11,3.498
+USA,United States,2020-10-08,3.31
+USA,United States,2020-10-09,3.399
+USA,United States,2020-10-10,3.453
+USA,United States,2020-10-11,3.499
 USA,United States,2020-10-12,3.499
 USA,United States,2020-10-13,3.429
-USA,United States,2020-10-14,3.349
-USA,United States,2020-10-15,3.294
+USA,United States,2020-10-14,3.35
+USA,United States,2020-10-15,3.295
 USA,United States,2020-10-16,3.264
-USA,United States,2020-10-17,3.269
+USA,United States,2020-10-17,3.27
 USA,United States,2020-10-18,3.28
-USA,United States,2020-10-19,3.308
+USA,United States,2020-10-19,3.309
 USA,United States,2020-10-20,3.4
 USA,United States,2020-10-21,3.508
-USA,United States,2020-10-22,3.606
+USA,United States,2020-10-22,3.607
 USA,United States,2020-10-23,3.665
 USA,United States,2020-10-24,3.693
 USA,United States,2020-10-25,3.702
 USA,United States,2020-10-26,3.735
-USA,United States,2020-10-27,3.761
-USA,United States,2020-10-28,3.769
+USA,United States,2020-10-27,3.762
+USA,United States,2020-10-28,3.77
 USA,United States,2020-10-29,3.749
-USA,United States,2020-10-30,3.763
+USA,United States,2020-10-30,3.764
 USA,United States,2020-10-31,3.781
-USA,United States,2020-11-01,3.827
+USA,United States,2020-11-01,3.828
 USA,United States,2020-11-02,3.855
 USA,United States,2020-11-03,3.867
 USA,United States,2020-11-04,3.925
-USA,United States,2020-11-05,4.015
+USA,United States,2020-11-05,4.016
 USA,United States,2020-11-06,4.091
 USA,United States,2020-11-07,4.192
 USA,United States,2020-11-08,4.238
-USA,United States,2020-11-09,4.325
+USA,United States,2020-11-09,4.326
 USA,United States,2020-11-10,4.399
 USA,United States,2020-11-11,4.466
-USA,United States,2020-11-12,4.533
+USA,United States,2020-11-12,4.534
 USA,United States,2020-11-13,4.632
-USA,United States,2020-11-14,4.693
-USA,United States,2020-11-15,4.775
-USA,United States,2020-11-16,4.891
-USA,United States,2020-11-17,5.049
-USA,United States,2020-11-18,5.183
-USA,United States,2020-11-19,5.278
-USA,United States,2020-11-20,5.383
-USA,United States,2020-11-21,5.494
-USA,United States,2020-11-22,5.591
-USA,United States,2020-11-23,5.67
-USA,United States,2020-11-24,5.696
-USA,United States,2020-11-25,5.747
-USA,United States,2020-11-26,5.502
-USA,United States,2020-11-27,5.226
-USA,United States,2020-11-28,5.006
-USA,United States,2020-11-29,4.889
-USA,United States,2020-11-30,4.799
-USA,United States,2020-12-01,4.746
-USA,United States,2020-12-02,4.693
-USA,United States,2020-12-03,4.97
-USA,United States,2020-12-04,5.231
-USA,United States,2020-12-05,5.379
-USA,United States,2020-12-06,5.439
-USA,United States,2020-12-07,5.472
-USA,United States,2020-12-08,5.502
-USA,United States,2020-12-09,5.513
-USA,United States,2020-12-10,5.526
-USA,United States,2020-12-11,5.497
-USA,United States,2020-12-12,5.51
-USA,United States,2020-12-13,5.49
-USA,United States,2020-12-14,5.468
-USA,United States,2020-12-15,5.479
-USA,United States,2020-12-16,5.455
-USA,United States,2020-12-17,5.397
-USA,United States,2020-12-18,5.381
-USA,United States,2020-12-19,5.374
-USA,United States,2020-12-20,5.384
-USA,United States,2020-12-21,5.397
-USA,United States,2020-12-22,5.415
-USA,United States,2020-12-23,5.501
-USA,United States,2020-12-24,5.432
-USA,United States,2020-12-25,5.027
-USA,United States,2020-12-26,4.718
-USA,United States,2020-12-27,4.574
+USA,United States,2020-11-14,4.694
+USA,United States,2020-11-15,4.776
+USA,United States,2020-11-16,4.892
+USA,United States,2020-11-17,5.05
+USA,United States,2020-11-18,5.184
+USA,United States,2020-11-19,5.279
+USA,United States,2020-11-20,5.384
+USA,United States,2020-11-21,5.495
+USA,United States,2020-11-22,5.592
+USA,United States,2020-11-23,5.671
+USA,United States,2020-11-24,5.697
+USA,United States,2020-11-25,5.749
+USA,United States,2020-11-26,5.503
+USA,United States,2020-11-27,5.227
+USA,United States,2020-11-28,5.007
+USA,United States,2020-11-29,4.89
+USA,United States,2020-11-30,4.8
+USA,United States,2020-12-01,4.747
+USA,United States,2020-12-02,4.694
+USA,United States,2020-12-03,4.971
+USA,United States,2020-12-04,5.232
+USA,United States,2020-12-05,5.38
+USA,United States,2020-12-06,5.44
+USA,United States,2020-12-07,5.473
+USA,United States,2020-12-08,5.503
+USA,United States,2020-12-09,5.514
+USA,United States,2020-12-10,5.527
+USA,United States,2020-12-11,5.499
+USA,United States,2020-12-12,5.511
+USA,United States,2020-12-13,5.491
+USA,United States,2020-12-14,5.469
+USA,United States,2020-12-15,5.48
+USA,United States,2020-12-16,5.457
+USA,United States,2020-12-17,5.399
+USA,United States,2020-12-18,5.383
+USA,United States,2020-12-19,5.376
+USA,United States,2020-12-20,5.387
+USA,United States,2020-12-21,5.4
+USA,United States,2020-12-22,5.418
+USA,United States,2020-12-23,5.503
+USA,United States,2020-12-24,5.434
+USA,United States,2020-12-25,5.028
+USA,United States,2020-12-26,4.719
+USA,United States,2020-12-27,4.575
 USA,United States,2020-12-28,4.472
-USA,United States,2020-12-29,4.418
-USA,United States,2020-12-30,4.384
-USA,United States,2020-12-31,4.401
-USA,United States,2021-01-01,4.475
-USA,United States,2021-01-02,4.529
-USA,United States,2021-01-03,4.574
-USA,United States,2021-01-04,4.621
-USA,United States,2021-01-05,4.662
-USA,United States,2021-01-06,4.718
-USA,United States,2021-01-07,4.859
-USA,United States,2021-01-08,5.247
-USA,United States,2021-01-09,5.508
-USA,United States,2021-01-10,5.559
-USA,United States,2021-01-11,5.613
-USA,United States,2021-01-12,5.642
-USA,United States,2021-01-13,5.546
-USA,United States,2021-01-14,5.465
-USA,United States,2021-01-15,5.415
-USA,United States,2021-01-16,5.357
-USA,United States,2021-01-17,5.316
+USA,United States,2020-12-29,4.419
+USA,United States,2020-12-30,4.385
+USA,United States,2020-12-31,4.402
+USA,United States,2021-01-01,4.476
+USA,United States,2021-01-02,4.53
+USA,United States,2021-01-03,4.575
+USA,United States,2021-01-04,4.622
+USA,United States,2021-01-05,4.663
+USA,United States,2021-01-06,4.719
+USA,United States,2021-01-07,4.861
+USA,United States,2021-01-08,5.249
+USA,United States,2021-01-09,5.509
+USA,United States,2021-01-10,5.561
+USA,United States,2021-01-11,5.614
+USA,United States,2021-01-12,5.643
+USA,United States,2021-01-13,5.547
+USA,United States,2021-01-14,5.466
+USA,United States,2021-01-15,5.416
+USA,United States,2021-01-16,5.358
+USA,United States,2021-01-17,5.317
 USA,United States,2021-01-18,5.216
-USA,United States,2021-01-19,5.122
-USA,United States,2021-01-20,5.133
+USA,United States,2021-01-19,5.123
+USA,United States,2021-01-20,5.134
 USA,United States,2021-01-21,5.123
-USA,United States,2021-01-22,5.074
+USA,United States,2021-01-22,5.075
 USA,United States,2021-01-23,5.058
-USA,United States,2021-01-24,5.029
-USA,United States,2021-01-25,5.005
-USA,United States,2021-01-26,4.993
-USA,United States,2021-01-27,4.966
-USA,United States,2021-01-28,4.907
-USA,United States,2021-01-29,4.873
-USA,United States,2021-01-30,4.826
+USA,United States,2021-01-24,5.03
+USA,United States,2021-01-25,5.006
+USA,United States,2021-01-26,4.994
+USA,United States,2021-01-27,4.967
+USA,United States,2021-01-28,4.908
+USA,United States,2021-01-29,4.874
+USA,United States,2021-01-30,4.827
 USA,United States,2021-01-31,4.804
-USA,United States,2021-02-01,4.72
-USA,United States,2021-02-02,4.661
-USA,United States,2021-02-03,4.579
-USA,United States,2021-02-04,4.589
-USA,United States,2021-02-05,4.587
-USA,United States,2021-02-06,4.544
-USA,United States,2021-02-07,4.494
-USA,United States,2021-02-08,4.497
-USA,United States,2021-02-09,4.521
-USA,United States,2021-02-10,4.421
-USA,United States,2021-02-11,4.201
-USA,United States,2021-02-12,4.022
-USA,United States,2021-02-13,3.916
-USA,United States,2021-02-14,3.845
-USA,United States,2021-02-15,3.741
-USA,United States,2021-02-16,3.552
-USA,United States,2021-02-17,3.48
-USA,United States,2021-02-18,3.477
-USA,United States,2021-02-19,3.451
-USA,United States,2021-02-20,3.438
-USA,United States,2021-02-21,3.446
-USA,United States,2021-02-22,3.549
-USA,United States,2021-02-23,3.716
-USA,United States,2021-02-24,3.809
-USA,United States,2021-02-25,3.894
-USA,United States,2021-02-26,3.946
-USA,United States,2021-02-27,3.953
-USA,United States,2021-02-28,3.93
-USA,United States,2021-03-01,3.909
-USA,United States,2021-03-02,3.895
-USA,United States,2021-03-03,3.914
-USA,United States,2021-03-04,3.886
-USA,United States,2021-03-05,3.867
-USA,United States,2021-03-06,3.864
-USA,United States,2021-03-07,3.854
-USA,United States,2021-03-08,3.847
-USA,United States,2021-03-09,3.817
-USA,United States,2021-03-10,3.762
-USA,United States,2021-03-11,3.74
-USA,United States,2021-03-12,3.727
-USA,United States,2021-03-13,3.709
-USA,United States,2021-03-14,3.697
-USA,United States,2021-03-15,3.683
-USA,United States,2021-03-16,3.663
-USA,United States,2021-03-17,3.666
-USA,United States,2021-03-18,3.654
-USA,United States,2021-03-19,3.628
-USA,United States,2021-03-20,3.612
-USA,United States,2021-03-21,3.626
-USA,United States,2021-03-22,3.637
-USA,United States,2021-03-23,3.65
-USA,United States,2021-03-24,3.665
-USA,United States,2021-03-25,3.65
-USA,United States,2021-03-26,3.663
-USA,United States,2021-03-27,3.667
-USA,United States,2021-03-28,3.671
-USA,United States,2021-03-29,3.685
-USA,United States,2021-03-30,3.687
-USA,United States,2021-03-31,3.655
-USA,United States,2021-04-01,3.655
-USA,United States,2021-04-02,3.642
-USA,United States,2021-04-03,3.63
-USA,United States,2021-04-04,3.604
-USA,United States,2021-04-05,3.577
-USA,United States,2021-04-06,3.579
-USA,United States,2021-04-07,3.604
-USA,United States,2021-04-08,3.632
-USA,United States,2021-04-09,3.673
-USA,United States,2021-04-10,3.688
-USA,United States,2021-04-11,3.72
-USA,United States,2021-04-12,3.763
-USA,United States,2021-04-13,3.789
-USA,United States,2021-04-14,3.798
-USA,United States,2021-04-15,3.781
-USA,United States,2021-04-16,3.779
-USA,United States,2021-04-17,3.776
-USA,United States,2021-04-18,3.761
-USA,United States,2021-04-19,3.738
-USA,United States,2021-04-20,3.708
-USA,United States,2021-04-21,3.684
-USA,United States,2021-04-22,3.665
-USA,United States,2021-04-23,3.598
-USA,United States,2021-04-24,3.527
-USA,United States,2021-04-25,3.454
-USA,United States,2021-04-26,3.256
-USA,United States,2021-04-27,2.794
+USA,United States,2021-02-01,4.721
+USA,United States,2021-02-02,4.662
+USA,United States,2021-02-03,4.58
+USA,United States,2021-02-04,4.59
+USA,United States,2021-02-05,4.588
+USA,United States,2021-02-06,4.546
+USA,United States,2021-02-07,4.495
+USA,United States,2021-02-08,4.498
+USA,United States,2021-02-09,4.522
+USA,United States,2021-02-10,4.422
+USA,United States,2021-02-11,4.202
+USA,United States,2021-02-12,4.023
+USA,United States,2021-02-13,3.917
+USA,United States,2021-02-14,3.846
+USA,United States,2021-02-15,3.742
+USA,United States,2021-02-16,3.553
+USA,United States,2021-02-17,3.481
+USA,United States,2021-02-18,3.479
+USA,United States,2021-02-19,3.452
+USA,United States,2021-02-20,3.439
+USA,United States,2021-02-21,3.447
+USA,United States,2021-02-22,3.55
+USA,United States,2021-02-23,3.718
+USA,United States,2021-02-24,3.81
+USA,United States,2021-02-25,3.895
+USA,United States,2021-02-26,3.947
+USA,United States,2021-02-27,3.954
+USA,United States,2021-02-28,3.931
+USA,United States,2021-03-01,3.911
+USA,United States,2021-03-02,3.896
+USA,United States,2021-03-03,3.915
+USA,United States,2021-03-04,3.888
+USA,United States,2021-03-05,3.869
+USA,United States,2021-03-06,3.865
+USA,United States,2021-03-07,3.855
+USA,United States,2021-03-08,3.849
+USA,United States,2021-03-09,3.819
+USA,United States,2021-03-10,3.764
+USA,United States,2021-03-11,3.742
+USA,United States,2021-03-12,3.729
+USA,United States,2021-03-13,3.711
+USA,United States,2021-03-14,3.699
+USA,United States,2021-03-15,3.686
+USA,United States,2021-03-16,3.665
+USA,United States,2021-03-17,3.668
+USA,United States,2021-03-18,3.656
+USA,United States,2021-03-19,3.63
+USA,United States,2021-03-20,3.614
+USA,United States,2021-03-21,3.629
+USA,United States,2021-03-22,3.64
+USA,United States,2021-03-23,3.653
+USA,United States,2021-03-24,3.668
+USA,United States,2021-03-25,3.653
+USA,United States,2021-03-26,3.667
+USA,United States,2021-03-27,3.67
+USA,United States,2021-03-28,3.674
+USA,United States,2021-03-29,3.688
+USA,United States,2021-03-30,3.69
+USA,United States,2021-03-31,3.658
+USA,United States,2021-04-01,3.658
+USA,United States,2021-04-02,3.645
+USA,United States,2021-04-03,3.633
+USA,United States,2021-04-04,3.607
+USA,United States,2021-04-05,3.58
+USA,United States,2021-04-06,3.585
+USA,United States,2021-04-07,3.619
+USA,United States,2021-04-08,3.647
+USA,United States,2021-04-09,3.688
+USA,United States,2021-04-10,3.704
+USA,United States,2021-04-11,3.737
+USA,United States,2021-04-12,3.779
+USA,United States,2021-04-13,3.803
+USA,United States,2021-04-14,3.803
+USA,United States,2021-04-15,3.787
+USA,United States,2021-04-16,3.786
+USA,United States,2021-04-17,3.783
+USA,United States,2021-04-18,3.769
+USA,United States,2021-04-19,3.749
+USA,United States,2021-04-20,3.725
+USA,United States,2021-04-21,3.711
+USA,United States,2021-04-22,3.714
+USA,United States,2021-04-23,3.692
+USA,United States,2021-04-24,3.682
+USA,United States,2021-04-25,3.666
+USA,United States,2021-04-26,3.595
+USA,United States,2021-04-27,3.477
+USA,United States,2021-04-28,3.306
+USA,United States,2021-04-29,3.112
+USA,United States,2021-04-30,2.865
 VNM,Vietnam,2020-02-20,0.001
 VNM,Vietnam,2020-02-21,0.0
 VNM,Vietnam,2020-02-22,0.0
@@ -43873,6 +44225,10 @@ ZAF,South Africa,2021-04-26,0.459
 ZAF,South Africa,2021-04-27,0.454
 ZAF,South Africa,2021-04-28,0.426
 ZAF,South Africa,2021-04-29,0.427
+ZAF,South Africa,2021-04-30,0.417
+ZAF,South Africa,2021-05-01,0.42
+ZAF,South Africa,2021-05-02,0.405
+ZAF,South Africa,2021-05-03,0.409
 ZMB,Zambia,2020-03-26,0.001
 ZMB,Zambia,2020-03-27,0.002
 ZMB,Zambia,2020-03-28,0.002
@@ -44273,6 +44629,8 @@ ZMB,Zambia,2021-04-26,0.244
 ZMB,Zambia,2021-04-27,0.227
 ZMB,Zambia,2021-04-28,0.223
 ZMB,Zambia,2021-04-29,0.229
+ZMB,Zambia,2021-04-30,0.231
+ZMB,Zambia,2021-05-01,0.242
 ZWE,Zimbabwe,2020-05-13,0.032
 ZWE,Zimbabwe,2020-05-14,0.03
 ZWE,Zimbabwe,2020-05-15,0.026
@@ -44624,3 +44982,7 @@ ZWE,Zimbabwe,2021-04-25,0.119
 ZWE,Zimbabwe,2021-04-26,0.116
 ZWE,Zimbabwe,2021-04-27,0.115
 ZWE,Zimbabwe,2021-04-28,0.115
+ZWE,Zimbabwe,2021-04-29,0.118
+ZWE,Zimbabwe,2021-04-30,0.124
+ZWE,Zimbabwe,2021-05-01,0.127
+ZWE,Zimbabwe,2021-05-02,0.125
