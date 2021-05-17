@@ -40,7 +40,14 @@ dataset.rename(columns=new_column_names, inplace=True)
 # * Drop non countries
 dataset = dataset[
     ~dataset.location.isin(
-        ["England & Wales", "Northern Ireland", "Scotland", "Transnistria"]
+        [
+            "England & Wales",
+            "England and Wales",
+            "Northern Ireland",
+            "Scotland",
+            "Transnistria",
+            "Kosovo",
+        ]
     )
 ]
 # * Perform conversion
