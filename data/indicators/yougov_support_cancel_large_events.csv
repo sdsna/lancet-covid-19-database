@@ -67,6 +67,7 @@ DEU,Germany,2021-03-25,58.0
 DEU,Germany,2021-04-08,58.0
 DEU,Germany,2021-04-23,60.0
 DEU,Germany,2021-05-06,54.0
+DEU,Germany,2021-05-20,50.0
 ESP,Spain,2020-03-12,77.0
 ESP,Spain,2020-03-19,87.0
 ESP,Spain,2020-03-25,88.0
@@ -115,6 +116,7 @@ ESP,Spain,2021-04-14,66.0
 ESP,Spain,2021-04-21,60.0
 ESP,Spain,2021-05-01,57.0
 ESP,Spain,2021-05-07,51.0
+ESP,Spain,2021-05-14,56.0
 FRA,France,2020-03-10,45.0
 FRA,France,2020-03-13,61.0
 FRA,France,2020-03-20,82.0
@@ -164,6 +166,7 @@ FRA,France,2021-04-08,48.0
 FRA,France,2021-04-14,46.0
 FRA,France,2021-04-21,42.0
 FRA,France,2021-04-28,45.0
+FRA,France,2021-05-19,34.0
 GBR,United Kingdom,2020-03-01,36.0
 GBR,United Kingdom,2020-03-13,56.0
 GBR,United Kingdom,2020-03-20,81.0
@@ -203,6 +206,7 @@ GBR,United Kingdom,2021-03-21,59.0
 GBR,United Kingdom,2021-04-09,47.0
 GBR,United Kingdom,2021-04-20,45.0
 GBR,United Kingdom,2021-05-07,41.0
+GBR,United Kingdom,2021-05-20,38.0
 HKG,Hong Kong SAR China,2020-02-25,73.0
 HKG,Hong Kong SAR China,2020-04-07,72.0
 HKG,Hong Kong SAR China,2020-04-14,72.0
@@ -318,6 +322,7 @@ ITA,Italy,2021-04-13,40.0
 ITA,Italy,2021-04-20,37.0
 ITA,Italy,2021-04-27,36.0
 ITA,Italy,2021-05-04,34.0
+ITA,Italy,2021-05-18,28.0
 JPN,Japan,2020-04-06,73.0
 JPN,Japan,2020-04-13,74.0
 JPN,Japan,2020-04-20,74.0
@@ -538,6 +543,8 @@ USA,United States,2021-03-31,42.0
 USA,United States,2021-04-05,41.0
 USA,United States,2021-04-12,38.0
 USA,United States,2021-05-02,34.0
+USA,United States,2021-05-10,33.0
+USA,United States,2021-05-18,23.0
 VNM,Vietnam,2020-04-06,77.0
 VNM,Vietnam,2020-04-13,79.0
 VNM,Vietnam,2020-04-20,79.0
