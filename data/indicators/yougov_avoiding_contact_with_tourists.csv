@@ -36,6 +36,7 @@ ARE,United Arab Emirates,2021-05-17,45.0
 ARE,United Arab Emirates,2021-05-24,46.0
 ARE,United Arab Emirates,2021-05-31,47.0
 ARE,United Arab Emirates,2021-06-15,46.0
+ARE,United Arab Emirates,2021-07-13,44.0
 AUS,Australia,2020-03-15,28.0
 AUS,Australia,2020-03-22,44.0
 AUS,Australia,2020-03-29,56.0
@@ -119,6 +120,7 @@ DEU,Germany,2021-05-20,33.0
 DEU,Germany,2021-06-04,35.0
 DEU,Germany,2021-06-17,34.0
 DEU,Germany,2021-07-01,33.0
+DEU,Germany,2021-07-15,34.0
 DNK,Denmark,2020-03-16,39.0
 DNK,Denmark,2020-03-23,40.0
 DNK,Denmark,2020-03-29,50.0
@@ -192,6 +194,8 @@ ESP,Spain,2021-06-11,36.0
 ESP,Spain,2021-06-16,36.0
 ESP,Spain,2021-06-23,33.0
 ESP,Spain,2021-07-02,48.0
+ESP,Spain,2021-07-09,37.0
+ESP,Spain,2021-07-19,35.0
 FIN,Finland,2020-03-16,29.0
 FIN,Finland,2020-03-23,29.0
 FIN,Finland,2020-03-29,46.0
@@ -263,6 +267,9 @@ FRA,France,2021-06-09,35.0
 FRA,France,2021-06-16,35.0
 FRA,France,2021-06-23,33.0
 FRA,France,2021-06-29,33.0
+FRA,France,2021-07-07,35.0
+FRA,France,2021-07-14,38.0
+FRA,France,2021-07-21,33.0
 GBR,United Kingdom,2020-03-01,9.0
 GBR,United Kingdom,2020-03-13,12.0
 GBR,United Kingdom,2020-03-20,21.0
@@ -305,6 +312,8 @@ GBR,United Kingdom,2021-05-07,24.0
 GBR,United Kingdom,2021-05-20,23.0
 GBR,United Kingdom,2021-06-02,27.0
 GBR,United Kingdom,2021-06-25,22.0
+GBR,United Kingdom,2021-07-16,23.0
+GBR,United Kingdom,2021-07-22,22.0
 HKG,Hong Kong SAR China,2020-02-25,51.0
 HKG,Hong Kong SAR China,2020-03-03,45.0
 HKG,Hong Kong SAR China,2020-03-10,46.0
@@ -346,6 +355,7 @@ HKG,Hong Kong SAR China,2021-05-25,44.0
 HKG,Hong Kong SAR China,2021-06-07,48.0
 HKG,Hong Kong SAR China,2021-06-21,45.0
 HKG,Hong Kong SAR China,2021-07-05,40.0
+HKG,Hong Kong SAR China,2021-07-20,38.0
 IDN,Indonesia,2020-02-24,35.0
 IDN,Indonesia,2020-03-02,38.0
 IDN,Indonesia,2020-03-09,45.0
@@ -387,6 +397,7 @@ IDN,Indonesia,2021-05-24,41.0
 IDN,Indonesia,2021-06-07,38.0
 IDN,Indonesia,2021-06-21,40.0
 IDN,Indonesia,2021-07-05,41.0
+IDN,Indonesia,2021-07-19,40.0
 IND,India,2020-03-16,53.0
 IND,India,2020-03-20,56.0
 IND,India,2020-03-27,63.0
@@ -434,6 +445,10 @@ IND,India,2021-05-30,55.0
 IND,India,2021-06-06,54.0
 IND,India,2021-06-13,57.0
 IND,India,2021-06-20,56.0
+IND,India,2021-06-27,52.0
+IND,India,2021-07-04,56.0
+IND,India,2021-07-08,53.0
+IND,India,2021-07-17,55.0
 ITA,Italy,2020-03-11,34.0
 ITA,Italy,2020-03-19,40.0
 ITA,Italy,2020-03-25,40.0
@@ -492,6 +507,7 @@ ITA,Italy,2021-06-01,21.0
 ITA,Italy,2021-06-08,18.0
 ITA,Italy,2021-06-15,22.0
 ITA,Italy,2021-06-29,24.0
+ITA,Italy,2021-07-13,24.0
 JPN,Japan,2020-03-17,21.0
 JPN,Japan,2020-03-24,20.0
 JPN,Japan,2020-03-30,21.0
@@ -548,6 +564,7 @@ MYS,Malaysia,2021-05-24,50.0
 MYS,Malaysia,2021-06-07,54.0
 MYS,Malaysia,2021-06-21,56.0
 MYS,Malaysia,2021-07-05,56.0
+MYS,Malaysia,2021-07-19,54.0
 NOR,Norway,2020-03-16,36.0
 NOR,Norway,2020-03-23,37.0
 NOR,Norway,2020-03-29,44.0
@@ -613,6 +630,7 @@ PHL,Philippines,2021-05-24,61.0
 PHL,Philippines,2021-06-07,62.0
 PHL,Philippines,2021-06-21,67.0
 PHL,Philippines,2021-07-06,62.0
+PHL,Philippines,2021-07-19,65.0
 SAU,Saudi Arabia,2020-03-18,47.0
 SAU,Saudi Arabia,2020-03-25,61.0
 SAU,Saudi Arabia,2020-04-01,64.0
@@ -648,6 +666,7 @@ SAU,Saudi Arabia,2021-05-10,50.0
 SAU,Saudi Arabia,2021-05-24,48.0
 SAU,Saudi Arabia,2021-05-31,48.0
 SAU,Saudi Arabia,2021-06-16,50.0
+SAU,Saudi Arabia,2021-07-13,47.0
 SGP,Singapore,2020-02-21,37.0
 SGP,Singapore,2020-02-28,36.0
 SGP,Singapore,2020-03-06,38.0
@@ -689,6 +708,7 @@ SGP,Singapore,2021-05-21,43.0
 SGP,Singapore,2021-06-04,44.0
 SGP,Singapore,2021-06-18,43.0
 SGP,Singapore,2021-07-02,42.0
+SGP,Singapore,2021-07-16,41.0
 SWE,Sweden,2020-03-16,19.0
 SWE,Sweden,2020-03-23,20.0
 SWE,Sweden,2020-03-29,31.0
@@ -756,6 +776,7 @@ THA,Thailand,2021-05-24,53.0
 THA,Thailand,2021-06-07,55.0
 THA,Thailand,2021-06-21,54.0
 THA,Thailand,2021-07-05,57.0
+THA,Thailand,2021-07-19,57.0
 TWN,Taiwan,2020-02-25,51.0
 TWN,Taiwan,2020-03-03,53.0
 TWN,Taiwan,2020-03-10,53.0
@@ -797,6 +818,7 @@ TWN,Taiwan,2021-05-24,63.0
 TWN,Taiwan,2021-06-07,64.0
 TWN,Taiwan,2021-06-21,61.0
 TWN,Taiwan,2021-07-05,62.0
+TWN,Taiwan,2021-07-19,61.0
 USA,United States,2020-03-02,17.0
 USA,United States,2020-03-17,24.0
 USA,United States,2020-03-23,34.0
@@ -858,6 +880,8 @@ USA,United States,2021-06-07,25.0
 USA,United States,2021-06-14,26.0
 USA,United States,2021-06-22,26.0
 USA,United States,2021-07-07,25.0
+USA,United States,2021-07-12,25.0
+USA,United States,2021-07-19,25.0
 VNM,Vietnam,2020-03-23,44.0
 VNM,Vietnam,2020-03-30,65.0
 VNM,Vietnam,2020-04-06,66.0
@@ -887,3 +911,4 @@ VNM,Vietnam,2021-05-24,56.0
 VNM,Vietnam,2021-06-07,53.0
 VNM,Vietnam,2021-06-21,57.0
 VNM,Vietnam,2021-07-05,54.0
+VNM,Vietnam,2021-07-19,54.0
