@@ -21,7 +21,7 @@ dataset = dataset.rename(
 
 # Convert countries to iso_code:
 # * Remove non-ISO countries
-dataset = dataset[~dataset["country"].isin(["World", "Kosovo"])]
+dataset = dataset[~dataset["country"].isin(["World", "Kosovo", "Summer Olympics 2020"])]
 # * Perform conversion
 dataset["iso_code"] = dataset["country"].apply(
     lambda country: normalize_country(country)
