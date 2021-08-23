@@ -1244,6 +1244,9 @@ ARE,United Arab Emirates,2021-08-16,228.8
 ARE,United Arab Emirates,2021-08-17,233.2
 ARE,United Arab Emirates,2021-08-18,240.0
 ARE,United Arab Emirates,2021-08-19,245.1
+ARE,United Arab Emirates,2021-08-20,253.9
+ARE,United Arab Emirates,2021-08-21,255.8
+ARE,United Arab Emirates,2021-08-22,271.6
 ARG,Argentina,2020-01-07,14.9
 ARG,Argentina,2020-01-10,21.3
 ARG,Argentina,2020-01-12,43.5
@@ -1559,7 +1562,7 @@ ARG,Argentina,2020-12-18,6.2
 ARG,Argentina,2020-12-19,6.2
 ARG,Argentina,2020-12-20,6.2
 ARG,Argentina,2020-12-21,6.3
-ARG,Argentina,2020-12-22,6.2
+ARG,Argentina,2020-12-22,6.3
 ARG,Argentina,2020-12-23,6.1
 ARG,Argentina,2020-12-24,6.0
 ARG,Argentina,2020-12-25,5.9
@@ -1791,10 +1794,13 @@ ARG,Argentina,2021-08-07,9.1
 ARG,Argentina,2021-08-08,9.2
 ARG,Argentina,2021-08-09,9.3
 ARG,Argentina,2021-08-10,9.7
-ARG,Argentina,2021-08-11,10.2
+ARG,Argentina,2021-08-11,10.3
 ARG,Argentina,2021-08-12,10.8
 ARG,Argentina,2021-08-13,11.5
 ARG,Argentina,2021-08-14,11.9
+ARG,Argentina,2021-08-15,12.0
+ARG,Argentina,2021-08-16,12.7
+ARG,Argentina,2021-08-17,13.2
 ARM,Armenia,2020-03-16,9.5
 ARM,Armenia,2020-03-17,6.3
 ARM,Armenia,2020-03-18,5.8
@@ -2826,6 +2832,9 @@ AUS,Australia,2021-08-16,462.0
 AUS,Australia,2021-08-17,435.6
 AUS,Australia,2021-08-18,385.1
 AUS,Australia,2021-08-19,348.4
+AUS,Australia,2021-08-20,322.7
+AUS,Australia,2021-08-21,296.9
+AUS,Australia,2021-08-22,280.4
 AUT,Austria,2021-02-01,69.3
 AUT,Austria,2021-02-02,68.3
 AUT,Austria,2021-02-03,78.7
@@ -3025,6 +3034,10 @@ AUT,Austria,2021-08-15,406.1
 AUT,Austria,2021-08-16,390.0
 AUT,Austria,2021-08-17,370.4
 AUT,Austria,2021-08-18,353.2
+AUT,Austria,2021-08-19,333.3
+AUT,Austria,2021-08-20,319.9
+AUT,Austria,2021-08-21,306.8
+AUT,Austria,2021-08-22,289.3
 AZE,Azerbaijan,2021-05-05,11.3
 AZE,Azerbaijan,2021-05-06,12.2
 AZE,Azerbaijan,2021-05-07,12.9
@@ -3132,6 +3145,9 @@ AZE,Azerbaijan,2021-08-16,4.9
 AZE,Azerbaijan,2021-08-17,4.7
 AZE,Azerbaijan,2021-08-18,5.5
 AZE,Azerbaijan,2021-08-19,5.3
+AZE,Azerbaijan,2021-08-20,4.5
+AZE,Azerbaijan,2021-08-21,4.6
+AZE,Azerbaijan,2021-08-22,4.7
 BEL,Belgium,2020-03-07,16.1
 BEL,Belgium,2020-03-08,14.7
 BEL,Belgium,2020-03-09,14.5
@@ -3544,7 +3560,7 @@ BEL,Belgium,2021-04-19,10.2
 BEL,Belgium,2021-04-20,10.3
 BEL,Belgium,2021-04-21,10.3
 BEL,Belgium,2021-04-22,10.5
-BEL,Belgium,2021-04-23,10.9
+BEL,Belgium,2021-04-23,10.8
 BEL,Belgium,2021-04-24,11.1
 BEL,Belgium,2021-04-25,11.2
 BEL,Belgium,2021-04-26,11.6
@@ -3662,6 +3678,7 @@ BEL,Belgium,2021-08-15,23.8
 BEL,Belgium,2021-08-16,23.3
 BEL,Belgium,2021-08-17,23.3
 BEL,Belgium,2021-08-18,22.7
+BEL,Belgium,2021-08-19,22.2
 BGD,Bangladesh,2020-03-13,39.6
 BGD,Bangladesh,2020-03-14,46.6
 BGD,Bangladesh,2020-03-15,76.9
@@ -4187,6 +4204,9 @@ BGD,Bangladesh,2021-08-16,4.8
 BGD,Bangladesh,2021-08-17,4.9
 BGD,Bangladesh,2021-08-18,5.1
 BGD,Bangladesh,2021-08-19,5.4
+BGD,Bangladesh,2021-08-20,5.5
+BGD,Bangladesh,2021-08-21,5.8
+BGD,Bangladesh,2021-08-22,6.0
 BGR,Bulgaria,2020-04-18,31.9
 BGR,Bulgaria,2020-04-19,31.6
 BGR,Bulgaria,2020-04-20,25.1
@@ -4676,6 +4696,9 @@ BGR,Bulgaria,2021-08-16,22.1
 BGR,Bulgaria,2021-08-17,20.3
 BGR,Bulgaria,2021-08-18,18.9
 BGR,Bulgaria,2021-08-19,18.0
+BGR,Bulgaria,2021-08-20,17.6
+BGR,Bulgaria,2021-08-21,16.8
+BGR,Bulgaria,2021-08-22,16.3
 BHR,Bahrain,2020-03-12,26.5
 BHR,Bahrain,2020-03-13,29.1
 BHR,Bahrain,2020-03-14,33.3
@@ -5202,6 +5225,9 @@ BHR,Bahrain,2021-08-16,107.0
 BHR,Bahrain,2021-08-17,111.3
 BHR,Bahrain,2021-08-18,142.3
 BHR,Bahrain,2021-08-19,148.3
+BHR,Bahrain,2021-08-20,140.8
+BHR,Bahrain,2021-08-21,143.1
+BHR,Bahrain,2021-08-22,145.1
 BIH,Bosnia and Herzegovina,2020-04-08,11.7
 BIH,Bosnia and Herzegovina,2020-04-09,13.5
 BIH,Bosnia and Herzegovina,2020-04-10,14.8
@@ -5311,15 +5337,15 @@ BIH,Bosnia and Herzegovina,2020-07-22,6.6
 BIH,Bosnia and Herzegovina,2020-07-23,6.3
 BIH,Bosnia and Herzegovina,2020-07-24,5.9
 BIH,Bosnia and Herzegovina,2020-07-25,6.7
-BIH,Bosnia and Herzegovina,2020-07-26,7.3
-BIH,Bosnia and Herzegovina,2020-07-27,5.0
+BIH,Bosnia and Herzegovina,2020-07-26,7.4
+BIH,Bosnia and Herzegovina,2020-07-27,5.1
 BIH,Bosnia and Herzegovina,2020-07-28,5.1
 BIH,Bosnia and Herzegovina,2020-07-29,5.1
 BIH,Bosnia and Herzegovina,2020-07-30,5.2
 BIH,Bosnia and Herzegovina,2020-07-31,4.9
 BIH,Bosnia and Herzegovina,2020-08-01,4.8
 BIH,Bosnia and Herzegovina,2020-08-02,3.9
-BIH,Bosnia and Herzegovina,2020-08-03,5.0
+BIH,Bosnia and Herzegovina,2020-08-03,4.9
 BIH,Bosnia and Herzegovina,2020-08-04,4.7
 BIH,Bosnia and Herzegovina,2020-08-05,4.9
 BIH,Bosnia and Herzegovina,2020-08-06,4.8
@@ -5700,6 +5726,7 @@ BIH,Bosnia and Herzegovina,2021-08-16,12.1
 BIH,Bosnia and Herzegovina,2021-08-17,11.3
 BIH,Bosnia and Herzegovina,2021-08-18,9.9
 BIH,Bosnia and Herzegovina,2021-08-19,8.7
+BIH,Bosnia and Herzegovina,2021-08-20,8.4
 BLR,Belarus,2020-03-10,534.6
 BLR,Belarus,2020-03-11,1424.2
 BLR,Belarus,2020-03-12,713.0
@@ -6228,6 +6255,9 @@ BLR,Belarus,2021-08-16,15.7
 BLR,Belarus,2021-08-17,15.6
 BLR,Belarus,2021-08-18,15.6
 BLR,Belarus,2021-08-19,15.8
+BLR,Belarus,2021-08-20,15.7
+BLR,Belarus,2021-08-21,14.7
+BLR,Belarus,2021-08-22,14.2
 BLZ,Belize,2021-05-26,215.9
 BLZ,Belize,2021-05-27,210.7
 BLZ,Belize,2021-05-28,184.1
@@ -6313,6 +6343,10 @@ BLZ,Belize,2021-08-15,18.7
 BLZ,Belize,2021-08-16,15.2
 BLZ,Belize,2021-08-17,14.9
 BLZ,Belize,2021-08-18,15.7
+BLZ,Belize,2021-08-19,13.0
+BLZ,Belize,2021-08-20,13.3
+BLZ,Belize,2021-08-21,13.0
+BLZ,Belize,2021-08-22,12.6
 BOL,Bolivia,2020-03-21,15.6
 BOL,Bolivia,2020-03-22,14.0
 BOL,Bolivia,2020-03-23,14.4
@@ -7774,6 +7808,7 @@ CAN,Canada,2021-08-16,30.8
 CAN,Canada,2021-08-17,31.1
 CAN,Canada,2021-08-18,30.5
 CAN,Canada,2021-08-19,29.0
+CAN,Canada,2021-08-20,28.1
 CHE,Switzerland,2020-05-23,166.7
 CHE,Switzerland,2020-05-24,142.9
 CHE,Switzerland,2020-05-25,166.7
@@ -8109,7 +8144,7 @@ CHE,Switzerland,2021-04-19,11.9
 CHE,Switzerland,2021-04-20,11.8
 CHE,Switzerland,2021-04-21,11.6
 CHE,Switzerland,2021-04-22,11.6
-CHE,Switzerland,2021-04-23,11.6
+CHE,Switzerland,2021-04-23,11.5
 CHE,Switzerland,2021-04-24,11.6
 CHE,Switzerland,2021-04-25,11.6
 CHE,Switzerland,2021-04-26,11.8
@@ -8224,9 +8259,12 @@ CHE,Switzerland,2021-08-12,10.2
 CHE,Switzerland,2021-08-13,9.5
 CHE,Switzerland,2021-08-14,9.0
 CHE,Switzerland,2021-08-15,8.7
-CHE,Switzerland,2021-08-16,8.0
+CHE,Switzerland,2021-08-16,8.1
 CHE,Switzerland,2021-08-17,7.7
 CHE,Switzerland,2021-08-18,7.6
+CHE,Switzerland,2021-08-19,7.7
+CHE,Switzerland,2021-08-20,7.8
+CHE,Switzerland,2021-08-21,7.8
 CHL,Chile,2020-04-01,14.0
 CHL,Chile,2020-04-02,11.6
 CHL,Chile,2020-04-03,9.7
@@ -8733,6 +8771,9 @@ CHL,Chile,2021-08-16,65.6
 CHL,Chile,2021-08-17,67.2
 CHL,Chile,2021-08-18,69.1
 CHL,Chile,2021-08-19,73.2
+CHL,Chile,2021-08-20,74.2
+CHL,Chile,2021-08-21,76.4
+CHL,Chile,2021-08-22,80.1
 CIV,Cote d'Ivoire,2020-04-20,9.4
 CIV,Cote d'Ivoire,2020-04-21,8.0
 CIV,Cote d'Ivoire,2020-04-22,7.4
@@ -9218,7 +9259,7 @@ CIV,Cote d'Ivoire,2021-08-14,26.3
 CIV,Cote d'Ivoire,2021-08-15,30.0
 CIV,Cote d'Ivoire,2021-08-16,24.6
 CIV,Cote d'Ivoire,2021-08-17,24.1
-CIV,Cote d'Ivoire,2021-08-18,18.9
+CIV,Cote d'Ivoire,2021-08-18,23.2
 COD,"Congo, Dem. Rep.",2020-04-19,14.4
 COD,"Congo, Dem. Rep.",2020-04-20,13.9
 COD,"Congo, Dem. Rep.",2020-04-21,11.8
@@ -10032,6 +10073,9 @@ COL,Colombia,2021-08-16,11.5
 COL,Colombia,2021-08-17,11.0
 COL,Colombia,2021-08-18,11.6
 COL,Colombia,2021-08-19,11.8
+COL,Colombia,2021-08-20,12.5
+COL,Colombia,2021-08-21,12.5
+COL,Colombia,2021-08-22,12.7
 CPV,Cabo Verde,2020-06-05,7.2
 CPV,Cabo Verde,2020-06-06,7.9
 CPV,Cabo Verde,2020-06-07,8.2
@@ -10716,6 +10760,9 @@ CRI,Costa Rica,2021-08-13,5.4
 CRI,Costa Rica,2021-08-14,5.3
 CRI,Costa Rica,2021-08-15,5.5
 CRI,Costa Rica,2021-08-16,5.6
+CRI,Costa Rica,2021-08-17,5.3
+CRI,Costa Rica,2021-08-18,5.4
+CRI,Costa Rica,2021-08-19,5.3
 CUB,Cuba,2020-03-29,14.3
 CUB,Cuba,2020-03-30,13.0
 CUB,Cuba,2020-03-31,14.7
@@ -11679,88 +11726,94 @@ CYP,Cyprus,2021-08-13,109.9
 CYP,Cyprus,2021-08-14,114.5
 CYP,Cyprus,2021-08-15,116.1
 CYP,Cyprus,2021-08-16,119.4
-CZE,Czech Republic,2020-09-01,333.3
+CYP,Cyprus,2021-08-17,126.2
+CYP,Cyprus,2021-08-18,124.9
+CYP,Cyprus,2021-08-19,122.1
+CYP,Cyprus,2021-08-20,124.9
+CYP,Cyprus,2021-08-21,128.2
+CYP,Cyprus,2021-08-22,134.1
+CZE,Czech Republic,2020-09-01,500.0
 CZE,Czech Republic,2020-09-02,333.3
 CZE,Czech Republic,2020-09-03,333.3
 CZE,Czech Republic,2020-09-04,333.3
-CZE,Czech Republic,2020-09-05,333.3
 CZE,Czech Republic,2020-09-06,500.0
 CZE,Czech Republic,2020-09-07,250.0
-CZE,Czech Republic,2020-09-08,200.0
+CZE,Czech Republic,2020-09-08,166.7
+CZE,Czech Republic,2020-09-09,333.3
 CZE,Czech Republic,2020-09-10,200.0
-CZE,Czech Republic,2020-09-12,200.0
-CZE,Czech Republic,2020-09-13,200.0
-CZE,Czech Republic,2020-09-14,125.0
-CZE,Czech Republic,2020-09-15,125.0
-CZE,Czech Republic,2020-09-18,90.9
-CZE,Czech Republic,2020-09-19,111.1
-CZE,Czech Republic,2020-09-20,90.9
-CZE,Czech Republic,2020-09-21,125.0
-CZE,Czech Republic,2020-09-22,250.0
-CZE,Czech Republic,2020-09-23,142.9
-CZE,Czech Republic,2020-09-24,62.5
+CZE,Czech Republic,2020-09-11,166.7
+CZE,Czech Republic,2020-09-12,166.7
+CZE,Czech Republic,2020-09-15,111.1
+CZE,Czech Republic,2020-09-16,90.9
+CZE,Czech Republic,2020-09-17,50.0
+CZE,Czech Republic,2020-09-18,111.1
+CZE,Czech Republic,2020-09-19,90.9
+CZE,Czech Republic,2020-09-20,55.6
+CZE,Czech Republic,2020-09-21,71.4
+CZE,Czech Republic,2020-09-22,200.0
+CZE,Czech Republic,2020-09-23,111.1
+CZE,Czech Republic,2020-09-24,41.7
 CZE,Czech Republic,2020-09-25,200.0
-CZE,Czech Republic,2020-09-26,41.7
-CZE,Czech Republic,2020-09-27,30.3
-CZE,Czech Republic,2020-09-29,58.8
-CZE,Czech Republic,2020-09-30,111.1
-CZE,Czech Republic,2020-10-01,62.5
-CZE,Czech Republic,2020-10-02,43.5
-CZE,Czech Republic,2020-10-04,40.0
-CZE,Czech Republic,2020-10-05,111.1
-CZE,Czech Republic,2020-10-06,14.7
-CZE,Czech Republic,2020-10-07,27.8
-CZE,Czech Republic,2020-10-08,13.2
-CZE,Czech Republic,2020-10-09,16.7
+CZE,Czech Republic,2020-09-26,55.6
+CZE,Czech Republic,2020-09-27,38.5
+CZE,Czech Republic,2020-09-28,37.0
+CZE,Czech Republic,2020-09-29,43.5
+CZE,Czech Republic,2020-09-30,90.9
+CZE,Czech Republic,2020-10-01,52.6
+CZE,Czech Republic,2020-10-03,17.2
+CZE,Czech Republic,2020-10-04,27.0
+CZE,Czech Republic,2020-10-05,90.9
+CZE,Czech Republic,2020-10-06,17.5
+CZE,Czech Republic,2020-10-07,21.7
+CZE,Czech Republic,2020-10-08,12.0
 CZE,Czech Republic,2020-10-10,5.9
-CZE,Czech Republic,2020-10-11,58.8
+CZE,Czech Republic,2020-10-11,47.6
 CZE,Czech Republic,2020-10-12,7.5
 CZE,Czech Republic,2020-10-13,5.9
-CZE,Czech Republic,2020-10-14,22.7
+CZE,Czech Republic,2020-10-14,18.5
 CZE,Czech Republic,2020-10-15,5.1
-CZE,Czech Republic,2020-10-16,7.7
-CZE,Czech Republic,2020-10-17,26.3
-CZE,Czech Republic,2020-10-18,31.2
+CZE,Czech Republic,2020-10-17,18.5
+CZE,Czech Republic,2020-10-18,24.4
 CZE,Czech Republic,2020-10-19,6.9
-CZE,Czech Republic,2020-10-20,10.3
-CZE,Czech Republic,2020-10-21,11.9
-CZE,Czech Republic,2020-10-22,35.7
+CZE,Czech Republic,2020-10-20,10.1
+CZE,Czech Republic,2020-10-21,8.3
+CZE,Czech Republic,2020-10-22,58.8
 CZE,Czech Republic,2020-10-23,5.0
 CZE,Czech Republic,2020-10-24,4.2
-CZE,Czech Republic,2020-10-25,14.9
+CZE,Czech Republic,2020-10-25,11.6
 CZE,Czech Republic,2020-10-26,3.9
 CZE,Czech Republic,2020-10-27,3.6
-CZE,Czech Republic,2020-10-28,18.2
+CZE,Czech Republic,2020-10-28,26.3
 CZE,Czech Republic,2020-10-29,4.7
 CZE,Czech Republic,2020-10-30,4.2
 CZE,Czech Republic,2020-10-31,4.0
-CZE,Czech Republic,2020-11-01,8.8
+CZE,Czech Republic,2020-11-01,6.8
 CZE,Czech Republic,2020-11-02,3.4
-CZE,Czech Republic,2020-11-03,33.3
+CZE,Czech Republic,2020-11-03,27.0
 CZE,Czech Republic,2020-11-04,4.0
-CZE,Czech Republic,2020-11-05,11.5
+CZE,Czech Republic,2020-11-05,15.6
 CZE,Czech Republic,2020-11-06,3.8
-CZE,Czech Republic,2020-11-07,6.8
+CZE,Czech Republic,2020-11-07,6.0
 CZE,Czech Republic,2020-11-08,3.7
-CZE,Czech Republic,2020-11-09,11.0
+CZE,Czech Republic,2020-11-09,10.3
 CZE,Czech Republic,2020-11-10,3.5
 CZE,Czech Republic,2020-11-11,6.0
 CZE,Czech Republic,2020-11-12,5.1
 CZE,Czech Republic,2020-11-13,4.3
-CZE,Czech Republic,2020-11-14,8.8
+CZE,Czech Republic,2020-11-14,12.8
 CZE,Czech Republic,2020-11-15,4.1
 CZE,Czech Republic,2020-11-16,5.6
-CZE,Czech Republic,2020-11-17,6.7
+CZE,Czech Republic,2020-11-17,8.8
 CZE,Czech Republic,2020-11-18,5.2
 CZE,Czech Republic,2020-11-19,3.7
 CZE,Czech Republic,2020-11-20,5.2
 CZE,Czech Republic,2020-11-21,5.8
-CZE,Czech Republic,2020-11-22,5.0
+CZE,Czech Republic,2020-11-22,5.6
 CZE,Czech Republic,2020-11-23,6.6
 CZE,Czech Republic,2020-11-24,4.0
 CZE,Czech Republic,2020-11-25,6.5
 CZE,Czech Republic,2020-11-26,4.2
-CZE,Czech Republic,2020-11-27,25.0
+CZE,Czech Republic,2020-11-27,19.2
 CZE,Czech Republic,2020-11-28,5.7
 CZE,Czech Republic,2020-11-29,5.3
 CZE,Czech Republic,2020-11-30,4.5
@@ -11770,8 +11823,8 @@ CZE,Czech Republic,2020-12-03,4.3
 CZE,Czech Republic,2020-12-04,5.6
 CZE,Czech Republic,2020-12-05,5.8
 CZE,Czech Republic,2020-12-06,5.5
-CZE,Czech Republic,2020-12-07,16.4
-CZE,Czech Republic,2020-12-08,9.6
+CZE,Czech Republic,2020-12-07,13.9
+CZE,Czech Republic,2020-12-08,9.9
 CZE,Czech Republic,2020-12-09,4.4
 CZE,Czech Republic,2020-12-10,6.4
 CZE,Czech Republic,2020-12-11,5.1
@@ -12026,6 +12079,9 @@ CZE,Czech Republic,2021-08-16,500.0
 CZE,Czech Republic,2021-08-17,250.0
 CZE,Czech Republic,2021-08-18,500.0
 CZE,Czech Republic,2021-08-19,500.0
+CZE,Czech Republic,2021-08-20,500.0
+CZE,Czech Republic,2021-08-21,500.0
+CZE,Czech Republic,2021-08-22,500.0
 DEU,Germany,2020-03-15,17.2
 DEU,Germany,2020-03-22,14.5
 DEU,Germany,2020-03-29,11.4
@@ -12634,7 +12690,10 @@ DNK,Denmark,2021-08-14,58.2
 DNK,Denmark,2021-08-15,57.8
 DNK,Denmark,2021-08-16,58.8
 DNK,Denmark,2021-08-17,61.8
-DNK,Denmark,2021-08-18,59.5
+DNK,Denmark,2021-08-18,63.6
+DNK,Denmark,2021-08-19,66.6
+DNK,Denmark,2021-08-20,68.9
+DNK,Denmark,2021-08-21,68.4
 DOM,Dominican Republic,2020-03-25,3.7
 DOM,Dominican Republic,2020-03-26,3.4
 DOM,Dominican Republic,2020-03-27,3.7
@@ -13145,6 +13204,9 @@ DOM,Dominican Republic,2021-08-13,17.7
 DOM,Dominican Republic,2021-08-14,18.1
 DOM,Dominican Republic,2021-08-15,20.0
 DOM,Dominican Republic,2021-08-16,18.8
+DOM,Dominican Republic,2021-08-17,19.7
+DOM,Dominican Republic,2021-08-18,20.1
+DOM,Dominican Republic,2021-08-19,18.6
 ECU,Ecuador,2020-09-14,2.5
 ECU,Ecuador,2020-09-15,2.5
 ECU,Ecuador,2020-09-16,2.5
@@ -14486,6 +14548,9 @@ EST,Estonia,2021-08-16,19.1
 EST,Estonia,2021-08-17,17.2
 EST,Estonia,2021-08-18,17.0
 EST,Estonia,2021-08-19,15.4
+EST,Estonia,2021-08-20,14.4
+EST,Estonia,2021-08-21,13.8
+EST,Estonia,2021-08-22,15.1
 ETH,Ethiopia,2020-03-20,44.6
 ETH,Ethiopia,2020-03-21,39.4
 ETH,Ethiopia,2020-03-22,27.3
@@ -15002,6 +15067,9 @@ ETH,Ethiopia,2021-08-16,8.3
 ETH,Ethiopia,2021-08-17,8.3
 ETH,Ethiopia,2021-08-18,8.3
 ETH,Ethiopia,2021-08-19,8.2
+ETH,Ethiopia,2021-08-20,8.0
+ETH,Ethiopia,2021-08-21,7.7
+ETH,Ethiopia,2021-08-22,7.5
 FIN,Finland,2020-03-05,63.0
 FIN,Finland,2020-03-06,29.1
 FIN,Finland,2020-03-07,32.1
@@ -15533,7 +15601,10 @@ FIN,Finland,2021-08-14,23.3
 FIN,Finland,2021-08-15,26.7
 FIN,Finland,2021-08-16,26.6
 FIN,Finland,2021-08-17,26.5
-FIN,Finland,2021-08-18,26.8
+FIN,Finland,2021-08-18,26.9
+FIN,Finland,2021-08-19,26.9
+FIN,Finland,2021-08-20,24.3
+FIN,Finland,2021-08-21,22.3
 FJI,Fiji,2020-03-24,29.8
 FJI,Fiji,2020-03-25,26.6
 FJI,Fiji,2020-03-26,42.0
@@ -16261,13 +16332,16 @@ FRA,France,2021-08-06,23.3
 FRA,France,2021-08-07,23.3
 FRA,France,2021-08-08,23.3
 FRA,France,2021-08-09,24.4
-FRA,France,2021-08-10,25.6
+FRA,France,2021-08-10,25.0
 FRA,France,2021-08-11,26.3
 FRA,France,2021-08-12,27.0
 FRA,France,2021-08-13,27.8
 FRA,France,2021-08-14,29.4
 FRA,France,2021-08-15,29.4
 FRA,France,2021-08-16,29.4
+FRA,France,2021-08-17,30.3
+FRA,France,2021-08-18,31.2
+FRA,France,2021-08-19,31.2
 GAB,Gabon,2021-07-20,817.2
 GAB,Gabon,2021-07-21,677.2
 GAB,Gabon,2021-07-22,269.2
@@ -16299,6 +16373,9 @@ GAB,Gabon,2021-08-16,198.7
 GAB,Gabon,2021-08-17,197.2
 GAB,Gabon,2021-08-18,216.9
 GAB,Gabon,2021-08-19,189.7
+GAB,Gabon,2021-08-20,192.1
+GAB,Gabon,2021-08-21,196.1
+GAB,Gabon,2021-08-22,200.1
 GBR,United Kingdom,2020-04-07,2.9
 GBR,United Kingdom,2020-04-08,2.9
 GBR,United Kingdom,2020-04-09,3.0
@@ -16798,6 +16875,7 @@ GBR,United Kingdom,2021-08-15,26.3
 GBR,United Kingdom,2021-08-16,25.7
 GBR,United Kingdom,2021-08-17,25.2
 GBR,United Kingdom,2021-08-18,24.6
+GBR,United Kingdom,2021-08-19,24.2
 GEO,Georgia,2021-04-09,40.3
 GEO,Georgia,2021-04-10,41.4
 GEO,Georgia,2021-04-11,39.6
@@ -17442,6 +17520,7 @@ GNQ,Equatorial Guinea,2021-08-16,115.7
 GNQ,Equatorial Guinea,2021-08-17,115.7
 GNQ,Equatorial Guinea,2021-08-18,69.9
 GNQ,Equatorial Guinea,2021-08-19,78.1
+GNQ,Equatorial Guinea,2021-08-20,52.0
 GRC,Greece,2020-03-10,15.3
 GRC,Greece,2020-03-11,13.9
 GRC,Greece,2020-03-12,18.4
@@ -18488,6 +18567,8 @@ GTM,Guatemala,2021-08-15,3.0
 GTM,Guatemala,2021-08-16,3.0
 GTM,Guatemala,2021-08-17,2.9
 GTM,Guatemala,2021-08-18,3.0
+GTM,Guatemala,2021-08-19,3.0
+GTM,Guatemala,2021-08-20,2.9
 HKG,Hong Kong SAR China,2020-02-29,333.3
 HKG,Hong Kong SAR China,2020-03-31,112.6
 HKG,Hong Kong SAR China,2020-04-30,185.9
@@ -19037,6 +19118,9 @@ HRV,Croatia,2021-08-16,27.2
 HRV,Croatia,2021-08-17,25.7
 HRV,Croatia,2021-08-18,24.8
 HRV,Croatia,2021-08-19,24.0
+HRV,Croatia,2021-08-20,23.2
+HRV,Croatia,2021-08-21,22.2
+HRV,Croatia,2021-08-22,21.8
 HUN,Hungary,2020-03-13,34.6
 HUN,Hungary,2020-03-14,26.7
 HUN,Hungary,2020-03-15,35.0
@@ -19562,6 +19646,9 @@ HUN,Hungary,2021-08-16,101.5
 HUN,Hungary,2021-08-17,99.7
 HUN,Hungary,2021-08-18,94.5
 HUN,Hungary,2021-08-19,91.6
+HUN,Hungary,2021-08-20,107.3
+HUN,Hungary,2021-08-21,105.5
+HUN,Hungary,2021-08-22,103.6
 IDN,Indonesia,2020-03-23,2.8
 IDN,Indonesia,2020-03-24,3.1
 IDN,Indonesia,2020-03-25,3.5
@@ -20076,6 +20163,8 @@ IDN,Indonesia,2021-08-15,4.6
 IDN,Indonesia,2021-08-16,4.6
 IDN,Indonesia,2021-08-17,4.6
 IDN,Indonesia,2021-08-18,4.8
+IDN,Indonesia,2021-08-19,4.7
+IDN,Indonesia,2021-08-20,4.8
 IND,India,2020-03-20,48.6
 IND,India,2020-03-21,34.5
 IND,India,2020-03-22,27.7
@@ -20593,6 +20682,10 @@ IND,India,2021-08-15,53.2
 IND,India,2021-08-16,51.6
 IND,India,2021-08-17,53.5
 IND,India,2021-08-18,54.7
+IND,India,2021-08-19,53.7
+IND,India,2021-08-20,55.9
+IND,India,2021-08-21,55.6
+IND,India,2021-08-22,56.4
 IRL,Ireland,2020-03-25,8.6
 IRL,Ireland,2020-03-26,10.5
 IRL,Ireland,2020-03-27,10.3
@@ -21106,6 +21199,7 @@ IRL,Ireland,2021-08-16,11.7
 IRL,Ireland,2021-08-17,11.8
 IRL,Ireland,2021-08-18,11.9
 IRL,Ireland,2021-08-19,11.8
+IRL,Ireland,2021-08-20,11.5
 IRN,"Iran, Islamic Rep.",2020-04-12,5.5
 IRN,"Iran, Islamic Rep.",2020-04-13,5.9
 IRN,"Iran, Islamic Rep.",2020-04-14,6.2
@@ -21601,6 +21695,9 @@ IRN,"Iran, Islamic Rep.",2021-08-16,2.6
 IRN,"Iran, Islamic Rep.",2021-08-17,2.5
 IRN,"Iran, Islamic Rep.",2021-08-18,2.5
 IRN,"Iran, Islamic Rep.",2021-08-19,2.6
+IRN,"Iran, Islamic Rep.",2021-08-20,2.7
+IRN,"Iran, Islamic Rep.",2021-08-21,2.7
+IRN,"Iran, Islamic Rep.",2021-08-22,2.8
 IRQ,Iraq,2020-04-14,68.7
 IRQ,Iraq,2020-04-15,83.2
 IRQ,Iraq,2020-04-16,93.0
@@ -22634,6 +22731,9 @@ ISR,Israel,2021-08-16,20.7
 ISR,Israel,2021-08-17,19.2
 ISR,Israel,2021-08-18,20.2
 ISR,Israel,2021-08-19,19.8
+ISR,Israel,2021-08-20,18.9
+ISR,Israel,2021-08-21,18.7
+ISR,Israel,2021-08-22,18.8
 ITA,Italy,2020-03-02,10.5
 ITA,Italy,2020-03-03,7.9
 ITA,Italy,2020-03-04,7.7
@@ -23170,6 +23270,9 @@ ITA,Italy,2021-08-16,32.1
 ITA,Italy,2021-08-17,32.3
 ITA,Italy,2021-08-18,32.0
 ITA,Italy,2021-08-19,31.8
+ITA,Italy,2021-08-20,31.8
+ITA,Italy,2021-08-21,31.6
+ITA,Italy,2021-08-22,31.8
 JAM,Jamaica,2020-03-31,15.4
 JAM,Jamaica,2020-04-01,14.0
 JAM,Jamaica,2020-04-02,13.0
@@ -23676,6 +23779,9 @@ JAM,Jamaica,2021-08-15,3.5
 JAM,Jamaica,2021-08-16,3.6
 JAM,Jamaica,2021-08-17,3.3
 JAM,Jamaica,2021-08-18,3.5
+JAM,Jamaica,2021-08-19,3.2
+JAM,Jamaica,2021-08-20,3.2
+JAM,Jamaica,2021-08-21,3.0
 JOR,Jordan,2020-11-07,4.9
 JOR,Jordan,2020-11-08,4.8
 JOR,Jordan,2020-11-09,4.6
@@ -24510,6 +24616,8 @@ JPN,Japan,2021-08-16,6.3
 JPN,Japan,2021-08-17,5.8
 JPN,Japan,2021-08-18,5.5
 JPN,Japan,2021-08-19,6.1
+JPN,Japan,2021-08-20,5.1
+JPN,Japan,2021-08-21,5.2
 KAZ,Kazakhstan,2020-03-20,88.3
 KAZ,Kazakhstan,2020-03-21,102.8
 KAZ,Kazakhstan,2020-03-22,112.7
@@ -25404,6 +25512,9 @@ KNA,St. Kitts and Nevis,2021-08-16,24.8
 KNA,St. Kitts and Nevis,2021-08-17,14.3
 KNA,St. Kitts and Nevis,2021-08-18,13.5
 KNA,St. Kitts and Nevis,2021-08-19,9.1
+KNA,St. Kitts and Nevis,2021-08-20,6.2
+KNA,St. Kitts and Nevis,2021-08-21,6.2
+KNA,St. Kitts and Nevis,2021-08-22,7.4
 KOR,"Korea, Rep.",2020-01-28,58.3
 KOR,"Korea, Rep.",2020-01-29,65.3
 KOR,"Korea, Rep.",2020-01-30,74.6
@@ -25974,6 +26085,9 @@ KOR,"Korea, Rep.",2021-08-16,14.1
 KOR,"Korea, Rep.",2021-08-17,11.1
 KOR,"Korea, Rep.",2021-08-18,12.6
 KOR,"Korea, Rep.",2021-08-19,13.3
+KOR,"Korea, Rep.",2021-08-20,15.0
+KOR,"Korea, Rep.",2021-08-21,17.5
+KOR,"Korea, Rep.",2021-08-22,18.3
 KWT,Kuwait,2020-05-20,4.5
 KWT,Kuwait,2020-05-21,4.4
 KWT,Kuwait,2020-05-22,4.3
@@ -27032,6 +27146,10 @@ LIE,Liechtenstein,2021-08-14,14.5
 LIE,Liechtenstein,2021-08-15,13.0
 LIE,Liechtenstein,2021-08-16,12.3
 LIE,Liechtenstein,2021-08-17,11.4
+LIE,Liechtenstein,2021-08-18,11.9
+LIE,Liechtenstein,2021-08-19,11.5
+LIE,Liechtenstein,2021-08-20,12.3
+LIE,Liechtenstein,2021-08-21,11.9
 LKA,Sri Lanka,2020-03-11,35.0
 LKA,Sri Lanka,2020-03-12,55.9
 LKA,Sri Lanka,2020-03-13,15.4
@@ -27559,6 +27677,9 @@ LKA,Sri Lanka,2021-08-16,3.2
 LKA,Sri Lanka,2021-08-17,2.4
 LKA,Sri Lanka,2021-08-18,2.7
 LKA,Sri Lanka,2021-08-19,2.7
+LKA,Sri Lanka,2021-08-20,2.3
+LKA,Sri Lanka,2021-08-21,2.7
+LKA,Sri Lanka,2021-08-22,3.1
 LTU,Lithuania,2020-03-26,13.9
 LTU,Lithuania,2020-03-27,16.1
 LTU,Lithuania,2020-03-28,17.9
@@ -28593,6 +28714,7 @@ LUX,Luxembourg,2021-08-15,87.8
 LUX,Luxembourg,2021-08-16,104.4
 LUX,Luxembourg,2021-08-17,87.8
 LUX,Luxembourg,2021-08-18,85.3
+LUX,Luxembourg,2021-08-19,76.7
 LVA,Latvia,2020-03-07,202.8
 LVA,Latvia,2020-03-08,108.4
 LVA,Latvia,2020-03-09,46.2
@@ -29124,6 +29246,9 @@ LVA,Latvia,2021-08-16,79.1
 LVA,Latvia,2021-08-17,77.8
 LVA,Latvia,2021-08-18,73.2
 LVA,Latvia,2021-08-19,69.9
+LVA,Latvia,2021-08-20,70.7
+LVA,Latvia,2021-08-21,66.3
+LVA,Latvia,2021-08-22,63.6
 MAR,Morocco,2020-03-07,17.5
 MAR,Morocco,2020-03-08,17.5
 MAR,Morocco,2020-03-09,35.0
@@ -29743,6 +29868,9 @@ MDA,Moldova,2021-08-16,27.8
 MDA,Moldova,2021-08-17,24.7
 MDA,Moldova,2021-08-18,21.5
 MDA,Moldova,2021-08-19,19.7
+MDA,Moldova,2021-08-20,18.4
+MDA,Moldova,2021-08-21,16.8
+MDA,Moldova,2021-08-22,16.8
 MDG,Madagascar,2020-05-05,34.7
 MDG,Madagascar,2020-05-06,26.8
 MDG,Madagascar,2020-05-07,11.4
@@ -30905,7 +31033,7 @@ MEX,Mexico,2020-09-02,2.3
 MEX,Mexico,2020-09-03,2.3
 MEX,Mexico,2020-09-04,2.4
 MEX,Mexico,2020-09-05,2.3
-MEX,Mexico,2020-09-06,2.4
+MEX,Mexico,2020-09-06,2.3
 MEX,Mexico,2020-09-07,2.4
 MEX,Mexico,2020-09-08,2.4
 MEX,Mexico,2020-09-09,2.4
@@ -31209,7 +31337,7 @@ MEX,Mexico,2021-07-03,3.4
 MEX,Mexico,2021-07-04,3.4
 MEX,Mexico,2021-07-05,3.3
 MEX,Mexico,2021-07-06,3.2
-MEX,Mexico,2021-07-07,3.1
+MEX,Mexico,2021-07-07,3.2
 MEX,Mexico,2021-07-08,3.1
 MEX,Mexico,2021-07-09,3.1
 MEX,Mexico,2021-07-10,3.0
@@ -31218,12 +31346,12 @@ MEX,Mexico,2021-07-12,3.0
 MEX,Mexico,2021-07-13,2.9
 MEX,Mexico,2021-07-14,2.9
 MEX,Mexico,2021-07-15,2.9
-MEX,Mexico,2021-07-16,2.8
-MEX,Mexico,2021-07-17,2.8
+MEX,Mexico,2021-07-16,2.9
+MEX,Mexico,2021-07-17,2.9
 MEX,Mexico,2021-07-18,2.8
 MEX,Mexico,2021-07-19,2.8
 MEX,Mexico,2021-07-20,2.8
-MEX,Mexico,2021-07-21,2.7
+MEX,Mexico,2021-07-21,2.8
 MEX,Mexico,2021-07-22,2.7
 MEX,Mexico,2021-07-23,2.7
 MEX,Mexico,2021-07-24,2.7
@@ -31234,7 +31362,7 @@ MEX,Mexico,2021-07-28,2.6
 MEX,Mexico,2021-07-29,2.6
 MEX,Mexico,2021-07-30,2.6
 MEX,Mexico,2021-07-31,2.6
-MEX,Mexico,2021-08-01,2.5
+MEX,Mexico,2021-08-01,2.6
 MEX,Mexico,2021-08-02,2.5
 MEX,Mexico,2021-08-03,2.5
 MEX,Mexico,2021-08-04,2.5
@@ -31252,6 +31380,9 @@ MEX,Mexico,2021-08-15,2.4
 MEX,Mexico,2021-08-16,2.4
 MEX,Mexico,2021-08-17,2.4
 MEX,Mexico,2021-08-18,2.4
+MEX,Mexico,2021-08-19,2.4
+MEX,Mexico,2021-08-20,2.4
+MEX,Mexico,2021-08-21,2.4
 MKD,North Macedonia,2020-04-06,8.3
 MKD,North Macedonia,2020-04-07,8.7
 MKD,North Macedonia,2020-04-08,9.3
@@ -31753,6 +31884,7 @@ MKD,North Macedonia,2021-08-16,9.2
 MKD,North Macedonia,2021-08-17,8.3
 MKD,North Macedonia,2021-08-18,8.6
 MKD,North Macedonia,2021-08-19,8.8
+MKD,North Macedonia,2021-08-20,9.1
 MLT,Malta,2020-03-12,129.5
 MLT,Malta,2020-03-13,71.8
 MLT,Malta,2020-03-14,61.1
@@ -34393,6 +34525,9 @@ MYS,Malaysia,2021-08-15,7.6
 MYS,Malaysia,2021-08-16,7.4
 MYS,Malaysia,2021-08-17,7.7
 MYS,Malaysia,2021-08-18,7.6
+MYS,Malaysia,2021-08-19,7.4
+MYS,Malaysia,2021-08-20,7.3
+MYS,Malaysia,2021-08-21,7.2
 NAM,Namibia,2020-04-08,42.0
 NAM,Namibia,2020-04-09,38.5
 NAM,Namibia,2020-04-10,38.5
@@ -35342,6 +35477,11 @@ NGA,Nigeria,2021-08-14,12.2
 NGA,Nigeria,2021-08-15,11.9
 NGA,Nigeria,2021-08-16,11.4
 NGA,Nigeria,2021-08-17,12.0
+NGA,Nigeria,2021-08-18,16.4
+NGA,Nigeria,2021-08-19,13.8
+NGA,Nigeria,2021-08-20,16.2
+NGA,Nigeria,2021-08-21,20.8
+NGA,Nigeria,2021-08-22,17.9
 NLD,Netherlands,2020-03-15,11.1
 NLD,Netherlands,2020-03-22,5.4
 NLD,Netherlands,2020-03-29,3.4
@@ -35913,7 +36053,11 @@ NOR,Norway,2021-08-13,32.1
 NOR,Norway,2021-08-14,32.2
 NOR,Norway,2021-08-15,31.4
 NOR,Norway,2021-08-16,31.0
-NOR,Norway,2021-08-17,30.4
+NOR,Norway,2021-08-17,30.6
+NOR,Norway,2021-08-18,28.7
+NOR,Norway,2021-08-19,28.5
+NOR,Norway,2021-08-20,30.5
+NOR,Norway,2021-08-21,30.4
 NPL,Nepal,2020-03-23,132.9
 NPL,Nepal,2020-03-24,111.9
 NPL,Nepal,2020-03-25,87.4
@@ -36940,6 +37084,9 @@ NZL,New Zealand,2021-08-16,1448.5
 NZL,New Zealand,2021-08-17,1105.2
 NZL,New Zealand,2021-08-18,1570.9
 NZL,New Zealand,2021-08-19,773.4
+NZL,New Zealand,2021-08-20,815.4
+NZL,New Zealand,2021-08-21,1042.5
+NZL,New Zealand,2021-08-22,1048.9
 OMN,Oman,2020-06-10,3.6
 OMN,Oman,2020-06-11,3.4
 OMN,Oman,2020-06-12,3.4
@@ -37511,6 +37658,9 @@ PAK,Pakistan,2021-08-16,13.3
 PAK,Pakistan,2021-08-17,13.8
 PAK,Pakistan,2021-08-18,13.8
 PAK,Pakistan,2021-08-19,14.4
+PAK,Pakistan,2021-08-20,15.0
+PAK,Pakistan,2021-08-21,14.8
+PAK,Pakistan,2021-08-22,14.8
 PAN,Panama,2020-03-16,16.3
 PAN,Panama,2020-03-17,16.3
 PAN,Panama,2020-03-18,16.3
@@ -39083,12 +39233,15 @@ PHL,Philippines,2021-08-09,6.1
 PHL,Philippines,2021-08-10,5.9
 PHL,Philippines,2021-08-11,5.4
 PHL,Philippines,2021-08-12,5.1
-PHL,Philippines,2021-08-13,4.9
+PHL,Philippines,2021-08-13,5.0
 PHL,Philippines,2021-08-14,4.9
-PHL,Philippines,2021-08-15,4.6
-PHL,Philippines,2021-08-16,4.4
-PHL,Philippines,2021-08-17,4.4
-PHL,Philippines,2021-08-18,4.5
+PHL,Philippines,2021-08-15,4.7
+PHL,Philippines,2021-08-16,4.5
+PHL,Philippines,2021-08-17,4.5
+PHL,Philippines,2021-08-18,4.6
+PHL,Philippines,2021-08-19,4.6
+PHL,Philippines,2021-08-20,4.5
+PHL,Philippines,2021-08-21,4.3
 PNG,Papua New Guinea,2021-02-28,11.0
 PNG,Papua New Guinea,2021-03-01,10.3
 PNG,Papua New Guinea,2021-03-02,11.8
@@ -40138,7 +40291,9 @@ PRT,Portugal,2021-08-14,24.7
 PRT,Portugal,2021-08-15,24.4
 PRT,Portugal,2021-08-16,24.5
 PRT,Portugal,2021-08-17,24.6
-PRT,Portugal,2021-08-18,24.6
+PRT,Portugal,2021-08-18,24.7
+PRT,Portugal,2021-08-19,24.7
+PRT,Portugal,2021-08-20,23.3
 PRY,Paraguay,2020-03-14,9.3
 PRY,Paraguay,2020-03-15,16.8
 PRY,Paraguay,2020-03-16,15.0
@@ -41481,6 +41636,10 @@ QAT,Qatar,2021-08-15,25.8
 QAT,Qatar,2021-08-16,25.5
 QAT,Qatar,2021-08-17,24.7
 QAT,Qatar,2021-08-18,25.6
+QAT,Qatar,2021-08-19,24.5
+QAT,Qatar,2021-08-20,25.7
+QAT,Qatar,2021-08-21,25.2
+QAT,Qatar,2021-08-22,23.4
 ROU,Romania,2020-03-19,13.4
 ROU,Romania,2020-03-20,26.2
 ROU,Romania,2020-03-21,24.5
@@ -42000,6 +42159,9 @@ ROU,Romania,2021-08-16,32.1
 ROU,Romania,2021-08-17,27.5
 ROU,Romania,2021-08-18,27.7
 ROU,Romania,2021-08-19,27.8
+ROU,Romania,2021-08-20,29.0
+ROU,Romania,2021-08-21,27.9
+ROU,Romania,2021-08-22,26.8
 RUS,Russian Federation,2020-03-11,1796.6
 RUS,Russian Federation,2020-03-12,1438.9
 RUS,Russian Federation,2020-03-13,1224.0
@@ -42527,6 +42689,9 @@ RUS,Russian Federation,2021-08-16,20.9
 RUS,Russian Federation,2021-08-17,20.8
 RUS,Russian Federation,2021-08-18,20.8
 RUS,Russian Federation,2021-08-19,20.8
+RUS,Russian Federation,2021-08-20,21.1
+RUS,Russian Federation,2021-08-21,21.4
+RUS,Russian Federation,2021-08-22,21.7
 RWA,Rwanda,2020-04-14,221.1
 RWA,Rwanda,2020-04-15,252.6
 RWA,Rwanda,2020-04-16,232.5
@@ -43020,6 +43185,9 @@ RWA,Rwanda,2021-08-16,21.2
 RWA,Rwanda,2021-08-17,22.2
 RWA,Rwanda,2021-08-18,20.9
 RWA,Rwanda,2021-08-19,20.4
+RWA,Rwanda,2021-08-20,21.2
+RWA,Rwanda,2021-08-21,21.9
+RWA,Rwanda,2021-08-22,23.9
 SAU,Saudi Arabia,2020-03-09,573.0
 SAU,Saudi Arabia,2020-03-10,602.1
 SAU,Saudi Arabia,2020-03-11,706.7
@@ -43548,6 +43716,10 @@ SAU,Saudi Arabia,2021-08-15,105.1
 SAU,Saudi Arabia,2021-08-16,77.5
 SAU,Saudi Arabia,2021-08-17,75.5
 SAU,Saudi Arabia,2021-08-18,73.4
+SAU,Saudi Arabia,2021-08-19,61.2
+SAU,Saudi Arabia,2021-08-20,174.1
+SAU,Saudi Arabia,2021-08-21,127.8
+SAU,Saudi Arabia,2021-08-22,123.9
 SEN,Senegal,2020-03-07,3.5
 SEN,Senegal,2020-03-08,5.3
 SEN,Senegal,2020-03-09,7.0
@@ -44077,6 +44249,9 @@ SEN,Senegal,2021-08-16,8.2
 SEN,Senegal,2021-08-17,8.7
 SEN,Senegal,2021-08-18,9.3
 SEN,Senegal,2021-08-19,11.3
+SEN,Senegal,2021-08-20,13.7
+SEN,Senegal,2021-08-21,14.5
+SEN,Senegal,2021-08-22,15.8
 SGP,Singapore,2020-04-14,12.5
 SGP,Singapore,2020-04-15,11.3
 SGP,Singapore,2020-04-16,9.8
@@ -45470,6 +45645,9 @@ SRB,Serbia,2021-08-16,11.0
 SRB,Serbia,2021-08-17,10.3
 SRB,Serbia,2021-08-18,9.8
 SRB,Serbia,2021-08-19,9.2
+SRB,Serbia,2021-08-20,8.8
+SRB,Serbia,2021-08-21,8.5
+SRB,Serbia,2021-08-22,8.1
 SSD,South Sudan,2020-09-03,83.3
 SSD,South Sudan,2020-09-04,99.2
 SSD,South Sudan,2020-09-05,72.5
@@ -46252,6 +46430,9 @@ SVK,Slovak Republic,2021-08-15,166.7
 SVK,Slovak Republic,2021-08-16,166.7
 SVK,Slovak Republic,2021-08-17,142.9
 SVK,Slovak Republic,2021-08-18,142.9
+SVK,Slovak Republic,2021-08-19,142.9
+SVK,Slovak Republic,2021-08-20,142.9
+SVK,Slovak Republic,2021-08-21,142.9
 SVN,Slovenia,2020-03-04,250.0
 SVN,Slovenia,2020-03-05,52.6
 SVN,Slovenia,2020-03-06,62.5
@@ -46782,7 +46963,10 @@ SVN,Slovenia,2021-08-15,8.3
 SVN,Slovenia,2021-08-16,7.9
 SVN,Slovenia,2021-08-17,7.4
 SVN,Slovenia,2021-08-18,7.0
-SVN,Slovenia,2021-08-19,6.9
+SVN,Slovenia,2021-08-19,6.8
+SVN,Slovenia,2021-08-20,6.6
+SVN,Slovenia,2021-08-21,6.3
+SVN,Slovenia,2021-08-22,6.1
 SWE,Sweden,2020-07-19,41.7
 SWE,Sweden,2020-07-20,41.8
 SWE,Sweden,2020-07-21,43.2
@@ -47725,6 +47909,10 @@ TLS,Timor-Leste,2021-08-15,7.0
 TLS,Timor-Leste,2021-08-16,5.0
 TLS,Timor-Leste,2021-08-17,5.0
 TLS,Timor-Leste,2021-08-18,5.0
+TLS,Timor-Leste,2021-08-19,4.0
+TLS,Timor-Leste,2021-08-20,3.5
+TLS,Timor-Leste,2021-08-21,3.3
+TLS,Timor-Leste,2021-08-22,3.3
 TTO,Trinidad and Tobago,2020-05-30,209.8
 TTO,Trinidad and Tobago,2020-05-31,216.8
 TTO,Trinidad and Tobago,2020-06-01,202.8
@@ -48281,6 +48469,9 @@ TUN,Tunisia,2021-08-16,5.2
 TUN,Tunisia,2021-08-17,4.8
 TUN,Tunisia,2021-08-18,4.4
 TUN,Tunisia,2021-08-19,4.6
+TUN,Tunisia,2021-08-20,4.2
+TUN,Tunisia,2021-08-21,4.3
+TUN,Tunisia,2021-08-22,4.1
 TUR,Turkey,2020-04-03,6.2
 TUR,Turkey,2020-04-04,6.4
 TUR,Turkey,2020-04-05,6.5
@@ -49208,17 +49399,17 @@ TWN,Taiwan,2021-05-29,37.2
 TWN,Taiwan,2021-05-30,38.1
 TWN,Taiwan,2021-05-31,42.2
 TWN,Taiwan,2021-06-01,46.6
-TWN,Taiwan,2021-06-02,50.2
+TWN,Taiwan,2021-06-02,50.3
 TWN,Taiwan,2021-06-03,54.3
-TWN,Taiwan,2021-06-04,56.2
-TWN,Taiwan,2021-06-05,56.8
-TWN,Taiwan,2021-06-06,57.7
-TWN,Taiwan,2021-06-07,62.8
-TWN,Taiwan,2021-06-08,65.9
+TWN,Taiwan,2021-06-04,56.3
+TWN,Taiwan,2021-06-05,56.9
+TWN,Taiwan,2021-06-06,57.8
+TWN,Taiwan,2021-06-07,62.9
+TWN,Taiwan,2021-06-08,66.0
 TWN,Taiwan,2021-06-09,74.9
 TWN,Taiwan,2021-06-10,88.7
 TWN,Taiwan,2021-06-11,100.0
-TWN,Taiwan,2021-06-12,116.3
+TWN,Taiwan,2021-06-12,116.2
 TWN,Taiwan,2021-06-13,128.9
 TWN,Taiwan,2021-06-14,120.4
 TWN,Taiwan,2021-06-15,125.1
@@ -49233,7 +49424,7 @@ TWN,Taiwan,2021-06-23,236.2
 TWN,Taiwan,2021-06-24,244.6
 TWN,Taiwan,2021-06-25,280.6
 TWN,Taiwan,2021-06-26,302.6
-TWN,Taiwan,2021-06-27,312.7
+TWN,Taiwan,2021-06-27,312.6
 TWN,Taiwan,2021-06-28,328.5
 TWN,Taiwan,2021-06-29,340.2
 TWN,Taiwan,2021-06-30,367.1
@@ -49243,7 +49434,7 @@ TWN,Taiwan,2021-07-03,434.9
 TWN,Taiwan,2021-07-04,495.2
 TWN,Taiwan,2021-07-05,524.1
 TWN,Taiwan,2021-07-06,542.5
-TWN,Taiwan,2021-07-07,556.6
+TWN,Taiwan,2021-07-07,556.5
 TWN,Taiwan,2021-07-08,591.3
 TWN,Taiwan,2021-07-09,621.5
 TWN,Taiwan,2021-07-10,739.7
@@ -49259,34 +49450,36 @@ TWN,Taiwan,2021-07-19,918.6
 TWN,Taiwan,2021-07-20,957.3
 TWN,Taiwan,2021-07-21,981.8
 TWN,Taiwan,2021-07-22,899.5
-TWN,Taiwan,2021-07-23,925.5
+TWN,Taiwan,2021-07-23,925.6
 TWN,Taiwan,2021-07-24,857.5
-TWN,Taiwan,2021-07-25,886.8
+TWN,Taiwan,2021-07-25,886.9
 TWN,Taiwan,2021-07-26,952.8
-TWN,Taiwan,2021-07-27,1001.3
-TWN,Taiwan,2021-07-28,1024.6
-TWN,Taiwan,2021-07-29,1150.7
-TWN,Taiwan,2021-07-30,1183.3
-TWN,Taiwan,2021-07-31,1320.9
-TWN,Taiwan,2021-08-01,1309.3
-TWN,Taiwan,2021-08-02,1272.9
-TWN,Taiwan,2021-08-03,1249.6
-TWN,Taiwan,2021-08-04,1235.8
-TWN,Taiwan,2021-08-05,1290.6
-TWN,Taiwan,2021-08-06,1420.9
-TWN,Taiwan,2021-08-07,1417.1
-TWN,Taiwan,2021-08-08,1515.7
-TWN,Taiwan,2021-08-09,1593.7
-TWN,Taiwan,2021-08-10,1803.2
-TWN,Taiwan,2021-08-11,1917.8
-TWN,Taiwan,2021-08-12,2062.6
-TWN,Taiwan,2021-08-13,1949.9
-TWN,Taiwan,2021-08-14,2062.1
-TWN,Taiwan,2021-08-15,2003.1
-TWN,Taiwan,2021-08-16,1942.6
-TWN,Taiwan,2021-08-17,1704.7
-TWN,Taiwan,2021-08-18,1821.7
-TWN,Taiwan,2021-08-19,1741.7
+TWN,Taiwan,2021-07-27,1001.5
+TWN,Taiwan,2021-07-28,1024.7
+TWN,Taiwan,2021-07-29,1150.8
+TWN,Taiwan,2021-07-30,1183.5
+TWN,Taiwan,2021-07-31,1321.0
+TWN,Taiwan,2021-08-01,1309.4
+TWN,Taiwan,2021-08-02,1273.1
+TWN,Taiwan,2021-08-03,1249.8
+TWN,Taiwan,2021-08-04,1236.0
+TWN,Taiwan,2021-08-05,1290.8
+TWN,Taiwan,2021-08-06,1421.1
+TWN,Taiwan,2021-08-07,1417.3
+TWN,Taiwan,2021-08-08,1515.9
+TWN,Taiwan,2021-08-09,1594.0
+TWN,Taiwan,2021-08-10,1803.5
+TWN,Taiwan,2021-08-11,1917.9
+TWN,Taiwan,2021-08-12,2062.8
+TWN,Taiwan,2021-08-13,1950.2
+TWN,Taiwan,2021-08-14,2062.4
+TWN,Taiwan,2021-08-15,2003.4
+TWN,Taiwan,2021-08-16,1943.1
+TWN,Taiwan,2021-08-17,1705.6
+TWN,Taiwan,2021-08-18,1824.9
+TWN,Taiwan,2021-08-19,1846.0
+TWN,Taiwan,2021-08-20,2011.2
+TWN,Taiwan,2021-08-21,1920.8
 UGA,Uganda,2020-04-08,224.0
 UGA,Uganda,2020-04-09,252.8
 UGA,Uganda,2020-04-10,425.8
@@ -50192,6 +50385,9 @@ UKR,Ukraine,2021-08-16,13.1
 UKR,Ukraine,2021-08-17,12.4
 UKR,Ukraine,2021-08-18,12.4
 UKR,Ukraine,2021-08-19,12.2
+UKR,Ukraine,2021-08-20,12.0
+UKR,Ukraine,2021-08-21,11.8
+UKR,Ukraine,2021-08-22,11.4
 URY,Uruguay,2020-04-04,22.0
 URY,Uruguay,2020-04-05,21.4
 URY,Uruguay,2020-04-06,20.6
@@ -50695,6 +50891,9 @@ URY,Uruguay,2021-08-16,81.8
 URY,Uruguay,2021-08-17,75.4
 URY,Uruguay,2021-08-18,69.1
 URY,Uruguay,2021-08-19,70.1
+URY,Uruguay,2021-08-20,65.5
+URY,Uruguay,2021-08-21,63.4
+URY,Uruguay,2021-08-22,75.1
 USA,United States,2020-03-08,16.9
 USA,United States,2020-03-09,18.8
 USA,United States,2020-03-10,18.4
@@ -50909,7 +51108,7 @@ USA,United States,2020-10-04,22.9
 USA,United States,2020-10-05,22.9
 USA,United States,2020-10-06,23.5
 USA,United States,2020-10-07,23.3
-USA,United States,2020-10-08,23.0
+USA,United States,2020-10-08,23.1
 USA,United States,2020-10-09,23.6
 USA,United States,2020-10-10,23.5
 USA,United States,2020-10-11,23.1
@@ -51021,7 +51220,7 @@ USA,United States,2021-01-24,9.9
 USA,United States,2021-01-25,9.7
 USA,United States,2021-01-26,10.0
 USA,United States,2021-01-27,10.2
-USA,United States,2021-01-28,10.2
+USA,United States,2021-01-28,10.3
 USA,United States,2021-01-29,10.4
 USA,United States,2021-01-30,10.6
 USA,United States,2021-01-31,10.7
@@ -51148,14 +51347,14 @@ USA,United States,2021-05-31,42.6
 USA,United States,2021-06-01,39.5
 USA,United States,2021-06-02,42.4
 USA,United States,2021-06-03,46.4
-USA,United States,2021-06-04,49.0
+USA,United States,2021-06-04,49.1
 USA,United States,2021-06-05,48.5
 USA,United States,2021-06-06,49.3
 USA,United States,2021-06-07,47.9
 USA,United States,2021-06-08,54.5
 USA,United States,2021-06-09,51.3
 USA,United States,2021-06-10,51.7
-USA,United States,2021-06-11,46.9
+USA,United States,2021-06-11,47.0
 USA,United States,2021-06-12,49.1
 USA,United States,2021-06-13,49.2
 USA,United States,2021-06-14,50.1
@@ -51172,22 +51371,22 @@ USA,United States,2021-06-24,52.7
 USA,United States,2021-06-25,50.5
 USA,United States,2021-06-26,51.2
 USA,United States,2021-06-27,51.2
-USA,United States,2021-06-28,49.3
-USA,United States,2021-06-29,48.1
+USA,United States,2021-06-28,49.4
+USA,United States,2021-06-29,48.2
 USA,United States,2021-06-30,46.8
-USA,United States,2021-07-01,45.3
+USA,United States,2021-07-01,45.4
 USA,United States,2021-07-02,41.6
-USA,United States,2021-07-03,42.2
+USA,United States,2021-07-03,42.3
 USA,United States,2021-07-04,41.5
 USA,United States,2021-07-05,43.3
 USA,United States,2021-07-06,36.4
 USA,United States,2021-07-07,33.9
 USA,United States,2021-07-08,32.9
-USA,United States,2021-07-09,28.7
-USA,United States,2021-07-10,28.1
-USA,United States,2021-07-11,28.2
+USA,United States,2021-07-09,28.8
+USA,United States,2021-07-10,28.2
+USA,United States,2021-07-11,28.3
 USA,United States,2021-07-12,24.9
-USA,United States,2021-07-13,25.4
+USA,United States,2021-07-13,25.5
 USA,United States,2021-07-14,24.1
 USA,United States,2021-07-15,23.2
 USA,United States,2021-07-16,20.2
@@ -51203,25 +51402,28 @@ USA,United States,2021-07-25,14.7
 USA,United States,2021-07-26,13.7
 USA,United States,2021-07-27,13.1
 USA,United States,2021-07-28,13.0
-USA,United States,2021-07-29,12.7
+USA,United States,2021-07-29,12.8
 USA,United States,2021-07-30,11.3
-USA,United States,2021-07-31,11.3
+USA,United States,2021-07-31,11.4
 USA,United States,2021-08-01,11.2
-USA,United States,2021-08-02,10.7
-USA,United States,2021-08-03,10.4
-USA,United States,2021-08-04,10.2
-USA,United States,2021-08-05,9.9
-USA,United States,2021-08-06,9.3
-USA,United States,2021-08-07,9.4
-USA,United States,2021-08-08,9.5
-USA,United States,2021-08-09,8.9
-USA,United States,2021-08-10,8.9
-USA,United States,2021-08-11,8.6
-USA,United States,2021-08-12,8.6
-USA,United States,2021-08-13,8.1
-USA,United States,2021-08-14,7.9
-USA,United States,2021-08-15,7.6
-USA,United States,2021-08-16,6.6
+USA,United States,2021-08-02,10.8
+USA,United States,2021-08-03,10.5
+USA,United States,2021-08-04,10.4
+USA,United States,2021-08-05,10.3
+USA,United States,2021-08-06,9.8
+USA,United States,2021-08-07,9.9
+USA,United States,2021-08-08,10.1
+USA,United States,2021-08-09,9.6
+USA,United States,2021-08-10,9.7
+USA,United States,2021-08-11,9.4
+USA,United States,2021-08-12,9.5
+USA,United States,2021-08-13,9.2
+USA,United States,2021-08-14,9.2
+USA,United States,2021-08-15,9.0
+USA,United States,2021-08-16,8.4
+USA,United States,2021-08-17,7.8
+USA,United States,2021-08-18,7.2
+USA,United States,2021-08-19,6.2
 VNM,Vietnam,2020-03-07,248.3
 VNM,Vietnam,2020-03-08,63.0
 VNM,Vietnam,2020-03-09,89.0
@@ -51984,6 +52186,21 @@ ZAF,South Africa,2021-07-27,3.9
 ZAF,South Africa,2021-07-28,4.0
 ZAF,South Africa,2021-07-29,4.1
 ZAF,South Africa,2021-07-30,4.2
+ZAF,South Africa,2021-07-31,3.8
+ZAF,South Africa,2021-08-01,4.0
+ZAF,South Africa,2021-08-02,4.4
+ZAF,South Africa,2021-08-03,4.5
+ZAF,South Africa,2021-08-04,4.4
+ZAF,South Africa,2021-08-05,4.4
+ZAF,South Africa,2021-08-06,4.3
+ZAF,South Africa,2021-08-07,4.7
+ZAF,South Africa,2021-08-08,4.6
+ZAF,South Africa,2021-08-09,4.5
+ZAF,South Africa,2021-08-10,4.6
+ZAF,South Africa,2021-08-11,5.0
+ZAF,South Africa,2021-08-12,4.9
+ZAF,South Africa,2021-08-13,4.8
+ZAF,South Africa,2021-08-14,4.8
 ZMB,Zambia,2020-03-26,11.5
 ZMB,Zambia,2020-03-27,10.5
 ZMB,Zambia,2020-03-28,10.8
@@ -52492,6 +52709,8 @@ ZMB,Zambia,2021-08-16,16.5
 ZMB,Zambia,2021-08-17,17.9
 ZMB,Zambia,2021-08-18,18.6
 ZMB,Zambia,2021-08-19,18.6
+ZMB,Zambia,2021-08-20,18.4
+ZMB,Zambia,2021-08-21,18.9
 ZWE,Zimbabwe,2020-05-13,1125.9
 ZWE,Zimbabwe,2020-05-14,1051.3
 ZWE,Zimbabwe,2020-05-15,332.5
