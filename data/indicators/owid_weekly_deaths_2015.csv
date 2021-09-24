@@ -59,6 +59,18 @@ ARM,Armenia,2020-09-30,1949.0
 ARM,Armenia,2020-10-31,2101.0
 ARM,Armenia,2020-11-30,2349.0
 ARM,Armenia,2020-12-31,2485.0
+ATG,Antigua and Barbuda,2020-01-31,109.0
+ATG,Antigua and Barbuda,2020-02-29,84.0
+ATG,Antigua and Barbuda,2020-03-31,91.0
+ATG,Antigua and Barbuda,2020-04-30,81.0
+ATG,Antigua and Barbuda,2020-05-31,75.0
+ATG,Antigua and Barbuda,2020-06-30,87.0
+ATG,Antigua and Barbuda,2020-07-31,96.0
+ATG,Antigua and Barbuda,2020-08-31,97.0
+ATG,Antigua and Barbuda,2020-09-30,98.0
+ATG,Antigua and Barbuda,2020-10-31,112.0
+ATG,Antigua and Barbuda,2020-11-30,94.0
+ATG,Antigua and Barbuda,2020-12-31,135.0
 AUS,Australia,2020-01-05,2513.0
 AUS,Australia,2020-01-12,2369.0
 AUS,Australia,2020-01-19,2368.0
@@ -1383,6 +1395,46 @@ IRL,Ireland,2020-09-30,2333.0
 IRL,Ireland,2020-10-31,2527.0
 IRL,Ireland,2020-11-30,2314.0
 IRL,Ireland,2020-12-31,2651.0
+IRN,"Iran, Islamic Rep.",2020-03-29,4848.9
+IRN,"Iran, Islamic Rep.",2020-04-05,7176.3
+IRN,"Iran, Islamic Rep.",2020-04-12,8076.9
+IRN,"Iran, Islamic Rep.",2020-04-19,7192.3
+IRN,"Iran, Islamic Rep.",2020-04-26,6961.6
+IRN,"Iran, Islamic Rep.",2020-05-03,6644.1
+IRN,"Iran, Islamic Rep.",2020-05-10,6256.9
+IRN,"Iran, Islamic Rep.",2020-05-17,6337.6
+IRN,"Iran, Islamic Rep.",2020-05-24,6200.7
+IRN,"Iran, Islamic Rep.",2020-05-31,6269.1
+IRN,"Iran, Islamic Rep.",2020-06-07,5743.1
+IRN,"Iran, Islamic Rep.",2020-06-14,6892.3
+IRN,"Iran, Islamic Rep.",2020-06-21,6732.7
+IRN,"Iran, Islamic Rep.",2020-06-28,6826.9
+IRN,"Iran, Islamic Rep.",2020-07-05,6254.4
+IRN,"Iran, Islamic Rep.",2020-07-12,6079.0
+IRN,"Iran, Islamic Rep.",2020-07-19,6457.1
+IRN,"Iran, Islamic Rep.",2020-07-26,6025.9
+IRN,"Iran, Islamic Rep.",2020-08-02,7007.3
+IRN,"Iran, Islamic Rep.",2020-08-09,6611.9
+IRN,"Iran, Islamic Rep.",2020-08-16,6279.0
+IRN,"Iran, Islamic Rep.",2020-08-23,7027.7
+IRN,"Iran, Islamic Rep.",2020-08-30,6563.3
+IRN,"Iran, Islamic Rep.",2020-09-06,6529.4
+IRN,"Iran, Islamic Rep.",2020-09-13,6517.3
+IRN,"Iran, Islamic Rep.",2020-09-20,6133.7
+IRN,"Iran, Islamic Rep.",2020-09-27,6078.3
+IRN,"Iran, Islamic Rep.",2020-10-04,7083.4
+IRN,"Iran, Islamic Rep.",2020-10-11,6747.9
+IRN,"Iran, Islamic Rep.",2020-10-18,6352.9
+IRN,"Iran, Islamic Rep.",2020-10-25,6398.3
+IRN,"Iran, Islamic Rep.",2020-11-01,6696.0
+IRN,"Iran, Islamic Rep.",2020-11-08,7071.3
+IRN,"Iran, Islamic Rep.",2020-11-15,6789.0
+IRN,"Iran, Islamic Rep.",2020-11-22,6972.6
+IRN,"Iran, Islamic Rep.",2020-11-29,6875.6
+IRN,"Iran, Islamic Rep.",2020-12-06,6458.9
+IRN,"Iran, Islamic Rep.",2020-12-13,7337.6
+IRN,"Iran, Islamic Rep.",2020-12-20,7888.3
+IRN,"Iran, Islamic Rep.",2020-12-27,8381.4
 ISL,Iceland,2020-01-05,49.0
 ISL,Iceland,2020-01-12,42.0
 ISL,Iceland,2020-01-19,44.0
@@ -2419,6 +2471,58 @@ POL,Poland,2020-12-06,7588.0
 POL,Poland,2020-12-13,7563.0
 POL,Poland,2020-12-20,7472.0
 POL,Poland,2020-12-27,7604.0
+PRI,Puerto Rico,2020-01-05,637.0
+PRI,Puerto Rico,2020-01-12,633.0
+PRI,Puerto Rico,2020-01-19,620.0
+PRI,Puerto Rico,2020-01-26,537.0
+PRI,Puerto Rico,2020-02-02,605.0
+PRI,Puerto Rico,2020-02-09,594.0
+PRI,Puerto Rico,2020-02-16,579.0
+PRI,Puerto Rico,2020-02-23,595.0
+PRI,Puerto Rico,2020-03-01,576.0
+PRI,Puerto Rico,2020-03-08,520.0
+PRI,Puerto Rico,2020-03-15,558.0
+PRI,Puerto Rico,2020-03-22,504.0
+PRI,Puerto Rico,2020-03-29,553.0
+PRI,Puerto Rico,2020-04-05,508.0
+PRI,Puerto Rico,2020-04-12,547.0
+PRI,Puerto Rico,2020-04-19,501.0
+PRI,Puerto Rico,2020-04-26,530.0
+PRI,Puerto Rico,2020-05-03,560.0
+PRI,Puerto Rico,2020-05-10,517.0
+PRI,Puerto Rico,2020-05-17,506.0
+PRI,Puerto Rico,2020-05-24,507.0
+PRI,Puerto Rico,2020-05-31,508.0
+PRI,Puerto Rico,2020-06-07,473.0
+PRI,Puerto Rico,2020-06-14,510.0
+PRI,Puerto Rico,2020-06-21,526.0
+PRI,Puerto Rico,2020-06-28,504.0
+PRI,Puerto Rico,2020-07-05,521.0
+PRI,Puerto Rico,2020-07-12,530.0
+PRI,Puerto Rico,2020-07-19,545.0
+PRI,Puerto Rico,2020-07-26,503.0
+PRI,Puerto Rico,2020-08-02,504.0
+PRI,Puerto Rico,2020-08-09,527.0
+PRI,Puerto Rico,2020-08-16,531.0
+PRI,Puerto Rico,2020-08-23,498.0
+PRI,Puerto Rico,2020-08-30,480.0
+PRI,Puerto Rico,2020-09-06,560.0
+PRI,Puerto Rico,2020-09-13,521.0
+PRI,Puerto Rico,2020-09-20,488.0
+PRI,Puerto Rico,2020-09-27,546.0
+PRI,Puerto Rico,2020-10-04,551.0
+PRI,Puerto Rico,2020-10-11,541.0
+PRI,Puerto Rico,2020-10-18,539.0
+PRI,Puerto Rico,2020-10-25,503.0
+PRI,Puerto Rico,2020-11-01,484.0
+PRI,Puerto Rico,2020-11-08,507.0
+PRI,Puerto Rico,2020-11-15,515.0
+PRI,Puerto Rico,2020-11-22,595.0
+PRI,Puerto Rico,2020-11-29,543.0
+PRI,Puerto Rico,2020-12-06,544.0
+PRI,Puerto Rico,2020-12-13,582.0
+PRI,Puerto Rico,2020-12-20,580.0
+PRI,Puerto Rico,2020-12-27,574.0
 PRT,Portugal,2020-01-05,2813.0
 PRT,Portugal,2020-01-12,3054.0
 PRT,Portugal,2020-01-19,3167.0
@@ -2903,58 +3007,18 @@ TUN,Tunisia,2020-12-06,1237.0
 TUN,Tunisia,2020-12-13,1270.0
 TUN,Tunisia,2020-12-20,1263.0
 TUN,Tunisia,2020-12-27,1358.0
-TWN,Taiwan,2020-01-05,3356.0
-TWN,Taiwan,2020-01-12,3368.0
-TWN,Taiwan,2020-01-19,3412.0
-TWN,Taiwan,2020-01-26,3316.0
-TWN,Taiwan,2020-02-02,3254.0
-TWN,Taiwan,2020-02-09,3278.0
-TWN,Taiwan,2020-02-16,3502.0
-TWN,Taiwan,2020-02-23,3449.0
-TWN,Taiwan,2020-03-01,3313.0
-TWN,Taiwan,2020-03-08,3272.0
-TWN,Taiwan,2020-03-15,3249.0
-TWN,Taiwan,2020-03-22,3379.0
-TWN,Taiwan,2020-03-29,3254.0
-TWN,Taiwan,2020-04-05,3276.0
-TWN,Taiwan,2020-04-12,3281.0
-TWN,Taiwan,2020-04-19,3294.0
-TWN,Taiwan,2020-04-26,3116.0
-TWN,Taiwan,2020-05-03,3040.0
-TWN,Taiwan,2020-05-10,3016.0
-TWN,Taiwan,2020-05-17,3123.0
-TWN,Taiwan,2020-05-24,2919.0
-TWN,Taiwan,2020-05-31,3006.0
-TWN,Taiwan,2020-06-07,2938.0
-TWN,Taiwan,2020-06-14,3142.0
-TWN,Taiwan,2020-06-21,3379.0
-TWN,Taiwan,2020-06-28,3194.0
-TWN,Taiwan,2020-07-05,3254.0
-TWN,Taiwan,2020-07-12,3109.0
-TWN,Taiwan,2020-07-19,3035.0
-TWN,Taiwan,2020-07-26,3091.0
-TWN,Taiwan,2020-08-02,2993.0
-TWN,Taiwan,2020-08-09,2988.0
-TWN,Taiwan,2020-08-16,2912.0
-TWN,Taiwan,2020-08-23,2981.0
-TWN,Taiwan,2020-08-30,2891.0
-TWN,Taiwan,2020-09-06,2981.0
-TWN,Taiwan,2020-09-13,3028.0
-TWN,Taiwan,2020-09-20,3076.0
-TWN,Taiwan,2020-09-27,3149.0
-TWN,Taiwan,2020-10-04,3045.0
-TWN,Taiwan,2020-10-11,3024.0
-TWN,Taiwan,2020-10-18,3020.0
-TWN,Taiwan,2020-10-25,3087.0
-TWN,Taiwan,2020-11-01,3019.0
-TWN,Taiwan,2020-11-08,3024.0
-TWN,Taiwan,2020-11-15,2953.0
-TWN,Taiwan,2020-11-22,3038.0
-TWN,Taiwan,2020-11-29,3018.0
-TWN,Taiwan,2020-12-06,3152.0
-TWN,Taiwan,2020-12-13,3164.0
-TWN,Taiwan,2020-12-20,3345.0
-TWN,Taiwan,2020-12-27,3300.0
+TWN,Taiwan,2020-01-31,14310.0
+TWN,Taiwan,2020-02-29,12122.0
+TWN,Taiwan,2020-03-31,16092.0
+TWN,Taiwan,2020-04-30,14002.0
+TWN,Taiwan,2020-05-31,12802.0
+TWN,Taiwan,2020-06-30,13712.0
+TWN,Taiwan,2020-07-31,14475.0
+TWN,Taiwan,2020-08-31,12586.0
+TWN,Taiwan,2020-09-30,12527.0
+TWN,Taiwan,2020-10-31,13794.0
+TWN,Taiwan,2020-11-30,13010.0
+TWN,Taiwan,2020-12-31,14426.0
 UKR,Ukraine,2020-01-31,55287.0
 UKR,Ukraine,2020-02-29,50428.0
 UKR,Ukraine,2020-03-31,57059.0
