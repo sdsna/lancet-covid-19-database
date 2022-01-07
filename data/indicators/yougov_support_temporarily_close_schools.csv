@@ -159,7 +159,6 @@ ESP,Spain,2021-10-14,6.0
 ESP,Spain,2021-10-21,5.0
 ESP,Spain,2021-10-28,6.0
 ESP,Spain,2021-11-11,7.0
-ESP,Spain,2021-11-25,8.0
 FRA,France,2020-03-10,26.0
 FRA,France,2020-03-13,49.0
 FRA,France,2020-03-20,81.0
@@ -282,6 +281,8 @@ GBR,United Kingdom,2021-10-15,10.0
 GBR,United Kingdom,2021-10-24,11.0
 GBR,United Kingdom,2021-11-10,10.0
 GBR,United Kingdom,2021-11-24,9.0
+GBR,United Kingdom,2021-12-03,12.0
+GBR,United Kingdom,2021-12-17,21.0
 HKG,Hong Kong SAR China,2020-02-25,40.0
 HKG,Hong Kong SAR China,2020-04-07,67.0
 HKG,Hong Kong SAR China,2020-04-14,66.0
@@ -638,7 +639,6 @@ THA,Thailand,2021-09-14,52.0
 THA,Thailand,2021-09-23,50.0
 THA,Thailand,2021-10-07,48.0
 THA,Thailand,2021-10-25,39.0
-THA,Thailand,2021-11-04,24.0
 THA,Thailand,2021-11-18,40.0
 TWN,Taiwan,2020-02-25,43.0
 TWN,Taiwan,2020-04-07,36.0
@@ -759,9 +759,10 @@ USA,United States,2021-09-21,20.0
 USA,United States,2021-09-29,16.0
 USA,United States,2021-10-05,14.0
 USA,United States,2021-10-13,13.0
-USA,United States,2021-10-16,13.0
 USA,United States,2021-10-20,10.0
 USA,United States,2021-11-10,12.0
+USA,United States,2021-11-16,13.0
+USA,United States,2021-11-23,12.0
 VNM,Vietnam,2020-04-06,80.0
 VNM,Vietnam,2020-04-13,80.0
 VNM,Vietnam,2020-04-20,78.0

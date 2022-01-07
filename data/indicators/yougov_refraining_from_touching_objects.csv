@@ -48,6 +48,7 @@ ARE,United Arab Emirates,2021-10-04,51.0
 ARE,United Arab Emirates,2021-10-11,50.0
 ARE,United Arab Emirates,2021-10-25,44.0
 ARE,United Arab Emirates,2021-11-09,43.0
+ARE,United Arab Emirates,2021-12-20,45.0
 AUS,Australia,2020-03-15,37.0
 AUS,Australia,2020-03-22,53.0
 AUS,Australia,2020-03-29,67.0
@@ -261,7 +262,6 @@ ESP,Spain,2021-10-14,36.0
 ESP,Spain,2021-10-21,40.0
 ESP,Spain,2021-10-28,36.0
 ESP,Spain,2021-11-11,37.0
-ESP,Spain,2021-11-25,37.0
 FIN,Finland,2020-03-16,35.0
 FIN,Finland,2020-03-23,37.0
 FIN,Finland,2020-03-29,56.0
@@ -417,6 +417,8 @@ GBR,United Kingdom,2021-10-15,27.0
 GBR,United Kingdom,2021-10-24,26.0
 GBR,United Kingdom,2021-11-10,29.0
 GBR,United Kingdom,2021-11-24,29.0
+GBR,United Kingdom,2021-12-03,26.0
+GBR,United Kingdom,2021-12-17,28.0
 HKG,Hong Kong SAR China,2020-02-25,63.0
 HKG,Hong Kong SAR China,2020-03-03,65.0
 HKG,Hong Kong SAR China,2020-03-10,63.0
@@ -979,7 +981,6 @@ THA,Thailand,2021-09-14,69.0
 THA,Thailand,2021-09-23,70.0
 THA,Thailand,2021-10-07,69.0
 THA,Thailand,2021-10-25,61.0
-THA,Thailand,2021-11-04,28.0
 THA,Thailand,2021-11-18,62.0
 TWN,Taiwan,2020-02-25,49.0
 TWN,Taiwan,2020-03-03,54.0
@@ -1097,9 +1098,10 @@ USA,United States,2021-09-21,31.0
 USA,United States,2021-09-29,31.0
 USA,United States,2021-10-05,32.0
 USA,United States,2021-10-13,32.0
-USA,United States,2021-10-16,32.0
 USA,United States,2021-10-20,26.0
 USA,United States,2021-11-10,33.0
+USA,United States,2021-11-16,32.0
+USA,United States,2021-11-23,30.0
 VNM,Vietnam,2020-03-23,40.0
 VNM,Vietnam,2020-03-30,64.0
 VNM,Vietnam,2020-04-06,69.0
