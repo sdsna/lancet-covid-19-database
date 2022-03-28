@@ -1,3 +1,7 @@
+# ⚠ Archive Notice ⚠
+
+The COVID-19 Data Portal of the Lancet COVID-19 Commission has been archived. It is now read-only. The data is no longer being updated and the indicator set is no longer being maintained. On our [indicators page](https://data.covid19commission.org/indicators), you will find references and links to the source data sets which will allow you to check for data updates directly with the data providers.
+
 # Lancet Data Extractions
 
 ## Data
@@ -14,7 +18,7 @@ The extraction code is written in Python.
 
 You will need `git`, `python`, and `pipenv`.
 
-1. [Download and install `git`](https://git-scm.com/downloads)  
+1. [Download and install `git`](https://git-scm.com/downloads)
 1. Download and install `python`: [Windows](https://docs.python-guide.org/starting/install3/win/#install3-windows), [Mac OS X](https://docs.python-guide.org/starting/install3/osx/#install3-osx), [Linux](https://docs.python-guide.org/starting/install3/linux/#install3-linux)
 1. Once you have `python`, you will need to install `pipenv`. In the terminal, run: `pip install pipenv`
 
@@ -154,7 +158,7 @@ This error occurs when python tries to update an indicator or the overall databa
 
 To solve this issue, simply close all open files in Excel (or any other program you might use to open the database). Now, updating the datasets will succeed.
 
-*Tip: You can see which file triggered the problem by looking at the line right above the error. In the case above, the error occurred just after it said `Rebuilding database...`, so we know that `database.csv` is open somewhere on the computer.*
+_Tip: You can see which file triggered the problem by looking at the line right above the error. In the case above, the error occurred just after it said `Rebuilding database...`, so we know that `database.csv` is open somewhere on the computer._
 
 #### Other errors when updating the data
 
